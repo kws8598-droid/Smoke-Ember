@@ -11,4 +11,4 @@ export const recipes = [
     category: "Pork",
     summary: "A competition pork injection designed to stay juicy through the cook.",
   },
-];];];
+];
