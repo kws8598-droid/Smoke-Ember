@@ -1,0 +1,23 @@
+{
+  "name": "smoke-ember",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Smoke Ember — competition BBQ recipes, mops, injections, and fire-side tips.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Smoke Ember">
+  <rect width="128" height="128" fill="#100c09"/>
+  <path d="M64 18c8 14 6 24 0 34" fill="none" stroke="#f3ebe2" stroke-width="2.2" stroke-linecap="round" opacity="0.55"/>
+  <path d="M70 16c-2 12 6 18 3 30" fill="none" stroke="#f3ebe2" stroke-width="1.4" stroke-linecap="round" opacity="0.35"/>
+  <defs>
+    <radialGradient id="g" cx="45%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#ffb067"/>
+      <stop offset="35%" stop-color="#c45c26"/>
+      <stop offset="100%" stop-color="#3a1a0d"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#g)" d="M38 58c8-16 22-22 34-16 14 7 22 8 26 22 4 16-4 34-20 40-14 6-30 2-40-10-10-13-10-24 0-36z"/>
+  <path fill="#1a1410" opacity="0.55" d="M52 62l8 18-16 8 4-16zM78 70l10 6-2 14-12-8zM64 80l14 10-18 8z"/>
+  <path fill="#ffcf8a" opacity="0.8" d="M60 72l6 4-3 8-5-6z"/>
+</svg>
