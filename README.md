@@ -1,17 +1,29 @@
-# Smoke and Ember
+# Smoke Ember
 
-Regional American barbecue — 113 recipes, 10 fire-school notes, sides, desserts, rubs, and sauces.
+Pull up a chair. Regional barbecue, pitmaster sides, house bottles, and fire-school notes.
 
-The pit book from [the original Smoke and Ember cook](https://plum-honey-silver-wave.grok.me/), published as a Next.js app.
+This repository is the original Smoke and Ember book:
 
-```bash
+- Complete original recipes (ingredients + steps, not generic templates)
+- Original photographs in `/public/images` (the app does not depend on grok.me)
+- Search, protein, region, and time filters
+- Saved recipes and cook timers (stored on the device)
+- Mobile-friendly layout
+
+## Run
+
+```
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+## Update recipes later
 
-- Filter cooks by time and protein
-- Full ingredients, steps, and pitmaster tips
-- Cook timer + saved recipes (browser local)
-- Photography served from the original asset host
+You own this repository. Edit:
+
+- `data/recipes-part-0.json`
+- `data/recipes-part-1.json`
+- `data/recipes-part-2.json`
+- `data/wisdom.json`
+
+Then push to `main`. Vercel rebuilds from GitHub.

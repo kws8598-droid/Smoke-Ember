@@ -1,3 +1,1 @@
-export const brand = {
-  tagline: "Light the coal. Hold the smoke.",
-};
+export const brand = { name: "Smoke Ember", tagline: "Pull up a chair." };
