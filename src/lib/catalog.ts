@@ -14,6 +14,7 @@ const play: Record<string, Pick<Recipe, "fire" | "wood" | "time" | "yield" | "in
   Mutton: { fire: "250-275F", wood: "Hickory or oak", time: "8-10 hours", yield: "1 shoulder", ingredients: ["Goat or mutton", "Salt", "Pepper"], method: ["Season.", "Smoke and mop.", "Slice or pull."] },
   Sides: { fire: "Pit or stovetop", wood: "Whatever is burning", time: "20-90 minutes", yield: "1 pan", ingredients: ["The named ingredients", "Salt"], method: ["Cook until it can sit next to fat meat."] },
   Sauces: { fire: "None or a short simmer", wood: "None", time: "10-30 minutes", yield: "About 2 cups", ingredients: ["Acid", "Fat or tomato", "Salt", "Heat"], method: ["Whisk or reduce until balanced."] },
+  Desserts: { fire: "375F oven or skillet on the pit", wood: "None, or a short pecan kiss", time: "30-70 minutes", yield: "1 pan or pie", ingredients: ["Fruit or pecans", "Sugar", "Butter", "A starch or crust"], method: ["Build the dessert.", "Bake until set and browned.", "Cool before a clean slice."] },
 };
 
 const added: Recipe[] = moreRecipes.map(([title, category, summary, note]) => {
