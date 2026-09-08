@@ -70,6 +70,32 @@ footer { border-top: 1px solid rgba(243, 235, 226, 0.1); padding: 1.5rem 0 2.5re
 .back { margin: 2rem 0 0; }
 .back a { color: #c45c26; }
 
+.filters { margin: 1.5rem 0 0.5rem; display: grid; gap: 0.85rem; }
+.search {
+  width: 100%;
+  background: #1a1410;
+  color: #f3ebe2;
+  border: 1px solid rgba(243, 235, 226, 0.16);
+  border-radius: 14px;
+  padding: 0.85rem 1rem;
+  font: inherit;
+}
+.search:focus { outline: 2px solid #c45c26; border-color: #c45c26; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.chip {
+  background: #1a1410;
+  color: #f3ebe2;
+  border: 1px solid rgba(243, 235, 226, 0.16);
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font: inherit;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+.chip.on, .chip:hover { border-color: #c45c26; color: #c45c26; }
+.home-chips { margin-top: 1.5rem; }
+.count { color: rgba(243, 235, 226, 0.55); font-size: 0.9rem; }
+
 .card { padding: 0 0 1.25rem; overflow: hidden; }
 .card .meta, .card h2, .card p { padding-left: 1.25rem; padding-right: 1.25rem; }
 .card .meta { padding-top: 0.95rem; }
