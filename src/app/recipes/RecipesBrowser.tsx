@@ -71,7 +71,7 @@ export default function RecipesBrowser({ recipes }: { recipes: Recipe[] }) {
           <div className="grid">
             {items.map((recipe) => (
               <Link className="card" key={recipe.slug} href={`/recipes/${recipe.slug}`}>
-                <img className="card-photo" src={`/food/${recipe.slug}?v=2`} alt={recipe.title} />
+                <img className="card-photo" src={`/food/${recipe.slug}?v=3`} alt={recipe.title} />
                 <p className="meta">{recipe.category}</p>
                 <h2>{recipe.title}</h2>
                 <p>{recipe.summary}</p>
