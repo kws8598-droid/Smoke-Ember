@@ -69,3 +69,22 @@ footer { border-top: 1px solid rgba(243, 235, 226, 0.1); padding: 1.5rem 0 2.5re
 .steps li { padding-left: 0.2rem; }
 .back { margin: 2rem 0 0; }
 .back a { color: #c45c26; }
+
+.card { padding: 0 0 1.25rem; overflow: hidden; }
+.card .meta, .card h2, .card p { padding-left: 1.25rem; padding-right: 1.25rem; }
+.card .meta { padding-top: 0.95rem; }
+.card-photo, .hero-photo {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+.card-photo {
+  height: 180px;
+  background: #100c09;
+}
+.hero-photo {
+  height: min(420px, 56vw);
+  border-radius: 18px;
+  margin: 1.25rem 0 0;
+  border: 1px solid rgba(243, 235, 226, 0.1);
+}

@@ -13,7 +13,12 @@ export async function generateMetadata({
 }) {
   const { slug } = await params;
   const recipe = getRecipe(slug);
-  return { title: recipe?.title ?? "Recipe" };
+  return {
+    title: recipe?.title ?? "Recipe",
+    openGraph: recipe
+      ? { images: [{ url: `/food/${recipe.slug}.jpg`, alt: recipe.title }] }
+      : undefined,
+  };
 }
 
 export default async function RecipePage({
@@ -34,6 +39,7 @@ export default async function RecipePage({
       <p className="kicker">{recipe.category}</p>
       <h1>{recipe.title}</h1>
       <p className="lede">{recipe.summary}</p>
+      <img className="hero-photo" src={`/food/${recipe.slug}.jpg`} alt={recipe.title} />
 
       <dl className="specs">
         <div><dt>Fire</dt><dd>{recipe.fire}</dd></div>
@@ -73,6 +79,7 @@ export default async function RecipePage({
           <div className="grid">
             {related.map((item) => (
               <Link className="card" key={item.slug} href={`/recipes/${item.slug}`}>
+                <img className="card-photo" src={`/food/${item.slug}.jpg`} alt={item.title} />
                 <p className="meta">{item.category}</p>
                 <h2>{item.title}</h2>
                 <p>{item.summary}</p>

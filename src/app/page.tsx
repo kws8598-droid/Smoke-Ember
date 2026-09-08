@@ -3,7 +3,7 @@ import { recipes } from "@/lib/recipes";
 import { brand } from "@/lib/brand";
 
 const featured = recipes
-  .filter((recipe) => ["Beef", "Pork", "Poultry", "Sauces"].includes(recipe.category))
+  .filter((recipe) => ["Beef", "Pork", "Poultry"].includes(recipe.category))
   .slice(0, 8);
 
 export default function HomePage() {
@@ -19,6 +19,7 @@ export default function HomePage() {
       <section className="grid">
         {featured.map((recipe) => (
           <Link className="card" key={recipe.slug} href={`/recipes/${recipe.slug}`}>
+            <img className="card-photo" src={`/food/${recipe.slug}.jpg`} alt={recipe.title} />
             <p className="meta">{recipe.category}</p>
             <h2>{recipe.title}</h2>
             <p>{recipe.summary}</p>
