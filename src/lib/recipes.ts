@@ -1,12 +1,11 @@
-import book0 from "@/data/recipe-book-0.json";
-import book1 from "@/data/recipe-book-1.json";
-import book2 from "@/data/recipe-book-2.json";
+import book from "@/data/recipe-book.json";
 
 export type Recipe = {
   title: string;
   category: string;
   protein: string;
   slug: string;
+  image: string;
   summary: string;
   fire: string;
   wood: string;
@@ -34,11 +33,15 @@ type Seed = {
   note: string;
 };
 
-export const recipes: Recipe[] = ([...book0, ...book1, ...book2] as Seed[]).map((entry) => ({
-  ...entry,
-  protein: entry.category,
-  slug: slugify(entry.title),
-}));
+export const recipes: Recipe[] = (book as Seed[]).map((entry) => {
+  const slug = slugify(entry.title);
+  return {
+    ...entry,
+    protein: entry.category,
+    slug,
+    image: `/food/${slug}?v=6`,
+  };
+});
 
 export function getRecipe(slug: string) {
   return recipes.find((recipe) => recipe.slug === slug);
