@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getRecipe, recipes } from "@/lib/recipes";
+import { getRecipe, recipes } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return recipes.map((recipe) => ({ slug: recipe.slug }));
@@ -15,9 +15,6 @@ export async function generateMetadata({
   const recipe = getRecipe(slug);
   return {
     title: recipe?.title ?? "Recipe",
-    openGraph: recipe
-      ? { images: [{ url: `/food/${recipe.slug}`, alt: recipe.title }] }
-      : undefined,
   };
 }
 

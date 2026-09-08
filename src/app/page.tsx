@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { recipes } from "@/lib/recipes";
+import { recipes } from "@/lib/catalog";
 import { brand } from "@/lib/brand";
 
 const featured = recipes

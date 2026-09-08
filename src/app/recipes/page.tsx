@@ -1,4 +1,4 @@
-import { recipes } from "@/lib/recipes";
+import { recipes } from "@/lib/catalog";
 import RecipesBrowser from "./RecipesBrowser";
 
 export const metadata = { title: "Recipes" };
