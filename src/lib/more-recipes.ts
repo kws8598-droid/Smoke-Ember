@@ -21,5 +21,17 @@ export const moreRecipes: Array<[string, string, string, string]> = [
   ["Competition Chicken Mop", "Sauces", "Thin, buttery, a little sweet. Built to lacquer skin.", "Mop late. Early sugar burns."],
   ["Peach Pit Sauce", "Sauces", "Ripe peach, vinegar, a little heat. For pork.", "Salt it like sauce, not like jam."],
   ["Cherry Cola Glaze", "Sauces", "Dark soda, cherry, reduced until it coats a rib.", "Reduce first. Raw soda on meat is a mess."],
-  ["Butter Poultry Injection", "Sauces", "Melted butter, stock, salt. For turkey and thighs.", "Inject warm. Hot butter blows pockets and leaks."]
+  ["Butter Poultry Injection", "Sauces", "Melted butter, stock, salt. For turkey and thighs.", "Inject warm. Hot butter blows pockets and leaks."],
+  ["Blackberry Cobbler", "Desserts", "Blackberries under biscuit batter in a hot skillet.", "Juice should bubble thick, not run like soup."],
+  ["Cherry Cobbler", "Desserts", "Tart cherries, sugar, a browned top.", "If it tastes only sweet, you forgot the lemon."],
+  ["Apple Crisp", "Desserts", "Sliced apples, oat streusel, pit heat.", "Keep the lid off at the end or the topping steams."],
+  ["Sweet Potato Pie", "Desserts", "Roasted sweet potato, warm spice, a set slice.", "Cut it cool. Hot pie slumps."],
+  ["Chocolate Chess Pie", "Desserts", "Cocoa custard in a crust. Dense on purpose.", "The center should just barely jiggle."],
+  ["Texas Sheet Cake", "Desserts", "Thin chocolate cake, poured icing, pecans on top.", "Ice it hot so the frosting melts into the crumb."],
+  ["Bourbon Bread Pudding", "Desserts", "Stale bread, custard, a bourbon soak.", "Dry bread first. Wet bread makes scrambled eggs."],
+  ["Fried Peach Pies", "Desserts", "Hand pies, sealed tight, fried until blistered.", "A leak in the seal is a grease fire in a crust."],
+  ["Cast-Iron Pineapple Cake", "Desserts", "Brown sugar, butter, rings, batter over the top.", "Flip it while it is hot or it welds to the iron."],
+  ["Banana Pudding Pie", "Desserts", "The pudding in a crust when you want slices, not scoops.", "Bananas brown fast. Assemble close to service."],
+  ["Pecan Pralines", "Desserts", "Sugar, cream, pecans, set on wax paper.", "Pull them when they sheen, not when they scorch."],
+  ["Pit Smores", "Desserts", "Graham, chocolate, marshmallow, a lick of smoke.", "Thirty seconds too long and you served charcoal."]
 ];
