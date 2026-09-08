@@ -1,2 +1,2 @@
-export { recipes, getRecipe } from "./data";
-export type { Recipe } from "./types";
+export { recipes, getRecipe } from "@/lib/data";
+export type { Recipe } from "@/lib/types";
