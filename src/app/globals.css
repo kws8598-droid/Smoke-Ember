@@ -43,3 +43,29 @@ h1 { font-size: clamp(2.6rem, 7vw, 5.4rem); max-width: 14ch; margin: 0.6rem 0 1r
 .list { margin: 1rem 0 0 1.1rem; display: grid; gap: 0.45rem; }
 .stack { display: grid; gap: 1rem; margin-top: 1.5rem; }
 footer { border-top: 1px solid rgba(243, 235, 226, 0.1); padding: 1.5rem 0 2.5rem; color: rgba(243, 235, 226, 0.55); font-size: 0.9rem; }
+
+.specs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0 0.5rem;
+}
+.specs div {
+  background: #1a1410;
+  border: 1px solid rgba(243, 235, 226, 0.1);
+  border-radius: 14px;
+  padding: 0.85rem 1rem;
+}
+.specs dt {
+  color: #c45c26;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  margin-bottom: 0.3rem;
+}
+.specs dd { color: #f3ebe2; }
+.steps { margin: 0.75rem 0 0 1.15rem; display: grid; gap: 0.65rem; }
+.steps li { padding-left: 0.2rem; }
+.back { margin: 2rem 0 0; }
+.back a { color: #c45c26; }
