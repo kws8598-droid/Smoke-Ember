@@ -1,43 +1,26 @@
 import type { Metadata } from "next";
-import type { ReactNode } from "react";
-import Link from "next/link";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import "./globals.css";
-import site from "@/lib/og/site.json";
 
 export const metadata: Metadata = {
-  title: { default: site.ogTitle, template: `%s — ${site.shortName}` },
-  description: site.description,
-  metadataBase: new URL(site.url),
-  icons: { icon: site.icon },
-  themeColor: site.themeColor,
-  openGraph: {
-    title: site.ogTitle,
-    description: site.ogDescription,
-    url: site.url,
-    siteName: site.name,
-    locale: site.locale,
-    type: "website"
-  }
+  title: { default: "Smoke and Ember", template: "%s · Smoke and Ember" },
+  description: "Pull up a chair. Regional BBQ, pitmaster sides, and the tricks the fire actually teaches.",
 };
 
-export default function RootLayout({ children }: { children: ReactNode }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>
-        <div className="shell">
-          <header className="topbar">
-            <Link className="brand" href="/">
-              <img src="/ember.svg" alt="" />
-              Smoke Ember
-            </Link>
-            <nav>
-              <Link href="/recipes">Recipes</Link>
-              <Link href="/tips">Tips</Link>
-            </nav>
-          </header>
-          {children}
-          <footer>Hold the smoke. Do not rush the bark.</footer>
-        </div>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&display=swap" rel="stylesheet" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+      </head>
+      <body className="min-h-screen font-sans antialiased">
+        <Header />
+        {children}
+        <Footer />
       </body>
     </html>
   );
