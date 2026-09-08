@@ -1,7 +1,7 @@
 {
   "central-texas-brisket": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brisket_1.jpg/960px-Brisket_1.jpg",
-  "poor-man-s-brisket": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/American_pot_roast.jpg/960px-American_pot_roast.jpg",
-  "poor-mans-brisket": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/American_pot_roast.jpg/960px-American_pot_roast.jpg",
+  "poor-man-s-brisket": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brisket_1.jpg/960px-Brisket_1.jpg",
+  "poor-mans-brisket": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brisket_1.jpg/960px-Brisket_1.jpg",
   "point-burnt-ends": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Beef_brisket_burnt_ends.jpg/960px-Beef_brisket_burnt_ends.jpg",
   "texas-plate-ribs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pork_ribs.jpg/960px-Pork_ribs.jpg",
   "santa-maria-tri-tip": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tri-tip-MCB.jpg/960px-Tri-tip-MCB.jpg",
@@ -113,5 +113,17 @@
   "butter-poultry-injection": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Barbecue.jpg",
   "pit-banana-pudding": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Banana_pudding%2C_homemade.jpg",
   "skillet-peach-cobbler": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peach_cobbler.jpg/960px-Peach_cobbler.jpg",
-  "texas-pecan-pie": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg"
+  "texas-pecan-pie": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg",
+  "blackberry-cobbler": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peach_cobbler.jpg/960px-Peach_cobbler.jpg",
+  "cherry-cobbler": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peach_cobbler.jpg/960px-Peach_cobbler.jpg",
+  "apple-crisp": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/960px-Apple_pie.jpg",
+  "sweet-potato-pie": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg",
+  "chocolate-chess-pie": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg",
+  "texas-sheet-cake": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg",
+  "bourbon-bread-pudding": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Banana_pudding%2C_homemade.jpg",
+  "fried-peach-pies": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peach_cobbler.jpg/960px-Peach_cobbler.jpg",
+  "cast-iron-pineapple-cake": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peach_cobbler.jpg/960px-Peach_cobbler.jpg",
+  "banana-pudding-pie": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Banana_pudding%2C_homemade.jpg",
+  "pecan-pralines": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pecan_pie.jpg/960px-Pecan_pie.jpg",
+  "pit-smores": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Banana_pudding%2C_homemade.jpg"
 }
