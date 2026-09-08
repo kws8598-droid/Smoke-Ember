@@ -1,5 +1,6 @@
 import { readFile } from "fs/promises";
 import { join } from "path";
+import packIndex from "@/data/pack-index.json";
 
 const FALLBACK: Record<string, string> = {
   "smoked-prime-rib": "central-texas-brisket",
@@ -27,8 +28,20 @@ const FALLBACK: Record<string, string> = {
   "butter-poultry-injection": "championship-pork-injection",
 };
 
-async function plate(name: string) {
-  return readFile(join(process.cwd(), "src/data/food", `${name}.b64`), "utf8");
+async function fromB64(name: string) {
+  const encoded = await readFile(join(process.cwd(), "src/data/food", `${name}.b64`), "utf8");
+  if (!encoded.trim()) throw new Error("empty");
+  return encoded;
+}
+
+async function fromPack(name: string) {
+  const packName = (packIndex as Record<string, string>)[name];
+  if (!packName) throw new Error("no pack");
+  const raw = await readFile(join(process.cwd(), "src/data/packs", packName), "utf8");
+  const pack = JSON.parse(raw) as Record<string, string>;
+  const encoded = pack[name];
+  if (!encoded) throw new Error("missing in pack");
+  return encoded;
 }
 
 export async function GET(
@@ -39,17 +52,18 @@ export async function GET(
   const safe = slug.replace(/[^a-z0-9-]/g, "");
   const names = [safe, FALLBACK[safe], "alabama-white-sauce"].filter(Boolean) as string[];
   for (const name of names) {
-    try {
-      const encoded = await plate(name);
-      if (!encoded.trim()) continue;
-      return new Response(Buffer.from(encoded, "base64"), {
-        headers: {
-          "Content-Type": "image/jpeg",
-          "Cache-Control": "public, max-age=31536000, immutable",
-        },
-      });
-    } catch {
-      continue;
+    for (const loader of [fromPack, fromB64]) {
+      try {
+        const encoded = await loader(name);
+        return new Response(Buffer.from(encoded, "base64"), {
+          headers: {
+            "Content-Type": "image/jpeg",
+            "Cache-Control": "public, max-age=31536000, immutable",
+          },
+        });
+      } catch {
+        continue;
+      }
     }
   }
   return new Response("missing plate", { status: 404 });
