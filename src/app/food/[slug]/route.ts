@@ -1,6 +1,44 @@
+import { readFile } from "fs/promises";
+import { join } from "path";
 import photoMap from "@/data/photo-map.json";
 
 type MapFile = Record<string, string>;
+
+const ALIASES: Record<string, string> = {
+  "poor-mans-brisket": "poor-man-s-brisket",
+  "poor-man-s-brisket": "poor-man-s-brisket",
+  "copycat-pf-changs-spare-ribs": "copycat-p-f-chang-s-spare-ribs",
+  "copycat-p-f-chang-s-spare-ribs": "copycat-p-f-chang-s-spare-ribs",
+};
+
+function namesFor(slug: string) {
+  const safe = slug.replace(/[^a-z0-9-]/g, "");
+  const alias = ALIASES[safe];
+  return Array.from(new Set([safe, alias].filter(Boolean))) as string[];
+}
+
+async function fromPublic(name: string) {
+  const buf = await readFile(join(process.cwd(), "public/food", `${name}.jpg`));
+  if (!buf.length) throw new Error("empty jpg");
+  return buf;
+}
+
+async function fromB64(name: string) {
+  const encoded = await readFile(join(process.cwd(), "src/data/food", `${name}.b64`), "utf8");
+  if (!encoded.trim()) throw new Error("empty b64");
+  return Buffer.from(encoded.replace(/\s+/g, ""), "base64");
+}
+
+async function remote(url: string) {
+  const res = await fetch(url, {
+    headers: { "User-Agent": "SmokeEmber/1.0 (competition BBQ recipe app)" },
+    next: { revalidate: 86400 },
+  });
+  if (!res.ok) throw new Error(String(res.status));
+  const type = res.headers.get("content-type") || "image/jpeg";
+  if (!type.startsWith("image/")) throw new Error("not image");
+  return { buf: Buffer.from(await res.arrayBuffer()), type };
+}
 
 function guessKind(slug: string) {
   if (/cobbler/.test(slug)) return "cobbler";
@@ -92,26 +130,32 @@ function dishSvg(slug: string) {
 </svg>`;
 }
 
-async function remote(url: string) {
-  const res = await fetch(url, {
-    headers: { "User-Agent": "SmokeEmber/1.0 (competition BBQ recipe app)" },
-    next: { revalidate: 86400 },
-  });
-  if (!res.ok) throw new Error(String(res.status));
-  const buf = Buffer.from(await res.arrayBuffer());
-  const type = res.headers.get("content-type") || "image/jpeg";
-  if (!type.startsWith("image/")) throw new Error("not image");
-  return { buf, type };
-}
-
 export async function GET(
   _request: Request,
   { params }: { params: Promise<{ slug: string }> }
 ) {
   const { slug } = await params;
-  const safe = slug.replace(/[^a-z0-9-]/g, "");
-  const url = (photoMap as MapFile)[safe];
-  if (url) {
+  const names = namesFor(slug);
+
+  for (const name of names) {
+    for (const loader of [fromPublic, fromB64]) {
+      try {
+        const buf = await loader(name);
+        return new Response(buf, {
+          headers: {
+            "Content-Type": "image/jpeg",
+            "Cache-Control": "public, max-age=86400",
+          },
+        });
+      } catch {
+        // next source
+      }
+    }
+  }
+
+  for (const name of names) {
+    const url = (photoMap as MapFile)[name];
+    if (!url) continue;
     try {
       const { buf, type } = await remote(url);
       return new Response(buf, {
@@ -121,10 +165,11 @@ export async function GET(
         },
       });
     } catch {
-      // fall through
+      // next
     }
   }
-  return new Response(dishSvg(safe), {
+
+  return new Response(dishSvg(names[0] ?? "plate"), {
     headers: {
       "Content-Type": "image/svg+xml; charset=utf-8",
       "Cache-Control": "public, max-age=3600",
