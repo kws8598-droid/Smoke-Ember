@@ -17,7 +17,7 @@ export default function RecipesPage() {
           <div className="grid">
             {recipes.filter((recipe) => recipe.category === category).map((recipe) => (
               <Link className="card" key={recipe.slug} href={`/recipes/${recipe.slug}`}>
-                <img className="card-photo" src={`/food/${recipe.slug}.jpg`} alt={recipe.title} />
+                <img className="card-photo" src={`/food/${recipe.slug}`} alt={recipe.title} />
                 <p className="meta">{recipe.category}</p>
                 <h2>{recipe.title}</h2>
                 <p>{recipe.summary}</p>
