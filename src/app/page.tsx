@@ -12,10 +12,15 @@ export default function HomePage() {
   return (
     <main>
       <section className="hero">
+        <img
+          className="hero-photo stall-cover"
+          src="/food/hero-smoker?v=9"
+          alt="Offset smoker at dusk"
+        />
         <p className="kicker">{brand.tagline}</p>
         <h1>Competition fire. No fluff.</h1>
         <p className="lede">
-          {recipes.length} cooks. Mops that lacquer chicken, injections that keep pork honest, and the ugly-truth notes that survive a Saturday turn-in.
+          {recipes.length} cooks. The plates from the pit site now cover the book — brisket, ribs, sauces, sides, the stall.
         </p>
         <p className="chips home-chips">
           {categories.map((category) => (
@@ -28,7 +33,7 @@ export default function HomePage() {
       <section className="grid">
         {featured.map((recipe) => (
           <Link className="card" key={recipe.slug} href={`/recipes/${recipe.slug}`}>
-            <img className="card-photo" src={`/food/${recipe.slug}?v=6`} alt={recipe.title} />
+            <img className="card-photo" src={`/food/${recipe.slug}?v=9`} alt={recipe.title} />
             <p className="meta">{recipe.category}</p>
             <h2>{recipe.title}</h2>
             <p>{recipe.summary}</p>
@@ -40,9 +45,10 @@ export default function HomePage() {
           <p>Beef through dessert. Rubs, sauces, sides, and the weird meat that wins county fairs.</p>
         </Link>
         <Link className="card" href="/tips">
-          <p className="meta">Pit notes</p>
-          <h2>Tips that keep you out of the swamp</h2>
-          <p>Skin schedule, injection discipline, rest, salt, and how the box actually gets judged.</p>
+          <img className="card-photo" src="/food/the-stall?v=9" alt="The stall" />
+          <p className="meta">Fire school</p>
+          <h2>The stall is not a problem</h2>
+          <p>Wrap for the clock, not for fear. The probe parked at 160 is weather, not failure.</p>
         </Link>
       </section>
     </main>

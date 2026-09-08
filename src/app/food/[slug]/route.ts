@@ -10,6 +10,8 @@ const ALIASES: Record<string, string> = {
   "copycat-pf-changs-spare-ribs": "copycat-p-f-chang-s-spare-ribs",
 };
 
+const GROK = "https://plum-honey-silver-wave.grok.me/images";
+
 function namesFor(slug: string) {
   const safe = slug.replace(/[^a-z0-9-]/g, "");
   return Array.from(new Set([safe, ALIASES[safe]].filter(Boolean))) as string[];
@@ -54,7 +56,37 @@ export async function GET(
   const names = namesFor(slug);
 
   for (const name of names) {
-    for (const loader of [fromPack, fromB64, fromPublic]) {
+    const url = (photoMap as MapFile)[name];
+    if (!url) continue;
+    try {
+      const { buf, type } = await remote(url);
+      return new Response(buf, {
+        headers: {
+          "Content-Type": type,
+          "Cache-Control": "public, max-age=86400",
+        },
+      });
+    } catch {
+      // next source
+    }
+  }
+
+  for (const name of names) {
+    try {
+      const { buf, type } = await remote(`${GROK}/${name}.jpg`);
+      return new Response(buf, {
+        headers: {
+          "Content-Type": type,
+          "Cache-Control": "public, max-age=86400",
+        },
+      });
+    } catch {
+      // next
+    }
+  }
+
+  for (const name of names) {
+    for (const loader of [fromPublic, fromB64, fromPack]) {
       try {
         const buf = await loader(name);
         if (buf.length) {
@@ -68,22 +100,6 @@ export async function GET(
       } catch {
         // next source
       }
-    }
-  }
-
-  for (const name of names) {
-    const url = (photoMap as MapFile)[name];
-    if (!url) continue;
-    try {
-      const { buf, type } = await remote(url);
-      return new Response(buf, {
-        headers: {
-          "Content-Type": type,
-          "Cache-Control": "public, max-age=86400",
-        },
-      });
-    } catch {
-      // next
     }
   }
 
