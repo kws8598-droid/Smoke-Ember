@@ -3,8 +3,8 @@ import { join } from "path";
 
 export async function GET(
   _request: Request,
-  { params }: { params: Promise<{ slug: string }>
-}) {
+  { params }: { params: Promise<{ slug: string }> }
+) {
   const { slug } = await params;
   const safe = slug.replace(/[^a-z0-9-]/g, "");
   try {
