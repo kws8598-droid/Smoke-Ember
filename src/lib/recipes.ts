@@ -1,4 +1,6 @@
-import book from "@/data/recipe-book.json";
+import book0 from "@/data/recipe-book-0.json";
+import book1 from "@/data/recipe-book-1.json";
+import book2 from "@/data/recipe-book-2.json";
 
 export type Recipe = {
   title: string;
@@ -33,7 +35,7 @@ type Seed = {
   note: string;
 };
 
-export const recipes: Recipe[] = (book as Seed[]).map((entry) => {
+export const recipes: Recipe[] = ([...book0, ...book1, ...book2] as Seed[]).map((entry) => {
   const slug = slugify(entry.title);
   return {
     ...entry,
