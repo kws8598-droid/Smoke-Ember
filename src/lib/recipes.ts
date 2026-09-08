@@ -1,4 +1,12 @@
-const recipeData = [
+export type Recipe = {
+  title: string;
+  category: string;
+  protein: string;
+  slug: string;
+  summary: string;
+};
+
+const recipeData: Array<[string, string]> = [
   ["Central Texas Brisket", "Beef"],
   ["Santa Maria Tri-Tip", "Beef"],
   ["Point Burnt Ends", "Beef"],
@@ -9,7 +17,6 @@ const recipeData = [
   ["Smoked BBQ Burger", "Beef"],
   ["Smoked Meatloaf", "Beef"],
   ["Championship Chili", "Beef"],
-
   ["Kansas City Spare Ribs", "Pork"],
   ["Eastern Carolina Pulled Pork", "Pork"],
   ["Memphis Dry Ribs", "Pork"],
@@ -24,20 +31,16 @@ const recipeData = [
   ["Copycat P.F. Chang's Spare Ribs", "Pork"],
   ["Dry Rub Spare Ribs", "Pork"],
   ["Championship Pulled Pork", "Pork"],
-
   ["Alabama White Sauce Chicken", "Poultry"],
   ["Competition Chicken Thighs", "Poultry"],
   ["Herb-Butter Smoked Turkey", "Poultry"],
-
   ["Smoked Venison Backstrap", "Venison"],
   ["Amish Pulled Venison", "Venison"],
   ["Kentucky Burgoo", "Venison"],
-
   ["Owensboro Mutton", "Mutton"],
   ["Whole Smoked Gator", "Gator"],
   ["Cedar-Plank Salmon", "Fish"],
   ["Texas Hot Guts", "Sausage"],
-
   ["Pit Beans with Brisket Trim", "Sides"],
   ["Cast-Iron Smoked Mac", "Sides"],
   ["Pepper Vinegar Slaw", "Sides"],
@@ -54,7 +57,6 @@ const recipeData = [
   ["Pit Pimento Cheese", "Sides"],
   ["Hatch Street Corn", "Sides"],
   ["Cajun Dirty Rice", "Sides"],
-
   ["Santa Maria Seasoning", "Rubs"],
   ["Memphis Dry Rub", "Rubs"],
   ["Cajun Pit Rub", "Rubs"],
@@ -70,7 +72,6 @@ const recipeData = [
   ["Competition Pork Rub", "Rubs"],
   ["Coffee-Chile Beef Rub", "Rubs"],
   ["Lemon-Pepper Poultry Rub", "Rubs"],
-
   ["East Texas Sweet Sauce", "Sauces"],
   ["Thin Chile Mop", "Sauces"],
   ["South Texas Pit Salsa", "Sauces"],
@@ -93,7 +94,23 @@ const recipeData = [
   ["Lexington Dip", "Sauces"],
   ["Memphis Barbecue Sauce", "Sauces"],
   ["Championship Pork Injection", "Sauces"],
-
   ["Pit Banana Pudding", "Desserts"],
   ["Skillet Peach Cobbler", "Desserts"],
-  ["Texas Pecan Pie", "
+  ["Texas Pecan Pie", "Desserts"]
+];
+
+function slugify(title: string) {
+  return title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+}
+
+export const recipes: Recipe[] = recipeData.map(([title, category]) => ({
+  title,
+  category,
+  protein: category,
+  slug: slugify(title),
+  summary: `${title} — pit notes from the ${category.toLowerCase()} side of the box.`
+}));
+
+export function getRecipe(slug: string) {
+  return recipes.find((recipe) => recipe.slug === slug);
+}
