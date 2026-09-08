@@ -15,6 +15,6 @@ export default function SaveButton({ slug }: { slug: string }) {
     setOn(!on);
   }
   return (
-    <button onClick={toggle} className="rounded-full border border-white/15 px-3 py-1.5 text-sm text-parchment hover:border-ember">{on ? "Saved" : "Save"}</button>
+    <button onClick={toggle} className="shrink-0 rounded-full border border-white/15 px-3 py-1.5 text-sm text-parchment hover:border-ember">{on ? "Saved" : "Save"}</button>
   );
 }
