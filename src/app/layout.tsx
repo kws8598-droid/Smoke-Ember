@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: site.description,
   metadataBase: new URL(site.url),
   icons: { icon: site.icon },
+  themeColor: site.themeColor,
   openGraph: {
     title: site.ogTitle,
     description: site.ogDescription,

@@ -19,6 +19,19 @@ export async function GET(
       },
     });
   } catch {
-    return new Response("missing plate", { status: 404 });
+    try {
+      const encoded = await readFile(
+        join(process.cwd(), "src/data/food", "alabama-white-sauce.b64"),
+        "utf8"
+      );
+      return new Response(Buffer.from(encoded, "base64"), {
+        headers: {
+          "Content-Type": "image/jpeg",
+          "Cache-Control": "public, max-age=60",
+        },
+      });
+    } catch {
+      return new Response("missing plate", { status: 404 });
+    }
   }
 }

@@ -3,8 +3,10 @@ import { recipes } from "@/lib/recipes";
 import { brand } from "@/lib/brand";
 
 const featured = recipes
-  .filter((recipe) => ["Beef", "Pork", "Poultry"].includes(recipe.category))
+  .filter((recipe) => ["Beef", "Pork", "Poultry", "Gator"].includes(recipe.category))
   .slice(0, 8);
+
+const categories = Array.from(new Set(recipes.map((recipe) => recipe.category)));
 
 export default function HomePage() {
   return (
@@ -13,7 +15,14 @@ export default function HomePage() {
         <p className="kicker">{brand.tagline}</p>
         <h1>Competition fire. No fluff.</h1>
         <p className="lede">
-          Mops that lacquer chicken, injections that keep pork honest, and the ugly-truth notes that actually survive a Saturday turn-in.
+          {recipes.length} cooks. Mops that lacquer chicken, injections that keep pork honest, and the ugly-truth notes that survive a Saturday turn-in.
+        </p>
+        <p className="chips home-chips">
+          {categories.map((category) => (
+            <Link className="chip" key={category} href="/recipes">
+              {category}
+            </Link>
+          ))}
         </p>
       </section>
       <section className="grid">
