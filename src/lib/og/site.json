@@ -1,5 +1,11 @@
 {
   "name": "Smoke & Ember",
+  "shortName": "Smoke Ember",
   "description": "Competition BBQ app. Light the coal. Hold the smoke.",
-  "url": "https://smoke-ember.vercel.app"
+  "ogTitle": "Smoke & Ember",
+  "ogDescription": "Competition recipes, mops, injections, and fire-side notes.",
+  "url": "https://smoke-ember.vercel.app",
+  "locale": "en_US",
+  "themeColor": "#100c09",
+  "icon": "/ember.svg"
 }
