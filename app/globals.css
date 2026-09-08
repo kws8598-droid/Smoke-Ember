@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { background: #0c0907; color: #f3ead8; }
+body { font-feature-settings: "ss01" on; }
+::selection { background: #c45c26; color: #0c0907; }
+.font-display { font-optical-sizing: auto; }
