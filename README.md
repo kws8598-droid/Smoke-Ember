@@ -1,29 +1,8 @@
-# Smoke Ember
+# Smoke and Ember
 
-Competition BBQ app. Light the coal. Hold the smoke.
+Regional American barbecue — 113 recipes, 10 fire-school notes, sides, desserts, rubs, and sauces.
 
-Official mark: a glowing cracked coal ember with a thin wisp of smoke on black.
-
-## Brand
-
-| Token | Hex |
-| --- | --- |
-| Charcoal | `#100c09` |
-| Butcher-paper cream | `#f3ebe2` |
-| Burnt sienna ember | `#c45c26` |
-| Warm dark wood | `#1a1410` |
-
-Site metadata lives in `src/lib/og/site.json`. Mark lives in `public/ember.svg`.
-
-## What’s live
-
-- Home with featured plates
-- Full unpublished recipe book with search and category chips (beef through dessert)
-- Method cards: fire, wood, time, yield, ingredients, steps, pit notes
-- Plate photos served from `/food/[slug]`
-- Pit tips
-
-## Run
+The pit book from [the original Smoke and Ember cook](https://plum-honey-silver-wave.grok.me/), published as a Next.js app.
 
 ```bash
 npm install
@@ -31,3 +10,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+
+- Filter cooks by time and protein
+- Full ingredients, steps, and pitmaster tips
+- Cook timer + saved recipes (browser local)
+- Photography served from the original asset host
