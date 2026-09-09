@@ -10,39 +10,34 @@ const FILES = [
 
 mkdirSync(DEST, { recursive: true });
 
-async function grab(url, dest) {
-  if (existsSync(dest)) return;
+async function grab(url, dest, ms = 4000) {
+  if (existsSync(dest)) return true;
   const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 8000);
+  const t = setTimeout(() => ctrl.abort(), ms);
   try {
     const res = await fetch(url, { signal: ctrl.signal });
-    if (!res.ok) {
-      console.warn("skip", url, res.status);
-      return;
-    }
+    if (!res.ok) return false;
     writeFileSync(dest, Buffer.from(await res.arrayBuffer()));
-  } catch (err) {
-    console.warn("skip", url, err.message);
+    return true;
+  } catch {
+    return false;
   } finally {
     clearTimeout(t);
   }
 }
 
-const queue = [...FILES];
+const probe = await grab(ORIGIN + "brisket.jpg", join(DEST, "brisket.jpg"), 4000);
+if (!probe) {
+  console.warn("origin photos unreachable; continuing without vendoring");
+  process.exit(0);
+}
+
+const queue = FILES.filter((n) => n !== "brisket.jpg");
 async function worker() {
   while (queue.length) {
     const name = queue.shift();
-    await grab(ORIGIN + name, join(DEST, name));
+    await grab(ORIGIN + name, join(DEST, name), 4000);
   }
 }
-await Promise.all([worker(), worker(), worker(), worker(), worker(), worker()]);
-
-try {
-  mkdirSync(join(ROOT, "public", "videos"), { recursive: true });
-  await grab(
-    "https://plum-honey-silver-wave.grok.me/videos/hero-fire.mp4",
-    join(ROOT, "public", "videos", "hero-fire.mp4")
-  );
-} catch (err) {
-  console.warn("hero video skipped", err.message);
-}
+await Promise.all(Array.from({ length: 8 }, worker));
+console.warn("photo vendor finished");
