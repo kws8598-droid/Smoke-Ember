@@ -10,33 +10,39 @@ const FILES = [
 
 mkdirSync(DEST, { recursive: true });
 
-async function one(name) {
-  const dest = join(DEST, name);
+async function grab(url, dest) {
   if (existsSync(dest)) return;
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), 8000);
   try {
-    const res = await fetch(ORIGIN + name);
+    const res = await fetch(url, { signal: ctrl.signal });
     if (!res.ok) {
-      console.warn("skip", name, res.status);
+      console.warn("skip", url, res.status);
       return;
     }
     writeFileSync(dest, Buffer.from(await res.arrayBuffer()));
   } catch (err) {
-    console.warn("skip", name, err.message);
+    console.warn("skip", url, err.message);
+  } finally {
+    clearTimeout(t);
   }
 }
 
-for (const name of FILES) {
-  await one(name);
+const queue = [...FILES];
+async function worker() {
+  while (queue.length) {
+    const name = queue.shift();
+    await grab(ORIGIN + name, join(DEST, name));
+  }
 }
+await Promise.all([worker(), worker(), worker(), worker(), worker(), worker()]);
 
 try {
-  const vidDir = join(ROOT, "public", "videos");
-  mkdirSync(vidDir, { recursive: true });
-  const vid = join(vidDir, "hero-fire.mp4");
-  if (!existsSync(vid)) {
-    const res = await fetch("https://plum-honey-silver-wave.grok.me/videos/hero-fire.mp4");
-    if (res.ok) writeFileSync(vid, Buffer.from(await res.arrayBuffer()));
-  }
+  mkdirSync(join(ROOT, "public", "videos"), { recursive: true });
+  await grab(
+    "https://plum-honey-silver-wave.grok.me/videos/hero-fire.mp4",
+    join(ROOT, "public", "videos", "hero-fire.mp4")
+  );
 } catch (err) {
   console.warn("hero video skipped", err.message);
 }
