@@ -1,5 +1,5 @@
 import { mkdirSync, existsSync, writeFileSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { join } from "node:path";
 
 const ROOT = process.cwd();
 const DEST = join(ROOT, "public", "images");
@@ -13,26 +13,30 @@ mkdirSync(DEST, { recursive: true });
 async function one(name) {
   const dest = join(DEST, name);
   if (existsSync(dest)) return;
-  const res = await fetch(ORIGIN + name);
-  if (!res.ok) {
-    console.warn("skip", name, res.status);
-    return;
+  try {
+    const res = await fetch(ORIGIN + name);
+    if (!res.ok) {
+      console.warn("skip", name, res.status);
+      return;
+    }
+    writeFileSync(dest, Buffer.from(await res.arrayBuffer()));
+  } catch (err) {
+    console.warn("skip", name, err.message);
   }
-  const buf = Buffer.from(await res.arrayBuffer());
-  writeFileSync(dest, buf);
-  console.log("vendored", name, buf.length);
 }
 
-await Promise.all(FILES.map(one));
+for (const name of FILES) {
+  await one(name);
+}
 
-const vidDir = join(ROOT, "public", "videos");
-mkdirSync(vidDir, { recursive: true });
-const vid = join(vidDir, "hero-fire.mp4");
-if (!existsSync(vid)) {
-  try {
+try {
+  const vidDir = join(ROOT, "public", "videos");
+  mkdirSync(vidDir, { recursive: true });
+  const vid = join(vidDir, "hero-fire.mp4");
+  if (!existsSync(vid)) {
     const res = await fetch("https://plum-honey-silver-wave.grok.me/videos/hero-fire.mp4");
     if (res.ok) writeFileSync(vid, Buffer.from(await res.arrayBuffer()));
-  } catch (e) {
-    console.warn("hero video skipped", e.message);
   }
+} catch (err) {
+  console.warn("hero video skipped", err.message);
 }
