@@ -109,9 +109,7 @@ function collectArrays(js) {
     if (idx === -1) continue;
     try {
       const parsed = parseArray(js, idx + name.length + 1);
-      if (Array.isArray(parsed.value) && parsed.value[0]?.slug) {
-        found[name] = parsed.value;
-      }
+      if (Array.isArray(parsed.value) && parsed.value[0]?.slug) found[name] = parsed.value;
     } catch (err) {
       console.warn("failed", name, err.message);
     }
@@ -135,9 +133,7 @@ function writeChunks(recipes) {
   const size = 5;
   let part = 0;
   for (let i = 0; i < recipes.length; i += size) {
-    const slice = recipes.slice(i, i + size);
-    const name = `recipes-${String(part).padStart(2, "0")}.json`;
-    writeFileSync(join(CHUNK_DIR, name), JSON.stringify(slice));
+    writeFileSync(join(CHUNK_DIR, `recipes-${String(part).padStart(2, "0")}.json`), JSON.stringify(recipes.slice(i, i + size)));
     part++;
   }
   writeFileSync(join(ROOT, "data", "recipes.json"), JSON.stringify(recipes));
@@ -148,24 +144,39 @@ function writeChunks(recipes) {
   console.log("wrote", recipes.length, "recipes in", part, "chunks");
 }
 
+async function fetchText(url) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), 12000);
+  try {
+    const res = await fetch(url, { signal: ctrl.signal });
+    if (!res.ok) throw new Error(url + " " + res.status);
+    return await res.text();
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 if (alreadyPopulated()) {
   console.log("recipe chunks already present");
   process.exit(0);
 }
 
-const html = await fetch(ORIGIN + "/").then((r) => r.text());
-const assets = [...html.matchAll(/\/assets\/(index-[^"']+\.js)/g)].map((m) => m[1]);
-const file = assets[0] || "index-DKup1FYr.js";
-const js = await fetch(ORIGIN + "/assets/" + file).then((r) => r.text());
-const arrays = collectArrays(js);
-const combined = uniqueBySlug([
-  ...(arrays.T_ || []),
-  ...(arrays.__ || []),
-  ...(arrays.h_ || []),
-  ...(arrays.g_ || []),
-  ...(arrays.v_ || []),
-]);
-if (combined.length < 80) {
-  throw new Error("extractor found only " + combined.length + " recipes");
+try {
+  const html = await fetchText(ORIGIN + "/");
+  const assets = [...html.matchAll(/\/assets\/(index-[^"']+\.js)/g)].map((m) => m[1]);
+  const file = assets[0] || "index-DKup1FYr.js";
+  const js = await fetchText(ORIGIN + "/assets/" + file);
+  const arrays = collectArrays(js);
+  const combined = uniqueBySlug([
+    ...(arrays.T_ || []),
+    ...(arrays.__ || []),
+    ...(arrays.h_ || []),
+    ...(arrays.g_ || []),
+    ...(arrays.v_ || []),
+  ]);
+  if (combined.length < 80) throw new Error("extractor found only " + combined.length + " recipes");
+  writeChunks(combined);
+} catch (err) {
+  console.warn("extractor skipped:", err.message);
+  process.exit(0);
 }
-writeChunks(combined);
