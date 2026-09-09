@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/vendor-images.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"

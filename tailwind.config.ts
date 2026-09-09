@@ -12,6 +12,10 @@ const config: Config = {
         bark: "#1a1410",
         ash: "#2a221c",
         subtle: "#9a8b78",
+        paper: "#f3ead8",
+        fg: "#f3ead8",
+        bg: "#0c0907",
+        elevated: "#241c16",
       },
       fontFamily: {
         display: ["Fraunces", "Georgia", "serif"],
