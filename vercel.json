@@ -1,0 +1,4 @@
+{
+  "buildCommand": "node scripts/extract-book.mjs && node scripts/vendor-images.mjs && next build",
+  "framework": "nextjs"
+}

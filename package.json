@@ -6,7 +6,7 @@
     "predev": "node scripts/extract-book.mjs && node scripts/vendor-images.mjs",
     "prebuild": "node scripts/extract-book.mjs && node scripts/vendor-images.mjs",
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/extract-book.mjs && node scripts/vendor-images.mjs && next build",
     "start": "next start"
   },
   "dependencies": {
