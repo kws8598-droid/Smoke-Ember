@@ -5,15 +5,21 @@ const ROOT = process.cwd();
 const CHUNK_DIR = join(ROOT, "data", "chunks");
 const ORIGIN = "https://plum-honey-silver-wave.grok.me";
 
-function alreadyPopulated() {
-  const first = join(CHUNK_DIR, "recipes-00.json");
-  if (!existsSync(first)) return false;
-  try {
-    const rows = JSON.parse(readFileSync(first, "utf8"));
-    return Array.isArray(rows) && rows.length > 0 && rows[0].slug && rows[0].ingredients;
-  } catch {
-    return false;
+function countLocalRecipes() {
+  let n = 0;
+  for (let i = 0; i < 23; i++) {
+    const file = join(CHUNK_DIR, `recipes-${String(i).padStart(2, "0")}.json`);
+    if (!existsSync(file)) continue;
+    try {
+      const rows = JSON.parse(readFileSync(file, "utf8"));
+      if (Array.isArray(rows)) n += rows.length;
+    } catch {}
   }
+  return n;
+}
+
+function alreadyPopulated() {
+  return countLocalRecipes() >= 80;
 }
 
 function parseJsString(src, i) {
@@ -120,8 +126,11 @@ function collectArrays(js) {
 function uniqueBySlug(rows) {
   const seen = new Set();
   const out = [];
+  const drop = new Set(["texas-pecan-pie", "smoked-quail", "quail"]);
   for (const row of rows) {
     if (!row?.slug || seen.has(row.slug)) continue;
+    const hay = `${row.slug} ${row.title || ""}`.toLowerCase();
+    if (drop.has(row.slug) || hay.includes("quail")) continue;
     seen.add(row.slug);
     out.push(row);
   }
@@ -136,6 +145,9 @@ function writeChunks(recipes) {
     writeFileSync(join(CHUNK_DIR, `recipes-${String(part).padStart(2, "0")}.json`), JSON.stringify(recipes.slice(i, i + size)));
     part++;
   }
+  for (let i = part; i < 23; i++) {
+    writeFileSync(join(CHUNK_DIR, `recipes-${String(i).padStart(2, "0")}.json`), "[]");
+  }
   writeFileSync(join(ROOT, "data", "recipes.json"), JSON.stringify(recipes));
   const third = Math.ceil(recipes.length / 3);
   writeFileSync(join(ROOT, "data", "recipes-part-0.json"), JSON.stringify(recipes.slice(0, third)));
@@ -146,7 +158,7 @@ function writeChunks(recipes) {
 
 async function fetchText(url) {
   const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 12000);
+  const t = setTimeout(() => ctrl.abort(), 25000);
   try {
     const res = await fetch(url, { signal: ctrl.signal });
     if (!res.ok) throw new Error(url + " " + res.status);

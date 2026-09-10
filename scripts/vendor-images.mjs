@@ -10,7 +10,7 @@ const FILES = [
 
 mkdirSync(DEST, { recursive: true });
 
-async function grab(url, dest, ms = 4000) {
+async function grab(url, dest, ms = 15000) {
   if (existsSync(dest)) return true;
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), ms);
@@ -26,17 +26,23 @@ async function grab(url, dest, ms = 4000) {
   }
 }
 
-const probe = await grab(ORIGIN + "brisket.jpg", join(DEST, "brisket.jpg"), 4000);
+const probe = await grab(ORIGIN + "brisket.jpg", join(DEST, "brisket.jpg"), 15000);
 if (!probe) {
   console.warn("origin photos unreachable; continuing without vendoring");
   process.exit(0);
 }
 
+const videoDest = join(ROOT, "public", "videos");
+mkdirSync(videoDest, { recursive: true });
+await grab("https://plum-honey-silver-wave.grok.me/videos/hero-fire.mp4", join(videoDest, "hero-fire.mp4"), 30000);
+await grab("https://plum-honey-silver-wave.grok.me/og.jpg", join(ROOT, "public", "og.jpg"), 15000);
+await grab("https://plum-honey-silver-wave.grok.me/favicon.svg", join(ROOT, "public", "favicon.svg"), 10000);
+
 const queue = FILES.filter((n) => n !== "brisket.jpg");
 async function worker() {
   while (queue.length) {
     const name = queue.shift();
-    await grab(ORIGIN + name, join(DEST, name), 4000);
+    await grab(ORIGIN + name, join(DEST, name), 15000);
   }
 }
 await Promise.all(Array.from({ length: 8 }, worker));
