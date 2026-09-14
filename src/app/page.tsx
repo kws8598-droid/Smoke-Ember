@@ -18,19 +18,19 @@ export default function HomePage() {
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main>
-      <section className="relative min-h-[88vh] overflow-hidden">
+      <section className="relative min-h-[calc(100svh-72px)] overflow-hidden pb-20 sm:min-h-[88vh] sm:pb-0">
         <img src="/images/hero-dusk.jpg" alt="Fire in the pit" className="hero-still absolute inset-0 h-full w-full object-cover" />
         <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/hero-dusk.jpg" aria-hidden>
           <source src="/videos/hero-fire.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20" />
-        <div className="relative mx-auto grid max-w-6xl gap-10 px-4 pb-16 pt-24 md:grid-cols-2 md:items-end sm:min-h-[88vh]">
-          <div>
-            <p className="text-xs uppercase tracking-[0.28em] text-ember">The pit is lit</p>
-            <h1 className="mt-3 font-display text-5xl italic leading-[0.95] text-cream sm:text-7xl">Pull up a chair.</h1>
-            <p className="mt-5 max-w-md text-lg text-parchment/90">Pick how long you have. Smoke and Ember hands you a cook that actually fits tonight.</p>
-            <div className="mt-8 flex flex-wrap items-center gap-4">
-              <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes \u2192</Link>
+        <div className="relative mx-auto grid max-w-6xl gap-8 px-4 pb-8 pt-7 md:grid-cols-2 md:items-end sm:min-h-[88vh] sm:gap-10 sm:pb-16 sm:pt-24">
+          <div className="contents md:block">
+            <p className="hidden text-xs uppercase tracking-[0.28em] text-ember sm:block">The pit is lit</p>
+            <h1 className="hidden mt-3 font-display text-5xl italic leading-[0.95] text-cream sm:block sm:text-7xl">Pull up a chair.</h1>
+            <p className="order-1 max-w-xl text-[19px] leading-8 text-parchment/95 sm:mt-5 sm:max-w-md sm:text-lg md:order-none">Pick how long you have. Smoke and Ember hands you a cook that actually fits tonight.</p>
+            <div className="order-3 mt-0 flex items-center gap-7 sm:mt-8 sm:flex-wrap sm:gap-4 md:order-none">
+              <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes →</Link>
               <Link href="/wisdom" className="text-sm text-parchment hover:text-cream">Cooking tips</Link>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function HomePage() {
         <div className="mx-auto grid max-w-6xl gap-6 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
             <Link key={q.slug} href={`/wisdom/${q.slug}`} className="group">
-              <blockquote className="font-display text-2xl italic text-cream group-hover:text-ember">\u201c{q.text}\u201d</blockquote>
+              <blockquote className="font-display text-2xl italic text-cream group-hover:text-ember">“{q.text}”</blockquote>
               <p className="mt-2 text-xs uppercase tracking-[0.16em] text-subtle">Fire school</p>
             </Link>
           ))}
