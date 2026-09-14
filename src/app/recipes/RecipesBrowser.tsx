@@ -6,7 +6,7 @@ import type { Recipe } from "@/lib/recipes";
 
 export default function RecipesBrowser({ recipes }: { recipes: Recipe[] }) {
   const categories = useMemo(
-    () => Array.from(new Set(recipes.map((recipe) => recipe.category))),
+    () => Array.from(new Set(recipes.map((recipe) => recipe.protein))),
     [recipes]
   );
   const [query, setQuery] = useState("");
@@ -15,13 +15,13 @@ export default function RecipesBrowser({ recipes }: { recipes: Recipe[] }) {
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
     return recipes.filter((recipe) => {
-      const inCat = active === "All" || recipe.category === active;
+      const inCat = active === "All" || recipe.protein === active;
       if (!inCat) return false;
       if (!needle) return true;
       return (
         recipe.title.toLowerCase().includes(needle) ||
         recipe.summary.toLowerCase().includes(needle) ||
-        recipe.category.toLowerCase().includes(needle)
+        recipe.protein.toLowerCase().includes(needle)
       );
     });
   }, [recipes, query, active]);
@@ -29,9 +29,9 @@ export default function RecipesBrowser({ recipes }: { recipes: Recipe[] }) {
   const groups = useMemo(() => {
     const map = new Map<string, Recipe[]>();
     for (const recipe of filtered) {
-      const list = map.get(recipe.category) ?? [];
+      const list = map.get(recipe.protein) ?? [];
       list.push(recipe);
-      map.set(recipe.category, list);
+      map.set(recipe.protein, list);
     }
     return categories
       .filter((category) => map.has(category))
@@ -72,7 +72,7 @@ export default function RecipesBrowser({ recipes }: { recipes: Recipe[] }) {
             {items.map((recipe) => (
               <Link className="card" key={recipe.slug} href={`/recipes/${recipe.slug}`}>
                 <img className="card-photo" src={`/food/${recipe.slug}?v=9`} alt={recipe.title} />
-                <p className="meta">{recipe.category}</p>
+                <p className="meta">{recipe.protein}</p>
                 <h2>{recipe.title}</h2>
                 <p>{recipe.summary}</p>
               </Link>
