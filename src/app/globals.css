@@ -11,3 +11,7 @@ input, button, textarea { font: inherit; }
 
 .hero-still { animation: still-in 1.2s ease both; }
 @keyframes still-in { from { transform: scale(1.06); opacity: .6; } to { transform: scale(1); opacity: 1; } }
+
+@media (max-width: 767px) {
+  body { padding-bottom: calc(4.35rem + env(safe-area-inset-bottom)); }
+}
