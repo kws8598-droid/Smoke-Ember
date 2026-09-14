@@ -1,14 +1,36 @@
 "use client";
-import { useMemo, useState, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
+import { useEffect, useMemo, useState, Suspense } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
 function RecipesInner() {
+  const router = useRouter();
   const params = useSearchParams();
   const [protein, setProtein] = useState(params.get("protein") || "all");
   const [region, setRegion] = useState(params.get("region") || "all");
   const [q, setQ] = useState("");
   const [time, setTime] = useState("all");
+  useEffect(() => {
+    setProtein(params.get("protein") || "all");
+    setRegion(params.get("region") || "all");
+  }, [params]);
+  function replaceFilters(nextProtein: string, nextRegion: string) {
+    const next = new URLSearchParams(params.toString());
+    if (!nextProtein || nextProtein === "all") next.delete("protein");
+    else next.set("protein", nextProtein);
+    if (!nextRegion || nextRegion === "all") next.delete("region");
+    else next.set("region", nextRegion);
+    const qs = next.toString();
+    router.replace(qs ? `/recipes?${qs}` : "/recipes", { scroll: false });
+  }
+  function selectProtein(nextProtein: string) {
+    setProtein(nextProtein);
+    replaceFilters(nextProtein, region);
+  }
+  function selectRegion(nextRegion: string) {
+    setRegion(nextRegion);
+    replaceFilters(protein, nextRegion);
+  }
   const list = useMemo(() => {
     let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: protein === "all" ? false : protein === "desserts" });
     if (region !== "all") rows = rows.filter((r) => r.region === region);
@@ -20,12 +42,12 @@ function RecipesInner() {
       <h1 className="mt-2 font-display text-5xl italic">Recipes</h1>
       <p className="mt-3 max-w-xl text-parchment/80">Regional cooks, pantry bottles, and the sides that make a plate.</p>
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
-        <button key={p} onClick={() => setProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p}</button>
+        <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p}</button>
       ))}</div>
       <div className="mt-4 flex flex-wrap gap-2">
-        <button onClick={() => setRegion("all")} className={`h-11 rounded-full px-3 text-xs ${region === "all" ? "bg-cream text-ink" : "text-subtle"}`}>Any region</button>
+        <button onClick={() => selectRegion("all")} className={`h-11 rounded-full px-3 text-xs ${region === "all" ? "bg-cream text-ink" : "text-subtle"}`}>Any region</button>
         {Object.entries(regionCopy).map(([id, meta]) => (
-          <button key={id} onClick={() => setRegion(id)} className={`h-11 rounded-full px-3 text-xs ${region === id ? "bg-cream text-ink" : "text-subtle"}`}>{meta.label}</button>
+          <button key={id} onClick={() => selectRegion(id)} className={`h-11 rounded-full px-3 text-xs ${region === id ? "bg-cream text-ink" : "text-subtle"}`}>{meta.label}</button>
         ))}
       </div>
       <div className="mt-4 flex flex-wrap items-center gap-3">
