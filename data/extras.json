@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "texas-twinkies",
+    "title": "Texas Twinkies",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": { "min": 2, "max": 3 },
+    "servings": "8 as a starter",
+    "wood": "Post oak",
+    "pitTemp": "225–250°F, then a hot grate to crisp",
+    "finish": "Bacon crisp, pepper collapsed, glaze set",
+    "summary": "Jumbo jalapeños stuffed with leftover brisket and cream cheese, wrapped in thick bacon, smoked, then glazed. Hutchins BBQ's leftover-brisket accident.",
+    "story": "Hutchins BBQ in McKinney started stuffing leftover fatty brisket and cream cheese into the biggest jalapeños they could find, wrapping them in thick bacon, and sending them back through the smoker. A Texas Twinkie is not a halved popper with a smear of cheese. It is a whole pepper, close to a quarter pound of brisket in each one, smoked until the pepper slumps and the bacon renders, then glazed and kissed on a hot grate. Two of them is lunch. Use leftover packer — the point is better than the flat.",
+    "school": "North Texas leftover pit",
+    "image": "/images/burnt-ends.jpg",
+    "ingredients": [
+      {
+        "group": "Peppers",
+        "items": [
+          "8 jumbo jalapeños, 4–5 inches — the biggest you can find",
+          "Ice water, optional pinch of sugar in the bath"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "1 lb leftover smoked brisket, preferably point, chopped small",
+          "8 oz cream cheese, room temperature"
+        ]
+      },
+      {
+        "group": "Wrap and finish",
+        "items": [
+          "16 slices thick-cut bacon",
+          "Kosher salt and coarse black pepper",
+          "½ cup sweet Texas-style barbecue sauce",
+          "Toothpicks"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "T-cut and seed",
+        "body": "Gloves on. Cut a T into each pepper: a slit down one long side and a short cut under the stem, without cutting through. Open it like a book. Scrape out seeds and white pith. Keep the stem. Soak in ice water 15–20 minutes if you want them milder — a pinch of sugar in the bath helps. Drain and pat dry."
+      },
+      {
+        "title": "Stuff 50/50, don't stir it into mush",
+        "body": "Cream cheese in the bottom third of each pepper. Pack chopped brisket on top until the pepper is full and just barely closes. About 2 ounces of each per jumbo pepper. Do not mash brisket and cheese into one paste — you want a bite of bark and a bite of cheese."
+      },
+      {
+        "title": "Two slices of thick bacon",
+        "body": "Thin bacon tears and shrinks off. Wrap each pepper with two thick slices so the seam is covered. Toothpick the ends. Dust with salt and coarse pepper like a little brisket."
+      },
+      {
+        "title": "Smoke low",
+        "body": "225–250°F, post oak. Directly on the grate, 2–2½ hours. Flip once if one side is pale. The pepper should be soft and the bacon rendered but not yet shatter-crisp. Internal around 145°F is fine — everything in there is already cooked except the bacon."
+      },
+      {
+        "title": "Glaze and crisp",
+        "body": "Brush a thin coat of sweet sauce. Move to a hotter grate or skillet, 350°F-ish, 2–4 minutes until the bacon tightens and the glaze tackifies. Rest 5–10 minutes. Pull the toothpicks. Serve hot."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Hutchins school",
+        "text": "The pepper has to be huge. Grocery jalapeños the size of a thumb make sad little poppers. Mexican markets and the ugly bin are where the rib-sized ones live."
+      },
+      {
+        "voice": "Offset school",
+        "text": "Point meat, not leftover flat. Dry flat plus cream cheese is a brick. Fat is the point of the Twinkie."
+      },
+      {
+        "voice": "Pit note",
+        "text": "Sauce at the end. If you mop it on at 225°F for two hours you steam the bacon and burn the sugar. Smoke first, glaze last, then heat."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "stuff",
+        "label": "Stuffed and wrapped",
+        "hint": "Cream cheese down, brisket packed, two slices thick bacon."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "2–2½ hours at 225–250°F. Pepper soft, bacon rendered."
+      },
+      {
+        "id": "glaze",
+        "label": "Glazed and crisp",
+        "hint": "Sauce, then a hot grate. Rest 5 minutes. Pull the picks."
+      }
+    ]
+  }
+]

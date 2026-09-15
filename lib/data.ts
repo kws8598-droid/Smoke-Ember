@@ -21,8 +21,11 @@ import recipes19 from "@/data/chunks/recipes-19.json";
 import recipes20 from "@/data/chunks/recipes-20.json";
 import recipes21 from "@/data/chunks/recipes-21.json";
 import recipes22 from "@/data/chunks/recipes-22.json";
+import extrasJson from "@/data/extras.json";
 import wisdomJson from "@/data/wisdom.json";
 import type { Recipe, Wisdom } from "./types";
+
+const extras = extrasJson as Recipe[];
 
 export const recipes = [
   ...recipes0, ...recipes1, ...recipes2, ...recipes3, ...recipes4,
@@ -30,7 +33,8 @@ export const recipes = [
   ...recipes10, ...recipes11, ...recipes12, ...recipes13, ...recipes14,
   ...recipes15, ...recipes16, ...recipes17, ...recipes18, ...recipes19,
   ...recipes20, ...recipes21, ...recipes22,
-] as Recipe[];
+  ...extras,
+].filter((r, i, arr) => arr.findIndex((x) => x.slug === r.slug) === i) as Recipe[];
 export const wisdom = wisdomJson as Wisdom[];
 
 export const proteins = [
