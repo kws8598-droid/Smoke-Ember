@@ -1,8 +1,7 @@
 "use client";
 
-import { FormEvent, useState } from "react";
+import { FormEvent, Suspense, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import { Suspense } from "react";
 import { createClient } from "@/lib/supabase/client";
 
 function LoginInner() {
@@ -22,7 +21,7 @@ function LoginInner() {
     const supabase = createClient();
     const { error: err } = await supabase.auth.signInWithOtp({
       email: email.trim(),
-      options: { shouldCreateUser: false },
+      options: { shouldCreateUser: true },
     });
     setBusy(false);
     if (err) {
