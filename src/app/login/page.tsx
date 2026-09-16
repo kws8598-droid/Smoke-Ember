@@ -3,11 +3,12 @@
 import { FormEvent, Suspense, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
+import { emailRedirectTo, safeNextPath } from "@/lib/supabase/redirect";
 
 function LoginInner() {
   const router = useRouter();
   const params = useSearchParams();
-  const next = params.get("next") || "/admin";
+  const next = safeNextPath(params.get("next"));
   const [email, setEmail] = useState("");
   const [code, setCode] = useState("");
   const [sent, setSent] = useState(false);
@@ -21,7 +22,10 @@ function LoginInner() {
     const supabase = createClient();
     const { error: err } = await supabase.auth.signInWithOtp({
       email: email.trim(),
-      options: { shouldCreateUser: true },
+      options: {
+        shouldCreateUser: true,
+        emailRedirectTo: emailRedirectTo(next),
+      },
     });
     setBusy(false);
     if (err) {
