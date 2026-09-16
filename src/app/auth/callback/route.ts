@@ -7,29 +7,24 @@ export async function GET(request: Request) {
   const code = requestUrl.searchParams.get("code");
   const tokenHash = requestUrl.searchParams.get("token_hash");
   const type = requestUrl.searchParams.get("type");
-  const next = safeNextPath(requestUrl.searchParams.get("next"));
+  const next = safeNextPath(
+    requestUrl.searchParams.get("next") || (type === "recovery" ? "/reset-password" : "/admin")
+  );
   const origin = productionOrigin();
-
   const supabase = createClient();
 
   if (code) {
     const { error } = await supabase.auth.exchangeCodeForSession(code);
-    if (!error) {
-      return NextResponse.redirect(`${origin}${next}`);
-    }
-    return NextResponse.redirect(`${origin}/login?error=callback&next=${encodeURIComponent(next)}`);
+    if (!error) return NextResponse.redirect(`${origin}${next}`);
+    return NextResponse.redirect(`${origin}/login?error=callback`);
   }
 
   if (tokenHash) {
-    const { error } = await supabase.auth.verifyOtp({
-      type: (type as "email" | "magiclink") || "email",
-      token_hash: tokenHash,
-    });
-    if (!error) {
-      return NextResponse.redirect(`${origin}${next}`);
-    }
-    return NextResponse.redirect(`${origin}/login?error=callback&next=${encodeURIComponent(next)}`);
+    const otpType = (type as "email" | "magiclink" | "recovery") || "recovery";
+    const { error } = await supabase.auth.verifyOtp({ type: otpType, token_hash: tokenHash });
+    if (!error) return NextResponse.redirect(`${origin}${next}`);
+    return NextResponse.redirect(`${origin}/login?error=callback`);
   }
 
-  return NextResponse.redirect(`${origin}/login?error=missing_code&next=${encodeURIComponent(next)}`);
+  return NextResponse.redirect(`${origin}/login?error=missing_code`);
 }
