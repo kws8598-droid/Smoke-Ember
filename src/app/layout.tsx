@@ -44,7 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <meta name="theme-color" content="#0c0907" />
         <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
-      </head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1197692196854903" crossOrigin="anonymous" />/head>
       <body className="min-h-screen font-sans antialiased">
         <PwaRegister />
         <Header />
