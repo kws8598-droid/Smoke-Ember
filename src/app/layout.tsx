@@ -43,8 +43,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&display=swap" rel="stylesheet" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <meta name="theme-color" content="#0c0907" />
-        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
-   </head>
+        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" /> 
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1197692196854903" crossOrigin="anonymous" /> </head>
       <body className="min-h-screen font-sans antialiased">
         <PwaRegister />
         <Header />
