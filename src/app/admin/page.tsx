@@ -4,6 +4,8 @@ import SignOut from "./sign-out";
 import AdminEditor from "./editor";
 
 export const metadata = { title: "Admin" };
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 export default async function AdminPage() {
   const supabase = createClient();
@@ -15,13 +17,13 @@ export default async function AdminPage() {
     redirect("/login?next=/admin");
   }
 
-  const [{ data: recipes }, { data: tips }] = await Promise.all([
+  const [{ data: overrides }, { data: tableRecipes }] = await Promise.all([
+    supabase.from("recipe_overrides").select("slug,recipe,updated_at").order("slug"),
     supabase.from("recipes").select("slug,data").order("slug"),
-    supabase.from("wisdom").select("slug,data").order("slug"),
   ]);
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-12">
+    <main className="mx-auto max-w-xl px-4 py-10">
       <div className="flex items-start justify-between gap-4">
         <div>
           <p className="text-xs uppercase tracking-[0.22em] text-white/40">Pit office</p>
@@ -30,7 +32,7 @@ export default async function AdminPage() {
         </div>
         <SignOut />
       </div>
-      <AdminEditor recipes={recipes ?? []} tips={tips ?? []} />
+      <AdminEditor overrides={overrides ?? []} tableRecipes={tableRecipes ?? []} />
     </main>
   );
 }
