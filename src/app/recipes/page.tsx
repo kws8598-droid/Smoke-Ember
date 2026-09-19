@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
+import { useLiveCatalog } from "@/components/LiveCatalog";
 function RecipesInner() {
   const router = useRouter();
   const params = useSearchParams();
@@ -31,11 +32,12 @@ function RecipesInner() {
     setRegion(nextRegion);
     replaceFilters(protein, nextRegion);
   }
+  const { recipes: liveRecipes } = useLiveCatalog();
   const list = useMemo(() => {
-    let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: protein === "all" ? false : protein === "desserts" });
+    let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: protein === "all" ? false : protein === "desserts" }, liveRecipes);
     if (region !== "all") rows = rows.filter((r) => r.region === region);
     return rows;
-  }, [protein, q, time, region]);
+  }, [protein, q, time, region, liveRecipes]);
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">The book</p>
@@ -54,7 +56,7 @@ function RecipesInner() {
         {["all", "2h", "afternoon", "all-day"].map((t) => (
           <button key={t} onClick={() => setTime(t)} className={`h-11 rounded-full px-3 text-xs ${time === t ? "bg-cream text-ink" : "text-subtle"}`}>{t === "all" ? "Any time" : t === "2h" ? "2 hours" : t === "afternoon" ? "Afternoon" : "All day"}</button>
         ))}
-        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search the book\u2026" className="h-11 min-w-[12rem] flex-1 rounded-full border border-white/10 bg-bark px-4 text-sm outline-none focus:border-ember" />
+        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search the book…" className="h-11 min-w-[12rem] flex-1 rounded-full border border-white/10 bg-bark px-4 text-sm outline-none focus:border-ember" />
       </div>
       <p className="mt-6 text-sm text-subtle">{list.length} cooks</p>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{list.map((r) => <RecipeCard key={r.slug} recipe={r} />)}</div>

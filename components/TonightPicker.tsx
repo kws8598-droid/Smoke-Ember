@@ -2,6 +2,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { filterRecipes, formatHours } from "@/lib/data";
+import { useLiveCatalog } from "@/components/LiveCatalog";
 
 const times = [
   { id: "2h", label: "2 hours" },
@@ -23,7 +24,8 @@ const chips = [
 export default function TonightPicker() {
   const [time, setTime] = useState("afternoon");
   const [protein, setProtein] = useState("beef");
-  const picks = useMemo(() => filterRecipes({ protein, time }).slice(0, 3), [protein, time]);
+  const { recipes: liveRecipes } = useLiveCatalog();
+  const picks = useMemo(() => filterRecipes({ protein, time }, liveRecipes).slice(0, 3), [protein, time, liveRecipes]);
 
   return (
     <div className="order-2 rounded-[30px] border border-white/10 bg-ink/80 p-5 backdrop-blur-md shadow-2xl sm:p-6 md:order-none">
