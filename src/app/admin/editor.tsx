@@ -139,33 +139,84 @@ export default function AdminEditor({
     setSaved(false);
   }
 
+  function imageExtension(imageFile: File): string {
+    // Some Android photo/file pickers report an empty or generic MIME type,
+    // so fall back to the file-name extension when the type is not usable.
+    const mime = (imageFile.type || "").toLowerCase();
+    if ((ALLOWED_IMAGE_TYPES as string[]).includes(mime)) {
+      return mime === "image/jpeg" ? "jpg" : mime.split("/")[1];
+    }
+    const match = (imageFile.name || "").toLowerCase().match(/\.([a-z0-9]+)$/);
+    const nameExt = match ? match[1] : "";
+    if (nameExt === "jpg" || nameExt === "jpeg") return "jpg";
+    if (nameExt === "png" || nameExt === "webp" || nameExt === "gif") return nameExt;
+    return "";
+  }
+
+  function safeSlugPath(slug: string): string {
+    const cleaned = slug.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    return cleaned || "recipe";
+  }
+
+  function friendlyStorageError(err: unknown): Error {
+    const msg = err instanceof Error ? err.message : String(err ?? "");
+    if (/bucket not found|NoSuchBucket/i.test(msg)) {
+      return new Error(
+        "Image storage is not set up yet (the recipe-images bucket is missing). Ask Bruno to finish the Supabase storage setup, then try again."
+      );
+    }
+    if (/row-level security|not authorized|unauthorized|permission denied|AccessDenied/i.test(msg)) {
+      return new Error("You do not have permission to upload images. Sign in as the admin account and try again.");
+    }
+    if (/too large|exceed/i.test(msg)) {
+      return new Error("Image must be 8 MB or smaller.");
+    }
+    return new Error(msg || "Image upload failed. Check your connection and try again.");
+  }
+
+  async function removeOldBucketImage(supabase: ReturnType<typeof createClient>, imageUrl: string) {
+    // Best-effort cleanup so replaced pictures do not pile up in the bucket.
+    // Only touches files inside our own recipe-images bucket; local /images and
+    // external URLs are never deleted.
+    try {
+      const marker = `/storage/v1/object/public/${RECIPE_IMAGE_BUCKET}/`;
+      const idx = imageUrl.indexOf(marker);
+      if (idx < 0) return;
+      const oldPath = imageUrl.slice(idx + marker.length).split("?")[0];
+      if (!oldPath || oldPath.includes("..")) return;
+      await supabase.storage.from(RECIPE_IMAGE_BUCKET).remove([oldPath]);
+    } catch {
+      // Cleanup failure must never break a successful save.
+    }
+  }
+
   async function uploadImage(supabase: ReturnType<typeof createClient>, nextSlug: string, imageFile: File) {
-    if (!ALLOWED_IMAGE_TYPES.includes(imageFile.type)) {
+    const ext = imageExtension(imageFile);
+    if (!ext) {
       throw new Error("Use a JPEG, PNG, WebP, or GIF image.");
     }
     if (imageFile.size > MAX_IMAGE_BYTES) {
       throw new Error("Image must be 8 MB or smaller.");
     }
-    const ext =
-      imageFile.type === "image/png"
-        ? "png"
-        : imageFile.type === "image/webp"
-          ? "webp"
-          : imageFile.type === "image/gif"
-            ? "gif"
-            : "jpg";
-    const path = `${nextSlug}-${Date.now()}.${ext}`;
-    await supabase.storage.createBucket(RECIPE_IMAGE_BUCKET, {
-      public: true,
-      fileSizeLimit: MAX_IMAGE_BYTES,
-      allowedMimeTypes: [...ALLOWED_IMAGE_TYPES],
-    });
-    const { error } = await supabase.storage.from(RECIPE_IMAGE_BUCKET).upload(path, imageFile, {
-      cacheControl: "3600",
-      upsert: true,
-      contentType: imageFile.type,
-    });
-    if (error) throw new Error(error.message);
+    if (!imageFile.size) {
+      throw new Error("That image file looks empty. Please choose another picture.");
+    }
+    // NOTE: the recipe-images bucket is created once via supabase/setup.sql
+    // (service-role / dashboard SQL). Never call createBucket() from the
+    // browser client: the anon key is denied by storage RLS and the upload
+    // fails with "new row violates row-level security policy".
+    const path = `${safeSlugPath(nextSlug)}-${Date.now()}.${ext}`;
+    const mime = (imageFile.type || "").toLowerCase();
+    try {
+      const { error } = await supabase.storage.from(RECIPE_IMAGE_BUCKET).upload(path, imageFile, {
+        cacheControl: "3600",
+        upsert: true,
+        contentType: mime || (ext === "jpg" ? "image/jpeg" : `image/${ext}`),
+      });
+      if (error) throw error;
+    } catch (err) {
+      throw friendlyStorageError(err);
+    }
     const { data } = supabase.storage.from(RECIPE_IMAGE_BUCKET).getPublicUrl(path);
     return `${data.publicUrl}?t=${Date.now()}`;
   }
@@ -178,10 +229,20 @@ export default function AdminEditor({
     try {
       const supabase = createClient();
       const next = fromDraft(current, draft);
+      const previousImage = draft.image;
       if (file) next.image = await uploadImage(supabase, current.slug, file);
       const overrideResult = await supabase.from("recipe_overrides").upsert({ slug: current.slug, recipe: next }, { onConflict: "slug" });
-      if (overrideResult.error) throw new Error(overrideResult.error.message);
-      await supabase.from("recipes").upsert({ slug: current.slug, data: next, published: true }, { onConflict: "slug" });
+      if (overrideResult.error) {
+        if (/row-level security|permission|not authorized/i.test(overrideResult.error.message)) {
+          throw new Error("Could not save: your session may have expired. Sign in again as the admin.");
+        }
+        throw new Error(overrideResult.error.message);
+      }
+      const tableResult = await supabase.from("recipes").upsert({ slug: current.slug, data: next, published: true }, { onConflict: "slug" });
+      if (tableResult.error) throw new Error(tableResult.error.message);
+      if (file && previousImage && previousImage !== next.image) {
+        await removeOldBucketImage(supabase, previousImage);
+      }
       setDraft(toDraft(next));
       setFile(null);
       setPreview("");
