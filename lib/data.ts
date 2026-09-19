@@ -85,8 +85,11 @@ export function related(recipe: Recipe, n = 3) {
   return recipes.filter((r) => r.slug !== recipe.slug && (r.region === recipe.region || r.protein === recipe.protein)).slice(0, n);
 }
 
-export function filterRecipes(opts: { protein?: string; time?: string; q?: string; includeDesserts?: boolean }) {
-  let list = recipes.slice();
+export function filterRecipes(
+  opts: { protein?: string; time?: string; q?: string; includeDesserts?: boolean },
+  source: Recipe[] = recipes
+) {
+  let list = source.slice();
   if (!opts.includeDesserts) list = list.filter((r) => r.protein !== "desserts");
   if (opts.protein && opts.protein !== "all") list = list.filter((r) => r.protein === opts.protein);
   if (opts.time === "2h") list = list.filter((r) => r.hours.max <= 2.5);

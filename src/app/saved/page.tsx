@@ -2,9 +2,10 @@
 import { useEffect, useState } from "react";
 import RecipeCard from "@/components/RecipeCard";
 import { getSaved } from "@/components/SaveButton";
-import { recipes } from "@/lib/data";
+import { useLiveCatalog } from "@/components/LiveCatalog";
 export default function SavedPage() {
   const [slugs, setSlugs] = useState<string[]>([]);
+  const { recipes } = useLiveCatalog();
   useEffect(() => setSlugs(getSaved()), []);
   const list = recipes.filter((r) => slugs.includes(r.slug));
   return (
