@@ -6,10 +6,24 @@ import { LiveCatalogProvider } from "@/components/LiveCatalog";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://smoke-ember.vercel.app"),
   title: { default: "Smoke and Ember", template: "%s · Smoke and Ember" },
   description: "Pull up a chair. Regional BBQ, pitmaster sides, and the tricks the fire actually teaches.",
   applicationName: "Smoke and Ember",
   manifest: "/manifest.webmanifest",
+  openGraph: {
+    type: "website",
+    siteName: "Smoke and Ember",
+    title: "Smoke and Ember",
+    description: "Pull up a chair. Regional BBQ, pitmaster sides, and the tricks the fire actually teaches.",
+    images: [{ url: "/og.jpg", width: 1200, height: 630, alt: "Smoke and Ember" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Smoke and Ember",
+    description: "Pull up a chair. Regional BBQ, pitmaster sides, and the tricks the fire actually teaches.",
+    images: ["/og.jpg"],
+  },
   icons: {
     icon: [
       { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
