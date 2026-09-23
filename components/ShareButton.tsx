@@ -9,47 +9,39 @@ type Props = {
 };
 
 /**
- * Opens the device's native share sheet.
- * Falls back to copying the link.
+ * Opens the device's native share sheet (Android share menu, etc.).
+ * Falls back to copying the link when Web Share isn't available.
  */
 export default function ShareButton({ title, text, url }: Props) {
   const [copied, setCopied] = useState(false);
 
   async function onShare() {
     const shareUrl = url ?? window.location.href;
-    const payload = { title, text, url: shareUrl };
-
-    if (typeof navigator.share === "function") {
-      const canShare =
-        typeof navigator.canShare !== "function" || navigator.canShare(payload);
-      if (canShare) {
-        try {
-          await navigator.share(payload);
-          return;
-        } catch (err) {
-          if (err instanceof DOMException && err.name === "AbortError") return;
-        }
+    const nav = navigator as Navigator & { share?: (data: ShareData) => Promise<void> };
+    if (nav.share) {
+      try {
+        await nav.share({ title, text: text ?? title, url: shareUrl });
+      } catch {
+        /* user dismissed the share sheet — nothing to do */
       }
+      return;
     }
-
     try {
       await navigator.clipboard.writeText(shareUrl);
       setCopied(true);
-      window.setTimeout(() => setCopied(false), 2000);
+      setTimeout(() => setCopied(false), 2000);
     } catch {
-      window.prompt("Copy this link", shareUrl);
+      window.prompt("Copy this link to share:", shareUrl);
     }
   }
 
   return (
     <button
       type="button"
-      onClick={() => {
-        void onShare();
-      }}
+      onClick={onShare}
       className="shrink-0 rounded-full border border-white/15 px-3 py-1.5 text-sm text-parchment hover:border-ember"
     >
-      {copied ? "Copied" : "Share"}
+      {copied ? "Copied!" : "Share"}
     </button>
   );
 }

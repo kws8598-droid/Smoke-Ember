@@ -31,8 +31,8 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           </div>
           <div className="mt-4 flex items-start justify-between gap-4">
             <h1 className="font-display text-4xl italic text-cream sm:text-6xl">{r.title}</h1>
-            <div className="flex shrink-0 items-center gap-2">
-              <ShareButton title={r.title} text={r.summary} />
+            <div className="flex shrink-0 gap-2">
+              <ShareButton title={r.title} text={`Smoke and Ember: ${r.title}`} />
               <SaveButton slug={r.slug} />
             </div>
           </div>
