@@ -3,6 +3,7 @@
 import Link from "next/link";
 import CookTimer from "@/components/CookTimer";
 import SaveButton from "@/components/SaveButton";
+import ShareButton from "@/components/ShareButton";
 import RecipeCard from "@/components/RecipeCard";
 import { difficultyLabel, formatHours, regionLabel, related } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -30,7 +31,10 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           </div>
           <div className="mt-4 flex items-start justify-between gap-4">
             <h1 className="font-display text-4xl italic text-cream sm:text-6xl">{r.title}</h1>
-            <SaveButton slug={r.slug} />
+            <div className="flex shrink-0 items-center gap-2">
+              <ShareButton title={r.title} text={r.summary} />
+              <SaveButton slug={r.slug} />
+            </div>
           </div>
           <p className="mt-2 text-sm text-subtle">{r.school}</p>
           <p className="mt-4 max-w-2xl text-lg text-parchment/90">{r.story}</p>
