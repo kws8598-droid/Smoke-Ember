@@ -92,5 +92,85 @@
         "hint": "Sauce, then a hot grate. Rest 5 minutes. Pull the picks."
       }
     ]
+  },
+  {
+    "slug": "cast-iron-green-beans",
+    "title": "Cast Iron Green Beans with Ham Hock & Potatoes",
+    "region": "kentucky",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": { "min": 1.5, "max": 2.25 },
+    "servings": "8–10",
+    "wood": "None — Dutch oven on the stove or over coals",
+    "pitTemp": "Gentle simmer",
+    "finish": "Beans silky, potatoes poke-tender, vinegar in at the end",
+    "summary": "Ham hock pot liquor, whole potatoes, snapped beans. Vinegar last. Taste before you salt.",
+    "story": "This is pot liquor cooking, not a crisp skillet sauté. The hock simmers first so the broth tastes like smoke and bone before the beans ever hit the pot. Fresh beans go in raw and come out silky. Canned beans wait until the last 20–30 minutes or they fall apart. Country ham is saltier than a hock — cut the bouillon and don't salt until you've tasted.",
+    "school": "Kentucky pot liquor",
+    "image": "/food/cast-iron-green-beans.jpg",
+    "ingredients": [
+      {
+        "group": "Pot",
+        "items": [
+          "2 lbs fresh green beans, ends snapped (or 4 cans, drained — see notes)",
+          "1 large smoked ham hock, 1–1.5 lbs (or a ½–¾ lb chunk of country ham)",
+          "1½ lbs small whole potatoes, scrubbed, skins on",
+          "1 large yellow onion, quartered",
+          "4 cups chicken broth (or 4 cups water + 4 tsp chicken bouillon)",
+          "1 tsp black pepper",
+          "½ tsp red pepper flakes (optional)",
+          "1 Tbsp apple cider vinegar, stirred in at the end"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Build the pot liquor",
+        "body": "Ham hock (or country ham) and broth in the Dutch oven, lid on. Gentle simmer 45–60 minutes."
+      },
+      {
+        "title": "Load the pot",
+        "body": "Lift the meat out. Add onions, potatoes, and fresh green beans. Nestle the meat back on top. Broth should nearly cover; splash in water if short."
+      },
+      {
+        "title": "Simmer low",
+        "body": "Lid on, low simmer 45 minutes to an hour, until beans are silky and potatoes poke tender."
+      },
+      {
+        "title": "Chop the meat back in",
+        "body": "Fish out the meat, chop it, stir it back in."
+      },
+      {
+        "title": "Vinegar, then taste",
+        "body": "Stir in the vinegar, then taste before salting."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Country ham",
+        "text": "It's saltier than a hock — cut the bouillon in half (or use low-sodium broth) and don't add any salt until you've tasted at the end."
+      },
+      {
+        "voice": "Canned beans",
+        "text": "They're already cooked. Don't put them in with the potatoes or they'll fall apart. Add the drained cans for just the last 20–30 minutes so they soak up flavor without going mushy."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "liquor",
+        "label": "Pot liquor",
+        "hint": "Hock simmered 45–60 minutes."
+      },
+      {
+        "id": "tender",
+        "label": "Beans silky",
+        "hint": "Potatoes poke tender, beans slumped."
+      },
+      {
+        "id": "finish",
+        "label": "Vinegar in",
+        "hint": "Meat chopped back in. Taste before salt."
+      }
+    ]
   }
 ]
