@@ -13,71 +13,11 @@
     "summary": "Apple juice plus peach nectar for pork butt. Enough tang that the fruit doesn’t read candy-sweet.",
     "story": "Apple juice is the classic pork-injection base. Peach nectar on top of it makes the mix read Southern instead of just sweet. The vinegar does quiet work — just enough bite to keep all that fruit and sugar from going candy. Warm it so the salt and brown sugar disappear, cool it, strain it, then grid the butt. Rest in the fridge a couple hours or overnight, then rub and smoke as usual. Pork butt is forgiving. Don’t overthink the pattern.",
     "school": "Championship pork pit",
-    "image": "/images/championship-pulled-pork.jpg",
-    "ingredients": [
-      {
-        "group": "Injection",
-        "items": [
-          "2 cups apple juice",
-          "1 cup peach nectar (canned, like Kern's)",
-          "½ cup brown sugar, packed",
-          "¼ cup apple cider vinegar",
-          "2 Tbsp kosher salt",
-          "1 Tbsp Worcestershire sauce",
-          "1 tsp garlic powder",
-          "1 tsp onion powder"
-        ]
-      }
-    ],
-    "steps": [
-      {
-        "title": "Warm and dissolve",
-        "body": "Warm the mix gently and stir until the sugar and salt disappear. Do not boil — you want it dissolved, not cooked down."
-      },
-      {
-        "title": "Cool and strain",
-        "body": "Cool to room temp. Strain so powder clumps and any pulp don’t clog the needle."
-      },
-      {
-        "title": "Grid the butt",
-        "body": "Inject in a 1-inch grid all over. Pork butt is forgiving — don’t overthink the pattern. Some leakage is normal; wipe it and keep going."
-      },
-      {
-        "title": "Rest, then rub",
-        "body": "Fridge a couple hours or overnight. Then rub and smoke as usual."
-      }
-    ],
-    "proTips": [
-      {
-        "voice": "Championship pork",
-        "text": "The vinegar is doing quiet work here — just enough tang to keep all that fruit and sugar from going candy-sweet."
-      },
-      {
-        "voice": "Southern pit",
-        "text": "Peach reads more Southern than straight apple juice ever will. Kern's or any canned nectar is fine."
-      },
-      {
-        "voice": "Needle note",
-        "text": "Strain. A clogged injector mid-butt is how you make a mess and skip half the meat."
-      }
-    ],
-    "milestones": [
-      {
-        "id": "dissolve",
-        "label": "Dissolved",
-        "hint": "Warm, stir, sugar and salt gone."
-      },
-      {
-        "id": "strain",
-        "label": "Cooled and strained",
-        "hint": "Room temp. Fine mesh so the needle stays clear."
-      },
-      {
-        "id": "inject",
-        "label": "Injected",
-        "hint": "1-inch grid. Rest in the fridge, then rub."
-      }
-    ]
+    "image": "/images/pork-injection.jpg",
+    "ingredients": [{"group": "Injection", "items": ["2 cups apple juice", "1 cup peach nectar (canned, like Kern's)", "½ cup brown sugar, packed", "¼ cup apple cider vinegar", "2 Tbsp kosher salt", "1 Tbsp Worcestershire sauce", "1 tsp garlic powder", "1 tsp onion powder"]}],
+    "steps": [{"title": "Warm and dissolve", "body": "Warm the mix gently and stir until the sugar and salt disappear. Do not boil — you want it dissolved, not cooked down."}, {"title": "Cool and strain", "body": "Cool to room temp. Strain so powder clumps and any pulp don’t clog the needle."}, {"title": "Grid the butt", "body": "Inject in a 1-inch grid all over. Pork butt is forgiving — don’t overthink the pattern. Some leakage is normal; wipe it and keep going."}, {"title": "Rest, then rub", "body": "Fridge a couple hours or overnight. Then rub and smoke as usual."}],
+    "proTips": [{"voice": "Championship pork", "text": "The vinegar is doing quiet work here — just enough tang to keep all that fruit and sugar from going candy-sweet."}, {"voice": "Southern pit", "text": "Peach reads more Southern than straight apple juice ever will. Kern's or any canned nectar is fine."}, {"voice": "Needle note", "text": "Strain. A clogged injector mid-butt is how you make a mess and skip half the meat."}],
+    "milestones": [{"id": "dissolve", "label": "Dissolved", "hint": "Warm, stir, sugar and salt gone."}, {"id": "strain", "label": "Cooled and strained", "hint": "Room temp. Fine mesh so the needle stays clear."}, {"id": "inject", "label": "Injected", "hint": "1-inch grid. Rest in the fridge, then rub."}]
   },
   {
     "slug": "ember-beef-injection",
@@ -93,73 +33,11 @@
     "summary": "Reduced beef, a shot of coffee, and quiet umami. Flavor in lean meat — brisket flat or venison. Not a phosphate crutch.",
     "story": "Lean meat is where this belongs: a brisket flat or a venison roast. Reduced bone broth, a little coffee, Worcestershire, and a drop of fish sauce. You will not taste coffee or fish. You will taste deeper beef. This is seasoning the inside, not a crutch for a dry cook. A clean fire and a real rest still have to do the work. Inject the lean like you mean it. Go light on anything already fatty. Then rub and smoke the same cook you were going to run anyway. Venison, not a separate deer recipe — same animal, same mix.",
     "school": "Offset school",
-    "image": "/images/brisket.jpg",
-    "ingredients": [
-      {
-        "group": "Injection",
-        "items": [
-          "1½ cups unsalted beef bone broth, reduced by about a third (or 1½ cups water + 1½ Tbsp roasted beef base)",
-          "¼ cup strong black coffee, cooled",
-          "2 Tbsp Worcestershire sauce",
-          "1 tsp fish sauce (Red Boat or similar — you will not taste fish)",
-          "1 tsp soy sauce",
-          "1 tsp onion powder",
-          "½ tsp garlic powder",
-          "½ tsp ground white pepper",
-          "½ tsp kosher salt (skip or cut if the base is already salty)",
-          "1 Tbsp melted beef tallow, optional — strain well"
-        ]
-      }
-    ],
-    "steps": [
-      {
-        "title": "Warm and dissolve",
-        "body": "Warm just enough to dissolve the powders and melt the tallow if you are using it. Do not boil."
-      },
-      {
-        "title": "Cool and strain",
-        "body": "Cool to room temp. Fine-mesh strain. Tallow and coffee fines clog needles. Mix fresh — don’t park overnight with the fat in it."
-      },
-      {
-        "title": "Inject the lean",
-        "body": "1-inch grid on the brisket flat or through a venison roast. Lighter pass on anything fatty. Leakage is normal. Wipe and keep going."
-      },
-      {
-        "title": "Rest, then rub",
-        "body": "Fridge 2–12 hours. Then rub and the same fire you already trust."
-      }
-    ],
-    "proTips": [
-      {
-        "voice": "Offset school",
-        "text": "This is flavor, not a crutch. If the fire is dirty and the rest is short, no syringe saves lean meat."
-      },
-      {
-        "voice": "Competition pit",
-        "text": "Coffee is roast. Fish sauce is quiet MSG. Neither should announce itself. If you can name them in the slice, you used too much."
-      },
-      {
-        "voice": "Needle note",
-        "text": "Strain twice if you use tallow. A clogged injector is how you season three spots and skip the rest."
-      }
-    ],
-    "milestones": [
-      {
-        "id": "dissolve",
-        "label": "Dissolved",
-        "hint": "Warm only. Powders gone."
-      },
-      {
-        "id": "strain",
-        "label": "Cooled and strained",
-        "hint": "Room temp. Fine mesh."
-      },
-      {
-        "id": "inject",
-        "label": "Lean injected",
-        "hint": "1-inch grid on the flat or venison. Rest, then rub."
-      }
-    ]
+    "image": "/images/venison-backstrap.jpg",
+    "ingredients": [{"group": "Injection", "items": ["1½ cups unsalted beef bone broth, reduced by about a third (or 1½ cups water + 1½ Tbsp roasted beef base)", "¼ cup strong black coffee, cooled", "2 Tbsp Worcestershire sauce", "1 tsp fish sauce (Red Boat or similar — you will not taste fish)", "1 tsp soy sauce", "1 tsp onion powder", "½ tsp garlic powder", "½ tsp ground white pepper", "½ tsp kosher salt (skip or cut if the base is already salty)", "1 Tbsp melted beef tallow, optional — strain well"]}],
+    "steps": [{"title": "Warm and dissolve", "body": "Warm just enough to dissolve the powders and melt the tallow if you are using it. Do not boil."}, {"title": "Cool and strain", "body": "Cool to room temp. Fine-mesh strain. Tallow and coffee fines clog needles. Mix fresh — don’t park overnight with the fat in it."}, {"title": "Inject the lean", "body": "1-inch grid on the brisket flat or through a venison roast. Lighter pass on anything fatty. Leakage is normal. Wipe and keep going."}, {"title": "Rest, then rub", "body": "Fridge 2–12 hours. Then rub and the same fire you already trust."}],
+    "proTips": [{"voice": "Offset school", "text": "This is flavor, not a crutch. If the fire is dirty and the rest is short, no syringe saves lean meat."}, {"voice": "Competition pit", "text": "Coffee is roast. Fish sauce is quiet MSG. Neither should announce itself. If you can name them in the slice, you used too much."}, {"voice": "Needle note", "text": "Strain twice if you use tallow. A clogged injector is how you season three spots and skip the rest."}],
+    "milestones": [{"id": "dissolve", "label": "Dissolved", "hint": "Warm only. Powders gone."}, {"id": "strain", "label": "Cooled and strained", "hint": "Room temp. Fine mesh."}, {"id": "inject", "label": "Lean injected", "hint": "1-inch grid on the flat or venison. Rest, then rub."}]
   },
   {
     "slug": "ember-finishing-glaze",
@@ -175,68 +53,11 @@
     "summary": "Sweet-tangy finishing glaze for ribs or pork butt. Thin coat. The pork has to shine, not the bottle.",
     "story": "A glaze is a last coat, not a sauce bath. Vinegar and mustard cut the molasses so it doesn’t read candy. Honey gives shine. Worcestershire keeps it savory. Warm it until it loosens — it should coat a spoon and still run. On ribs, one thin pass in the last 15–20 minutes so it sets tacky. On a pork butt, toss the pull while the meat is hot and stop when you can still see bark. Extra in a bowl. If you can’t taste smoke through it, you used too much.",
     "school": "Kansas City backyard",
-    "image": "/images/kc-ribs.jpg",
-    "ingredients": [
-      {
-        "group": "Glaze",
-        "items": [
-          "¾ cup tomato-molasses barbecue sauce",
-          "3 Tbsp apple cider vinegar",
-          "2 Tbsp apple juice",
-          "2 Tbsp honey (or peach preserves, strained)",
-          "1 Tbsp brown sugar",
-          "1 Tbsp Worcestershire sauce",
-          "1 tsp yellow mustard",
-          "½ tsp hot sauce",
-          "Pinch kosher salt"
-        ]
-      }
-    ],
-    "steps": [
-      {
-        "title": "Warm until it runs",
-        "body": "Stir over low heat just until the sugar dissolves and the glaze loosens. Do not boil it down. If it sits in a sheet, thin with vinegar or juice."
-      },
-      {
-        "title": "Ribs — late and thin",
-        "body": "Last 15–20 minutes on the pit. One thin coat. Lid shut so it sets tacky, not wet. A second kiss only if the first soaked in."
-      },
-      {
-        "title": "Pork butt — after the pull",
-        "body": "Toss the hot pulled pork with a light coat. Bark should still show. Pass the rest in a bowl."
-      }
-    ],
-    "proTips": [
-      {
-        "voice": "KC pit",
-        "text": "Sauce is a finishing coat. If you need a soup of it to make the ribs taste like something, the rub and fire didn’t do their job."
-      },
-      {
-        "voice": "Championship pork",
-        "text": "Sugar late. Early glaze scorches. Late glaze shines."
-      },
-      {
-        "voice": "Pit note",
-        "text": "If you can’t taste the smoke through it, wipe some off and serve the rest on the side."
-      }
-    ],
-    "milestones": [
-      {
-        "id": "warm",
-        "label": "Warmed thin",
-        "hint": "Coats a spoon and still runs."
-      },
-      {
-        "id": "coat",
-        "label": "Thin coat",
-        "hint": "Ribs last 15–20 min, or tossed on hot pulled pork."
-      },
-      {
-        "id": "set",
-        "label": "Tacky, not wet",
-        "hint": "Shine. Meat still shows."
-      }
-    ]
+    "image": "/images/kc-sauce.jpg",
+    "ingredients": [{"group": "Glaze", "items": ["¾ cup tomato-molasses barbecue sauce", "3 Tbsp apple cider vinegar", "2 Tbsp apple juice", "2 Tbsp honey (or peach preserves, strained)", "1 Tbsp brown sugar", "1 Tbsp Worcestershire sauce", "1 tsp yellow mustard", "½ tsp hot sauce", "Pinch kosher salt"]}],
+    "steps": [{"title": "Warm until it runs", "body": "Stir over low heat just until the sugar dissolves and the glaze loosens. Do not boil it down. If it sits in a sheet, thin with vinegar or juice."}, {"title": "Ribs — late and thin", "body": "Last 15–20 minutes on the pit. One thin coat. Lid shut so it sets tacky, not wet. A second kiss only if the first soaked in."}, {"title": "Pork butt — after the pull", "body": "Toss the hot pulled pork with a light coat. Bark should still show. Pass the rest in a bowl."}],
+    "proTips": [{"voice": "KC pit", "text": "Sauce is a finishing coat. If you need a soup of it to make the ribs taste like something, the rub and fire didn’t do their job."}, {"voice": "Championship pork", "text": "Sugar late. Early glaze scorches. Late glaze shines."}, {"voice": "Pit note", "text": "If you can’t taste the smoke through it, wipe some off and serve the rest on the side."}],
+    "milestones": [{"id": "warm", "label": "Warmed thin", "hint": "Coats a spoon and still runs."}, {"id": "coat", "label": "Thin coat", "hint": "Ribs last 15–20 min, or tossed on hot pulled pork."}, {"id": "set", "label": "Tacky, not wet", "hint": "Shine. Meat still shows."}]
   },
   {
     "slug": "holiday-smoked-ham",
@@ -253,77 +74,9 @@
     "story": "A grocery city ham is already cured and cooked. The job is gentle smoke and a holiday glaze, not another all-day cook. Score the fat, stud a few cloves, run apple or pecan at 250–275°F until the center is 135–140°F. Then the glaze: brown sugar, cider, Dijon, honey, cinnamon, and just enough clove. Two thin coats in the last 20–30 minutes. Rest 20 minutes. Clove and cinnamon should be a hello, not a Yankee Candle.",
     "school": "Modern pit holiday",
     "image": "/images/turkey.jpg",
-    "ingredients": [
-      {
-        "group": "Ham",
-        "items": [
-          "1 city ham, 10–12 lb, spiral or bone-in",
-          "8–12 whole cloves for studding — not a full coat"
-        ]
-      },
-      {
-        "group": "Clove-cinnamon glaze",
-        "items": [
-          "½ cup brown sugar, packed",
-          "⅓ cup apple cider or pineapple juice",
-          "2 Tbsp Dijon mustard",
-          "2 Tbsp honey",
-          "1 Tbsp apple cider vinegar",
-          "½ tsp ground cinnamon",
-          "¼ tsp ground cloves (or 4 whole cloves, fished out after warming)",
-          "Pinch black pepper",
-          "1 Tbsp bourbon, optional"
-        ]
-      }
-    ],
-    "steps": [
-      {
-        "title": "Score and stud",
-        "body": "Pat the ham dry. Score the fat in diamonds — into the fat, not the meat. Stud a few cloves in the diamonds. A handful. Not the whole ham."
-      },
-      {
-        "title": "Warm with clean smoke",
-        "body": "250–275°F, apple or pecan, cut-side down. A 10–12 lb ham is often 2½–3½ hours. Start probing at 2 hours. Target 135–140°F. It is already cooked."
-      },
-      {
-        "title": "Warm the glaze",
-        "body": "Stir the glaze over low heat until the sugar dissolves. Thin enough to brush. Fish out whole cloves if you used them."
-      },
-      {
-        "title": "Two thin coats",
-        "body": "Last 20–30 minutes. Brush one coat. Let it set. Brush a second. Pull at 140°F. Rest 20 minutes before slicing."
-      }
-    ],
-    "proTips": [
-      {
-        "voice": "Holiday pit",
-        "text": "Past 145°F a city ham starts giving the water back. Warm it. Don’t cook it twice."
-      },
-      {
-        "voice": "Pit note",
-        "text": "If it smells like potpourri you used too much clove. A quarter teaspoon ground is plenty for a cup of glaze."
-      },
-      {
-        "voice": "Leftovers",
-        "text": "Cold slices, biscuits, or fried ham with eggs. Don’t microwave a spiral — it weeps."
-      }
-    ],
-    "milestones": [
-      {
-        "id": "on",
-        "label": "On the pit",
-        "hint": "250–275°F, apple or pecan, cut-side down."
-      },
-      {
-        "id": "glaze",
-        "label": "Glaze window",
-        "hint": "Around 130°F. Two thin coats."
-      },
-      {
-        "id": "pull",
-        "label": "Pull and rest",
-        "hint": "140°F. Rest 20 minutes."
-      }
-    ]
+    "ingredients": [{"group": "Ham", "items": ["1 city ham, 10–12 lb, spiral or bone-in", "8–12 whole cloves for studding — not a full coat"]}, {"group": "Clove-cinnamon glaze", "items": ["½ cup brown sugar, packed", "⅓ cup apple cider or pineapple juice", "2 Tbsp Dijon mustard", "2 Tbsp honey", "1 Tbsp apple cider vinegar", "½ tsp ground cinnamon", "¼ tsp ground cloves (or 4 whole cloves, fished out after warming)", "Pinch black pepper", "1 Tbsp bourbon, optional"]}],
+    "steps": [{"title": "Score and stud", "body": "Pat the ham dry. Score the fat in diamonds — into the fat, not the meat. Stud a few cloves in the diamonds. A handful. Not the whole ham."}, {"title": "Warm with clean smoke", "body": "250–275°F, apple or pecan, cut-side down. A 10–12 lb ham is often 2½–3½ hours. Start probing at 2 hours. Target 135–140°F. It is already cooked."}, {"title": "Warm the glaze", "body": "Stir the glaze over low heat until the sugar dissolves. Thin enough to brush. Fish out whole cloves if you used them."}, {"title": "Two thin coats", "body": "Last 20–30 minutes. Brush one coat. Let it set. Brush a second. Pull at 140°F. Rest 20 minutes before slicing."}],
+    "proTips": [{"voice": "Holiday pit", "text": "Past 145°F a city ham starts giving the water back. Warm it. Don’t cook it twice."}, {"voice": "Pit note", "text": "If it smells like potpourri you used too much clove. A quarter teaspoon ground is plenty for a cup of glaze."}, {"voice": "Leftovers", "text": "Cold slices, biscuits, or fried ham with eggs. Don’t microwave a spiral — it weeps."}],
+    "milestones": [{"id": "on", "label": "On the pit", "hint": "250–275°F, apple or pecan, cut-side down."}, {"id": "glaze", "label": "Glaze window", "hint": "Around 130°F. Two thin coats."}, {"id": "pull", "label": "Pull and rest", "hint": "140°F. Rest 20 minutes."}]
   }
 ]
