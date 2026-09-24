@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "slug": "apple-peach-pork-injection",
+    "title": "Apple-Peach Pork Injection",
+    "region": "georgia",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": { "min": 0.25, "max": 0.5 },
+    "servings": "~3½ cups — enough for an 8–10 lb butt",
+    "wood": "Whatever the shoulder is getting",
+    "pitTemp": "Warm the liquid only — do not boil",
+    "finish": "Sugar and salt dissolved, cooled, strained",
+    "summary": "Apple juice plus peach nectar for pork butt. Enough tang that the fruit doesn’t read candy-sweet.",
+    "story": "Apple juice is the classic pork-injection base. Peach nectar on top of it makes the mix read Southern instead of just sweet. The vinegar does quiet work — just enough bite to keep all that fruit and sugar from going candy. Warm it so the salt and brown sugar disappear, cool it, strain it, then grid the butt. Rest in the fridge a couple hours or overnight, then rub and smoke as usual. Pork butt is forgiving. Don’t overthink the pattern.",
+    "school": "Championship pork pit",
+    "image": "/images/championship-pulled-pork.jpg",
+    "ingredients": [
+      {
+        "group": "Injection",
+        "items": [
+          "2 cups apple juice",
+          "1 cup peach nectar (canned, like Kern's)",
+          "½ cup brown sugar, packed",
+          "¼ cup apple cider vinegar",
+          "2 Tbsp kosher salt",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp garlic powder",
+          "1 tsp onion powder"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Warm and dissolve",
+        "body": "Warm the mix gently and stir until the sugar and salt disappear. Do not boil — you want it dissolved, not cooked down."
+      },
+      {
+        "title": "Cool and strain",
+        "body": "Cool to room temp. Strain so powder clumps and any pulp don’t clog the needle."
+      },
+      {
+        "title": "Grid the butt",
+        "body": "Inject in a 1-inch grid all over. Pork butt is forgiving — don’t overthink the pattern. Some leakage is normal; wipe it and keep going."
+      },
+      {
+        "title": "Rest, then rub",
+        "body": "Fridge a couple hours or overnight. Then rub and smoke as usual."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Championship pork",
+        "text": "The vinegar is doing quiet work here — just enough tang to keep all that fruit and sugar from going candy-sweet."
+      },
+      {
+        "voice": "Southern pit",
+        "text": "Peach reads more Southern than straight apple juice ever will. Kern's or any canned nectar is fine."
+      },
+      {
+        "voice": "Needle note",
+        "text": "Strain. A clogged injector mid-butt is how you make a mess and skip half the meat."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "dissolve",
+        "label": "Dissolved",
+        "hint": "Warm, stir, sugar and salt gone."
+      },
+      {
+        "id": "strain",
+        "label": "Cooled and strained",
+        "hint": "Room temp. Fine mesh so the needle stays clear."
+      },
+      {
+        "id": "inject",
+        "label": "Injected",
+        "hint": "1-inch grid. Rest in the fridge, then rub."
+      }
+    ]
+  }
+]
