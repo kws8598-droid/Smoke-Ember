@@ -78,5 +78,45 @@
     "steps": [{"title": "Pit at 250°F", "body": "Apple or cherry wood — mild fruit smoke suits ham best. It's already smoked once, so don't blast it. Hold 250°F; hotter and the sugar glaze can scorch."}, {"title": "Score if you need to", "body": "If the ham is not spiral-sliced, score the fat in a diamond pattern so the glaze sinks in."}, {"title": "Pineapple and cherries", "body": "Pin pineapple rings all over the ham with toothpicks, a cherry in the center of each ring."}, {"title": "First glaze", "body": "Set the ham in a foil pan (catches the drippings for basting) and brush on a first coat of glaze."}, {"title": "Smoke and mop", "body": "Smoke 2.5–3.5 hours, brushing with glaze every 30–45 minutes, until the inside reads 140°F."}, {"title": "Final coat", "body": "Last 30 minutes: lay on a final thick coat of glaze and let it tack up."}, {"title": "Rest and carve", "body": "Rest 15 minutes tented with foil before carving. Spoon the pan drippings over the slices."}],
     "proTips": [{"voice": "Pit note", "text": "Don't push past 140–145°F internal or it dries out. This is a warm-through, not a cook."}, {"voice": "Glaze school", "text": "Hold 250°F. The sugar will scorch if you chase heat."}, {"voice": "Oven backup", "text": "325°F, about 15 minutes per pound, same glaze schedule."}],
     "milestones": [{"id": "on", "label": "On the pit", "hint": "250°F, apple or cherry, ham in a foil pan."}, {"id": "glaze", "label": "Glazing", "hint": "Brush every 30–45 minutes."}, {"id": "temp", "label": "140°F", "hint": "Final thick coat, let it tack. Rest 15 minutes."}]
+  },
+  {
+    "slug": "honey-glazed-smoked-turkey",
+    "title": "Honey-Glazed Smoked Turkey Breast",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {"min": 2.5, "max": 3.5},
+    "servings": "8–10",
+    "wood": "Maple",
+    "pitTemp": "275–300°F",
+    "finish": "160°F pull, carryover to 165°F, glaze tacked",
+    "summary": "HoneyBaked-style bone-in turkey breast. Overnight brine, maple smoke at 275–300°F, honey-brown sugar glaze until it crackles.",
+    "story": "This is the HoneyBaked copy without the spiral slicer. Brine overnight so the breast stays wet through a 275–300°F smoke. Maple is mild and a little sweet — made for poultry. Glaze starts around 145–150°F and gets a fresh coat every 15 minutes. Pull at 160°F. Carryover finishes it at a safe 165°F. Stir extra sugar into the last coat if you want that candy-shell crackle.",
+    "school": "Holiday pit",
+    "image": "/food/honey-glazed-smoked-turkey.jpg",
+    "ingredients": [
+      {"group": "Bird", "items": ["1 (5–7 lb) bone-in turkey breast"]},
+      {"group": "Brine (night before)", "items": ["1 gallon cold water", "¾ cup kosher salt", "¾ cup brown sugar"]},
+      {"group": "Inject instead (if no fridge room)", "items": ["1 stick butter, melted", "½ cup chicken broth"]},
+      {"group": "Rub", "items": ["2 Tbsp olive oil or melted butter", "1 tsp kosher salt if brined (1 Tbsp if not)", "1 Tbsp black pepper", "1 Tbsp paprika", "2 tsp garlic powder", "2 tsp onion powder", "1 tsp dried thyme"]},
+      {"group": "Honey glaze", "items": ["½ cup honey", "½ cup brown sugar", "¼ cup butter, melted", "2 Tbsp apple juice", "1 tsp cinnamon", "½ tsp paprika", "Pinch of allspice"]}
+    ],
+    "steps": [
+      {"title": "Brine overnight", "body": "Stir salt and brown sugar into a gallon of cold water until dissolved. Submerge the breast and refrigerate 8–12 hours. No fridge room? Inject melted butter whisked with chicken broth throughout the meat instead."},
+      {"title": "Dry and season", "body": "Rinse the brine off and pat the breast VERY dry. Rub with oil, then season all over. Optional: work some seasoned butter under the skin."},
+      {"title": "Smoke on maple", "body": "Pit at 275–300°F with maple wood splits. Mild and slightly sweet, made for poultry. Don't smoke poultry below 275°F — it needs to move through the danger zone."},
+      {"title": "Start the glaze", "body": "Smoke until the thickest part hits 145–150°F (about 2–2.5 hours). Brush on the honey glaze, then re-glaze every 15 minutes."},
+      {"title": "Pull and rest", "body": "Pull at 160°F internal — carryover takes it to a safe 165°F. Rest 20–30 minutes tented with foil before slicing. For extra HoneyBaked-style crackle, stir 2 Tbsp sugar into the final glaze coat."}
+    ],
+    "proTips": [
+      {"voice": "Pit note", "text": "Don't smoke poultry below 275°F. Low-and-slow is for pork and brisket, not turkey."},
+      {"voice": "HoneyBaked crackle", "text": "Stir 2 Tbsp extra sugar into the last glaze coat and let it tack. That's the candy shell."},
+      {"voice": "Fridge full", "text": "Skip the bucket. Inject a stick of melted butter whisked with ½ cup broth."}
+    ],
+    "milestones": [
+      {"id": "brine", "label": "Brined", "hint": "8–12 hours, or injected."},
+      {"id": "glaze", "label": "Glazing", "hint": "145–150°F. Recoat every 15 minutes."},
+      {"id": "pull", "label": "160°F", "hint": "Rest 20–30 minutes tented. Carryover to 165°F."}
+    ]
   }
 ]
