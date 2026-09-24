@@ -160,5 +160,82 @@
         "hint": "1-inch grid on the flat or venison. Rest, then rub."
       }
     ]
+  },
+  {
+    "slug": "ember-finishing-glaze",
+    "title": "Ember Finishing Glaze",
+    "region": "kansas-city",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": { "min": 0.15, "max": 0.25 },
+    "servings": "~1¼ cups — racks or a pulled butt",
+    "wood": "Whatever the cook already has",
+    "pitTemp": "Warm only — do not reduce it into candy",
+    "finish": "Thin, pourable, sets tacky — meat still shows through",
+    "summary": "Sweet-tangy finishing glaze for ribs or pork butt. Thin coat. The pork has to shine, not the bottle.",
+    "story": "A glaze is a last coat, not a sauce bath. Vinegar and mustard cut the molasses so it doesn’t read candy. Honey gives shine. Worcestershire keeps it savory. Warm it until it loosens — it should coat a spoon and still run. On ribs, one thin pass in the last 15–20 minutes so it sets tacky. On a pork butt, toss the pull while the meat is hot and stop when you can still see bark. Extra in a bowl. If you can’t taste smoke through it, you used too much.",
+    "school": "Kansas City backyard",
+    "image": "/images/kc-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Glaze",
+        "items": [
+          "¾ cup tomato-molasses barbecue sauce",
+          "3 Tbsp apple cider vinegar",
+          "2 Tbsp apple juice",
+          "2 Tbsp honey (or peach preserves, strained)",
+          "1 Tbsp brown sugar",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp yellow mustard",
+          "½ tsp hot sauce",
+          "Pinch kosher salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Warm until it runs",
+        "body": "Stir over low heat just until the sugar dissolves and the glaze loosens. Do not boil it down. If it sits in a sheet, thin with vinegar or juice."
+      },
+      {
+        "title": "Ribs — late and thin",
+        "body": "Last 15–20 minutes on the pit. One thin coat. Lid shut so it sets tacky, not wet. A second kiss only if the first soaked in."
+      },
+      {
+        "title": "Pork butt — after the pull",
+        "body": "Toss the hot pulled pork with a light coat. Bark should still show. Pass the rest in a bowl."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "KC pit",
+        "text": "Sauce is a finishing coat. If you need a soup of it to make the ribs taste like something, the rub and fire didn’t do their job."
+      },
+      {
+        "voice": "Championship pork",
+        "text": "Sugar late. Early glaze scorches. Late glaze shines."
+      },
+      {
+        "voice": "Pit note",
+        "text": "If you can’t taste the smoke through it, wipe some off and serve the rest on the side."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "warm",
+        "label": "Warmed thin",
+        "hint": "Coats a spoon and still runs."
+      },
+      {
+        "id": "coat",
+        "label": "Thin coat",
+        "hint": "Ribs last 15–20 min, or tossed on hot pulled pork."
+      },
+      {
+        "id": "set",
+        "label": "Tacky, not wet",
+        "hint": "Shine. Meat still shows."
+      }
+    ]
   }
 ]
