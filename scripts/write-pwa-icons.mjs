@@ -18,15 +18,20 @@ for (const name of icons) {
 }
 
 const photoSrc = join(here, "photos");
-const photoDest = join(process.cwd(), "public", "images");
-mkdirSync(photoDest, { recursive: true });
+const imageDest = join(process.cwd(), "public", "images");
+const foodDest = join(process.cwd(), "public", "food");
+mkdirSync(imageDest, { recursive: true });
+mkdirSync(foodDest, { recursive: true });
 if (existsSync(photoSrc)) {
   for (const name of readdirSync(photoSrc)) {
     if (!name.endsWith(".b64")) continue;
     const outName = name.slice(0, -4);
-    const outPath = join(photoDest, outName);
-    if (existsSync(outPath)) continue;
     const b64 = readFileSync(join(photoSrc, name), "utf8").trim();
-    writeFileSync(outPath, Buffer.from(b64, "base64"));
+    if (!b64 || b64 === "PLACEHOLDER") continue;
+    const buf = Buffer.from(b64, "base64");
+    const imagePath = join(imageDest, outName);
+    const foodPath = join(foodDest, outName);
+    if (!existsSync(imagePath)) writeFileSync(imagePath, buf);
+    if (!existsSync(foodPath)) writeFileSync(foodPath, buf);
   }
 }
