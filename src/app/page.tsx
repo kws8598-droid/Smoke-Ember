@@ -13,7 +13,7 @@ const house = ["ember-house-rub", "ember-molasses-sauce", "honey-mustard-onion-s
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
-  const extraSides = ["mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits", "cajun-dirty-rice"].map((s) => getRecipe(s)).filter(Boolean);
+  const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   return (
