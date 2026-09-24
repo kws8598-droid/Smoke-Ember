@@ -83,15 +83,15 @@
     "slug": "ember-beef-injection",
     "title": "Ember Beef Injection",
     "region": "texas",
-    "protein": "sauces",
+    "protein": "venison",
     "difficulty": "weeknight",
     "hours": { "min": 0.25, "max": 0.5 },
-    "servings": "~2 cups — enough for a 12–16 lb packer",
-    "wood": "Whatever the brisket is getting",
+    "servings": "~2 cups — packer or a venison roast",
+    "wood": "Whatever the cook is getting",
     "pitTemp": "Warm the liquid only — do not boil",
     "finish": "Dissolved, cooled, strained",
-    "summary": "Reduced beef, a shot of coffee, and quiet umami. This is flavor in the flat — not a phosphate crutch for a dry cook.",
-    "story": "A Prime packer, an honest trim, and a real rest still beat a syringe full of commercial powder. This mix is for the other job: seasoning the inside of the flat so every slice tastes like roast beef, not just bark. Reduced bone broth, a little coffee, Worcestershire, and a drop of fish sauce. You will not taste coffee or fish. You will taste deeper beef. Inject the flat like you mean it. Go light on the point — it already brought fat. Then rub and smoke the same cook you were going to run anyway.",
+    "summary": "Reduced beef, a shot of coffee, and quiet umami. Flavor in lean meat — brisket flat or venison. Not a phosphate crutch.",
+    "story": "Lean meat is where this belongs: a brisket flat or a venison roast. Reduced bone broth, a little coffee, Worcestershire, and a drop of fish sauce. You will not taste coffee or fish. You will taste deeper beef. This is seasoning the inside, not a crutch for a dry cook. A clean fire and a real rest still have to do the work. Inject the lean like you mean it. Go light on anything already fatty. Then rub and smoke the same cook you were going to run anyway. Venison, not a separate deer recipe — same animal, same mix.",
     "school": "Offset school",
     "image": "/images/brisket.jpg",
     "ingredients": [
@@ -121,18 +121,18 @@
         "body": "Cool to room temp. Fine-mesh strain. Tallow and coffee fines clog needles. Mix fresh — don’t park overnight with the fat in it."
       },
       {
-        "title": "Inject the flat",
-        "body": "1-inch grid on both sides of the flat. Lighter pass on the point. The flat is what dries and what needs the flavor. Leakage is normal. Wipe and keep going."
+        "title": "Inject the lean",
+        "body": "1-inch grid on the brisket flat or through a venison roast. Lighter pass on anything fatty. Leakage is normal. Wipe and keep going."
       },
       {
         "title": "Rest, then rub",
-        "body": "Fridge 2–12 hours. Then the Dalmatian rub and the same fire you already trust."
+        "body": "Fridge 2–12 hours. Then rub and the same fire you already trust."
       }
     ],
     "proTips": [
       {
         "voice": "Offset school",
-        "text": "This is flavor, not a crutch. If the fire is dirty and the rest is short, no syringe saves the flat."
+        "text": "This is flavor, not a crutch. If the fire is dirty and the rest is short, no syringe saves lean meat."
       },
       {
         "voice": "Competition pit",
@@ -140,7 +140,7 @@
       },
       {
         "voice": "Needle note",
-        "text": "Strain twice if you use tallow. A clogged injector mid-flat is how you season three spots and skip the rest."
+        "text": "Strain twice if you use tallow. A clogged injector is how you season three spots and skip the rest."
       }
     ],
     "milestones": [
@@ -156,8 +156,8 @@
       },
       {
         "id": "inject",
-        "label": "Flat injected",
-        "hint": "1-inch grid on the flat. Light on the point. Rest, then rub."
+        "label": "Lean injected",
+        "hint": "1-inch grid on the flat or venison. Rest, then rub."
       }
     ]
   }
