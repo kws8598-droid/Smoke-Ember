@@ -1,4 +1,4 @@
-import { mkdirSync, existsSync, writeFileSync } from "node:fs";
+import { mkdirSync, existsSync, writeFileSync, copyFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = process.cwd();
@@ -46,4 +46,18 @@ async function worker() {
   }
 }
 await Promise.all(Array.from({ length: 8 }, worker));
+
+const foodDest = join(ROOT, "public", "food");
+mkdirSync(foodDest, { recursive: true });
+const foodCopies = [
+  ["turkey.jpg", "honey-glazed-smoked-turkey.jpg"],
+  ["holiday-smoked-ham.jpg", "christmas-ham.jpg"],
+  ["collards.jpg", "cast-iron-green-beans.jpg"],
+];
+for (const [from, to] of foodCopies) {
+  const src = join(DEST, from);
+  const dst = join(foodDest, to);
+  if (existsSync(src) && !existsSync(dst)) copyFileSync(src, dst);
+}
+
 console.warn("photo vendor finished");
