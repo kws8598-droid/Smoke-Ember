@@ -1,4 +1,4 @@
-import { mkdirSync, existsSync, writeFileSync, copyFileSync } from "node:fs";
+import { mkdirSync, existsSync, writeFileSync, copyFileSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = process.cwd();
@@ -9,6 +9,16 @@ const FILES = [
 ];
 
 mkdirSync(DEST, { recursive: true });
+
+const localPhotos = join(ROOT, "scripts", "photos");
+if (existsSync(localPhotos)) {
+  for (const name of readdirSync(localPhotos)) {
+    if (!name.endsWith(".b64")) continue;
+    const raw = readFileSync(join(localPhotos, name), "utf8").trim();
+    if (!raw || raw === "PLACEHOLDER") continue;
+    writeFileSync(join(DEST, name.replace(/\.b64$/, "")), Buffer.from(raw, "base64"));
+  }
+}
 
 async function grab(url, dest, ms = 15000) {
   if (existsSync(dest)) return true;
@@ -53,6 +63,7 @@ const foodCopies = [
   ["turkey.jpg", "honey-glazed-smoked-turkey.jpg"],
   ["holiday-smoked-ham.jpg", "christmas-ham.jpg"],
   ["collards.jpg", "cast-iron-green-beans.jpg"],
+  ["texas-twinkies.jpg", "texas-twinkies.jpg"],
 ];
 for (const [from, to] of foodCopies) {
   const src = join(DEST, from);
