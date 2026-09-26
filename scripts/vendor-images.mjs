@@ -62,13 +62,13 @@ mkdirSync(foodDest, { recursive: true });
 const foodCopies = [
   ["turkey.jpg", "honey-glazed-smoked-turkey.jpg"],
   ["holiday-smoked-ham.jpg", "christmas-ham.jpg"],
-  ["collards.jpg", "cast-iron-green-beans.jpg"],
+  ["cast-iron-green-beans.jpg", "cast-iron-green-beans.jpg"],
   ["texas-twinkies.jpg", "texas-twinkies.jpg"],
 ];
 for (const [from, to] of foodCopies) {
   const src = join(DEST, from);
   const dst = join(foodDest, to);
-  if (existsSync(src) && !existsSync(dst)) copyFileSync(src, dst);
+  if (existsSync(src)) copyFileSync(src, dst);
 }
 
 console.warn("photo vendor finished");
