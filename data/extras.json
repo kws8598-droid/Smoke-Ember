@@ -2105,5 +2105,99 @@
     "hint": "Warm with lemon or chilled."
    }
   ]
+ },
+ {
+  "slug": "brown-butter-chocolate-chip-cookies",
+  "title": "Brown Butter Chocolate Chip Cookies with Pecans",
+  "region": "kentucky",
+  "protein": "dessert",
+  "difficulty": "medium",
+  "hours": {
+   "min": 0.75,
+   "max": 1
+  },
+  "servings": "About 24 cookies",
+  "wood": "None — oven 350°F",
+  "pitTemp": "350°F",
+  "finish": "Deep golden crisp edges, chewy centers",
+  "summary": "Nutty brown butter, melty chocolate, toasted pecans, and a hit of flaky salt — with crisp edges and a chewy middle. These are the cookies that make people ask for the recipe before they finish chewing.",
+  "story": "The extra yolk and the pan rest are what get you the chew. Pull them when the centers look just barely soft.",
+  "school": "Pit basics",
+  "image": "/images/brown-butter-choc-chip-cookies.jpg",
+  "ingredients": [
+   {
+    "group": "Cookies",
+    "items": [
+     "1 cup (2 sticks) unsalted butter",
+     "1 cup packed dark brown sugar",
+     "1/2 cup granulated sugar",
+     "2 large eggs plus 1 yolk, room temperature",
+     "2 tsp vanilla extract",
+     "2 1/4 cups all-purpose flour",
+     "1 tsp baking soda",
+     "1 tsp kosher salt",
+     "1 1/2 cups semisweet chocolate chips or chunks",
+     "1 cup pecans, toasted and roughly chopped",
+     "Flaky sea salt, for sprinkling"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brown the butter",
+    "body": "Melt the butter in a light-colored saucepan over medium heat, swirling, until it foams, then turns amber with brown specks and smells nutty — about 5–7 minutes. Pour into a bowl and cool 15 minutes."
+   },
+   {
+    "title": "Mix the dough",
+    "body": "Whisk the brown butter with both sugars until smooth. Beat in the eggs, yolk, and vanilla. Stir in the flour, baking soda, and kosher salt just until no dry streaks remain. Fold in the chocolate and pecans."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest the dough 30 minutes at room temp — the flour hydrates and the flavor deepens."
+   },
+   {
+    "title": "Scoop and bake",
+    "body": "Scoop 2-tablespoon balls onto parchment-lined sheets, 2 inches apart, and press each one down slightly with your palm — flatter cookies crisp at the edges. Sprinkle with flaky salt. Bake at 350°F for 12–14 minutes, until the edges are deep golden and crisp but the centers still look just barely soft."
+   },
+   {
+    "title": "Cool",
+    "body": "Cool on the pan 10 minutes (they crisp up as they cool), then move to a rack."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "Don't walk away from the butter. It goes from brown to burnt fast — pull it when it smells like hazelnuts."
+   },
+   {
+    "voice": "Cook's honesty",
+    "text": "The 30-minute rest is the difference between a good cookie and the one people talk about."
+   },
+   {
+    "voice": "Toast the pecans",
+    "text": "Toast the pecans in a dry skillet 3–4 minutes until fragrant. Raw pecans taste like nothing next to brown butter."
+   },
+   {
+    "voice": "Crisp-chewy trick",
+    "text": "Crisp-chewy is a cooling trick as much as a baking one: pull them when the centers look just barely soft, and the 10-minute pan rest sets the crisp edge while the middle stays chewy."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "butter",
+    "label": "Butter browned",
+    "hint": "Amber, nutty, cooled."
+   },
+   {
+    "id": "dough",
+    "label": "Dough rested",
+    "hint": "30 minutes."
+   },
+   {
+    "id": "bake",
+    "label": "Baked",
+    "hint": "350°F, crisp edges."
+   }
+  ]
  }
 ]
