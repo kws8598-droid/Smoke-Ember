@@ -1765,5 +1765,90 @@
         "hint": "Rested 10 min, lemon wedges."
       }
     ]
+  },
+  {
+    "slug": "smoked-chicken-wings",
+    "title": "Smoked Chicken Wings",
+    "region": "kentucky",
+    "protein": "chicken",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "6 to 8 as an appetizer",
+    "wood": "Cherry for color, hickory for punch",
+    "pitTemp": "275°F, finish hot at 400°F+",
+    "finish": "165°F, skin crisp",
+    "summary": "The cook every pit needs. Smoke first for flavor, finish hot for skin that actually snaps — then toss in whatever sauce the crowd wants.",
+    "story": "Pat them dry, hit them with baking powder and rub, and don't you dare sauce them before the crisp.",
+    "school": "Pit basics",
+    "image": "/images/smoked-chicken-wings.jpg",
+    "ingredients": [
+      {
+        "group": "Wings",
+        "items": [
+          "4 lbs chicken wings, split into flats and drumettes, tips removed",
+          "1 Tbsp aluminum-free baking powder",
+          "2 Tbsp Ember House Rub (or SPG, or lemon-pepper poultry rub)",
+          "Your favorite wing sauce, warmed (Buffalo, BBQ, garlic-parmesan — your call)",
+          "Ranch or blue cheese, for serving",
+          "Celery sticks, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dry",
+        "body": "Pat the wings very dry with paper towels — moisture is the enemy of crisp skin."
+      },
+      {
+        "title": "Season and rest",
+        "body": "Toss with the baking powder and rub until evenly coated. Rest uncovered in the fridge 2 to 4 hours (overnight is even better)."
+      },
+      {
+        "title": "Smoke",
+        "body": "275°F until the wings read 165°F, about 1 1/2 to 2 hours."
+      },
+      {
+        "title": "Crisp",
+        "body": "Crank the pit to 400°F+ for 10 to 15 minutes, until the skin tightens and crackles."
+      },
+      {
+        "title": "Sauce",
+        "body": "Toss in warm sauce — or serve dry with sauce on the side. Ranch and celery alongside."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "The baking powder is the cheat code. It raises the skin's pH so it browns and crisps instead of going rubbery."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Never sauce before the crisp. Sauce after, always — wet skin never crisps."
+      },
+      {
+        "voice": "Bonus",
+        "text": "These reheat in an air fryer better than fresh out of most ovens. Make extra."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "season",
+        "label": "Seasoned",
+        "hint": "Baking powder + rub, rested."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "275°F to 165°F."
+      },
+      {
+        "id": "crisp",
+        "label": "Crisped and sauced",
+        "hint": "Hot finish, sauce after."
+      }
+    ]
   }
 ]
