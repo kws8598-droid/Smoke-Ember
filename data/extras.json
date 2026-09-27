@@ -1460,5 +1460,204 @@
         "hint": "Rested, chimichurri over the top."
       }
     ]
+  },
+  {
+    "slug": "smoked-stuffed-thanksgiving-turkey",
+    "title": "Smoked Stuffed Thanksgiving Turkey",
+    "region": "kentucky",
+    "protein": "turkey",
+    "difficulty": "holiday",
+    "hours": {
+      "min": 4,
+      "max": 5
+    },
+    "servings": "10 to 12",
+    "wood": "Apple or cherry",
+    "pitTemp": "275-300°F, finish at 375-400°F",
+    "finish": "165°F breast and stuffing",
+    "summary": "The centerpiece. Dry-brined overnight, stuffed and smoked low, finished hot for crisp skin — with dressing in a pan alongside catching the drippings and the smoke.",
+    "story": "This is the turkey people talk about all year. The bird gets the cavity stuffing, the rest of the dressing goes in a pan on the smoker — best of both worlds — and a hot finish crisps the skin.",
+    "school": "Holiday table",
+    "image": "/images/smoked-thanksgiving-turkey.jpg",
+    "ingredients": [
+      {
+        "group": "Bird",
+        "items": [
+          "1 whole turkey, 12 to 14 lb, thawed"
+        ]
+      },
+      {
+        "group": "Dry brine",
+        "items": [
+          "1/4 cup kosher salt",
+          "2 Tbsp brown sugar",
+          "1 Tbsp coarse black pepper",
+          "1 Tbsp poultry seasoning",
+          "2 tsp granulated garlic"
+        ]
+      },
+      {
+        "group": "For the cook",
+        "items": [
+          "4 Tbsp butter, softened",
+          "2 Tbsp olive oil"
+        ]
+      },
+      {
+        "group": "Sage dressing",
+        "items": [
+          "1 lb cornbread, crumbled and dried overnight",
+          "1 lb white bread cubes, dried overnight",
+          "1 stick butter",
+          "2 onions, diced",
+          "4 ribs celery, diced",
+          "2 Tbsp fresh sage, chopped (or 2 tsp dried)",
+          "1 Tbsp fresh thyme leaves",
+          "3 to 4 cups warm turkey or chicken broth",
+          "2 eggs, beaten",
+          "Salt and pepper to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dry brine",
+        "body": "Mix the salt, brown sugar, pepper, poultry seasoning, and granulated garlic. Rub all over the bird, inside and out. Refrigerate uncovered 12 to 24 hours."
+      },
+      {
+        "title": "Prep",
+        "body": "Rinse off the brine and pat dry. Rub the softened butter under the breast skin and the olive oil all over the outside."
+      },
+      {
+        "title": "Stuff loosely",
+        "body": "Fill the cavity about two-thirds full with dressing — packed stuffing won't cook through. Truss the legs."
+      },
+      {
+        "title": "Smoke",
+        "body": "275-300°F with apple or cherry until the breast reads 150°F, about 3 1/2 to 4 1/2 hours."
+      },
+      {
+        "title": "Crisp the skin",
+        "body": "Run the pit up to 375-400°F (or move the bird to a 400°F oven) for the last 30 to 45 minutes, until the skin tightens and browns and the breast hits 165°F — and the stuffing in the cavity reads 165°F."
+      },
+      {
+        "title": "Pan dressing",
+        "body": "Put the rest of the dressing in a buttered foil pan and smoke it alongside the bird for the last 90 minutes, stirring once."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 30 to 45 minutes tented in foil before carving."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Holiday table",
+        "text": "The stuffing inside the bird MUST hit 165°F — that's the food-safety line. Thermometer in the center of the cavity stuffing."
+      },
+      {
+        "voice": "Pit note",
+        "text": "The hot finish is what saves the skin. Low smoke alone leaves it rubbery — that last blast at 375-400°F tightens and browns it."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Don't overstuff. A loosely filled cavity cooks through; a packed one stays raw in the middle while the breast dries out."
+      },
+      {
+        "voice": "Bonus",
+        "text": "Save the carcass. Smoked turkey stock is liquid gold for gumbo."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "brine",
+        "label": "Brined",
+        "hint": "Dry brine 12-24 hours uncovered."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "275-300°F to 150°F breast."
+      },
+      {
+        "id": "crisp",
+        "label": "Crisped and rested",
+        "hint": "Hot finish to 165°F. Rest 30-45 min."
+      }
+    ]
+  },
+  {
+    "slug": "fresh-cranberry-orange-relish",
+    "title": "Fresh Cranberry-Orange Relish",
+    "region": "kentucky",
+    "protein": "side",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.25
+    },
+    "servings": "Makes about 3 cups",
+    "wood": "",
+    "pitTemp": "No-cook",
+    "finish": "Rested overnight",
+    "summary": "The bright counterpoint to a rich smoked turkey. Raw cranberries and a whole orange pulsed with sugar — tart, sweet, and bitter in all the right places.",
+    "story": "Make it the day before; it gets better overnight. The orange peel is the secret — don't peel it.",
+    "school": "Holiday table",
+    "image": "/images/smoked-thanksgiving-turkey.jpg",
+    "ingredients": [
+      {
+        "group": "Relish",
+        "items": [
+          "1 bag (12 oz) fresh cranberries, rinsed and picked over",
+          "1 whole navel orange, quartered (peel and all — seeds removed)",
+          "3/4 to 1 cup sugar",
+          "1/2 cup toasted pecans, chopped (optional)",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pulse",
+        "body": "Pulse the cranberries and orange quarters in a food processor until finely chopped — not pureed. You want texture."
+      },
+      {
+        "title": "Sweeten",
+        "body": "Stir in the sugar and the pinch of salt. Start with 3/4 cup; taste and add more if you like it sweeter."
+      },
+      {
+        "title": "Fold",
+        "body": "Fold in the pecans if using."
+      },
+      {
+        "title": "Rest",
+        "body": "Refrigerate overnight. The flavors marry and the sugar pulls the juices out."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Cook's honesty",
+        "text": "The orange peel is the secret — don't peel it. That's where the bitter-orange perfume lives."
+      },
+      {
+        "voice": "Bonus",
+        "text": "This freezes beautifully. Make a double batch and freeze half for Christmas."
+      },
+      {
+        "voice": "Bonus",
+        "text": "Leftover relish on a turkey sandwich with mayo is a top-five sandwich experience."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "pulse",
+        "label": "Pulsed",
+        "hint": "Cranberries and orange chopped."
+      },
+      {
+        "id": "rest",
+        "label": "Rested overnight",
+        "hint": "Ready to serve."
+      }
+    ]
   }
 ]
