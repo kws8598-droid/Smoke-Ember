@@ -29,7 +29,7 @@
     "servings": "8–10",
     "wood": "None — Dutch oven on the stove or over coals",
     "pitTemp": "Gentle simmer",
-    "finish": "Beans silky, potatoes poke-tender, vinegar in at the end",
+    "finish": "Beans silky, potatoes poke-tender, vinegar in the end",
     "summary": "Ham hock pot liquor, whole potatoes, snapped beans. Vinegar last. Taste before you salt.",
     "story": "This is pot liquor cooking, not a crisp skillet sauté. The hock simmers first so the broth tastes like smoke and bone before the beans ever hit the pot. Fresh beans go in raw and come out silky. Canned beans wait until the last 20–30 minutes or they fall apart. Country ham is saltier than a hock — cut the bouillon and don't salt until you've tasted.",
     "school": "Kentucky pot liquor",
@@ -94,29 +94,29 @@
     "story": "This is the HoneyBaked copy without the spiral slicer. Brine overnight so the breast stays wet through a 275–300°F smoke. Maple is mild and a little sweet — made for poultry. Glaze starts around 145–150°F and gets a fresh coat every 15 minutes. Pull at 160°F. Carryover finishes it at a safe 165°F. Stir extra sugar into the last coat if you want that candy-shell crackle.",
     "school": "Holiday pit",
     "image": "/food/honey-glazed-smoked-turkey.jpg",
-    "ingredients": [
-      {"group": "Bird", "items": ["1 (5–7 lb) bone-in turkey breast"]},
-      {"group": "Brine (night before)", "items": ["1 gallon cold water", "¾ cup kosher salt", "¾ cup brown sugar"]},
-      {"group": "Inject instead (if no fridge room)", "items": ["1 stick butter, melted", "½ cup chicken broth"]},
-      {"group": "Rub", "items": ["2 Tbsp olive oil or melted butter", "1 tsp kosher salt if brined (1 Tbsp if not)", "1 Tbsp black pepper", "1 Tbsp paprika", "2 tsp garlic powder", "2 tsp onion powder", "1 tsp dried thyme"]},
-      {"group": "Honey glaze", "items": ["½ cup honey", "½ cup brown sugar", "¼ cup butter, melted", "2 Tbsp apple juice", "1 tsp cinnamon", "½ tsp paprika", "Pinch of allspice"]}
-    ],
-    "steps": [
-      {"title": "Brine overnight", "body": "Stir salt and brown sugar into a gallon of cold water until dissolved. Submerge the breast and refrigerate 8–12 hours. No fridge room? Inject melted butter whisked with chicken broth throughout the meat instead."},
-      {"title": "Dry and season", "body": "Rinse the brine off and pat the breast VERY dry. Rub with oil, then season all over. Optional: work some seasoned butter under the skin."},
-      {"title": "Smoke on maple", "body": "Pit at 275–300°F with maple wood splits. Mild and slightly sweet, made for poultry. Don't smoke poultry below 275°F — it needs to move through the danger zone."},
-      {"title": "Start the glaze", "body": "Smoke until the thickest part hits 145–150°F (about 2–2.5 hours). Brush on the honey glaze, then re-glaze every 15 minutes."},
-      {"title": "Pull and rest", "body": "Pull at 160°F internal — carryover takes it to a safe 165°F. Rest 20–30 minutes tented with foil before slicing. For extra HoneyBaked-style crackle, stir 2 Tbsp sugar into the final glaze coat."}
-    ],
-    "proTips": [
-      {"voice": "Pit note", "text": "Don't smoke poultry below 275°F. Low-and-slow is for pork and brisket, not turkey."},
-      {"voice": "HoneyBaked crackle", "text": "Stir 2 Tbsp extra sugar into the last glaze coat and let it tack. That's the candy shell."},
-      {"voice": "Fridge full", "text": "Skip the bucket. Inject a stick of melted butter whisked with ½ cup broth."}
-    ],
-    "milestones": [
-      {"id": "brine", "label": "Brined", "hint": "8–12 hours, or injected."},
-      {"id": "glaze", "label": "Glazing", "hint": "145–150°F. Recoat every 15 minutes."},
-      {"id": "pull", "label": "160°F", "hint": "Rest 20–30 minutes tented. Carryover to 165°F."}
-    ]
+    "ingredients": [{"group": "Bird", "items": ["1 (5–7 lb) bone-in turkey breast"]}, {"group": "Brine (night before)", "items": ["1 gallon cold water", "¾ cup kosher salt", "¾ cup brown sugar"]}, {"group": "Inject instead (if no fridge room)", "items": ["1 stick butter, melted", "½ cup chicken broth"]}, {"group": "Rub", "items": ["2 Tbsp olive oil or melted butter", "1 tsp kosher salt if brined (1 Tbsp if not)", "1 Tbsp black pepper", "1 Tbsp paprika", "2 tsp garlic powder", "2 tsp onion powder", "1 tsp dried thyme"]}, {"group": "Honey glaze", "items": ["½ cup honey", "½ cup brown sugar", "¼ cup butter, melted", "2 Tbsp apple juice", "1 tsp cinnamon", "½ tsp paprika", "Pinch of allspice"]}],
+    "steps": [{"title": "Brine overnight", "body": "Stir salt and brown sugar into a gallon of cold water until dissolved. Submerge the breast and refrigerate 8–12 hours. No fridge room? Inject melted butter whisked with chicken broth throughout the meat instead."}, {"title": "Dry and season", "body": "Rinse the brine off and pat the breast VERY dry. Rub with oil, then season all over. Optional: work some seasoned butter under the skin."}, {"title": "Smoke on maple", "body": "Pit at 275–300°F with maple wood splits. Mild and slightly sweet, made for poultry. Don't smoke poultry below 275°F — it needs to move through the danger zone."}, {"title": "Start the glaze", "body": "Smoke until the thickest part hits 145–150°F (about 2–2.5 hours). Brush on the honey glaze, then re-glaze every 15 minutes."}, {"title": "Pull and rest", "body": "Pull at 160°F internal — carryover takes it to a safe 165°F. Rest 20–30 minutes tented with foil before slicing. For extra HoneyBaked-style crackle, stir 2 Tbsp sugar into the final glaze coat."}],
+    "proTips": [{"voice": "Pit note", "text": "Don't smoke poultry below 275°F. Low-and-slow is for pork and brisket, not turkey."}, {"voice": "HoneyBaked crackle", "text": "Stir 2 Tbsp extra sugar into the last glaze coat and let it tack. That's the candy shell."}, {"voice": "Fridge full", "text": "Skip the bucket. Inject a stick of melted butter whisked with ½ cup broth."}],
+    "milestones": [{"id": "brine", "label": "Brined", "hint": "8–12 hours, or injected."}, {"id": "glaze", "label": "Glazing", "hint": "145–150°F. Recoat every 15 minutes."}, {"id": "pull", "label": "160°F", "hint": "Rest 20–30 minutes tented. Carryover to 165°F."}]
+  },
+  {
+    "slug": "ember-finishing-glaze",
+    "title": "Ember Finishing Glaze",
+    "region": "kansas-city",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {"min": 0.15, "max": 0.25},
+    "servings": "~1¼ cups — racks or a pulled butt",
+    "wood": "Whatever the cook already has",
+    "pitTemp": "Warm only — do not reduce it into candy",
+    "finish": "Thin, pourable, sets tacky — meat still shows through",
+    "summary": "Sweet-tangy finishing glaze for ribs or pork butt. Thin coat. The pork has to shine, not the bottle.",
+    "story": "A glaze is a last coat, not a sauce bath. Vinegar and mustard cut the molasses so it doesn’t read candy. Honey gives shine. Worcestershire keeps it savory. Warm it until it loosens — it should coat a spoon and still run. On ribs, one thin pass in the last 15–20 minutes so it sets tacky. On a pork butt, toss the pull while the meat is hot and stop when you can still see bark. Extra in a bowl. If you can’t taste smoke through it, you used too much.",
+    "school": "Kansas City backyard",
+    "image": "https://plum-honey-silver-wave.grok.me/images/kc-sauce.jpg",
+    "ingredients": [{"group": "Glaze", "items": ["¾ cup tomato-molasses barbecue sauce", "3 Tbsp apple cider vinegar", "2 Tbsp apple juice", "2 Tbsp honey (or peach preserves, strained)", "1 Tbsp brown sugar", "1 Tbsp Worcestershire sauce", "1 tsp yellow mustard", "½ tsp hot sauce", "Pinch kosher salt"]}],
+    "steps": [{"title": "Warm until it runs", "body": "Stir over low heat just until the sugar dissolves and the glaze loosens. Do not boil it down. If it sits in a sheet, thin with vinegar or juice."}, {"title": "Ribs — late and thin", "body": "Last 15–20 minutes on the pit. One thin coat. Lid shut so it sets tacky, not wet. A second kiss only if the first soaked in."}, {"title": "Pork butt — after the pull", "body": "Toss the hot pulled pork with a light coat. Bark should still show. Pass the rest in a bowl."}],
+    "proTips": [{"voice": "KC pit", "text": "Sauce is a finishing coat. If you need a soup of it to make the ribs taste like something, the rub and fire didn’t do their job."}, {"voice": "Championship pork", "text": "Sugar late. Early glaze scorches. Late glaze shines."}, {"voice": "Pit note", "text": "If you can’t taste the smoke through it, wipe some off and serve the rest on the side."}],
+    "milestones": [{"id": "warm", "label": "Warmed thin", "hint": "Coats a spoon and still runs."}, {"id": "coat", "label": "Thin coat", "hint": "Ribs last 15–20 min, or tossed on hot pulled pork."}, {"id": "set", "label": "Tacky, not wet", "hint": "Shine. Meat still shows."}]
   }
 ]
