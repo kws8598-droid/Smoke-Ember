@@ -2305,5 +2305,99 @@
     "hint": "4+ hours, slice cold."
    }
   ]
+ },
+ {
+  "slug": "peach-baked-beans",
+  "title": "Peach Baked Beans",
+  "region": "georgia",
+  "protein": "sides",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 2
+  },
+  "servings": "8–10",
+  "wood": "Hickory or oak if smoking",
+  "pitTemp": "350°F oven, or 275°F smoker",
+  "finish": "Thick, bubbly, caramelized on top",
+  "summary": "Sweet peaches meet smoky bacon and brown sugar in beans that go from side dish to the thing people ask about. Built for the smoker, but the oven works fine.",
+  "story": "Bush's Brown Sugar beans and peach pie filling do the heavy lifting — the pit does the rest.",
+  "school": "Pit basics",
+  "image": "/images/peach-baked-beans.jpg",
+  "ingredients": [
+   {
+    "group": "Beans",
+    "items": [
+     "1 lb bacon, chopped",
+     "1 large onion, diced",
+     "1 bell pepper, diced (optional)",
+     "2 cans (28 oz each) Bush's Brown Sugar baked beans",
+     "1 can (21 oz) peach pie filling, roughly chopped",
+     "1/4 cup packed brown sugar",
+     "1/2 cup BBQ sauce",
+     "2 tbsp yellow mustard",
+     "1 tbsp molasses",
+     "1 tsp smoked paprika",
+     "Salt and black pepper to taste"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Crisp the bacon",
+    "body": "Cook the chopped bacon until crisp. Pull it out and leave the drippings in the pan."
+   },
+   {
+    "title": "Soften the onion",
+    "body": "Sauté the onion (and bell pepper, if using) in the drippings until soft, about 5 minutes."
+   },
+   {
+    "title": "Mix",
+    "body": "Stir everything into a 9x13 pan or cast-iron skillet: beans, pie filling, brown sugar, BBQ sauce, mustard, molasses, paprika, bacon, and onion. Season with salt and pepper."
+   },
+   {
+    "title": "Bake or smoke",
+    "body": "Bake at 350°F for about 1 hour, until thick and bubbly with a caramelized top — or smoke at 275°F for 2 hours for extra pit flavor."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 10 minutes. They thicken as they cool."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "The Bush's beans and pie filling already bring sweetness, so the added brown sugar is cut back — taste before you add more."
+   },
+   {
+    "voice": "Prep",
+    "text": "Chop the pie filling a little; the peach slices are big and spread better cut down."
+   },
+   {
+    "voice": "Make ahead",
+    "text": "These are better the next day. Make them ahead and reheat."
+   },
+   {
+    "voice": "Too thick",
+    "text": "If they get too thick, splash in a little water or peach juice."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "bacon",
+    "label": "Bacon crisped",
+    "hint": "Drippings saved."
+   },
+   {
+    "id": "mix",
+    "label": "Mixed",
+    "hint": "Everything in the pan."
+   },
+   {
+    "id": "bake",
+    "label": "Baked",
+    "hint": "Thick and bubbly."
+   }
+  ]
  }
 ]
