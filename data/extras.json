@@ -2399,5 +2399,91 @@
     "hint": "Thick and bubbly."
    }
   ]
+ },
+ {
+  "slug": "key-lime-coleslaw",
+  "title": "Key Lime Coleslaw",
+  "region": "florida",
+  "protein": "sides",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1
+  },
+  "servings": "8",
+  "wood": "None — no cook, just chill",
+  "pitTemp": "Chill",
+  "finish": "Chilled 1 hour",
+  "summary": "Bright, tangy, and cool — key lime juice and zest cut through rich smoked meat like nothing else. Built for pulled pork sandwiches and fish tacos.",
+  "story": "Bottled key lime juice is fine — nobody's squeezing 30 key limes on a weeknight.",
+  "school": "Pit basics",
+  "image": "/images/key-lime-coleslaw.jpg",
+  "ingredients": [
+   {
+    "group": "Slaw",
+    "items": [
+     "1 bag (14 oz) coleslaw mix (or 1 small head cabbage, shredded, plus 1 grated carrot)",
+     "1/2 green bell pepper, grated",
+     "1/2 cup mayonnaise",
+     "1/4 cup sour cream",
+     "1/4 cup key lime juice (about 6–8 key limes)",
+     "1 tsp key lime zest",
+     "2 tbsp sugar or honey",
+     "1 tsp kosher salt",
+     "1/2 tsp black pepper",
+     "2 green onions, sliced (optional)",
+     "2 tbsp chopped cilantro (optional)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Make the dressing",
+    "body": "Whisk the mayo, sour cream, key lime juice, zest, sugar, salt, and pepper until smooth."
+   },
+   {
+    "title": "Toss",
+    "body": "Toss with the slaw mix, grated bell pepper, green onions, and cilantro until everything's coated."
+   },
+   {
+    "title": "Chill",
+    "body": "Chill at least 1 hour — it gets better as it sits."
+   },
+   {
+    "title": "Serve",
+    "body": "Toss again before serving. Taste and add more lime or salt."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Cook's honesty",
+    "text": "Bottled key lime juice is fine — nobody's squeezing 30 key limes on a weeknight."
+   },
+   {
+    "voice": "Timing",
+    "text": "Don't dress it more than 4 hours ahead or it goes watery. An hour is the sweet spot."
+   },
+   {
+    "voice": "Pairing",
+    "text": "This is the slaw for pulled pork sandwiches and blackened fish tacos."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "dress",
+    "label": "Dressing whisked",
+    "hint": "Smooth and tangy."
+   },
+   {
+    "id": "toss",
+    "label": "Tossed",
+    "hint": "Everything coated."
+   },
+   {
+    "id": "chill",
+    "label": "Chilled",
+    "hint": "1 hour minimum."
+   }
+  ]
  }
 ]
