@@ -953,5 +953,109 @@
         "hint": "145–155°F. Thin slices. Relish on the roll."
       }
     ]
+  },
+  {
+    "slug": "bacon-wrapped-venison-bites",
+    "title": "Bacon-Wrapped Venison Tenderloin Bites",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.75,
+      "max": 1
+    },
+    "servings": "About 24 bites",
+    "wood": "Hickory or oak",
+    "pitTemp": "275°F",
+    "finish": "130-135°F internal",
+    "summary": "The first thing gone at every deer camp. Tenderloin medallions wrapped in bacon, kissed with smoke, finished with Ember Finishing Sauce.",
+    "story": "These don't make it to the table half the time. Thin bacon, a sweet-heat rub, and a hot enough pit to render the fat before the venison sees 140. That's the whole trick — everything else is just getting out of the way.",
+    "school": "Deer camp",
+    "image": "/images/bacon-wrapped-venison-bites.jpg",
+    "ingredients": [
+      {
+        "group": "Tenderloin",
+        "items": [
+          "1 1/2 to 2 lb venison tenderloin, silverskin removed",
+          "12 slices thin-cut bacon, cut in half",
+          "Toothpicks, soaked in water 20 minutes"
+        ]
+      },
+      {
+        "group": "Sweet-heat rub",
+        "items": [
+          "2 Tbsp brown sugar",
+          "1 Tbsp paprika",
+          "1 tsp kosher salt",
+          "1 tsp coarse black pepper",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1/2 tsp cayenne"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "Ember Finishing Sauce, for glazing"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cut medallions",
+        "body": "Cut the tenderloin into 1 1/2-inch medallions, all roughly the same thickness so they cook even."
+      },
+      {
+        "title": "Season",
+        "body": "Mix the rub and coat every medallion on all sides."
+      },
+      {
+        "title": "Wrap",
+        "body": "Wrap each medallion with a half-slice of bacon and pin with a soaked toothpick. Snug, not strangled."
+      },
+      {
+        "title": "Smoke",
+        "body": "275°F for 45 to 60 minutes, until the bacon renders and starts to crisp and the venison reads 130-135°F inside."
+      },
+      {
+        "title": "Glaze",
+        "body": "Brush on the Ember Finishing Sauce during the last 10 minutes so it tacks up instead of burning."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 10 minutes, pull the toothpicks, and serve warm."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Deer camp",
+        "text": "Thin bacon beats thick here. Thick bacon won't render before the tenderloin overcooks."
+      },
+      {
+        "voice": "Pit note",
+        "text": "Past 140°F these dry out fast. Pull at 130 and let carryover do the rest."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Make a double batch. You'll thank yourself."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "wrap",
+        "label": "Wrapped",
+        "hint": "Medallions cut, rubbed, bacon pinned."
+      },
+      {
+        "id": "smoke",
+        "label": "On the pit",
+        "hint": "275°F, bacon rendering, 130-135°F internal."
+      },
+      {
+        "id": "glaze",
+        "label": "Glazed and rested",
+        "hint": "Finishing sauce last 10 min. Rest 10."
+      }
+    ]
   }
 ]
