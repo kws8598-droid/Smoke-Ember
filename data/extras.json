@@ -1675,5 +1675,95 @@
         "hint": "Ready to serve."
       }
     ]
+  },
+  {
+    "slug": "smoked-oyster-casserole",
+    "title": "Smoked Oyster Casserole",
+    "region": "kentucky",
+    "protein": "seafood",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "6 to 8 as a side",
+    "wood": "Whatever's in the pit",
+    "pitTemp": "300°F",
+    "finish": "Bubbly and golden",
+    "summary": "The sleeper hit of the holiday table. Smoky oysters layered with buttery crackers and cream, finished on the smoker until bubbly and golden.",
+    "story": "The people who wrinkle their nose at oysters always come back for seconds.",
+    "school": "Holiday table",
+    "image": "/images/smoked-oyster-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "Casserole",
+        "items": [
+          "2 cans (8 oz each) smoked oysters, drained (or 1 pint fresh oysters, smoked 30 minutes first)",
+          "2 sleeves butter crackers (like Ritz), crushed coarse",
+          "1 stick butter, melted",
+          "1 cup heavy cream",
+          "2 Tbsp Worcestershire sauce",
+          "Hot sauce to taste",
+          "Lemon wedges, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Butter the dish",
+        "body": "Butter a cast iron skillet or baking dish."
+      },
+      {
+        "title": "Layer",
+        "body": "Layer half the crushed crackers on the bottom. Scatter the oysters over, drizzle with half the melted butter."
+      },
+      {
+        "title": "Pour",
+        "body": "Pour the cream and Worcestershire evenly over the top. A few shakes of hot sauce."
+      },
+      {
+        "title": "Top",
+        "body": "Top with the remaining crackers and the rest of the melted butter."
+      },
+      {
+        "title": "Smoke",
+        "body": "300°F until bubbly and golden on top, 30 to 40 minutes."
+      },
+      {
+        "title": "Serve",
+        "body": "Rest 10 minutes, serve with lemon wedges."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Don't oversmoke it — the oysters are already smoked. You're just warming everything through and marrying the flavors."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Butter crackers beat saltines here. The richness is the whole point."
+      },
+      {
+        "voice": "Bonus",
+        "text": "This reheats great. Make it in the morning, warm it back up when the turkey rests."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "layer",
+        "label": "Layered",
+        "hint": "Crackers, oysters, cream in the skillet."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "300°F, bubbly and golden."
+      },
+      {
+        "id": "serve",
+        "label": "Served",
+        "hint": "Rested 10 min, lemon wedges."
+      }
+    ]
   }
 ]
