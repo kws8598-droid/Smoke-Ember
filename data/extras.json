@@ -1363,5 +1363,102 @@
         "hint": "Rested, sliced, pesto over the top."
       }
     ]
+  },
+  {
+    "slug": "smoked-lamb-chops",
+    "title": "Smoked Lamb Chops with Mint Chimichurri",
+    "region": "kentucky",
+    "protein": "lamb",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.75,
+      "max": 1
+    },
+    "servings": "4 (about 8 chops)",
+    "wood": "Oak or cherry",
+    "pitTemp": "225°F, then sear hot",
+    "finish": "130-135°F internal",
+    "summary": "The fast luxury cut. Frenched rib chops kissed with smoke, seared hot, finished with a bright mint chimichurri.",
+    "story": "Fancy enough for company, easy enough for a weeknight. The smoke stays light, the sear makes the crust, and the chimichurri cuts right through the richness.",
+    "school": "First lamb",
+    "image": "/images/smoked-lamb-chops.jpg",
+    "ingredients": [
+      {
+        "group": "Chops",
+        "items": [
+          "8 frenched lamb rib chops, about 1 1/2 inches thick",
+          "2 Tbsp olive oil",
+          "1 Tbsp kosher salt",
+          "2 tsp coarse black pepper",
+          "2 tsp granulated garlic",
+          "1 tsp dried rosemary, crushed"
+        ]
+      },
+      {
+        "group": "Mint chimichurri",
+        "items": [
+          "1 cup fresh mint leaves, packed",
+          "1/2 cup fresh parsley leaves, packed",
+          "3 cloves garlic",
+          "1/2 cup olive oil",
+          "3 Tbsp red wine vinegar",
+          "1 tsp red pepper flakes",
+          "1 tsp kosher salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Season the chops with olive oil, salt, pepper, granulated garlic, and rosemary. Rest at room temp 30 minutes while the pit heats."
+      },
+      {
+        "title": "Smoke",
+        "body": "225°F until the chops read 120°F inside, about 30 to 40 minutes."
+      },
+      {
+        "title": "Sear",
+        "body": "Screaming hot — 60 to 90 seconds per side — until the crust darkens and the center reads 130-135°F."
+      },
+      {
+        "title": "Chimichurri",
+        "body": "While the chops smoke, blitz the chimichurri ingredients until just combined — you want texture, not baby food."
+      },
+      {
+        "title": "Serve",
+        "body": "Rest the chops 5 to 10 minutes, then spoon the chimichurri over and serve."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Chops cook fast — the thermometer matters more here than anywhere. They go from perfect to overdone in minutes."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Frenched bones make a great handle. Let people eat with their hands."
+      },
+      {
+        "voice": "Bonus",
+        "text": "Make extra chimichurri. It goes on everything for the next three days."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "season",
+        "label": "Seasoned",
+        "hint": "Rested 30 min at room temp."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked and seared",
+        "hint": "225°F to 120°F, sear to 130-135°F."
+      },
+      {
+        "id": "serve",
+        "label": "Served",
+        "hint": "Rested, chimichurri over the top."
+      }
+    ]
   }
 ]
