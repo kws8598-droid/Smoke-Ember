@@ -1850,5 +1850,92 @@
         "hint": "Hot finish, sauce after."
       }
     ]
+  },
+  {
+    "slug": "smoked-queso",
+    "title": "Smoked Queso",
+    "region": "kentucky",
+    "protein": "side",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 1.5
+    },
+    "servings": "Feeds a crowd — about 8 cups",
+    "wood": "Whatever's in the pit",
+    "pitTemp": "250°F",
+    "finish": "Bubbly and melted through",
+    "summary": "The dip that disappears first at every cookout. Velveeta, pepper jack, smoked Gouda, sausage, and Rotel, smoked in a foil pan until it's one bubbling golden pot.",
+    "story": "Scoop with tortilla chips. Stir it while it smokes and don't skip the Velveeta.",
+    "school": "Pit basics",
+    "image": "/images/smoked-queso.jpg",
+    "ingredients": [
+      {
+        "group": "Queso",
+        "items": [
+          "2 lbs Velveeta, cubed",
+          "8 oz pepper jack cheese, cubed",
+          "8 oz smoked Gouda, cubed",
+          "1 lb ground breakfast sausage, browned and drained",
+          "2 cans (10 oz each) Rotel tomatoes with green chiles, undrained",
+          "1 can (4 oz) diced jalapeños, drained (optional, for heat)",
+          "1 cup milk or half-and-half",
+          "Tortilla chips, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brown the sausage",
+        "body": "Brown the sausage in a skillet, breaking it up fine. Drain well."
+      },
+      {
+        "title": "Load the pan",
+        "body": "Dump everything into a large disposable foil pan: Velveeta, pepper jack, smoked Gouda, sausage, Rotel, jalapeños if using, and the milk."
+      },
+      {
+        "title": "Smoke",
+        "body": "250°F, stirring every 20 to 30 minutes, until fully melted and bubbly — about 90 minutes."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve straight out of the pan with tortilla chips."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Don't skip the stirring. The edges melt first and the middle needs help catching up."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Velveeta is non-negotiable here. Real cheese alone breaks and goes greasy — the Velveeta keeps it smooth."
+      },
+      {
+        "voice": "Heat is your call",
+        "text": "Add more jalapeño if you want it, or swap in habanero if you're feeling brave. Whichever you choose, dice it fine and stir it in with the rest."
+      },
+      {
+        "voice": "Bonus",
+        "text": "Leftovers (if you're lucky) reheat with a splash of milk, stirred over low heat."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "load",
+        "label": "Pan loaded",
+        "hint": "Everything in the foil pan."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "250°F, stirred, bubbly."
+      },
+      {
+        "id": "serve",
+        "label": "Served",
+        "hint": "Straight from the pan."
+      }
+    ]
   }
 ]
