@@ -2020,5 +2020,90 @@
     "hint": "Rested, cut thick."
    }
   ]
+ },
+ {
+  "slug": "smoked-trout",
+  "title": "Smoked Trout",
+  "region": "backyard",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "hours": {
+   "min": 2,
+   "max": 3
+  },
+  "servings": "4",
+  "wood": "Alder or apple",
+  "pitTemp": "200°F",
+  "finish": "145°F internal",
+  "summary": "Delicate, smoky, and dead simple. A quick brine, a light smoke, and you've got trout that flakes apart and eats just as good cold the next day on crackers. The hardest part is not eating it all standing at the pit.",
+  "story": "Serve warm with lemon, or chill it and eat it cold on crackers.",
+  "school": "Pit basics",
+  "image": "/images/smoked-trout.jpg",
+  "ingredients": [
+   {
+    "group": "Trout",
+    "items": [
+     "4 whole trout, cleaned (about 12 oz each), or 8 fillets",
+     "1 quart cold water",
+     "1/4 cup kosher salt",
+     "1/4 cup brown sugar",
+     "1 tsp black pepper",
+     "Lemon wedges, for serving"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brine",
+    "body": "Stir the water, salt, brown sugar, and pepper until dissolved. Submerge the trout and brine in the fridge for 2 hours — no longer, or it goes too salty."
+   },
+   {
+    "title": "Dry and form the pellicle",
+    "body": "Rinse the fish quick under cold water and pat dry. Lay on a rack in the fridge uncovered for 1 hour so the surface gets tacky. That's the pellicle — smoke sticks to it."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 200°F until the thickest part hits 145°F — about 2 to 3 hours depending on size. The flesh should flake easy."
+   },
+   {
+    "title": "Serve",
+    "body": "Serve warm with lemon, or chill it and eat cold on crackers."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "The pellicle step matters. Wet fish takes smoke unevenly and the skin goes rubbery — tacky skin takes smoke like a champ."
+   },
+   {
+    "voice": "Light hand",
+    "text": "Don't oversmoke it. Trout is delicate; heavy smoke bulldozes the flavor. Light wood, light hand."
+   },
+   {
+    "voice": "Cook's honesty",
+    "text": "The 2-hour brine is a ceiling, not a floor. Small fillets can go 90 minutes."
+   },
+   {
+    "voice": "Bonus",
+    "text": "Leftover smoked trout mashed with cream cheese, lemon, and dill makes a spread that'll ruin store-bought dip for you."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "brine",
+    "label": "Brined",
+    "hint": "2 hours, rinsed and dried."
+   },
+   {
+    "id": "smoke",
+    "label": "Smoked",
+    "hint": "200°F to 145°F internal."
+   },
+   {
+    "id": "serve",
+    "label": "Served",
+    "hint": "Warm with lemon or chilled."
+   }
+  ]
  }
 ]
