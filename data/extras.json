@@ -1265,5 +1265,103 @@
         "hint": "Hot sear to 130-135°F. Rest 10-15."
       }
     ]
+  },
+  {
+    "slug": "smoked-leg-of-lamb",
+    "title": "Smoked Leg of Lamb with Garlic, Rosemary, and Pesto",
+    "region": "kentucky",
+    "protein": "lamb",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 3,
+      "max": 4
+    },
+    "servings": "8 to 10",
+    "wood": "Oak or cherry",
+    "pitTemp": "250°F",
+    "finish": "130-135°F internal",
+    "summary": "Lamb on the smoker is a sleeper hit. Garlic and rosemary pressed into a scored fat cap, gentle smoke, pulled pink, finished with fresh pesto.",
+    "story": "The people who say they don't like lamb just never had it like this. Score the fat cap, work the garlic-rosemary paste in deep, let the smoke do the rest — then spoon fresh pesto over the slices so it stays bright.",
+    "school": "First lamb",
+    "image": "/images/smoked-leg-of-lamb.jpg",
+    "ingredients": [
+      {
+        "group": "Leg",
+        "items": [
+          "1 bone-in leg of lamb, 5 to 7 lb"
+        ]
+      },
+      {
+        "group": "Garlic-rosemary paste",
+        "items": [
+          "1/4 cup olive oil",
+          "8 cloves garlic, minced",
+          "3 Tbsp fresh rosemary, chopped (or 1 Tbsp dried)",
+          "2 Tbsp kosher salt",
+          "1 Tbsp coarse black pepper",
+          "1 Tbsp Dijon mustard (binder)",
+          "Juice of 1 lemon"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1 cup basil pesto, for spooning over the slices"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Trim and score",
+        "body": "Trim the leg of surface silver and excess fat, leaving a 1/4-inch fat cap. Score the cap in a diamond pattern so the rub gets in."
+      },
+      {
+        "title": "Paste",
+        "body": "Mash the olive oil, garlic, rosemary, salt, pepper, Dijon, and lemon juice into a paste. Rub it all over the leg, working it into the scores. Rest at room temp 45 minutes while the pit heats."
+      },
+      {
+        "title": "Smoke",
+        "body": "250°F until the thickest part reads 130-135°F, about 3 to 4 hours depending on size."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 20 to 30 minutes tented in foil — the temp will climb a few degrees."
+      },
+      {
+        "title": "Slice and finish",
+        "body": "Slice against the grain and serve, with the pesto spooned over the top. Save the bone — it makes a hell of a pot of beans."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "First lamb",
+        "text": "Lamb wants medium-rare. Past 145°F it tightens up and dries out fast."
+      },
+      {
+        "voice": "Pit note",
+        "text": "Bone-in cooks more evenly and stays juicier than boneless."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Cherry wood gives the crust a beautiful color; oak keeps the smoke in the background."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "paste",
+        "label": "Pasted",
+        "hint": "Scored, pasted, resting 45 min."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoking",
+        "hint": "250°F to 130-135°F internal."
+      },
+      {
+        "id": "serve",
+        "label": "Served",
+        "hint": "Rested, sliced, pesto over the top."
+      }
+    ]
   }
 ]
