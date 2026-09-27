@@ -2199,5 +2199,111 @@
     "hint": "350°F, crisp edges."
    }
   ]
+ },
+ {
+  "slug": "banana-split-cake",
+  "title": "Banana Split Cake",
+  "region": "kentucky",
+  "protein": "desserts",
+  "difficulty": "easy",
+  "hours": {
+   "min": 4,
+   "max": 12
+  },
+  "servings": "12–15",
+  "wood": "None — no bake, just chill",
+  "pitTemp": "Chill",
+  "finish": "Chilled firm",
+  "summary": "The icebox classic: buttery graham crust, a tangy cream-cheese filling, bananas, pineapple, Cool Whip, and cherries on top. No oven, no fuss — just chill and slice.",
+  "story": "The cream cheese layer is the whole thing — don't skimp it and don't swap it for pudding mix.",
+  "school": "Pit basics",
+  "image": "/images/banana-split-cake.jpg",
+  "ingredients": [
+   {
+    "group": "Crust",
+    "items": [
+     "2 cups graham cracker crumbs",
+     "1/2 cup (1 stick) butter, melted",
+     "1/4 cup sugar"
+    ]
+   },
+   {
+    "group": "Filling",
+    "items": [
+     "2 packages (8 oz each) cream cheese, softened",
+     "1/2 cup (1 stick) butter, softened",
+     "2 cups powdered sugar",
+     "1 tsp vanilla extract"
+    ]
+   },
+   {
+    "group": "Layers",
+    "items": [
+     "4–5 bananas, sliced",
+     "1 can (20 oz) crushed pineapple, drained well",
+     "1 tub (8 oz) Cool Whip, thawed",
+     "Maraschino cherries, drained",
+     "1/2 cup chopped pecans or walnuts (optional)",
+     "Chocolate syrup, for drizzling"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Make the crust",
+    "body": "Mix the crumbs, melted butter, and sugar; press firmly into a 9x13 pan. Chill 15 minutes."
+   },
+   {
+    "title": "Make the filling",
+    "body": "Beat the cream cheese, softened butter, powdered sugar, and vanilla until completely smooth. Spread over the chilled crust."
+   },
+   {
+    "title": "Layer the fruit",
+    "body": "Layer the banana slices over the filling, then spread the drained pineapple over the bananas."
+   },
+   {
+    "title": "Top and chill",
+    "body": "Spread the Cool Whip over the top, edge to edge. Chill at least 4 hours — overnight is better."
+   },
+   {
+    "title": "Finish",
+    "body": "Top with cherries, nuts if using, and a drizzle of chocolate syrup. Slice and serve cold."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "Drain that pineapple like you mean it — squeeze it in a clean towel. Wet pineapple makes a soggy cake."
+   },
+   {
+    "voice": "Make-ahead",
+    "text": "Toss the banana slices in a little lemon juice if you're making it ahead; keeps them from browning."
+   },
+   {
+    "voice": "Cook's honesty",
+    "text": "The cream cheese layer is the whole thing. Don't skimp it and don't swap it for pudding mix."
+   },
+   {
+    "voice": "Patience",
+    "text": "Chill it overnight. It slices clean and the flavors settle together."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "crust",
+    "label": "Crust chilled",
+    "hint": "Pressed and firm."
+   },
+   {
+    "id": "layer",
+    "label": "Layered",
+    "hint": "Filling, fruit, Cool Whip."
+   },
+   {
+    "id": "chill",
+    "label": "Chilled",
+    "hint": "4+ hours, slice cold."
+   }
+  ]
  }
 ]
