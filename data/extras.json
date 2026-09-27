@@ -1156,5 +1156,114 @@
         "hint": "Bends and cracks. Cool, bag, refrigerate."
       }
     ]
+  },
+  {
+    "slug": "smoked-venison-backstrap",
+    "title": "Smoked Venison Backstrap with Coffee-Chile Rub",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "4 to 6",
+    "wood": "Oak or hickory",
+    "pitTemp": "225°F, then sear hot",
+    "finish": "130-135°F internal",
+    "summary": "The best cut on the deer, treated like it matters. A dark coffee-chile crust, gentle smoke, then a screaming-hot sear. Slice it pink and watch people go quiet.",
+    "story": "Backstrap is the cut you don't waste on a crowd-pleaser — it's the one you cook when you want people to remember the meal. Coffee and chile make a crust dark as bark, the smoke stays in the background, and the reverse sear keeps it pink edge to edge.",
+    "school": "Deer camp",
+    "image": "/images/smoked-venison-backstrap.jpg",
+    "ingredients": [
+      {
+        "group": "Backstrap",
+        "items": [
+          "1 whole venison backstrap, 2 to 3 lb, silverskin fully removed",
+          "2 Tbsp olive oil or yellow mustard (binder)"
+        ]
+      },
+      {
+        "group": "Coffee-chile rub",
+        "items": [
+          "2 Tbsp finely ground coffee (espresso grind)",
+          "2 Tbsp brown sugar",
+          "1 Tbsp ancho chile powder",
+          "1 Tbsp smoked paprika",
+          "1 Tbsp kosher salt",
+          "2 tsp coarse black pepper",
+          "2 tsp granulated garlic",
+          "1 tsp cocoa powder",
+          "1 tsp mustard powder"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "Compound butter (butter mashed with garlic and thyme), optional"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Trim",
+        "body": "Remove every bit of silverskin — it won't render and chews like rubber. Pat dry."
+      },
+      {
+        "title": "Rub",
+        "body": "Coat with the oil or mustard, then the mixed rub, generously. Rest at room temp 30 to 45 minutes while the pit heats."
+      },
+      {
+        "title": "Smoke",
+        "body": "225°F until the internal temp hits 115-120°F, about 45 minutes to an hour."
+      },
+      {
+        "title": "Sear",
+        "body": "Screaming hot — cast iron, grill grates, or right over the coals — 60 to 90 seconds per side, until the crust darkens and the center reads 130-135°F."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 10 to 15 minutes tented in foil."
+      },
+      {
+        "title": "Slice",
+        "body": "Slice against the grain, 1/2-inch thick. Top with compound butter if you're feeling fancy. Serve immediately."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Deer camp",
+        "text": "Silverskin is the enemy. Take your time trimming — it's the difference between great and chewy."
+      },
+      {
+        "voice": "Deer camp",
+        "text": "Venison is lean — give the backstrap a pass with the Ember injection before the binder and rub. It stays juicy all the way through the sear."
+      },
+      {
+        "voice": "Pit note",
+        "text": "The reverse sear is what keeps it pink edge to edge instead of gray-banded."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Trust the thermometer, not the clock."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "rub",
+        "label": "Rubbed",
+        "hint": "Trimmed, injected, rubbed. Resting."
+      },
+      {
+        "id": "smoke",
+        "label": "Smoked",
+        "hint": "225°F to 115-120°F internal."
+      },
+      {
+        "id": "sear",
+        "label": "Seared and rested",
+        "hint": "Hot sear to 130-135°F. Rest 10-15."
+      }
+    ]
   }
 ]
