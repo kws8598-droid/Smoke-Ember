@@ -1057,5 +1057,104 @@
         "hint": "Finishing sauce last 10 min. Rest 10."
       }
     ]
+  },
+  {
+    "slug": "smoked-venison-jerky",
+    "title": "Smoked Venison Jerky",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 4,
+      "max": 6
+    },
+    "servings": "About 1 1/2 lb finished jerky",
+    "wood": "Hickory, oak, or apple",
+    "pitTemp": "170-180°F",
+    "finish": "160°F internal; bends and cracks",
+    "summary": "Real smoked jerky — chewy, peppery, with actual smoke on it. The cure keeps it safe, the low smoke keeps it tender.",
+    "story": "Store jerky is a rumor of meat. This is the real thing — venison sliced thin, cured right, and smoked low until it bends and cracks. A splash of pineapple juice in the marinade adds a sweet-tangy note, but mind the clock: those enzymes work fast. Takes a day of waiting and an afternoon of watching, and you'll never buy a bag again.",
+    "school": "Deer camp",
+    "image": "/images/smoked-venison-jerky.jpg",
+    "ingredients": [
+      {
+        "group": "Venison",
+        "items": [
+          "3 lb venison roast (eye of round or hindquarter), all fat and silverskin trimmed"
+        ]
+      },
+      {
+        "group": "Cure and marinade",
+        "items": [
+          "1/2 tsp Prague Powder #1 (pink curing salt) — do not skip",
+          "3/4 cup soy sauce",
+          "1/4 cup Worcestershire sauce",
+          "1/4 cup brown sugar",
+          "1/4 cup pineapple juice",
+          "2 Tbsp coarse black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 Tbsp smoked paprika",
+          "1 tsp red pepper flakes (optional, for heat)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Slice",
+        "body": "Partially freeze the roast 1 to 2 hours until firm. Slice 1/4-inch thick against the grain."
+      },
+      {
+        "title": "Marinate",
+        "body": "Whisk everything else into the marinade and coat the slices completely in a zip bag or covered pan."
+      },
+      {
+        "title": "Wait",
+        "body": "Refrigerate 8 to 12 hours, turning once. The pineapple's enzymes work fast — don't push past 12 hours or the meat goes mushy."
+      },
+      {
+        "title": "Rack up",
+        "body": "Lay the slices on oiled smoker grates with space between them. Pat lightly — tacky, not dripping."
+      },
+      {
+        "title": "Smoke",
+        "body": "170-180°F for 4 to 6 hours. Start checking at 4: it's done when a cooled piece bends and cracks but doesn't break, and reads 160°F inside."
+      },
+      {
+        "title": "Store",
+        "body": "Cool completely, then bag it. Refrigerate for long keeping — it'll last weeks in the fridge, if it survives the week."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Deer camp",
+        "text": "The cure is food safety, not optional. It keeps the low-temp smoke safe."
+      },
+      {
+        "voice": "Pit note",
+        "text": "Uniform slices = uniform jerky. The freezer trick is the whole secret."
+      },
+      {
+        "voice": "Cook's honesty",
+        "text": "Judge doneness on a cooled piece — hot jerky always feels softer than it is."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "slice",
+        "label": "Sliced and marinating",
+        "hint": "1/4-inch against the grain. 8-12 hours."
+      },
+      {
+        "id": "smoke",
+        "label": "On the pit",
+        "hint": "170-180°F, 4-6 hours, 160°F internal."
+      },
+      {
+        "id": "done",
+        "label": "Done",
+        "hint": "Bends and cracks. Cool, bag, refrigerate."
+      }
+    ]
   }
 ]
