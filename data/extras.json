@@ -1504,6 +1504,14 @@
         ]
       },
       {
+        "group": "Cajun butter injection",
+        "items": [
+          "1 stick butter, melted",
+          "2 Tbsp Cajun seasoning",
+          "1/4 cup chicken broth"
+        ]
+      },
+      {
         "group": "Sage dressing",
         "items": [
           "1 lb cornbread, crumbled and dried overnight",
@@ -1527,6 +1535,10 @@
       {
         "title": "Prep",
         "body": "Rinse off the brine and pat dry. Rub the softened butter under the breast skin and the olive oil all over the outside."
+      },
+      {
+        "title": "Inject",
+        "body": "Stir the Cajun seasoning and chicken broth into the melted butter. Inject the breast in a grid pattern, about every 2 inches — the breast is the part that dries out first."
       },
       {
         "title": "Stuff loosely",
@@ -1553,6 +1565,10 @@
       {
         "voice": "Holiday table",
         "text": "The stuffing inside the bird MUST hit 165°F — that's the food-safety line. Thermometer in the center of the cavity stuffing."
+      },
+      {
+        "voice": "Kelly's way",
+        "text": "The Cajun butter injection is non-negotiable on the breast. It's the leanest part of the bird and the first thing to dry out."
       },
       {
         "voice": "Pit note",
