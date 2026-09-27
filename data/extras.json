@@ -2485,5 +2485,116 @@
     "hint": "1 hour minimum."
    }
   ]
+ },
+ {
+  "slug": "smoked-shrimp-poboy",
+  "title": "Smoked Shrimp Po'Boy",
+  "region": "mississippi",
+  "protein": "seafood",
+  "difficulty": "medium",
+  "hours": {
+   "min": 1,
+   "max": 1
+  },
+  "servings": "4",
+  "wood": "Pecan or oak",
+  "pitTemp": "225°F",
+  "finish": "Shrimp pink and firm, 145°F internal",
+  "summary": "Plump Gulf shrimp kissed with smoke, piled into crisp French bread with spicy remoulade, shredded lettuce, tomato, and pickles. Mississippi Gulf Coast in a sandwich.",
+  "story": "Gulf shrimp if you can get them — Mississippi shrimpers know what they're doing.",
+  "school": "Pit basics",
+  "image": "/images/smoked-shrimp-poboy.jpg",
+  "ingredients": [
+   {
+    "group": "Shrimp",
+    "items": [
+     "1 1/2 lbs large shrimp, peeled and deveined",
+     "2 tbsp olive oil or melted butter",
+     "1 tbsp Cajun seasoning",
+     "1 tsp garlic powder",
+     "1/2 tsp smoked paprika"
+    ]
+   },
+   {
+    "group": "Remoulade",
+    "items": [
+     "3/4 cup mayonnaise",
+     "2 tbsp Creole mustard (or spicy brown)",
+     "1 tbsp capers, chopped",
+     "1 tbsp pickle relish",
+     "1 tsp hot sauce",
+     "1 tsp lemon juice",
+     "1/2 tsp paprika",
+     "Salt to taste"
+    ]
+   },
+   {
+    "group": "Sandwich",
+    "items": [
+     "4 French rolls or 2 baguettes, split",
+     "2 cups shredded iceberg lettuce",
+     "2 tomatoes, sliced",
+     "Dill pickle slices",
+     "Butter, for toasting"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Season the shrimp",
+    "body": "Toss the shrimp with the oil, Cajun seasoning, garlic powder, and paprika. Rest 15 minutes."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 225°F for 30–45 minutes, until pink and firm (145°F internal). Don't overcook — shrimp go fast."
+   },
+   {
+    "title": "Make the remoulade",
+    "body": "Stir the remoulade ingredients together. Chill until serving."
+   },
+   {
+    "title": "Toast the bread",
+    "body": "Butter the rolls and toast cut-side down in a skillet or on the smoker until golden."
+   },
+   {
+    "title": "Build it",
+    "body": "Remoulade on both sides, lettuce, tomato, pickles, then a heap of smoked shrimp. More remoulade on top."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Cook's honesty",
+    "text": "Gulf shrimp if you can get them — Mississippi shrimpers know what they're doing."
+   },
+   {
+    "voice": "Don't overcook",
+    "text": "Shrimp overcook in a blink. Pull them the second they're pink and curled into a C."
+   },
+   {
+    "voice": "Timing",
+    "text": "Dress it right before serving so the bread stays crisp."
+   },
+   {
+    "voice": "Toast",
+    "text": "Toasting the bread in butter is not optional."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "season",
+    "label": "Shrimp seasoned",
+    "hint": "Resting 15 minutes."
+   },
+   {
+    "id": "smoke",
+    "label": "Smoked",
+    "hint": "Pink and firm."
+   },
+   {
+    "id": "build",
+    "label": "Built",
+    "hint": "Remoulade top and bottom."
+   }
+  ]
  }
 ]
