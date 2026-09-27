@@ -9,7 +9,7 @@ const quotes = [
   { text: "The stall is not a problem.", slug: "the-stall" },
   { text: "Bark is a crust you earn.", slug: "building-bark" },
 ];
-const house = ["ember-house-rub", "ember-molasses-sauce", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce", "sweet-vinegar-sauce"];
+const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
