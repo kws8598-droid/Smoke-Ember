@@ -20,7 +20,8 @@ export default function HomePage() {
   return (
     <main>
       <section className="relative min-h-[calc(100svh-72px)] overflow-hidden pb-20 sm:min-h-[88vh] sm:pb-0">
-        <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still object-cover" />
+        <Image src="/images/hero-bbq-pitrow-mobile.jpg" alt="Pitmaster tending chickens and ribs at a fall barbecue cookout" fill priority sizes="100vw" className="hero-still object-cover sm:hidden" />
+        <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/hero-bbq-pitrow-v2.jpg" aria-hidden>
           <source src="/videos/hero-fire.mp4" type="video/mp4" />
         </video>
