@@ -9,7 +9,7 @@ export default function DessertsPage() {
   return (
     <main className="relative">
       {/* Candy-stripe awning backdrop for Bub & Sissy's Sweet Shop */}
-      <div aria-hidden className="pointer-events-none absolute inset-0">
+      <div aria-hidden className="pointer-events-none fixed inset-0">
         <img src="/images/sweet-shop-awning-bg.jpg" alt="" className="h-full w-full object-cover" />
         <div className="absolute inset-0 bg-ink/50" />
       </div>
