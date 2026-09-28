@@ -38,7 +38,7 @@ export const recipes = [
 export const wisdom = wisdomJson as Wisdom[];
 
 export const proteins = [
-  "all","beef","pork","poultry","sausage","fish","venison","mutton","gator","sides","rubs","sauces",
+  "all","beef","desserts","fish","gator","lamb","mutton","pork","poultry","rubs","sauces","sausage","sides","venison",
 ] as const;
 
 export const regionCopy: Record<string, { label: string; line: string; image: string }> = {
