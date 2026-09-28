@@ -12,6 +12,12 @@ export default function DessertsPage() {
       <h1 className="mt-2 font-display text-5xl italic">Desserts</h1>
       <p className="mt-3 max-w-xl text-parchment/80">The Southern closers that belong after a pit plate.</p>
       <p className="mt-6 text-sm text-subtle">{list.length} sweets</p>
+      <div className="mt-6 overflow-hidden rounded-2xl border border-white/10">
+        <img src="/images/desserts-banner.jpg" alt="Bub and Sissy's Sweet Shop — vintage counter with pies, cakes and candy jars" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+      </div>
+      <p className="mt-4 text-center font-display text-lg italic text-[#ff8a3d]">
+        Bub &amp; Sissy&apos;s Sweet Shop &mdash; featuring Oliver&apos;s Oreos
+      </p>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((r) => (
           <RecipeCard key={r.slug} recipe={r} />
