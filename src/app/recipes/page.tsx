@@ -95,7 +95,7 @@ function RecipesInner() {
       )}
       {protein === "pork" && (
         <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/pork-banner.jpg" alt="Hams and bacon hanging in a country smokehouse" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+          <img src="/images/pork-banner-table.jpg" alt="Farmhouse table spread with pulled pork, glazed ribs, bacon, ham, and pork chops" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
         </div>
       )}
       {protein === "fish" && (
