@@ -36,6 +36,14 @@ input, button, textarea { font: inherit; }
 .theme-venison .text-subtle { color: #c9803e; }
 .theme-venison input:focus { border-color: #ff5a00; }
 
+.theme-mutton {
+  background-image:
+    linear-gradient(rgba(15, 11, 7, 0.72), rgba(15, 11, 7, 0.72)),
+    url('/images/mutton-bg.jpg');
+  background-size: 480px auto;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
 .theme-poultry {
   background-color: #171208;
   background-image:
