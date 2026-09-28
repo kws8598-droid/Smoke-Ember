@@ -11,7 +11,7 @@ export default function DessertsPage() {
       {/* Candy-stripe awning backdrop for Bub & Sissy's Sweet Shop */}
       <div aria-hidden className="pointer-events-none absolute inset-0">
         <img src="/images/sweet-shop-awning-bg.jpg" alt="" className="h-full w-full object-cover" />
-        <div className="absolute inset-0 bg-ink/75" />
+        <div className="absolute inset-0 bg-ink/50" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Close the plate</p>
