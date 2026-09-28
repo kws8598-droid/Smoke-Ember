@@ -3,6 +3,32 @@ import { useEffect, useState } from "react";
 
 const SEEN_KEY = "se-visit-counted";
 
+// The counter is mounted twice (desktop + mobile footer) but CSS hides one.
+// This dedupes the in-flight request so a fresh session increments exactly once.
+let inflight: Promise<number | null> | null = null;
+
+function fetchCount(increment: boolean): Promise<number | null> {
+  if (!inflight) {
+    const p: Promise<number | null> = (async () => {
+      try {
+        const res = await fetch("/api/visits", {
+          method: increment ? "POST" : "GET",
+          cache: "no-store",
+        });
+        if (!res.ok) return null;
+        const body: { count?: unknown } = await res.json();
+        return typeof body.count === "number" ? body.count : null;
+      } catch {
+        return null;
+      }
+    })();
+    inflight = p.finally(() => {
+      inflight = null;
+    });
+  }
+  return inflight;
+}
+
 // Small footer counter: counts one visit per browser session,
 // then just reads the total. Best-effort — stays hidden if the
 // counter table isn't set up yet.
@@ -17,29 +43,17 @@ export default function VisitCounter() {
     } catch {
       counted = false;
     }
-    (async () => {
+    const shouldIncrement = !counted;
+    if (shouldIncrement) {
       try {
-        const res = await fetch("/api/visits", {
-          method: counted ? "GET" : "POST",
-          cache: "no-store",
-        });
-        if (!res.ok) return;
-        const body: { count?: unknown } = await res.json();
-        if (cancelled) return;
-        if (typeof body.count === "number") {
-          setCount(body.count);
-          if (!counted) {
-            try {
-              sessionStorage.setItem(SEEN_KEY, "1");
-            } catch {
-              /* ignore */
-            }
-          }
-        }
+        sessionStorage.setItem(SEEN_KEY, "1");
       } catch {
-        /* silent: counter is decorative */
+        /* ignore */
       }
-    })();
+    }
+    fetchCount(shouldIncrement).then((c) => {
+      if (!cancelled && c !== null) setCount(c);
+    });
     return () => {
       cancelled = true;
     };
