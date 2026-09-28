@@ -3355,5 +3355,53 @@
    "Keep the wood mild — hickory would bully the fish."
   ],
   "milestones": []
+ },
+ {
+  "slug": "olivers-oreos",
+  "title": "Oliver's Oreos",
+  "region": "kentucky",
+  "protein": "desserts",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "About 12",
+  "wood": "Apple or cherry",
+  "pitTemp": "275°F",
+  "finish": "Bacon crisp and browned",
+  "summary": "Bacon-wrapped smoked Oreos from Bub & Sissy's Sweet Shop. Sweet, salty, smoky — the cookie goes soft and cake-like inside crisp bacon.",
+  "story": "Named for Oliver, Kelly's grandson, and the featured treat at Bub & Sissy's Sweet Shop. Untested until Kelly cooks it.",
+  "school": "Bub & Sissy's Sweet Shop",
+  "image": "/images/olivers-oreos.jpg",
+  "ingredients": [
+   {
+    "group": "Cookies",
+    "items": [
+     "1 pack Oreo cookies (regular, not Double Stuf)",
+     "1 lb thin-sliced bacon",
+     "3 Tbsp brown sugar",
+     "Toothpicks"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Wrap",
+    "body": "Wrap each Oreo in one slice of bacon, overlapping the seam underneath. Pin with a toothpick."
+   },
+   {
+    "title": "Sweeten",
+    "body": "Dust each one lightly with brown sugar."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 275°F over apple or cherry wood for 60–90 minutes, until the bacon is crisp and browned."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 10 minutes — the filling comes out molten. Pull the toothpicks before serving."
+   }
+  ]
  }
 ]
