@@ -18,9 +18,11 @@ function RecipesInner() {
   useEffect(() => {
     document.body.classList.toggle("theme-venison", protein === "venison");
     document.body.classList.toggle("theme-fish", protein === "fish");
+    document.body.classList.toggle("theme-pork", protein === "pork");
     return () => {
       document.body.classList.remove("theme-venison");
       document.body.classList.remove("theme-fish");
+      document.body.classList.remove("theme-pork");
     };
   }, [protein]);
   function replaceFilters(nextProtein: string, nextRegion: string) {
@@ -61,6 +63,11 @@ function RecipesInner() {
             This page is dedicated to Harold Caldwell, Steve Holt, and Freddie Wash.
           </p>
         </>
+      )}
+      {protein === "pork" && (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
+          <img src="/images/pork-banner.jpg" alt="Hams and bacon hanging in a country smokehouse" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+        </div>
       )}
       {protein === "fish" && (
         <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
