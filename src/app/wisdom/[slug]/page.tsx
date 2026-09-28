@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getWisdom, wisdom } from "@/lib/data";
@@ -9,7 +10,7 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
   return (
     <main>
       <section className="relative min-h-[40vh] overflow-hidden">
-        <img src={w.image} alt="" className="absolute inset-0 h-full w-full object-cover" />
+        <Image src={w.image} alt="" fill priority sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/25" />
         <div className="relative mx-auto max-w-3xl px-4 pb-10 pt-28">
           <Link href="/wisdom" className="text-sm text-parchment/80 hover:text-cream">\u2190 Fire school</Link>
