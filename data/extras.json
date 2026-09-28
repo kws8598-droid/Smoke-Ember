@@ -2834,7 +2834,7 @@
   "wood": "None — stovetop",
   "pitTemp": "Stovetop",
   "finish": "Thick enough to coat a spoon",
-  "summary": "Sweet, savory, sticky — with an Asian lean. Honey, garlic, hoisin, and soy, made for pork loin or belly.",
+  "summary": "Sweet, savory, sticky — with an Asian lean. Honey, garlic, hoisin, and soy. Goes good on pork, chicken, whatever your taste desires.",
   "story": "Kelly wanted a glaze with an Asian lean for pork loin or belly, and asked for hoisin in it. The hoisin brings the deep savory-sweet backbone, the honey brings the shine, and the garlic and ginger do the talking. Brush it on in the last stretch of the cook — it burns fast over direct heat.",
   "school": "Backyard pit",
   "image": "/images/honey-garlic-glaze.jpg",
@@ -2868,7 +2868,7 @@
    },
    {
     "title": "Use it",
-    "body": "Brush over pork loin or belly in the last 15–20 minutes of the cook, or toss cubes in it to finish."
+    "body": "Brush over pork, chicken, or whatever your taste desires in the last 15–20 minutes of the cook, or toss cubes in it to finish."
    }
   ],
   "proTips": [
