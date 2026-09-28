@@ -20,6 +20,7 @@ function RecipesInner() {
     document.body.classList.toggle("theme-fish", protein === "fish");
     document.body.classList.toggle("theme-pork", protein === "pork");
     document.body.classList.toggle("theme-beef", protein === "beef");
+    // poultry camp
     document.body.classList.toggle("theme-poultry", protein === "poultry");
     return () => {
       document.body.classList.remove("theme-venison");
