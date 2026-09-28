@@ -4,18 +4,18 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#171009",
+        ink: "#1f160d",
         ember: "#c45c26",
         "ember-hot": "#e07a3d",
         cream: "#f3ead8",
         parchment: "#d7cbb3",
-        bark: "#221812",
-        ash: "#33261b",
+        bark: "#2b2015",
+        ash: "#3e3022",
         subtle: "#9a8b78",
         paper: "#f3ead8",
         fg: "#f3ead8",
-        bg: "#171009",
-        elevated: "#2d2114",
+        bg: "#1f160d",
+        elevated: "#382b1c",
       },
       fontFamily: {
         display: ["Fraunces", "Georgia", "serif"],
