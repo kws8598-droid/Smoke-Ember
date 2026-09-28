@@ -48,6 +48,11 @@ function RecipesInner() {
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">The book</p>
       <h1 className="mt-2 font-display text-5xl italic">Recipes</h1>
       <p className="mt-3 max-w-xl text-parchment/80">Regional cooks, pantry bottles, and the sides that make a plate.</p>
+      {protein === "venison" && (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
+          <img src="/images/venison-banner.jpg" alt="Whitetail buck in a smoky forest at dawn" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+        </div>
+      )}
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
         <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p}</button>
       ))}</div>
