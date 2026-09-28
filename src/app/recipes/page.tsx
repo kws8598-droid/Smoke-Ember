@@ -15,6 +15,10 @@ function RecipesInner() {
     setProtein(params.get("protein") || "all");
     setRegion(params.get("region") || "all");
   }, [params]);
+  useEffect(() => {
+    document.body.classList.toggle("theme-venison", protein === "venison");
+    return () => document.body.classList.remove("theme-venison");
+  }, [protein]);
   function replaceFilters(nextProtein: string, nextRegion: string) {
     const next = new URLSearchParams(params.toString());
     if (!nextProtein || nextProtein === "all") next.delete("protein");
