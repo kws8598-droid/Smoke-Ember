@@ -3289,5 +3289,71 @@
    "Alder or apple keeps the smoke light — heavy woods overpower trout."
   ],
   "milestones": []
+ },
+ {
+  "slug": "megan-and-davids-smoked-catfish",
+  "title": "Megan and David's Smoked Catfish",
+  "region": "backyard",
+  "protein": "fish",
+  "difficulty": "easy",
+  "hours": {
+   "min": 3,
+   "max": 4
+  },
+  "servings": "4–6",
+  "wood": "Pecan, alder, or maple",
+  "pitTemp": "225°F",
+  "finish": "145°F internal",
+  "summary": "Southern staple, done right. A simple brine, a Cajun crust, and a mild wood smoke — fillets go on skin-down and never flip.",
+  "story": "Named for Megan and David. Kelly's rules for catfish: brine it, trim the red meat off wild-caught fillets, and keep the wood mild — pecan, alder, or maple, never hickory.",
+  "school": "Backyard pit",
+  "image": "/images/smoked-catfish.jpg",
+  "ingredients": [
+   {
+    "group": "Brine",
+    "items": [
+     "4 cups cold water",
+     "¼ cup kosher salt",
+     "¼ cup brown sugar",
+     "2 bay leaves",
+     "1 Tbsp black peppercorns",
+     "1 lemon, sliced"
+    ]
+   },
+   {
+    "group": "Catfish",
+    "items": [
+     "2 lbs catfish fillets",
+     "2 Tbsp olive oil",
+     "3 Tbsp Cajun seasoning (store-bought works, or mix: 1 Tbsp paprika, 2 tsp garlic powder, 2 tsp onion powder, 2 tsp salt, 1 tsp black pepper, 1 tsp cayenne, 1 tsp dried thyme)",
+     "2 Tbsp butter, melted",
+     "Lemon wedges, for serving"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brine",
+    "body": "Dissolve the salt and brown sugar in the cold water, add the bay leaves, peppercorns, and lemon, and submerge the fillets for 1–2 hours in the fridge. Rinse and pat dry. Don't go longer than 2 hours — fish gets mushy past that."
+   },
+   {
+    "title": "Trim and season",
+    "body": "If working with wild-caught catfish, trim the dark red meat off the fillets — that's where the muddy taste lives. Brush with olive oil and coat generously with Cajun seasoning on both sides."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 225°F over a mild wood — pecan, alder, or maple — skin-down, for 1½–2 hours, until the fish flakes easily and hits 145°F."
+   },
+   {
+    "title": "Butter and serve",
+    "body": "Brush with melted butter in the last 15 minutes. Serve with lemon wedges."
+   }
+  ],
+  "proTips": [
+   "Catfish skin sticks — oil the grates well or lay the fillets on foil with holes poked in it.",
+   "Don't flip. The skin side protects the flesh from the heat.",
+   "Keep the wood mild — hickory would bully the fish."
+  ],
+  "milestones": []
  }
 ]
