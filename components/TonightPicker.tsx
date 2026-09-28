@@ -28,7 +28,7 @@ export default function TonightPicker() {
   const picks = useMemo(() => filterRecipes({ protein, time }, liveRecipes).slice(0, 3), [protein, time, liveRecipes]);
 
   return (
-    <div className="order-2 rounded-[30px] border border-white/10 bg-ink/80 p-5 backdrop-blur-md shadow-2xl sm:p-6 md:order-none">
+    <div className="order-2 rounded-[30px] border border-white/10 bg-ink/45 p-5 backdrop-blur-md shadow-2xl sm:p-6 md:order-none">
       <p className="text-sm uppercase tracking-[0.22em] text-subtle">What’s for tonight</p>
       <div className="mt-4 grid grid-cols-3 gap-2">
         {times.map((t) => (
