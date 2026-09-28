@@ -2596,5 +2596,81 @@
     "hint": "Remoulade top and bottom."
    }
   ]
+ },
+ {
+  "slug": "smoked-duck",
+  "title": "Smoked Whole Duck",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 3,
+   "max": 4.5
+  },
+  "servings": "4",
+  "wood": "Apple or cherry",
+  "pitTemp": "250°F, then 400°F to finish",
+  "finish": "160°F in the breast, 170°F in the thigh",
+  "summary": "A whole duck, injected and smoked low over fruit wood until the skin turns crisp and golden — with a drip pan of liquid gold underneath.",
+  "story": "Kelly injects most of his fowl — turkey, duck, all of it. The injection keeps the lean breast juicy while the smoker does its work, and scoring the skin lets the fat render out instead of going rubbery. Finish hot for the crackle. Save every drop of fat from the drip pan; that is liquid gold for potatoes.",
+  "school": "Backyard pit",
+  "image": "/images/smoked-duck.jpg",
+  "ingredients": [
+   {
+    "group": "Poultry injection",
+    "items": [
+     "1/2 cup melted butter",
+     "1/2 cup chicken broth",
+     "1 tsp garlic powder",
+     "1 tsp onion powder",
+     "1 tsp kosher salt",
+     "1/2 tsp black pepper",
+     "1/2 tsp dried thyme"
+    ]
+   },
+   {
+    "group": "Duck",
+    "items": [
+     "1 whole duck (5–6 lb), thawed",
+     "2 Tbsp kosher salt",
+     "1 Tbsp coarse black pepper",
+     "1 tsp garlic powder",
+     "1 tsp smoked paprika (optional)",
+     "1 orange, quartered (optional, for the cavity)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Inject the bird",
+    "body": "Whisk the injection ingredients until smooth. Inject all through the breast, thighs, and legs — a little in each spot; do not overfill one place."
+   },
+   {
+    "title": "Score and season",
+    "body": "Pat the duck completely dry, inside and out. Score the skin in a crosshatch pattern, cutting through the fat but not into the meat. Season all over and inside the cavity. Tuck the orange quarters inside if using."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest uncovered in the fridge overnight if you can — that is the crispy-skin secret. At least 1 hour if not."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 250°F, breast-side up, with a drip pan underneath to catch the fat. Apple or cherry wood. Smoke 3–4 hours until the breast reads 160°F and the thigh reads 170°F."
+   },
+   {
+    "title": "Crisp the skin",
+    "body": "Crank the pit to 400°F for the last 15–20 minutes for crackling skin."
+   },
+   {
+    "title": "Rest and carve",
+    "body": "Rest 15–20 minutes before carving so the juices settle."
+   }
+  ],
+  "proTips": [
+   "Save every drop of fat from the drip pan — duck fat is liquid gold for potatoes.",
+   "Do not skip the scoring. That is how the fat renders out instead of staying rubbery.",
+   "Fruit wood is the classic pairing for duck."
+  ],
+  "milestones": []
  }
 ]
