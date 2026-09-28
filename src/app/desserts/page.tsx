@@ -8,9 +8,9 @@ export default function DessertsPage() {
   const list = recipes.filter((r) => r.protein === "desserts");
   return (
     <main className="relative">
-      {/* Nostalgic bakery-counter backdrop for Bub & Sissy's Sweet Shop */}
+      {/* Candy-stripe awning backdrop for Bub & Sissy's Sweet Shop */}
       <div aria-hidden className="pointer-events-none absolute inset-0">
-        <img src="/images/sweet-shop-counter-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <img src="/images/sweet-shop-awning-bg.jpg" alt="" className="h-full w-full object-cover" />
         <div className="absolute inset-0 bg-ink/75" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
