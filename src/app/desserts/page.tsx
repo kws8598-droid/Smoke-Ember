@@ -7,7 +7,13 @@ export default function DessertsPage() {
   const { recipes } = useLiveCatalog();
   const list = recipes.filter((r) => r.protein === "desserts");
   return (
-    <main className="mx-auto max-w-6xl px-4 py-12">
+    <main className="relative">
+      {/* Nostalgic bakery-counter backdrop for Bub & Sissy's Sweet Shop */}
+      <div aria-hidden className="pointer-events-none absolute inset-0">
+        <img src="/images/sweet-shop-counter-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <div className="absolute inset-0 bg-ink/75" />
+      </div>
+      <div className="relative mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Close the plate</p>
       <h1 className="mt-2 font-display text-5xl italic">Desserts</h1>
       <p className="mt-3 max-w-xl text-parchment/80">The Southern closers that belong after a pit plate.</p>
@@ -22,6 +28,7 @@ export default function DessertsPage() {
         {list.map((r) => (
           <RecipeCard key={r.slug} recipe={r} />
         ))}
+      </div>
       </div>
     </main>
   );
