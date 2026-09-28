@@ -35,3 +35,13 @@ input, button, textarea { font: inherit; }
 .theme-venison h2, .theme-venison h3 { color: #ff8a3d; }
 .theme-venison .text-subtle { color: #c9803e; }
 .theme-venison input:focus { border-color: #ff5a00; }
+
+.theme-fish {
+  background-color: #0d181b;
+  background-image:
+    linear-gradient(rgba(9, 18, 21, .78), rgba(9, 18, 21, .78)),
+    url("/images/fish-bg.jpg");
+  background-size: 520px;
+  background-attachment: fixed;
+}
+
