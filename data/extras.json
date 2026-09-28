@@ -2878,5 +2878,78 @@
    "Double it. It disappears."
   ],
   "milestones": []
+ },
+ {
+  "slug": "deer-camp-smoked-venison-stew",
+  "title": "Deer Camp Smoked Venison Stew",
+  "region": "backyard",
+  "protein": "venison",
+  "difficulty": "easy",
+  "hours": {
+   "min": 3.5,
+   "max": 4
+  },
+  "servings": "6–8",
+  "wood": "Oak or hickory",
+  "pitTemp": "275°F",
+  "finish": "Fork-tender venison",
+  "summary": "A stick-to-your-ribs stew. Seared venison braised low in a Dutch oven on the smoker with root vegetables and tomatoes, so the whole pot picks up that wood flavor.",
+  "story": "Kelly asked for a venison stew with tomatoes in it — diced from a can, or whole ones quartered up when you've got them. The Dutch oven goes straight on the smoker so the braise drinks in the smoke while the venison goes tender.",
+  "school": "Backyard pit",
+  "image": "/images/venison-stew.jpg",
+  "ingredients": [
+   {
+    "group": "Stew",
+    "items": [
+     "2 lbs venison stew meat (shoulder or hindquarter), cut in 1½-inch chunks",
+     "2 tsp salt",
+     "1 tsp coarse black pepper",
+     "2 Tbsp oil",
+     "1 large onion, diced",
+     "4 cloves garlic, minced",
+     "3 Tbsp tomato paste",
+     "4 cups beef broth",
+     "1 can (14.5 oz) diced tomatoes, or 3–4 whole tomatoes, quartered",
+     "1 Tbsp Worcestershire sauce",
+     "1 tsp dried thyme",
+     "2 bay leaves",
+     "4 carrots, cut in 1-inch pieces",
+     "1½ lbs potatoes, cut in chunks",
+     "2 stalks celery, sliced"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Sear",
+    "body": "Season the venison with salt and pepper. Heat the oil in a Dutch oven over medium-high and sear the meat in batches until browned on all sides. Set aside."
+   },
+   {
+    "title": "Build the base",
+    "body": "In the same pot, cook the onion until soft, about 5 minutes. Stir in the garlic and tomato paste and cook 1 minute more."
+   },
+   {
+    "title": "Braise",
+    "body": "Pour in the beef broth and tomatoes, scraping up the browned bits. Stir in the Worcestershire, thyme, and bay leaves. Return the venison to the pot."
+   },
+   {
+    "title": "Smoke",
+    "body": "Cover and place on the smoker at 275°F for 2 hours."
+   },
+   {
+    "title": "Vegetables",
+    "body": "Stir in the carrots, potatoes, and celery. Cover and cook 1 to 1½ hours more, until the meat is fork-tender and the vegetables are soft."
+   },
+   {
+    "title": "Serve",
+    "body": "Fish out the bay leaves, rest 10 minutes, and serve."
+   }
+  ],
+  "proTips": [
+   "Venison is lean, so don't rush it — if the meat fights the fork, it needs more time, not more heat.",
+   "Sear in batches. Crowding the pot steams the meat instead of browning it.",
+   "This is even better the next day, once the flavors settle in."
+  ],
+  "milestones": []
  }
 ]
