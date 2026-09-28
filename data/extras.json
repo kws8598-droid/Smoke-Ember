@@ -3095,5 +3095,73 @@
    "The vegetables go in late on purpose — 4 hours would turn them to mush."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoked-venison-summer-sausage",
+  "title": "Smoked Venison Summer Sausage",
+  "region": "backyard",
+  "protein": "venison",
+  "difficulty": "medium",
+  "hours": {
+   "min": 7,
+   "max": 9
+  },
+  "servings": "About 5 lbs",
+  "wood": "Hickory",
+  "pitTemp": "130–175°F, stepped",
+  "finish": "152°F internal",
+  "summary": "Classic deer-camp sausage. Venison mixed with pork or beef fat for the richness it lacks, seasoned with mustard seed and garlic, then slow-smoked in fibrous casings.",
+  "story": "Kelly ran this one by his buddy, who said that's exactly how he does his. The fat can be pork or beef — cook's choice. The curing salt and the overnight rest are non-negotiable: low-temp smoking without cure isn't safe, and the rest is where the tang develops.",
+  "school": "Backyard pit",
+  "image": "/images/venison-summer-sausage.jpg",
+  "ingredients": [
+   {
+    "group": "Sausage",
+    "items": [
+     "3 lbs ground venison",
+     "2 lbs ground pork or beef fat (the fat the venison's missing)",
+     "1 tsp curing salt (Prague Powder #1)",
+     "3 Tbsp kosher salt",
+     "2 Tbsp coarse black pepper",
+     "1 Tbsp mustard seed",
+     "2 tsp garlic powder",
+     "1 Tbsp brown sugar",
+     "1 cup ice-cold water",
+     "Fibrous sausage casings, about 2½ inch diameter"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Mix",
+    "body": "Mix the venison, pork or beef fat, all the seasonings, and the cold water in a big bowl until it gets sticky and tacky — about 2 minutes of real mixing. That's what binds it."
+   },
+   {
+    "title": "Stuff and rest",
+    "body": "Stuff into the casings firmly, squeezing out air pockets, and tie the ends. Refrigerate overnight, 12–24 hours, so the cure does its work and the flavors marry."
+   },
+   {
+    "title": "Dry",
+    "body": "Hang or lay on the smoker at 130°F for 1 hour with no smoke, just to dry the casings."
+   },
+   {
+    "title": "Smoke low",
+    "body": "Raise to 150°F with smoke for 2 hours."
+   },
+   {
+    "title": "Finish",
+    "body": "Raise to 175°F and smoke until the internal temp hits 152°F, about 3–4 hours more."
+   },
+   {
+    "title": "Chill",
+    "body": "Straight into an ice bath for 15 minutes to stop the cooking. Hang at room temp 1 hour to bloom, then refrigerate."
+   }
+  ],
+  "proTips": [
+   "Don't skip the curing salt and don't skip the overnight rest — low-temp smoking without cure isn't safe.",
+   "Mix until tacky. Under-mixed sausage crumbles when you slice it.",
+   "The ice bath isn't optional — it stops the cook and keeps the texture snappy."
+  ],
+  "milestones": []
  }
 ]
