@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "wekdmhvrujskpvmqtxup.supabase.co" },
+      { protocol: "https", hostname: "plum-honey-silver-wave.grok.me" },
     ],
   },
   async headers() {
