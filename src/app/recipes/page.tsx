@@ -36,6 +36,7 @@ function RecipesInner() {
   const list = useMemo(() => {
     let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: protein === "all" ? false : protein === "desserts" }, liveRecipes);
     if (region !== "all") rows = rows.filter((r) => r.region === region);
+    rows.sort((a, b) => a.title.localeCompare(b.title));
     return rows;
   }, [protein, q, time, region, liveRecipes]);
   return (
