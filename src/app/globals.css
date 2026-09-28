@@ -36,6 +36,14 @@ input, button, textarea { font: inherit; }
 .theme-venison .text-subtle { color: #c9803e; }
 .theme-venison input:focus { border-color: #ff5a00; }
 
+.theme-beef {
+  background-color: #141109;
+  background-image:
+    linear-gradient(rgba(15, 11, 5, .8), rgba(15, 11, 5, .8)),
+    url("/images/beef-bg.jpg");
+  background-size: 640px;
+  background-attachment: fixed;
+}
 .theme-pork {
   background-color: #141009;
   background-image:
