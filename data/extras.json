@@ -3031,5 +3031,69 @@
    "A 12-inch cast iron skillet is the perfect vessel — stovetop to smoker, no extra dishes."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoke-and-ember-venison-pot-roast",
+  "title": "Smoke and Ember Venison Pot Roast",
+  "region": "backyard",
+  "protein": "venison",
+  "difficulty": "easy",
+  "hours": {
+   "min": 3.5,
+   "max": 4
+  },
+  "servings": "6–8",
+  "wood": "Oak or hickory",
+  "pitTemp": "275°F",
+  "finish": "Shreds easily with a fork",
+  "summary": "The Mississippi-style roast, translated for deer and branded our way. Ranch, au jus, a whole stick of butter, and pepperoncini — plus new potatoes, baby carrots, celery, and tomatoes, all braised in one Dutch oven on the smoker.",
+  "story": "Kelly wanted this one named Smoke and Ember Venison Pot Roast, and he built it like a full one-pot meal: whole new potatoes, baby carrots, celery, and tomatoes go in around the roast so nothing's missing when the lid comes off. The butter does the work the fat would do on a beef chuck, since venison runs lean.",
+  "school": "Backyard pit",
+  "image": "/images/venison-pot-roast.jpg",
+  "ingredients": [
+   {
+    "group": "Roast",
+    "items": [
+     "3–4 lb venison roast (hindquarter, neck, or shoulder)",
+     "Salt and coarse black pepper",
+     "1 packet ranch seasoning mix",
+     "1 packet au jus gravy mix",
+     "1 stick (½ cup) butter",
+     "6–8 pepperoncini peppers, plus a splash of the juice",
+     "1½ lbs whole new potatoes",
+     "1 lb baby carrots",
+     "3 stalks celery, cut in chunks",
+     "1 can (14.5 oz) diced tomatoes, or 3–4 whole tomatoes, quartered"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Sear",
+    "body": "Season the roast generously with salt and pepper. Sear it hard on all sides in a Dutch oven over medium-high heat."
+   },
+   {
+    "title": "Season",
+    "body": "Sprinkle the ranch seasoning and au jus mix evenly over the roast. Lay the stick of butter right on top. Scatter the pepperoncini around it and add a splash of their juice."
+   },
+   {
+    "title": "Smoke",
+    "body": "Cover and place on the smoker at 275°F for 2 hours."
+   },
+   {
+    "title": "Vegetables",
+    "body": "Nestle the potatoes, carrots, celery, and tomatoes around the roast. Cover and cook 1½–2 hours more, until the meat shreds easily and the vegetables are tender."
+   },
+   {
+    "title": "Serve",
+    "body": "Shred the meat right in the pot, stir everything through the juices, and serve."
+   }
+  ],
+  "proTips": [
+   "Don't lift the lid to peek — venison dries out fast when the pot loses its steam.",
+   "If it fights the fork, give it another 30 minutes, not more heat.",
+   "The vegetables go in late on purpose — 4 hours would turn them to mush."
+  ],
+  "milestones": []
  }
 ]
