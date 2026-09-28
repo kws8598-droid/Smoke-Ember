@@ -3463,5 +3463,70 @@
     "body": "Rest 20 minutes — the center firms up as it cools. Sprinkle flaky salt, cut, and serve."
    }
   ]
+ },
+ {
+  "slug": "prestons-peach-cobbler",
+  "title": "Preston's Peach Cobbler",
+  "region": "kentucky",
+  "protein": "desserts",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1.25
+  },
+  "servings": "8",
+  "wood": "Very light apple or cherry",
+  "pitTemp": "350°F",
+  "finish": "Crust golden, filling bubbling",
+  "summary": "Smoked cast-iron peach cobbler from Bub & Sissy's Sweet Shop. Juicy peaches bubbling under a golden buttery crust, with just a whisper of smoke.",
+  "story": "Named for Preston, Kelly's grandson — Bub himself — and baked for the sweet shop.",
+  "school": "Bub & Sissy's Sweet Shop",
+  "image": "/images/prestons-peach-cobbler.jpg",
+  "ingredients": [
+   {
+    "group": "Filling",
+    "items": [
+     "8 cups sliced peaches, fresh or frozen (thawed)",
+     "1/2 cup sugar",
+     "1 Tbsp lemon juice",
+     "1 tsp cinnamon",
+     "1/4 tsp nutmeg"
+    ]
+   },
+   {
+    "group": "Crust",
+    "items": [
+     "1 cup flour",
+     "1 cup brown sugar",
+     "1 tsp baking powder",
+     "1/2 tsp salt",
+     "1/2 cup butter, melted",
+     "1/4 cup boiling water",
+     "Vanilla ice cream, for serving"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Fill",
+    "body": "Toss the peaches with 1/2 cup sugar, lemon juice, cinnamon, and nutmeg. Pour into a buttered 12-inch cast iron skillet."
+   },
+   {
+    "title": "Mix",
+    "body": "Stir the flour, brown sugar, baking powder, and salt. Stir in the melted butter and boiling water until just combined."
+   },
+   {
+    "title": "Top",
+    "body": "Drop spoonfuls of batter over the peaches and spread gently. Dust a little cinnamon sugar over the crust for a crackly top."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 350°F over very light apple or cherry wood for 45–55 minutes, until the crust is golden and the filling bubbles up around the edges. Keep the smoke whisper-light so it doesn't overpower the peaches."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 15 minutes. Serve warm with vanilla ice cream."
+   }
+  ]
  }
 ]
