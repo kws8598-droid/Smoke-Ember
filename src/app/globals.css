@@ -32,4 +32,6 @@ input, button, textarea { font: inherit; }
 .theme-venison .bg-ember { background-color: #ff5a00; }
 .theme-venison .text-ember { color: #ff8a3d; }
 .theme-venison h1 { color: #ff7a1a; text-shadow: 0 0 26px rgba(255,90,0,.5), 0 0 80px rgba(255,90,0,.25); }
+.theme-venison h2, .theme-venison h3 { color: #ff8a3d; }
+.theme-venison .text-subtle { color: #c9803e; }
 .theme-venison input:focus { border-color: #ff5a00; }
