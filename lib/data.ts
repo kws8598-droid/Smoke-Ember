@@ -44,19 +44,11 @@ export const proteins = [
 export const regionCopy: Record<string, { label: string; line: string; image: string }> = {
   texas: { label: "Texas", line: "Salt, pepper, post oak. The meat is the sauce.", image: "/images/brisket.jpg" },
   "kansas-city": { label: "Kansas City", line: "Burnt ends, molasses, a bottle on the table.", image: "/images/kc-ribs.jpg" },
-  carolina: { label: "The Carolinas", line: "Whole hog, vinegar, no tomato in sight.", image: "/images/pulled-pork.jpg" },
-  memphis: { label: "Memphis", line: "Dry dust or wet mop — you pick.", image: "/images/memphis-ribs.jpg" },
-  california: { label: "California", line: "Red oak, garlic, a tri-tip off the coals.", image: "/images/tri-tip.jpg" },
-  alabama: { label: "Alabama", line: "White sauce. Don't write an essay.", image: "/images/white-chicken.jpg" },
-  louisiana: { label: "Louisiana", line: "Cayenne, butter, a bird that argues.", image: "/images/turkey.jpg" },
   kentucky: { label: "Kentucky", line: "Black sauce. Mutton if you can get it.", image: "/images/owensboro-dip.jpg" },
   mississippi: { label: "Mississippi", line: "Sweet tomato in the Delta. Gator when you can get it.", image: "/images/mississippi-sweet-ribs.jpg" },
   florida: { label: "Florida", line: "Sweet tomato, a squeeze of orange.", image: "/images/florida-sweet-ribs.jpg" },
   georgia: { label: "Georgia", line: "Championship pork. Inject, wrap, pull.", image: "/images/championship-pulled-pork.jpg" },
-  chicago: { label: "Chicago", line: "Mild or hot. White bread is the utensil.", image: "/images/chicago-sauce.jpg" },
-  southwest: { label: "Southwest", line: "Chile is the sauce. Not ketchup.", image: "/images/hatch-elote.jpg" },
-  maryland: { label: "Maryland", line: "Rare pit beef, tiger sauce, a Kaiser roll.", image: "/images/tiger-sauce.jpg" },
-  pacific: { label: "Pacific Northwest", line: "Alder and salmon. Don't make ham.", image: "/images/salmon.jpg" },
+  backyard: { label: "Backyard", line: "Home pit classics. No passport required.", image: "/images/hero-bbq-pitrow.jpg" },
 };
 
 export function getRecipe(slug: string) { return recipes.find((r) => r.slug === slug); }
@@ -79,7 +71,7 @@ export function difficultyLabel(d: string) {
   return d;
 }
 
-export function regionLabel(r: string) { return regionCopy[r]?.label || r; }
+export function regionLabel(r: string) { return regionCopy[r]?.label || (r.charAt(0).toUpperCase() + r.slice(1)); }
 
 export function related(recipe: Recipe, n = 3) {
   return recipes.filter((r) => r.slug !== recipe.slug && (r.region === recipe.region || r.protein === recipe.protein)).slice(0, n);
