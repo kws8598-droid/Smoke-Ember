@@ -18,7 +18,12 @@ export default function HomePage() {
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   return (
-    <main>
+    <main className="relative">
+      {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
+      <div aria-hidden className="pointer-events-none absolute inset-0">
+        <Image src="/images/homepage-wood-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
+        <div className="absolute inset-0 bg-ink/70" />
+      </div>
       <section className="relative overflow-hidden sm:min-h-[88vh]">
         {/* Mobile: full two-men pit-row scene at the top, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
@@ -52,7 +57,7 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
-      <section className="border-y border-white/5 bg-bark py-10">
+      <section className="relative border-y border-white/5 bg-bark/85 py-10">
         <div className="mx-auto grid max-w-6xl gap-6 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
             <Link key={q.slug} href={`/wisdom/${q.slug}`} className="group">
@@ -79,7 +84,7 @@ export default function HomePage() {
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">House bottles</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Rubs and sauces</h2></div><Link href="/recipes?protein=sauces" className="text-sm text-ember hover:text-ember-hot">All pantry</Link></div>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{(extraBottles.length ? extraBottles : pantry().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="bg-bark py-16">
+      <section className="relative bg-bark/85 py-16">
         <div className="mx-auto max-w-6xl px-4">
           <p className="text-xs uppercase tracking-[0.22em] text-subtle">The map</p>
           <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional schools</h2>
