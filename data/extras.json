@@ -3234,5 +3234,60 @@
    "Pecan or maple keeps the smoke sweet with the beans — hickory would bully the sweetness."
   ],
   "milestones": []
+ },
+ {
+  "slug": "abbys-lemon-pepper-trout",
+  "title": "Abby's Lemon Pepper Trout",
+  "region": "backyard",
+  "protein": "fish",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "4",
+  "wood": "Alder or apple",
+  "pitTemp": "275°F indirect",
+  "finish": "145°F internal",
+  "summary": "Simple and clean. The trout goes on the grill skin-down, butter melts over the top, lemon pepper does the rest.",
+  "story": "Named for Kelly's daughter Abby. Kelly's take on trout: lemon pepper and butter, straight on the grill over a light wood.",
+  "school": "Backyard pit",
+  "image": "/images/lemon-pepper-trout.jpg",
+  "ingredients": [
+   {
+    "group": "Trout",
+    "items": [
+     "4 whole trout (about 10–12 oz each), cleaned, or 8 fillets",
+     "4 Tbsp butter, softened",
+     "2 Tbsp lemon pepper seasoning",
+     "1 lemon, thinly sliced",
+     "1 Tbsp olive oil",
+     "Fresh dill or parsley, chopped, for serving"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Season",
+    "body": "Pat the trout dry. Rub the outside (or both sides of fillets) with olive oil and season generously with lemon pepper, inside and out."
+   },
+   {
+    "title": "Butter and lemon",
+    "body": "Stuff a couple lemon slices and a spoonful of butter inside each fish (or lay lemon slices and butter pats over fillets)."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over indirect heat at 275°F with a light wood — alder or apple — for 25–35 minutes, until the flesh flakes easily and hits 145°F."
+   },
+   {
+    "title": "Serve",
+    "body": "Shower with fresh dill and serve with the remaining lemon."
+   }
+  ],
+  "proTips": [
+   "Don't flip it. Skin-down the whole cook keeps the delicate flesh intact and lets the butter baste down through.",
+   "Alder or apple keeps the smoke light — heavy woods overpower trout."
+  ],
+  "milestones": []
  }
 ]
