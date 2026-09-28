@@ -3164,5 +3164,75 @@
    "Make it your own: fold in a cup of diced pepper jack cheese, diced jalapeños, or both — whatever sounds good — right along with the seasonings."
   ],
   "milestones": []
+ },
+ {
+  "slug": "deer-camp-sweet-heat-chili",
+  "title": "Deer Camp Sweet Heat Chili",
+  "region": "backyard",
+  "protein": "venison",
+  "difficulty": "easy",
+  "hours": {
+   "min": 2,
+   "max": 3
+  },
+  "servings": "8–10",
+  "wood": "Pecan or maple",
+  "pitTemp": "275°F",
+  "finish": "Thick and rich",
+  "summary": "Not your standard chili. Bush's baked beans bring the sweet, chipotles and hatch chiles bring the smoky heat, and the whole pot rides the smoker over pecan or maple wood.",
+  "story": "Kelly wanted this one different from the regular chili recipes out there — sweet and spicy, with Bush's baked beans and kidney beans. The hatch chiles were his call, and so was the light wood: pecan or maple, so the smoke stays sweet with the beans.",
+  "school": "Backyard pit",
+  "image": "/images/venison-chili.jpg",
+  "ingredients": [
+   {
+    "group": "Chili",
+    "items": [
+     "2 lbs ground venison",
+     "1 large onion, diced",
+     "1 bell pepper, diced",
+     "2 hatch chiles, roasted, peeled, and diced (or 1 can diced hatch chiles)",
+     "4 cloves garlic, minced",
+     "2 Tbsp chili powder",
+     "1 Tbsp smoked paprika",
+     "1 tsp cumin",
+     "1 tsp dried oregano",
+     "2 chipotle peppers in adobo, minced, plus 1 Tbsp adobo sauce",
+     "1 can (28 oz) Bush's baked beans, undrained",
+     "1 can (15 oz) kidney beans, drained",
+     "1 can (14.5 oz) fire-roasted diced tomatoes",
+     "1 cup beef broth",
+     "Salt and coarse black pepper",
+     "Shredded cheddar, sour cream, and sliced green onions, for serving"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brown",
+    "body": "Brown the venison in a Dutch oven over medium-high heat, breaking it up. Drain off any liquid and season with salt and pepper."
+   },
+   {
+    "title": "Vegetables and spices",
+    "body": "Add the onion, bell pepper, and hatch chiles; cook 5 minutes until soft. Stir in the garlic, chili powder, smoked paprika, cumin, and oregano; cook 1 minute until fragrant."
+   },
+   {
+    "title": "Beans",
+    "body": "Stir in the chipotles and adobo sauce, then the baked beans (with their sauce — that's the sweetness), kidney beans, tomatoes, and broth."
+   },
+   {
+    "title": "Smoke",
+    "body": "Cover and place on the smoker over pecan or maple wood at 275°F for 2–3 hours, stirring once or twice, until thick and rich. (Stovetop works too: simmer 1 hour, partially covered.)"
+   },
+   {
+    "title": "Serve",
+    "body": "Serve with cheddar, sour cream, and green onions."
+   }
+  ],
+  "proTips": [
+   "Don't drain the baked beans — their sauce is what makes this chili sweet.",
+   "The chipotle heat builds as it sits, so go easy if you're serving it straight off the smoker.",
+   "Pecan or maple keeps the smoke sweet with the beans — hickory would bully the sweetness."
+  ],
+  "milestones": []
  }
 ]
