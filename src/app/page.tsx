@@ -19,22 +19,35 @@ export default function HomePage() {
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main>
-      <section className="relative min-h-[calc(100svh-72px)] overflow-hidden pb-20 sm:min-h-[88vh] sm:pb-0">
-        <Image src="/images/hero-bbq-pitrow-mobile.jpg" alt="Pitmaster tending chickens and ribs at a fall barbecue cookout" fill priority sizes="100vw" className="hero-still object-cover sm:hidden" />
+      <section className="relative overflow-hidden sm:min-h-[88vh]">
+        {/* Mobile: full two-men pit-row scene at the top, picker card sits below it */}
+        <div className="relative aspect-[4/3] w-full sm:hidden">
+          <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Two pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
+          <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
+            <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
+            <p className="mt-1 text-[16px] leading-6 text-parchment/90">Smoke and Ember hands you a cook that actually fits tonight.</p>
+          </div>
+        </div>
+        {/* Desktop: full-bleed hero */}
         <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/hero-bbq-pitrow-v2.jpg" aria-hidden>
           <source src="/videos/hero-fire.mp4" type="video/mp4" />
         </video>
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20" />
-        <div className="relative mx-auto grid max-w-6xl gap-8 px-4 pb-8 pt-7 md:grid-cols-2 md:items-end sm:min-h-[88vh] sm:gap-10 sm:pb-16 sm:pt-24">
-          <div className="contents md:block">
-            <p className="hidden text-xs uppercase tracking-[0.28em] text-ember sm:block">The pit is lit</p>
-            <h1 className="hidden mt-3 font-display text-5xl italic leading-[0.95] text-cream glow-ember sm:block sm:text-7xl">Pull up a chair.</h1>
-            <p className="order-1 max-w-xl text-[19px] leading-8 text-parchment/95 sm:mt-5 sm:max-w-md sm:text-lg md:order-none">Pick how long you have. Smoke and Ember hands you a cook that actually fits tonight.</p>
-            <div className="order-3 mt-0 flex items-center gap-7 sm:mt-8 sm:flex-wrap sm:gap-4 md:order-none">
+        <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
+        <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-16 sm:pt-24 md:grid-cols-2">
+          <div className="hidden sm:block">
+            <p className="text-xs uppercase tracking-[0.28em] text-ember">The pit is lit</p>
+            <h1 className="mt-3 font-display text-5xl italic leading-[0.95] text-cream glow-ember sm:text-7xl">Pull up a chair.</h1>
+            <p className="mt-5 max-w-md text-lg text-parchment">Pick how long you have. Smoke and Ember hands you a cook that actually fits tonight.</p>
+            <div className="mt-8 flex flex-wrap items-center gap-4">
               <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes →</Link>
               <Link href="/wisdom" className="text-sm text-parchment hover:text-cream">Cooking tips</Link>
             </div>
+          </div>
+          <div className="mb-6 flex items-center gap-7 sm:hidden">
+            <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes →</Link>
+            <Link href="/wisdom" className="text-sm text-parchment hover:text-cream">Cooking tips</Link>
           </div>
           <TonightPicker />
         </div>
