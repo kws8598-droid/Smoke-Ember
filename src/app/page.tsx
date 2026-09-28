@@ -67,24 +67,24 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 py-16">
+      <section className="mx-auto max-w-6xl px-4 py-10">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">The cook that sorts you out</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Featured pits</h2>
         <div className="mt-8 grid gap-5 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} large />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-16">
+      <section className="mx-auto max-w-6xl px-4 pb-10">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Pitmaster sides</p><h2 className="mt-2 font-display text-4xl italic glow-ember">The plate around the meat</h2></div><Link href="/recipes?protein=sides" className="text-sm text-ember hover:text-ember-hot">All sides</Link></div>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{(extraSides.length ? extraSides : sides().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-16">
+      <section className="mx-auto max-w-6xl px-4 pb-10">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Southern desserts</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Close the plate</h2></div><Link href="/desserts" className="text-sm text-ember hover:text-ember-hot">All desserts</Link></div>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{(extraSweet.length ? extraSweet : desserts().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-16">
+      <section className="mx-auto max-w-6xl px-4 pb-10">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">House bottles</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Rubs and sauces</h2></div><Link href="/recipes?protein=sauces" className="text-sm text-ember hover:text-ember-hot">All pantry</Link></div>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{(extraBottles.length ? extraBottles : pantry().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="relative bg-bark/85 py-16">
+      <section className="relative bg-bark/85 py-10">
         <div className="mx-auto max-w-6xl px-4">
           <p className="text-xs uppercase tracking-[0.22em] text-subtle">The map</p>
           <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional schools</h2>
@@ -95,7 +95,7 @@ export default function HomePage() {
           ))}</div>
         </div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 py-16">
+      <section className="mx-auto max-w-6xl px-4 py-10">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
         <h2 className="mt-2 font-display text-4xl italic glow-ember">Notes from the pit</h2>
         <div className="mt-8 grid gap-4 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
