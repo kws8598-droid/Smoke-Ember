@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import TonightPicker from "@/components/TonightPicker";
 import RecipeCard from "@/components/RecipeCard";
@@ -19,7 +20,7 @@ export default function HomePage() {
   return (
     <main>
       <section className="relative min-h-[calc(100svh-72px)] overflow-hidden pb-20 sm:min-h-[88vh] sm:pb-0">
-        <img src="/images/hero-dusk.jpg" alt="Fire in the pit" className="hero-still absolute inset-0 h-full w-full object-cover" />
+        <Image src="/images/hero-dusk.jpg" alt="Fire in the pit" fill priority sizes="100vw" className="hero-still object-cover" />
         <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/hero-dusk.jpg" aria-hidden>
           <source src="/videos/hero-fire.mp4" type="video/mp4" />
         </video>
@@ -70,7 +71,7 @@ export default function HomePage() {
           <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional schools</h2>
           <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
             <Link key={id} href={`/recipes?region=${id}`} className="overflow-hidden rounded-2xl border border-white/5">
-              <div className="relative h-36"><img src={meta.image} alt="" className="h-full w-full object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /><div className="absolute bottom-3 left-3 right-3"><h3 className="font-display text-2xl italic text-cream">{meta.label}</h3><p className="text-sm text-parchment/85">{meta.line}</p></div></div>
+              <div className="relative h-36"><Image src={meta.image} alt="" fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /><div className="absolute bottom-3 left-3 right-3"><h3 className="font-display text-2xl italic text-cream">{meta.label}</h3><p className="text-sm text-parchment/85">{meta.line}</p></div></div>
             </Link>
           ))}</div>
         </div>
