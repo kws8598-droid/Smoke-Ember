@@ -36,7 +36,7 @@ export default function TonightPicker() {
             key={t.id}
             type="button"
             onClick={() => setTime(t.id)}
-            className={`min-h-12 rounded-full px-2 text-sm sm:px-4 ${time === t.id ? "bg-cream text-ink" : "bg-ash text-parchment"}`}
+            className={`min-h-12 whitespace-nowrap rounded-full px-2 text-sm sm:px-4 ${time === t.id ? "bg-cream text-ink" : "bg-ash text-parchment"}`}
           >
             {t.label}
           </button>
