@@ -2951,5 +2951,85 @@
    "This is even better the next day, once the flavors settle in."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoked-venison-shepherds-pie",
+  "title": "Smoked Venison Shepherd's Pie",
+  "region": "backyard",
+  "protein": "venison",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1.5,
+   "max": 2
+  },
+  "servings": "6–8",
+  "wood": "Oak or hickory",
+  "pitTemp": "375°F",
+  "finish": "Golden, bubbling edges",
+  "summary": "Ground venison in a savory gravy with peas, carrots, and corn, under a smoked cheddar mashed potato crust. The whole skillet goes on the smoker until the top turns golden.",
+  "story": "Kelly said this one was made exactly the way he'd make it — no notes. The fork-ridged mash isn't just for looks: those ridges are what turn brown and crispy in the smoke.",
+  "school": "Backyard pit",
+  "image": "/images/venison-shepherds-pie.jpg",
+  "ingredients": [
+   {
+    "group": "Filling",
+    "items": [
+     "2 lbs ground venison",
+     "1 large onion, diced",
+     "2 carrots, diced",
+     "3 cloves garlic, minced",
+     "2 Tbsp tomato paste",
+     "2 Tbsp flour",
+     "1½ cups beef broth",
+     "1 Tbsp Worcestershire sauce",
+     "1 tsp dried thyme",
+     "1 cup frozen peas",
+     "1 cup corn kernels",
+     "Salt and coarse black pepper"
+    ]
+   },
+   {
+    "group": "Smoked cheddar mash",
+    "items": [
+     "2½ lbs russet potatoes, peeled and chunked",
+     "4 Tbsp butter",
+     "½ cup milk or cream",
+     "1 cup shredded smoked cheddar",
+     "1 tsp salt"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brown",
+    "body": "Brown the venison in a large cast iron skillet over medium-high heat, breaking it up. Drain off any liquid. Season with salt and pepper."
+   },
+   {
+    "title": "Vegetables",
+    "body": "Add the onion and carrots; cook 5 minutes until softened. Stir in the garlic and tomato paste; cook 1 minute."
+   },
+   {
+    "title": "Gravy",
+    "body": "Sprinkle in the flour and stir 1 minute. Pour in the broth, scraping the pan. Stir in the Worcestershire and thyme. Simmer 5 minutes until it thickens into a gravy, then fold in the peas and corn. Spread it level."
+   },
+   {
+    "title": "Mash",
+    "body": "Boil the potatoes until fork-tender, about 15 minutes. Drain, then mash with the butter, milk, salt, and smoked cheddar until smooth."
+   },
+   {
+    "title": "Top",
+    "body": "Spread the mash over the meat, edge to edge. Rough up the top with a fork so the ridges catch the smoke and crisp."
+   },
+   {
+    "title": "Smoke",
+    "body": "Place the skillet on the smoker at 375°F for 25–30 minutes, until the top is golden and the edges are bubbling. Rest 10 minutes before serving."
+   }
+  ],
+  "proTips": [
+   "Those fork ridges aren't just for looks — they're what turn brown and crispy in the smoke.",
+   "Drain the venison well after browning so the gravy stays rich, not watery.",
+   "A 12-inch cast iron skillet is the perfect vessel — stovetop to smoker, no extra dishes."
+  ],
+  "milestones": []
  }
 ]
