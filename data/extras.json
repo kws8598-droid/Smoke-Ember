@@ -2672,5 +2672,77 @@
    "Fruit wood is the classic pairing for duck."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoked-oxtails",
+  "title": "Pepper Jelly Glazed Smoked Oxtails",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 5.5,
+   "max": 6
+  },
+  "servings": "4–6",
+  "wood": "Hickory or oak",
+  "pitTemp": "250°F smoke, 275°F braise",
+  "finish": "Meat pulls easily from the bone",
+  "summary": "Smoke, braise till they surrender, then lacquer in a sweet-heat pepper jelly glaze. Sticky, beefy, and not like anybody else's oxtails.",
+  "story": "Kelly had never cooked oxtails before this one. Most recipes go Jamaican-style or straight BBQ sauce — this one goes sweet-heat instead. Pepper jelly, a Southern grocery staple, reduces with the braising liquid into a sticky glaze that clings to every piece. Smoke first for the bark, braise till the meat gives up, glaze till it shines.",
+  "school": "Backyard pit",
+  "image": "/images/smoked-oxtails.jpg",
+  "ingredients": [
+   {
+    "group": "Seasoning",
+    "items": [
+     "4–5 lb oxtails, trimmed",
+     "2 Tbsp kosher salt",
+     "1 Tbsp coarse black pepper",
+     "1 Tbsp garlic powder",
+     "1 Tbsp smoked paprika",
+     "2 tsp onion powder"
+    ]
+   },
+   {
+    "group": "Braise & glaze",
+    "items": [
+     "2 cups beef broth",
+     "1 large onion, sliced",
+     "4 cloves garlic, smashed",
+     "1 cup pepper jelly (red or green)",
+     "1/4 cup apple cider vinegar",
+     "1 Tbsp Worcestershire sauce"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Season",
+    "body": "Season the oxtails all over. Rest 1 hour, or overnight in the fridge."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 250°F over hickory or oak, 3 hours, until the bark sets."
+   },
+   {
+    "title": "Braise",
+    "body": "Move to a Dutch oven or foil pan with the onion, garlic, and beef broth. Cover tight. Braise at 275°F (smoker or oven) 2½–3 hours, until the meat pulls from the bone."
+   },
+   {
+    "title": "Make the glaze",
+    "body": "Lift out the oxtails. Strain the braising liquid and skim the fat. Simmer 1 cup of the liquid with the pepper jelly, vinegar, and Worcestershire until thick and sticky."
+   },
+   {
+    "title": "Glaze and serve",
+    "body": "Toss the oxtails in the glaze until every piece shines. Serve over rice or grits."
+   }
+  ],
+  "proTips": [
+   "Red pepper jelly gives color; green gives a fresher bite. Both work.",
+   "The vinegar keeps the sweetness from going candy — do not skip it.",
+   "Make extra glaze. People will ask for it.",
+   "These reheat beautifully. Arguably better the next day."
+  ],
+  "milestones": []
  }
 ]
