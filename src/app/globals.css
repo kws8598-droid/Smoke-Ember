@@ -16,3 +16,20 @@ input, button, textarea { font: inherit; }
 @media (max-width: 767px) {
   body { padding-bottom: calc(4.35rem + env(safe-area-inset-bottom)); }
 }
+
+/* Deer camp theme: active only when the venison filter is on at /recipes */
+.theme-venison {
+  background-color: #252a1c;
+  background-image:
+    radial-gradient(ellipse 220px 130px at 12% 18%, rgba(58,58,34,.95) 0 55%, transparent 72%),
+    radial-gradient(ellipse 180px 150px at 82% 10%, rgba(92,66,40,.9) 0 55%, transparent 72%),
+    radial-gradient(ellipse 260px 160px at 55% 45%, rgba(22,22,14,.9) 0 55%, transparent 72%),
+    radial-gradient(ellipse 200px 120px at 28% 82%, rgba(107,90,53,.75) 0 55%, transparent 72%),
+    radial-gradient(ellipse 150px 150px at 90% 72%, rgba(58,58,34,.9) 0 55%, transparent 72%),
+    radial-gradient(ellipse 300px 140px at 48% 8%, rgba(40,44,26,.9) 0 55%, transparent 72%);
+  background-attachment: fixed;
+}
+.theme-venison .bg-ember { background-color: #ff5a00; }
+.theme-venison .text-ember { color: #ff8a3d; }
+.theme-venison h1 { color: #ff7a1a; text-shadow: 0 0 26px rgba(255,90,0,.5), 0 0 80px rgba(255,90,0,.25); }
+.theme-venison input:focus { border-color: #ff5a00; }
