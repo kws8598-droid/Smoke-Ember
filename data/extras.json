@@ -2819,5 +2819,64 @@
    "Go light on the final sauce. They should shine, not swim."
   ],
   "milestones": []
+ },
+ {
+  "slug": "honey-garlic-glaze",
+  "title": "Honey Garlic Glaze",
+  "region": "backyard",
+  "protein": "sauces",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.1,
+   "max": 0.25
+  },
+  "servings": "About 1½ cups",
+  "wood": "None — stovetop",
+  "pitTemp": "Stovetop",
+  "finish": "Thick enough to coat a spoon",
+  "summary": "Sweet, savory, sticky — with an Asian lean. Honey, garlic, hoisin, and soy, made for pork loin or belly.",
+  "story": "Kelly wanted a glaze with an Asian lean for pork loin or belly, and asked for hoisin in it. The hoisin brings the deep savory-sweet backbone, the honey brings the shine, and the garlic and ginger do the talking. Brush it on in the last stretch of the cook — it burns fast over direct heat.",
+  "school": "Backyard pit",
+  "image": "/images/honey-garlic-glaze.jpg",
+  "ingredients": [
+   {
+    "group": "Glaze",
+    "items": [
+     "1/2 cup honey",
+     "3 Tbsp hoisin sauce",
+     "3 Tbsp soy sauce",
+     "6 cloves garlic, minced",
+     "1 Tbsp rice vinegar",
+     "1 tsp fresh ginger, grated",
+     "1 tsp sesame oil",
+     "1/2 tsp red pepper flakes (optional, for heat)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Combine",
+    "body": "Combine the honey, hoisin, soy sauce, garlic, vinegar, ginger, and pepper flakes in a small saucepan."
+   },
+   {
+    "title": "Simmer",
+    "body": "Bring to a gentle simmer over medium heat, stirring, 4–5 minutes until the garlic softens and it thickens slightly."
+   },
+   {
+    "title": "Finish",
+    "body": "Take off the heat and stir in the sesame oil."
+   },
+   {
+    "title": "Use it",
+    "body": "Brush over pork loin or belly in the last 15–20 minutes of the cook, or toss cubes in it to finish."
+   }
+  ],
+  "proTips": [
+   "The sesame oil goes in off the heat — it turns bitter if it boils.",
+   "This burns fast over direct heat. Last 15–20 minutes only, or use it as a finishing toss.",
+   "The hoisin makes it thick enough on its own — no cornstarch needed.",
+   "Double it. It disappears."
+  ],
+  "milestones": []
  }
 ]
