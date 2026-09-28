@@ -20,11 +20,13 @@ function RecipesInner() {
     document.body.classList.toggle("theme-fish", protein === "fish");
     document.body.classList.toggle("theme-pork", protein === "pork");
     document.body.classList.toggle("theme-beef", protein === "beef");
+    document.body.classList.toggle("theme-poultry", protein === "poultry");
     return () => {
       document.body.classList.remove("theme-venison");
       document.body.classList.remove("theme-fish");
       document.body.classList.remove("theme-pork");
       document.body.classList.remove("theme-beef");
+      document.body.classList.remove("theme-poultry");
     };
   }, [protein]);
   function replaceFilters(nextProtein: string, nextRegion: string) {
@@ -65,6 +67,11 @@ function RecipesInner() {
             This page is dedicated to Harold Caldwell, Steve Holt, and Freddie Wash.
           </p>
         </>
+      )}
+      {protein === "poultry" && (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
+          <img src="/images/poultry-banner.jpg" alt="Smoked turkey on a rustic harvest table" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+        </div>
       )}
       {protein === "beef" && (
         <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
