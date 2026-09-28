@@ -1,8 +1,8 @@
 :root {
-  --charcoal: #171009;
+  --charcoal: #1f160d;
   --paper: #f3ebe2;
   --ember: #c45c26;
-  --wood: #221812;
+  --wood: #2b2015;
   --ember-glow: color-mix(in srgb, var(--ember) 55%, white);
 }
 
