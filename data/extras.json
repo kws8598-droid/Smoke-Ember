@@ -1465,7 +1465,7 @@
   "slug": "smoked-stuffed-thanksgiving-turkey",
   "title": "Smoked Stuffed Thanksgiving Turkey",
   "region": "kentucky",
-  "protein": "turkey",
+  "protein": "poultry",
   "difficulty": "holiday",
   "hours": {
    "min": 4,
@@ -1605,7 +1605,7 @@
   "slug": "fresh-cranberry-orange-relish",
   "title": "Fresh Cranberry-Orange Relish",
   "region": "kentucky",
-  "protein": "side",
+  "protein": "sides",
   "difficulty": "easy",
   "hours": {
    "min": 0.25,
@@ -1680,7 +1680,7 @@
   "slug": "smoked-oyster-casserole",
   "title": "Smoked Oyster Casserole",
   "region": "kentucky",
-  "protein": "seafood",
+  "protein": "fish",
   "difficulty": "easy",
   "hours": {
    "min": 0.5,
@@ -1770,7 +1770,7 @@
   "slug": "smoked-chicken-wings",
   "title": "Smoked Chicken Wings",
   "region": "kentucky",
-  "protein": "chicken",
+  "protein": "poultry",
   "difficulty": "easy",
   "hours": {
    "min": 1.5,
@@ -1855,7 +1855,7 @@
   "slug": "smoked-queso",
   "title": "Smoked Queso",
   "region": "kentucky",
-  "protein": "side",
+  "protein": "sides",
   "difficulty": "easy",
   "hours": {
    "min": 1.5,
@@ -2025,7 +2025,7 @@
   "slug": "smoked-trout",
   "title": "Smoked Trout",
   "region": "backyard",
-  "protein": "seafood",
+  "protein": "fish",
   "difficulty": "easy",
   "hours": {
    "min": 2,
@@ -2490,7 +2490,7 @@
   "slug": "smoked-shrimp-poboy",
   "title": "Smoked Shrimp Po'Boy",
   "region": "mississippi",
-  "protein": "seafood",
+  "protein": "fish",
   "difficulty": "medium",
   "hours": {
    "min": 1,
