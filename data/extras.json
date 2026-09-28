@@ -968,7 +968,7 @@
   "wood": "Hickory or oak",
   "pitTemp": "275°F",
   "finish": "130-135°F internal",
-  "summary": "The first thing gone at every deer camp. Tenderloin medallions wrapped in bacon, kissed with smoke, finished with Ember Finishing Sauce.",
+  "summary": "The first thing gone at every deer camp. Tenderloin medallions wrapped in bacon, kissed with smoke, finished with Ember Finishing Glaze.",
   "story": "These don't make it to the table half the time. Thin bacon, a sweet-heat rub, and a hot enough pit to render the fat before the venison sees 140. That's the whole trick — everything else is just getting out of the way.",
   "school": "Deer camp",
   "image": "/images/bacon-wrapped-venison-bites.jpg",
@@ -996,7 +996,7 @@
    {
     "group": "To finish",
     "items": [
-     "Ember Finishing Sauce, for glazing"
+     "Ember Finishing Glaze, for glazing"
     ]
    }
   ],
@@ -1019,7 +1019,7 @@
    },
    {
     "title": "Glaze",
-    "body": "Brush on the Ember Finishing Sauce during the last 10 minutes so it tacks up instead of burning."
+    "body": "Brush on the Ember Finishing Glaze during the last 10 minutes so it tacks up instead of burning."
    },
    {
     "title": "Rest",
@@ -2742,6 +2742,81 @@
    "The vinegar keeps the sweetness from going candy — do not skip it.",
    "Make extra glaze. People will ask for it.",
    "These reheat beautifully. Arguably better the next day."
+  ],
+  "milestones": []
+ },
+ {
+  "slug": "pork-belly-burnt-ends",
+  "title": "Pork Belly Burnt Ends",
+  "region": "kansas-city",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 5,
+   "max": 5.5
+  },
+  "servings": "8–10 as an appetizer",
+  "wood": "Hickory",
+  "pitTemp": "250°F",
+  "finish": "Probe-tender, glazed and tacked up",
+  "summary": "Meat candy. Barky pork belly cubes braised in butter, brown sugar, and honey, then lacquered in Kelly's Ember Finishing Glaze.",
+  "story": "Burnt ends started as the barky trimmings Kansas City pitmasters gave away — now they are the bite everybody fights over. Cubed belly takes the same treatment: smoke for bark, braise till the fat renders, then glaze. Kelly finishes his in his own Ember Finishing Glaze, and that sweet-heat lacquer is what makes the pile shine.",
+  "school": "Kansas City pit",
+  "image": "/images/pork-belly-burnt-ends.jpg",
+  "ingredients": [
+   {
+    "group": "Rub",
+    "items": [
+     "1 whole pork belly (8–10 lb), skin removed",
+     "1/4 cup brown sugar",
+     "2 Tbsp kosher salt",
+     "2 Tbsp paprika",
+     "1 Tbsp coarse black pepper",
+     "1 Tbsp garlic powder",
+     "1 tsp cayenne (optional)"
+    ]
+   },
+   {
+    "group": "Braise",
+    "items": [
+     "1/2 cup butter, cubed",
+     "1/2 cup brown sugar",
+     "1/2 cup honey"
+    ]
+   },
+   {
+    "group": "Glaze",
+    "items": [
+     "1 cup Kelly's Ember Finishing Glaze (or your favorite BBQ sauce)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Cube and rub",
+    "body": "Cut the belly into 1½-inch cubes, keeping them even so they cook alike. Toss in the rub until coated on all sides."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 250°F over hickory, 3 hours, until the bark sets and the edges crisp."
+   },
+   {
+    "title": "Braise",
+    "body": "Move to a foil pan. Scatter the butter over, then the brown sugar and honey. Cover tight with foil. Back on the smoker 1½–2 hours, until probe-tender — the probe slides in like butter."
+   },
+   {
+    "title": "Glaze",
+    "body": "Drain off most of the liquid. Toss the cubes in Kelly's Ember Finishing Glaze until every piece shines."
+   },
+   {
+    "title": "Tack up",
+    "body": "Back on the smoker uncovered 15–20 minutes to set the glaze."
+   }
+  ],
+  "proTips": [
+   "Even cubes matter more than anything. Small ones dry out, big ones stay chewy.",
+   "Do not skip the covered braise — that is what renders the fat down.",
+   "Go light on the final sauce. They should shine, not swim."
   ],
   "milestones": []
  }
