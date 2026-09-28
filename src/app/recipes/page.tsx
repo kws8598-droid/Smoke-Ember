@@ -17,7 +17,11 @@ function RecipesInner() {
   }, [params]);
   useEffect(() => {
     document.body.classList.toggle("theme-venison", protein === "venison");
-    return () => document.body.classList.remove("theme-venison");
+    document.body.classList.toggle("theme-fish", protein === "fish");
+    return () => {
+      document.body.classList.remove("theme-venison");
+      document.body.classList.remove("theme-fish");
+    };
   }, [protein]);
   function replaceFilters(nextProtein: string, nextRegion: string) {
     const next = new URLSearchParams(params.toString());
