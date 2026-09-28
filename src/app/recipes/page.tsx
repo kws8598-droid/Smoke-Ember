@@ -23,6 +23,7 @@ function RecipesInner() {
     // poultry camp
     document.body.classList.toggle("theme-poultry", protein === "poultry");
     document.body.classList.toggle("theme-mutton", protein === "mutton");
+    document.body.classList.toggle("theme-sauces", protein === "sauces");
     return () => {
       document.body.classList.remove("theme-venison");
       document.body.classList.remove("theme-fish");
@@ -30,6 +31,7 @@ function RecipesInner() {
       document.body.classList.remove("theme-beef");
       document.body.classList.remove("theme-poultry");
       document.body.classList.remove("theme-mutton");
+      document.body.classList.remove("theme-sauces");
     };
   }, [protein]);
   function replaceFilters(nextProtein: string, nextRegion: string) {
@@ -79,6 +81,11 @@ function RecipesInner() {
       {protein === "mutton" && (
         <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
           <img src="/images/mutton-banner.jpg" alt="Mutton shoulders on a vintage Kentucky barbecue joint brick pit" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+        </div>
+      )}
+      {protein === "sauces" && (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
+          <img src="/images/sauces-banner.jpg" alt="Wooden shelves lined with vintage barbecue sauce bottles and jars" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
         </div>
       )}
       {protein === "beef" && (
