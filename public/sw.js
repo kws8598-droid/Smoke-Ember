@@ -1,4 +1,4 @@
-const CACHE_NAME = "smoke-ember-offline-v1";
+const CACHE_NAME = "smoke-ember-offline-v2";
 const PRECACHE_URLS = ["/", "/manifest.webmanifest", "/ember.svg"];
 
 self.addEventListener("install", (event) => {
