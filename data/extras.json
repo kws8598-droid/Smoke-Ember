@@ -3587,5 +3587,74 @@
       "The fair legs have that pink, ham-like look from curing salt. If you can find it, add 1 tsp curing salt to the brine — totally optional, still great without it."
     ],
     "milestones": null
+  },
+  {
+    "slug": "smoked-crawfish-bowl",
+    "title": "Smoked Crawfish Bowl",
+    "region": "mississippi",
+    "protein": "fish",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "servings": "4",
+    "wood": "Oak or pecan",
+    "pitTemp": "250°F (sausage only)",
+    "finish": "Crawfish heated through, everything drizzled with seasoned butter",
+    "summary": "Frozen crawfish tails sautéed in spicy butter, piled over rice with smoked sausage, corn, and potatoes. No purging, no giant pot.",
+    "story": "Most folks aren't going to purge live crawfish — they'll grab the frozen tail meat at Walmart, and that's just fine. This bowl brings the whole boil to the table without the work: smoky sausage from the pit, sweet corn, tender potatoes, and crawfish tails warmed through in Cajun-spiced butter, all over rice. If you do get your hands on live ones, boil them 3 to 5 minutes till red and soak them off the heat 15 to 20 minutes, then pile everything together.",
+    "school": "Mississippi Gulf Coast",
+    "image": "/images/smoked-crawfish-boil.jpg",
+    "ingredients": [
+      {
+        "group": "Bowl",
+        "items": [
+          "2 lbs frozen crawfish tails, thawed and drained",
+          "1 lb andouille sausage (or kielbasa), cut in 2-inch pieces",
+          "1 1/2 lbs baby red potatoes, halved",
+          "3 ears corn, cut in 2-inch rounds (or 2 cups frozen)",
+          "4 cups cooked rice"
+        ]
+      },
+      {
+        "group": "Seasoned butter",
+        "items": [
+          "1 stick butter",
+          "2 Tbsp Cajun seasoning (like Zatarain's or Slap Ya Mama), divided",
+          "3 cloves garlic, minced",
+          "1 lemon, cut in wedges"
+        ]
+      },
+      {
+        "group": "Optional heat",
+        "items": [
+          "Louisiana hot sauce, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke the sausage",
+        "body": "Smoke the sausage at 250°F for 1 hour. Skip this if it's already smoked."
+      },
+      {
+        "title": "Boil the potatoes and corn",
+        "body": "Boil the potatoes 12 minutes, add the corn for the last 5. Drain."
+      },
+      {
+        "title": "Sauté the crawfish",
+        "body": "Melt the butter with the garlic and 1 Tbsp Cajun seasoning. Add the crawfish tails and sauté 3 to 4 minutes, just until heated through — don't overcook them."
+      },
+      {
+        "title": "Build the bowls",
+        "body": "Rice first, then sausage, potatoes, corn, and crawfish. Spoon the seasoned butter from the pan over everything. Squeeze of lemon on top. Pass the hot sauce at the table for whoever wants the extra kick."
+      }
+    ],
+    "proTips": [
+      "If you get live crawfish, boil them 3 to 5 minutes until red, then soak off the heat 15 to 20 minutes before piling everything together.",
+      "Thawed tails cook fast — 3 to 4 minutes is plenty. Any longer and they go rubbery."
+    ],
+    "milestones": null
   }
 ]
