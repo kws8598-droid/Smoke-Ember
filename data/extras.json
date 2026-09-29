@@ -3806,5 +3806,91 @@
       "Rest the full 10 minutes. Cut it hot and the filling runs everywhere."
     ],
     "milestones": null
+  },
+  {
+    "slug": "smoked-baja-fish-tacos",
+    "title": "Smoked Baja Fish Tacos",
+    "region": "california",
+    "protein": "fish",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "servings": "4",
+    "wood": "Alder or apple",
+    "pitTemp": "225°F",
+    "finish": "Fish flakes easily, 145°F inside",
+    "summary": "Flaky smoked cod in warm corn tortillas with crunchy cabbage slaw and chipotle-lime crema. Baja beach food, pit-style.",
+    "story": "Baja fish tacos are usually fried, but the smoker does something better — a whisper of alder or apple smoke that the slaw and crema were made for. Cod or tilapia, a simple chili-cumin rub, 25 to 30 minutes at 225°F, then flaked into warm corn tortillas. The chipotle-lime crema brings the heat and the lime brings it all home.",
+    "school": "Baja California",
+    "image": "/images/smoked-baja-fish-tacos.jpg",
+    "ingredients": [
+      {
+        "group": "Fish",
+        "items": [
+          "1 1/2 lbs cod fillets (or tilapia)",
+          "8 to 12 corn tortillas",
+          "2 Tbsp olive oil",
+          "2 tsp chili powder",
+          "1 tsp cumin",
+          "1 tsp garlic powder",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "group": "Cabbage slaw",
+        "items": [
+          "3 cups shredded cabbage",
+          "1/4 cup mayo",
+          "Juice of 1 lime",
+          "Handful of cilantro, chopped",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "group": "Chipotle-lime crema",
+        "items": [
+          "1/2 cup sour cream",
+          "1 to 2 chipotles in adobo, minced",
+          "Juice of 1 lime",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Lime wedges",
+          "Extra cilantro"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season the fish",
+        "body": "Rub the fish with olive oil, chili powder, cumin, garlic powder, salt, and pepper."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 225°F for 25 to 30 minutes, until the fish flakes easily and hits 145°F inside."
+      },
+      {
+        "title": "Mix the slaw and crema",
+        "body": "While the fish smokes, toss the slaw ingredients together and stir up the crema."
+      },
+      {
+        "title": "Warm the tortillas",
+        "body": "Warm the tortillas on the grill or in a dry skillet."
+      },
+      {
+        "title": "Build the tacos",
+        "body": "Flake the fish into the tortillas, pile on the slaw, and drizzle with crema. Lime wedge and cilantro on top."
+      }
+    ],
+    "proTips": [
+      "Don't over-smoke it — 30 minutes is plenty. Fish takes on smoke fast.",
+      "Warm tortillas are non-negotiable. Cold tortillas crack and the whole thing falls apart."
+    ],
+    "milestones": null
   }
 ]
