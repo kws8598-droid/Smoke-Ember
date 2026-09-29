@@ -49,6 +49,7 @@ export const regionCopy: Record<string, { label: string; line: string; image: st
   florida: { label: "Florida", line: "Sweet tomato, a squeeze of orange.", image: "/images/florida-sweet-ribs.jpg" },
   georgia: { label: "Georgia", line: "Championship pork. Inject, wrap, pull.", image: "/images/championship-pulled-pork.jpg" },
   backyard: { label: "Backyard", line: "Home pit classics. No passport required.", image: "/images/hero-bbq-pitrow.jpg" },
+  california: { label: "California", line: "Baja fish tacos, tri-tip, and coastal smoke.", image: "/images/smoked-baja-fish-tacos.jpg" },
 };
 
 export function getRecipe(slug: string) { return recipes.find((r) => r.slug === slug); }
