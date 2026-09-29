@@ -3730,5 +3730,81 @@
       "Cool the filling before you fill — hot filling melts the crust and makes it soggy."
     ],
     "milestones": null
+  },
+  {
+    "slug": "smoked-chicken-pot-pie",
+    "title": "Smoked Chicken Pot Pie",
+    "region": "kentucky",
+    "protein": "poultry",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "6",
+    "wood": "Hickory or apple",
+    "pitTemp": "275°F for the chicken, 400°F to bake",
+    "finish": "Deep golden, filling bubbling at the vents",
+    "summary": "Classic chicken pot pie, but the chicken comes off the smoker first — that's the whole difference.",
+    "story": "Chicken pot pie is pure comfort, and the smoker makes it better without making it fussy. Smoke the bird at 275°F, shred it into a creamy filling with potatoes, carrots, peas, and thyme, and bake it under a golden crust. Kelly's version adds diced potatoes — they soak up the gravy and make every slice eat like a meal.",
+    "school": "Kentucky comfort",
+    "image": "/images/smoked-chicken-pot-pie.jpg",
+    "ingredients": [
+      {
+        "group": "Filling",
+        "items": [
+          "3 cups smoked chicken, shredded or diced",
+          "1 onion, diced",
+          "2 carrots, diced",
+          "2 stalks celery, diced",
+          "2 medium potatoes, peeled and diced small",
+          "1 cup frozen peas",
+          "1/3 cup butter",
+          "1/3 cup flour",
+          "2 cups chicken broth",
+          "1/2 cup milk or cream",
+          "1 tsp dried thyme",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "group": "Crust",
+        "items": [
+          "2 refrigerated pie crusts (or homemade)",
+          "1 egg, beaten"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke the chicken",
+        "body": "If your chicken isn't smoked yet: smoke at 275°F until 165°F inside, about 1 1/2 to 2 hours. Leftover smoked chicken works perfect here."
+      },
+      {
+        "title": "Cook the vegetables",
+        "body": "Melt the butter and cook the onion, carrots, celery, and potatoes 8 to 10 minutes, until the potatoes are just tender."
+      },
+      {
+        "title": "Make the gravy",
+        "body": "Stir in the flour and cook 2 minutes. Whisk in the broth and milk and simmer until thick."
+      },
+      {
+        "title": "Fill it out",
+        "body": "Fold in the chicken, peas, thyme, salt, and pepper."
+      },
+      {
+        "title": "Assemble",
+        "body": "Line a pie dish with one crust, fill it, and lay the second crust on top. Crimp the edges, cut vents, and brush with beaten egg."
+      },
+      {
+        "title": "Bake",
+        "body": "Bake at 400°F for 30 to 35 minutes, until deep golden. Rest 10 minutes before cutting."
+      }
+    ],
+    "proTips": [
+      "Dice the potatoes small so they cook through — big chunks stay crunchy.",
+      "Rest the full 10 minutes. Cut it hot and the filling runs everywhere."
+    ],
+    "milestones": null
   }
 ]
