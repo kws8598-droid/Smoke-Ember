@@ -57,7 +57,7 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
-      <section className="relative border-y border-white/5 bg-bark/85 py-10">
+      <section className="relative border-y border-white/5 bg-bark/85 py-4">
         <div className="mx-auto grid max-w-6xl gap-6 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
             <Link key={q.slug} href={`/wisdom/${q.slug}`} className="group">
@@ -67,38 +67,38 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 py-10">
+      <section className="mx-auto max-w-6xl px-4 py-4">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">The cook that sorts you out</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Featured pits</h2>
-        <div className="mt-8 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} large />)}</div>
+        <div className="mt-4 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} large />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-10">
+      <section className="mx-auto max-w-6xl px-4 pb-4">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Pitmaster sides</p><h2 className="mt-2 font-display text-4xl italic glow-ember">The plate around the meat</h2></div><Link href="/recipes?protein=sides" className="text-sm text-ember hover:text-ember-hot">All sides</Link></div>
-        <div className="mt-8 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSides.length ? extraSides : sides().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+        <div className="mt-4 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSides.length ? extraSides : sides().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-10">
+      <section className="mx-auto max-w-6xl px-4 pb-4">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Southern desserts</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Close the plate</h2></div><Link href="/desserts" className="text-sm text-ember hover:text-ember-hot">All desserts</Link></div>
-        <div className="mt-8 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSweet.length ? extraSweet : desserts().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+        <div className="mt-4 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSweet.length ? extraSweet : desserts().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-10">
+      <section className="mx-auto max-w-6xl px-4 pb-4">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">House bottles</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Rubs and sauces</h2></div><Link href="/recipes?protein=sauces" className="text-sm text-ember hover:text-ember-hot">All pantry</Link></div>
-        <div className="mt-8 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraBottles.length ? extraBottles : pantry().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+        <div className="mt-4 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraBottles.length ? extraBottles : pantry().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="relative bg-bark/85 py-10">
+      <section className="relative bg-bark/85 py-4">
         <div className="mx-auto max-w-6xl px-4">
           <p className="text-xs uppercase tracking-[0.22em] text-subtle">The map</p>
           <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional schools</h2>
-          <div className="mt-8 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
+          <div className="mt-4 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
             <Link key={id} href={`/recipes?region=${id}`} className="overflow-hidden rounded-2xl border border-white/5">
               <div className="relative h-36"><Image src={meta.image} alt="" fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /><div className="absolute bottom-3 left-3 right-3"><h3 className="font-display text-2xl italic text-cream">{meta.label}</h3><p className="text-sm text-parchment/85">{meta.line}</p></div></div>
             </Link>
           ))}</div>
         </div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 py-10">
+      <section className="mx-auto max-w-6xl px-4 py-4">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
         <h2 className="mt-2 font-display text-4xl italic glow-ember">Notes from the pit</h2>
-        <div className="mt-8 grid gap-0 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
+        <div className="mt-4 grid gap-0 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
           <Link key={w.slug} href={`/wisdom/${w.slug}`} className="rounded-2xl border border-white/5 p-5 hover:border-ember/40">
             <p className="text-[11px] uppercase tracking-[0.18em] text-ember">{w.kicker}</p>
             <h3 className="mt-1 font-display text-2xl">{w.title}</h3>
