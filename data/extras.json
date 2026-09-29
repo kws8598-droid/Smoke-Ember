@@ -3525,5 +3525,67 @@
         "body": "Chill at least 30 minutes before serving — they're better cold."
       }
     ]
+  },
+  {
+    "slug": "fair-style-turkey-legs",
+    "title": "Fair-Style Smoked Turkey Legs",
+    "region": "kentucky",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 3,
+      "max": 4
+    },
+    "servings": "4",
+    "wood": "Hickory or pecan",
+    "pitTemp": "275°F",
+    "finish": "175°F internal, meat pulling back from the bone",
+    "summary": "Big, juicy, smoky turkey legs just like the state fair — brined overnight, rubbed down, and smoked till tender.",
+    "story": "Everybody remembers their first fair turkey leg — the size of it, the smoky smell, eating it walking around with juice running down your arm. These are that leg. An overnight salt-and-brown-sugar brine keeps them juicy, a paprika rub builds the crust, and 275°F of hickory or pecan smoke does the rest. Take them to 175°F so the meat pulls back from the bone and eats tender, not tough.",
+    "school": "Fairground pit",
+    "image": "/images/fair-turkey-legs.jpg",
+    "ingredients": [
+      {
+        "group": "Brine",
+        "items": [
+          "4 turkey legs, 1 to 1 1/2 lbs each",
+          "1 gallon cold water",
+          "1/2 cup kosher salt",
+          "1/2 cup brown sugar"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "2 Tbsp paprika",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 Tbsp black pepper",
+          "1 tsp cayenne, optional for a little kick"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine overnight",
+        "body": "Stir the water, salt, and brown sugar until dissolved. Submerge the legs and brine in the fridge 8 to 12 hours, or overnight."
+      },
+      {
+        "title": "Rinse and rub",
+        "body": "Pull the legs out, rinse, and pat dry. Let them sit out 30 minutes to take the chill off. Mix the rub ingredients and coat the legs all over."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F for 3 to 4 hours, until the meat hits 175°F internal and pulls back from the bone a little. If they're getting dark, wrap in foil for the last hour."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 15 minutes before serving."
+      }
+    ],
+    "proTips": [
+      "The fair legs have that pink, ham-like look from curing salt. If you can find it, add 1 tsp curing salt to the brine — totally optional, still great without it."
+    ],
+    "milestones": null
   }
 ]
