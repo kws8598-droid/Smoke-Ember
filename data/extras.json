@@ -3656,5 +3656,79 @@
       "Thawed tails cook fast — 3 to 4 minutes is plenty. Any longer and they go rubbery."
     ],
     "milestones": null
+  },
+  {
+    "slug": "smoked-crawfish-hand-pies",
+    "title": "Smoked Crawfish Hand Pies",
+    "region": "mississippi",
+    "protein": "fish",
+    "difficulty": "medium",
+    "hours": {
+      "min": 0.75,
+      "max": 0.75
+    },
+    "servings": "8 pies",
+    "wood": "Oak (optional, for the filling)",
+    "pitTemp": "250°F for the filling, 400°F to bake",
+    "finish": "Deep golden and flaky",
+    "summary": "Flaky, golden hand pies stuffed with Cajun-spiced crawfish tails. Fair food you can hold in one hand.",
+    "story": "Crawfish pies are Louisiana fair food at heart, and Mississippi does them proud too. The filling is the Cajun trinity — onion, bell pepper, celery — bound with a quick roux and loaded with crawfish tails, then folded into pie crust and baked golden. Smoke the filling first if you want the pit in every bite.",
+    "school": "Mississippi Gulf Coast",
+    "image": "/images/smoked-crawfish-hand-pies.jpg",
+    "ingredients": [
+      {
+        "group": "Filling",
+        "items": [
+          "1 lb frozen crawfish tails, thawed, drained, and chopped",
+          "1 small onion, diced",
+          "1/2 bell pepper, diced",
+          "1 stalk celery, diced",
+          "2 cloves garlic, minced",
+          "3 Tbsp butter",
+          "2 Tbsp flour",
+          "1/2 cup chicken broth",
+          "2 tsp Cajun seasoning",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "group": "Crust",
+        "items": [
+          "2 refrigerated pie crusts (14 oz box)",
+          "1 egg, beaten"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook the trinity",
+        "body": "Melt the butter and cook the onion, bell pepper, and celery 5 minutes. Add the garlic, 1 minute more."
+      },
+      {
+        "title": "Make it creamy",
+        "body": "Stir in the flour and cook 1 minute. Pour in the broth and stir until thick."
+      },
+      {
+        "title": "Add the crawfish",
+        "body": "Fold in the crawfish and Cajun seasoning. Cook 2 to 3 minutes, then cool 10 minutes."
+      },
+      {
+        "title": "Cut the rounds",
+        "body": "Unroll the crusts and cut 4 rounds from each, about 5 inches — a small bowl works as a guide."
+      },
+      {
+        "title": "Fill and crimp",
+        "body": "Spoon filling onto half of each round. Brush the edges with beaten egg, fold over, and crimp with a fork."
+      },
+      {
+        "title": "Bake",
+        "body": "Brush the tops with egg and cut a small vent in each. Bake at 400°F for 20 to 25 minutes, until deep golden."
+      }
+    ],
+    "proTips": [
+      "Pit twist: smoke the filling in a pan at 250°F for 30 minutes before filling the pies.",
+      "Cool the filling before you fill — hot filling melts the crust and makes it soggy."
+    ],
+    "milestones": null
   }
 ]
