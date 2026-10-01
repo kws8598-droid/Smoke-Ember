@@ -4030,5 +4030,134 @@
       "Don't carve the faces too deep or too big — thin walls collapse in the heat."
     ],
     "milestones": null
+  },
+  {
+    "slug": "halloween-mummy-poppers",
+    "title": "Bacon Mummy Jalapeño Poppers",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "12 poppers",
+    "wood": "Apple or cherry",
+    "pitTemp": "250°F",
+    "finish": "Bacon crisped, cheese bubbly",
+    "summary": "Jalapeño poppers wrapped in bacon like mummy bandages, with googly candy eyes. The Halloween appetizer that disappears first.",
+    "story": "Every Halloween spread needs something the kids can grab with one hand. Cream cheese and cheddar stuffed into jalapeños, wrapped up in bacon strips like little mummies, and smoked low until the bacon crisps. The candy eyes go on after — that's what makes the whole tray look alive.",
+    "school": "Backyard",
+    "image": "/images/halloween-mummy-poppers.jpg",
+    "ingredients": [
+      {
+        "group": "Poppers",
+        "items": [
+          "12 large jalapeños",
+          "8 oz cream cheese, softened",
+          "1 cup shredded cheddar",
+          "1 tsp garlic powder",
+          "12 slices bacon (thin cut wraps best)",
+          "Candy googly eyes (cake decorating aisle)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep the peppers",
+        "body": "Cut the jalapeños in half lengthwise and scoop out the seeds and membranes. Wear gloves — your hands will thank you."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "Stir the cream cheese, cheddar, and garlic powder together until smooth."
+      },
+      {
+        "title": "Stuff",
+        "body": "Fill each jalapeño half generously with the cheese mixture."
+      },
+      {
+        "title": "Wrap like a mummy",
+        "body": "Wrap each popper with a strip of bacon, crisscrossing it like mummy bandages. Leave a little gap near the top for the face."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F for 1.5 to 2 hours, until the bacon is crisped and the cheese is bubbly."
+      },
+      {
+        "title": "Add the eyes",
+        "body": "Let them cool a couple minutes, then press two candy eyes into the cheese in the face gap of each mummy."
+      }
+    ],
+    "proTips": [
+      "Thin bacon crisps better than thick cut — thick bacon stays chewy at 250°F.",
+      "Put the eyes on after the smoke, not before. They melt into blobs in the heat."
+    ],
+    "milestones": null
+  },
+  {
+    "slug": "halloween-smoked-pumpkin-pie",
+    "title": "Smoked Pumpkin Pie",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "8",
+    "wood": "Apple or pecan (light — easy on the smoke)",
+    "pitTemp": "350°F",
+    "finish": "Center barely jiggles when nudged",
+    "summary": "Classic pumpkin pie baked on the smoker with a whisper of apple or pecan smoke. Fall in a crust.",
+    "story": "The smoker isn't just for meat — it bakes a fine pie. Same pumpkin pie you grew up with, but the crust picks up the faintest kiss of apple or pecan smoke on its way through. Keep the smoke light; this one is about the pie, not the pit.",
+    "school": "Backyard",
+    "image": "/images/halloween-smoked-pumpkin-pie.jpg",
+    "ingredients": [
+      {
+        "group": "Pie",
+        "items": [
+          "1 deep-dish pie crust (store-bought is fine)",
+          "1 can (15 oz) pumpkin puree",
+          "1 can (12 oz) evaporated milk",
+          "2 eggs",
+          "3/4 cup brown sugar, packed",
+          "2 tsp pumpkin pie spice",
+          "1/2 tsp salt"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Whipped cream"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Heat the smoker",
+        "body": "Get the smoker to 350°F, indirect, with a light wood like apple or pecan. Go easy — a little smoke goes a long way on dessert."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "Whisk the pumpkin, evaporated milk, eggs, brown sugar, pumpkin pie spice, and salt until completely smooth."
+      },
+      {
+        "title": "Fill the crust",
+        "body": "Pour the filling into the pie crust."
+      },
+      {
+        "title": "Smoke-bake",
+        "body": "Bake on the smoker at 350°F for 50 to 60 minutes, until the edges are set and the center barely jiggles when you nudge the pan."
+      },
+      {
+        "title": "Cool",
+        "body": "Cool at least 2 hours so the filling sets. Serve with whipped cream."
+      }
+    ],
+    "proTips": [
+      "Light wood and a clean fire — heavy smoke turns the pie bitter.",
+      "That little jiggle in the center is right. It sets as it cools; an overbaked pie cracks."
+    ],
+    "milestones": null
   }
 ]
