@@ -4159,5 +4159,303 @@
       "That little jiggle in the center is right. It sets as it cools; an overbaked pie cracks."
     ],
     "milestones": null
+  },
+  {
+    "slug": "halloween-mummy-meatloaf",
+    "title": "Bacon Mummy Meatloaf",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "afternoon",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "8",
+    "wood": "Hickory or oak",
+    "pitTemp": "275°F",
+    "finish": "160°F internal, bacon crisped",
+    "summary": "Meatloaf wrapped in a bacon lattice like a mummy, with olive eyes. Smoked low and slow.",
+    "story": "The kids will not stop staring at this one — and then they'll eat half of it. A solid backyard meatloaf wrapped in a woven bacon lattice like mummy bandages, smoked until the bacon crisps and the middle hits temp. The olive eyes go on at the end. Carve it at the table for maximum effect.",
+    "school": "Backyard",
+    "image": "/images/halloween-mummy-meatloaf.jpg",
+    "ingredients": [
+      {
+        "group": "Meatloaf",
+        "items": [
+          "2 lbs ground beef (80/20)",
+          "1 cup breadcrumbs",
+          "2 eggs",
+          "1 small onion, diced fine",
+          "2 cloves garlic, minced",
+          "1/2 cup ketchup",
+          "2 Tbsp Worcestershire sauce",
+          "1 Tbsp BBQ rub",
+          "1 tsp salt, 1 tsp black pepper"
+        ]
+      },
+      {
+        "group": "Mummy wrap",
+        "items": [
+          "12-14 slices thin bacon",
+          "1/4 cup ketchup or BBQ sauce, for glazing",
+          "2 black olives, for eyes"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix the loaf",
+        "body": "Mix the beef, breadcrumbs, eggs, onion, garlic, ketchup, Worcestershire, rub, salt, and pepper until just combined. Don't overwork it. Shape into a loaf on a foil-lined sheet pan or a grill-safe pan."
+      },
+      {
+        "title": "Weave the mummy",
+        "body": "Lay out the bacon in a lattice over the loaf, crisscrossing like mummy bandages. Leave a small gap near one end for the face."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F for 2.5 to 3 hours, until the internal temp hits 160°F. Brush with ketchup or BBQ sauce in the last 30 minutes."
+      },
+      {
+        "title": "Eyes and rest",
+        "body": "Rest 15 minutes, then press two black olive halves into the face gap for eyes. Slice and serve."
+      }
+    ],
+    "proTips": [
+      "Thin bacon crisps; thick bacon stays chewy. Go thin.",
+      "Put the loaf on a wire rack over a sheet pan so the bottom doesn't steam."
+    ],
+    "milestones": null
+  },
+  {
+    "slug": "halloween-bat-wings",
+    "title": "Smoked Bat Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "6-8",
+    "wood": "Cherry or hickory",
+    "pitTemp": "250°F",
+    "finish": "175°F internal, glaze set",
+    "summary": "Chicken wings in a dark, sticky sweet-heat glaze. They come out looking like they flew straight out of a cave.",
+    "story": "The dark rub and the sticky glaze do all the Halloween work here — these wings come off the pit almost black and shining. Sweet heat underneath, crispy-edged, gone in minutes. Make more than you think you need.",
+    "school": "Backyard",
+    "image": "/images/halloween-bat-wings.jpg",
+    "ingredients": [
+      {
+        "group": "Wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "2 Tbsp brown sugar",
+          "1 Tbsp paprika",
+          "1 Tbsp chili powder",
+          "2 tsp garlic powder",
+          "2 tsp black pepper",
+          "1 tsp salt"
+        ]
+      },
+      {
+        "group": "Dark glaze",
+        "items": [
+          "1/2 cup BBQ sauce",
+          "2 Tbsp honey",
+          "1 Tbsp soy sauce"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Pat the wings dry. Toss with all the rub ingredients until evenly coated."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F for about 1.5 hours, until the wings hit 175°F internal and the skin has tightened up."
+      },
+      {
+        "title": "Glaze",
+        "body": "Warm the BBQ sauce, honey, and soy sauce together. Toss the wings in the glaze."
+      },
+      {
+        "title": "Set the glaze",
+        "body": "Return to the smoker for 15 minutes so the glaze sets sticky and dark. Serve hot."
+      }
+    ],
+    "proTips": [
+      "Dry wings = crispier skin. Pat them down and let them air-dry in the fridge an hour if you can.",
+      "Don't glaze too early or the sugars burn. Glaze at the end."
+    ],
+    "milestones": null
+  },
+  {
+    "slug": "halloween-stuffed-mini-pumpkins",
+    "title": "Pulled Pork Stuffed Mini Pumpkins",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "6",
+    "wood": "Apple or pecan",
+    "pitTemp": "275°F",
+    "finish": "Pumpkin tender, cheese melted",
+    "summary": "Little pie pumpkins stuffed with pulled pork and cheddar, smoked until the pumpkin goes tender.",
+    "story": "This is what you do with leftover pulled pork in October. Hollow out little pie pumpkins, pack them with pork and cheese, and let the smoker do the rest. The pumpkin steams itself tender from the inside and you can scoop it right out with the pork.",
+    "school": "Backyard",
+    "image": "/images/halloween-stuffed-mini-pumpkins.jpg",
+    "ingredients": [
+      {
+        "group": "Pumpkins",
+        "items": [
+          "6 small pie pumpkins",
+          "3 cups pulled pork",
+          "3/4 cup BBQ sauce",
+          "1 1/2 cups shredded cheddar",
+          "1/2 small onion, diced",
+          "Salt and pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hollow the pumpkins",
+        "body": "Cut the tops off the pumpkins and scoop out the seeds and stringy guts. Sprinkle the insides lightly with salt and pepper."
+      },
+      {
+        "title": "Fill",
+        "body": "Toss the pulled pork with the BBQ sauce, onion, and half the cheddar. Pack the mixture into the pumpkins and top with the rest of the cheddar. Set the tops back on, tilted like little hats."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F for about 1 hour, until the pumpkin flesh is tender when poked and the cheese is melted."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve whole — scoop the tender pumpkin right out with the pork."
+      }
+    ],
+    "proTips": [
+      "Use pie pumpkins, not carving pumpkins — carving pumpkins are stringy and bland.",
+      "Any leftover smoked meat works here: brisket, chicken, turkey."
+    ],
+    "milestones": null
+  },
+  {
+    "slug": "halloween-smoked-cider",
+    "title": "Smoked Hot Apple Cider",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "12-16 cups",
+    "wood": "Apple (light — easy on the smoke)",
+    "pitTemp": "275°F",
+    "finish": "Steaming hot, spiced through",
+    "summary": "A pot of spiced apple cider warmed on the smoker with a whisper of apple wood smoke.",
+    "story": "While the Halloween cook runs, a pot of cider rides along on the smoker and picks up the faintest kiss of apple wood. Cinnamon, cloves, star anise, orange — the whole house smells like October. Ladle it hot straight from the pot.",
+    "school": "Backyard",
+    "image": "/images/halloween-smoked-cider.jpg",
+    "ingredients": [
+      {
+        "group": "Cider",
+        "items": [
+          "1 gallon apple cider",
+          "3 cinnamon sticks",
+          "1 Tbsp whole cloves",
+          "2 star anise",
+          "1 orange, sliced",
+          "1/2 cup brown sugar (optional, to taste)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Load the pot",
+        "body": "Pour the cider into a cast iron Dutch oven or heavy pot. Stir in the brown sugar if using, then add the cinnamon sticks, cloves, star anise, and orange slices."
+      },
+      {
+        "title": "Smoke-warm",
+        "body": "Set the pot on the smoker at 275°F with light apple wood for 1.5 to 2 hours, stirring once or twice, until steaming hot and spiced through."
+      },
+      {
+        "title": "Serve",
+        "body": "Ladle into mugs, straining out the whole spices if you like. Keep the pot on the warm side of the pit for refills."
+      }
+    ],
+    "proTips": [
+      "Light smoke only — heavy smoke turns cider bitter. Apple wood, small fire.",
+      "Tie the cloves and star anise in cheesecloth for easy fishing out."
+    ],
+    "milestones": null
+  },
+  {
+    "slug": "halloween-snack-mix",
+    "title": "Halloween Snack Mix",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1
+    },
+    "servings": "12 cups",
+    "wood": "Any mild wood",
+    "pitTemp": "250°F",
+    "finish": "Crisp and toasted",
+    "summary": "Chex-style snack mix toasted on the smoker, then tossed with candy corn and chocolate candies.",
+    "story": "The bowl that empties itself. Classic savory Chex mix gets an hour on the smoker for a little extra something, then cools down and gets the Halloween treatment — candy corn and chocolate candies folded in. Set it out and walk away; it won't last.",
+    "school": "Backyard",
+    "image": "/images/halloween-snack-mix.jpg",
+    "ingredients": [
+      {
+        "group": "Mix",
+        "items": [
+          "4 cups Chex cereal (any variety)",
+          "2 cups mini pretzels",
+          "1 1/2 cups roasted peanuts",
+          "1/4 cup butter, melted",
+          "2 Tbsp Worcestershire sauce",
+          "1 tsp seasoned salt"
+        ]
+      },
+      {
+        "group": "Halloween toss-in (after cooling)",
+        "items": [
+          "1 cup candy corn",
+          "1 cup orange and black chocolate candies"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Coat",
+        "body": "Toss the Chex, pretzels, and peanuts in a big foil pan. Drizzle with the melted butter, Worcestershire, and seasoned salt; toss to coat."
+      },
+      {
+        "title": "Smoke-toast",
+        "body": "Smoke at 250°F for 1 hour, stirring every 15 minutes, until crisp and toasted."
+      },
+      {
+        "title": "Cool and candy",
+        "body": "Cool completely — the candy melts if the mix is warm — then fold in the candy corn and chocolate candies."
+      },
+      {
+        "title": "Serve",
+        "body": "Bowl it up. Keeps a week in an airtight container, if it survives the night."
+      }
+    ],
+    "proTips": [
+      "Stir every 15 minutes or the bottom pieces over-toast.",
+      "Wait until it's fully cool before the candy goes in — warm mix makes a melted mess."
+    ],
+    "milestones": null
   }
 ]
