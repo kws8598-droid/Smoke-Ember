@@ -11,12 +11,14 @@ const quotes = [
   { text: "Bark is a crust you earn.", slug: "building-bark" },
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
+const spookySlugs = ["jack-o-lantern-stuffed-peppers", "halloween-mummy-poppers", "halloween-smoked-pumpkin-pie", "candy-apple-pork-belly"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
+  const spooky = spookySlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
@@ -57,6 +59,18 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
+      {spooky.length > 0 && (
+        <section className="relative overflow-hidden">
+          <Image src="/images/halloween-banner.jpg" alt="Halloween barbecue at night with glowing jack-o'-lanterns" fill sizes="100vw" className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/25" />
+          <div className="relative mx-auto max-w-6xl px-4 py-14">
+            <p className="text-xs uppercase tracking-[0.22em] text-ember">October at the pit</p>
+            <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Halloween smokes</h2>
+            <p className="mt-2 max-w-xl text-parchment/85">Spooky-season cooks for the Halloween table — carve, wrap, smoke, repeat.</p>
+            <div className="mt-6 grid gap-5 md:grid-cols-2">{spooky.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+          </div>
+        </section>
+      )}
       <section className="relative border-y border-white/5 bg-bark/85 py-4">
         <div className="mx-auto grid max-w-6xl gap-6 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
