@@ -27,9 +27,11 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-ink/45" />
       </div>
       <section className="relative overflow-hidden sm:min-h-[88vh]">
-        {/* Mobile: full two-men pit-row scene at the top, picker card sits below it */}
+        {/* Mobile: spooky Halloween night video at the top for October, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
-          <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Two pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still object-cover" />
+          <video className="absolute inset-0 h-full w-full object-cover" autoPlay muted loop playsInline preload="metadata" poster="/images/halloween-hero-night-poster.jpg" aria-hidden>
+            <source src="/videos/halloween-hero-night.mp4" type="video/mp4" />
+          </video>
           <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
@@ -38,8 +40,8 @@ export default function HomePage() {
         </div>
         {/* Desktop: full-bleed hero */}
         <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
-        <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/hero-bbq-pitrow-v2.jpg" aria-hidden>
-          <source src="/videos/hero-fire.mp4" type="video/mp4" />
+        <video className="pointer-events-none absolute inset-0 hidden h-full w-full object-cover sm:block" autoPlay muted loop playsInline preload="metadata" poster="/images/halloween-hero-night-poster.jpg" aria-hidden>
+          <source src="/videos/halloween-hero-night.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-16 sm:pt-24 md:grid-cols-2">
