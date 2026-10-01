@@ -4410,20 +4410,24 @@
     "wood": "Any mild wood",
     "pitTemp": "250°F",
     "finish": "Crisp and toasted",
-    "summary": "Chex-style snack mix toasted on the smoker, then tossed with candy corn and chocolate candies.",
-    "story": "The bowl that empties itself. Classic savory Chex mix gets an hour on the smoker for a little extra something, then cools down and gets the Halloween treatment — candy corn and chocolate candies folded in. Set it out and walk away; it won't last.",
+    "summary": "Bold-style Chex snack mix toasted on the smoker, then tossed with candy corn and chocolate candies.",
+    "story": "This one's the Bold version — extra Worcestershire, garlic, and onion, with bagel chips folded in like the real Bold blend. An hour on the smoker, then it cools down and gets the Halloween treatment with candy corn and chocolate candies. The bowl empties itself.",
     "school": "Backyard",
     "image": "/images/halloween-snack-mix.jpg",
     "ingredients": [
       {
         "group": "Mix",
         "items": [
-          "4 cups Chex cereal (any variety)",
-          "2 cups mini pretzels",
+          "3 cups Corn Chex",
+          "3 cups Wheat Chex",
+          "1 cup mini pretzels",
+          "1 cup bagel chips, broken up",
           "1 1/2 cups roasted peanuts",
-          "1/4 cup butter, melted",
+          "6 Tbsp butter, melted",
           "2 Tbsp Worcestershire sauce",
-          "1 tsp seasoned salt"
+          "1 1/2 tsp seasoned salt",
+          "3/4 tsp garlic powder",
+          "1/2 tsp onion powder"
         ]
       },
       {
@@ -4437,7 +4441,7 @@
     "steps": [
       {
         "title": "Coat",
-        "body": "Toss the Chex, pretzels, and peanuts in a big foil pan. Drizzle with the melted butter, Worcestershire, and seasoned salt; toss to coat."
+        "body": "Toss the Chex, pretzels, bagel chips, and peanuts in a big foil pan. Drizzle with the melted butter, Worcestershire, seasoned salt, garlic powder, and onion powder; toss to coat."
       },
       {
         "title": "Smoke-toast",
