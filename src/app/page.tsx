@@ -62,7 +62,7 @@ export default function HomePage() {
       {spooky.length > 0 && (
         <section className="relative overflow-hidden">
           <Image src="/images/halloween-banner.jpg" alt="Halloween barbecue at night with glowing jack-o'-lanterns" fill sizes="100vw" className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/25" />
+          <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/25 to-transparent" />
           <div className="relative mx-auto max-w-6xl px-4 py-14">
             <p className="text-xs uppercase tracking-[0.22em] text-ember">October at the pit</p>
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Halloween smokes</h2>
