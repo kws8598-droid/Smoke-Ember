@@ -4517,5 +4517,71 @@
       "Don't walk away at the end — the sugar syrup can go from glazed to scorched fast."
     ],
     "milestones": null
+  },
+  {
+    "slug": "candy-apple-bbq-chicken",
+    "title": "Candy Apple BBQ Chicken",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "6-8",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F in the thigh, 160-165°F in the breast, glaze set sticky",
+    "summary": "Smoked chicken halves under a sticky apple butter glaze that sets up like a candy apple. Sweet, smoky, and shining.",
+    "story": "Inspired by Lane's BBQ's candy apple chicken halves — this is our own take with Ember House Rub and a warm apple butter glaze that caramelizes right on the bird. The glaze goes on late so the sugars shine instead of burn. Cut into halves, they look like something off a Halloween candy table and eat like the best BBQ chicken you've had.",
+    "school": "Backyard",
+    "image": "/images/candy-apple-bbq-chicken.jpg",
+    "ingredients": [
+      {
+        "group": "Chicken",
+        "items": [
+          "2 whole chickens (3-4 lbs each), cut in half — or 4 store-bought chicken halves",
+          "1/4 cup Ember House Rub"
+        ]
+      },
+      {
+        "group": "Candy apple glaze",
+        "items": [
+          "1 cup apple butter",
+          "1/4 cup honey",
+          "2 Tbsp apple juice or cider",
+          "2 Tbsp butter",
+          "1/2 cup Ember Finishing Glaze"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Pat the halves dry. Season all over with Ember House Rub, working some under the breast skin. Rest 30 minutes."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F over apple or cherry wood, skin-side up, until the breast reads 150°F — about 2 to 2 1/2 hours."
+      },
+      {
+        "title": "Make the glaze",
+        "body": "Warm the apple butter, honey, apple juice, and butter in a saucepan until melted together into a smooth glaze."
+      },
+      {
+        "title": "Glaze and set",
+        "body": "Brush the glaze thick over every half. Return to the smoker for 15 minutes so it sets."
+      },
+      {
+        "title": "Finish candy-style",
+        "body": "Brush with Ember Finishing Glaze and give it 10 more minutes until sticky and caramelized. Thighs should read 175°F, breast 160-165°F. Rest 10 minutes and serve with extra glaze on the side."
+      }
+    ],
+    "proTips": [
+      "Glaze late — the sugars in the apple butter and honey will burn if they go on too early.",
+      "Warm glaze brushes on smoother and sticks better than cold glaze straight from the jar.",
+      "Don't skip the rest. Ten minutes lets the glaze firm up into that candy shine."
+    ],
+    "milestones": []
   }
 ]
