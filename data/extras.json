@@ -4461,5 +4461,61 @@
       "Wait until it's fully cool before the candy goes in — warm mix makes a melted mess."
     ],
     "milestones": null
+  },
+  {
+    "slug": "fried-apples",
+    "title": "Skillet Fried Apples",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.33,
+      "max": 0.5
+    },
+    "servings": "6",
+    "wood": "None — stovetop",
+    "pitTemp": "Medium heat",
+    "finish": "Tender and glazed",
+    "summary": "Apple slices fried in a cast iron skillet with butter, brown sugar, and cinnamon until tender and glazed.",
+    "story": "Kristy's request. Sliced apples cooked down in butter and brown sugar with cinnamon and nutmeg until they're tender and swimming in syrup. Serve them next to pork chops like they do down South, or over a scoop of vanilla ice cream. Either way, don't expect leftovers.",
+    "school": "Backyard",
+    "image": "/images/fried-apples.jpg",
+    "ingredients": [
+      {
+        "group": "Apples",
+        "items": [
+          "5 firm apples (Golden Delicious or Granny Smith), cored and sliced",
+          "1/2 cup butter",
+          "1/2 cup brown sugar",
+          "1 tsp cinnamon",
+          "1/4 tsp nutmeg",
+          "Pinch of salt",
+          "Splash of apple juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Melt the butter",
+        "body": "Melt the butter in a cast iron skillet over medium heat."
+      },
+      {
+        "title": "Add everything",
+        "body": "Add the apple slices, brown sugar, cinnamon, nutmeg, salt, and the splash of apple juice. Stir to coat."
+      },
+      {
+        "title": "Fry",
+        "body": "Cook 15 to 20 minutes, stirring now and then, until the apples are tender and glazed in a thick syrup."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve warm — next to pork, or over ice cream."
+      }
+    ],
+    "proTips": [
+      "Firm apples hold their shape; soft ones turn to mush. Golden Delicious or Granny Smith.",
+      "Don't walk away at the end — the sugar syrup can go from glazed to scorched fast."
+    ],
+    "milestones": null
   }
 ]
