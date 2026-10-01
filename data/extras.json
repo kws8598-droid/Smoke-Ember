@@ -3965,5 +3965,70 @@
       "Cut the strips even. A skinny strip finishes way before a fat one and there's no fixing that on the pit."
     ],
     "milestones": null
+  },
+  {
+    "slug": "jack-o-lantern-stuffed-peppers",
+    "title": "Smoked Jack-o'-Lantern Stuffed Peppers",
+    "region": "backyard",
+    "protein": "sausage",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "6",
+    "wood": "Apple or hickory",
+    "pitTemp": "275°F",
+    "finish": "Peppers tender, cheese melted and golden",
+    "summary": "Orange bell peppers carved like jack-o'-lanterns, stuffed with smoky sausage and rice, finished on the pit.",
+    "story": "The kids carve the faces and the smoker does the rest. Big orange bell peppers get the jack-o'-lantern treatment, then get stuffed full of browned smoked sausage, rice, and tomatoes under a blanket of melted cheese. An hour or so on the pit and you've got the centerpiece of the Halloween table — and yes, they taste as good as they look.",
+    "school": "Backyard",
+    "image": "/images/jack-o-lantern-stuffed-peppers.jpg",
+    "ingredients": [
+      {
+        "group": "Peppers",
+        "items": [
+          "6 large orange bell peppers",
+          "1 Tbsp of your favorite BBQ rub"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "1 lb smoked sausage (kielbasa works), diced small",
+          "1 small onion, diced",
+          "2 cups cooked rice",
+          "1 can (10 oz) diced tomatoes with green chiles, drained",
+          "2 cups shredded cheddar or pepper jack"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Carve the peppers",
+        "body": "Cut the tops off the peppers and scoop out the seeds and membranes. Carve a jack-o'-lantern face into each one with a small sharp knife — keep the cuts simple so the pepper holds together."
+      },
+      {
+        "title": "Make the filling",
+        "body": "Brown the sausage and onion in a skillet over medium-high heat. Stir in the cooked rice, drained tomatoes, half the cheese, and the BBQ rub."
+      },
+      {
+        "title": "Stuff them",
+        "body": "Pack each pepper full of filling and top with the remaining cheese."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F for 1 to 1.5 hours, until the peppers are tender and the cheese is melted and golden."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 10 minutes before serving so the filling sets up."
+      }
+    ],
+    "proTips": [
+      "Stand the peppers in a muffin tin or crimped foil rings so they don't tip over on the grate.",
+      "Don't carve the faces too deep or too big — thin walls collapse in the heat."
+    ],
+    "milestones": null
   }
 ]
