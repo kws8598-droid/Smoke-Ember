@@ -19,6 +19,8 @@ export type Recipe = {
   story: string;
   school: string;
   image: string;
+  video?: string;
+  videoCredit?: string;
   ingredients: IngredientGroup[];
   steps: Step[];
   proTips?: ProTip[];
