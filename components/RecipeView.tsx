@@ -97,6 +97,23 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           <CookTimer slug={r.slug} milestones={r.milestones} />
         </aside>
       </section>
+      {r.video && (
+        <section className="mx-auto max-w-6xl px-4 pb-16">
+          <h2 className="font-display text-3xl italic glow-ember">Watch the cook</h2>
+          <div className="mt-6 overflow-hidden rounded-2xl border border-white/10">
+            <div className="relative aspect-video w-full">
+              <iframe
+                src={r.video}
+                title={`${r.title} video`}
+                className="absolute inset-0 h-full w-full"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+                allowFullScreen
+              />
+            </div>
+          </div>
+          {r.videoCredit && <p className="mt-2 text-sm text-subtle">{r.videoCredit}</p>}
+        </section>
+      )}
       {more.length > 0 && (
         <section className="mx-auto max-w-6xl px-4 pb-16">
           <h2 className="font-display text-3xl italic glow-ember">You might also like</h2>
