@@ -4583,5 +4583,66 @@
       "Don't skip the rest. Ten minutes lets the glaze firm up into that candy shine."
     ],
     "milestones": []
+  },
+  {
+    "slug": "armadillo-eggs",
+    "title": "Armadillo Eggs",
+    "region": "backyard",
+    "protein": "sausage",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "6-8",
+    "wood": "Hickory or oak",
+    "pitTemp": "275°F",
+    "finish": "160°F inside the sausage, bacon crisp",
+    "summary": "Jalapeños stuffed with cream cheese, wrapped in sausage and bacon, smoked until crisp. The ultimate pop-in-your-mouth BBQ bite.",
+    "story": "Part jalapeño popper, part scotch egg, all barbecue. The sausage shell keeps the cheese from escaping and the bacon bastes the whole thing as it crisps. One cut open with the cheese running out will end the argument about who gets the last one.",
+    "school": "Backyard",
+    "image": "/images/armadillo-eggs.jpg",
+    "ingredients": [
+      {
+        "group": "Eggs",
+        "items": [
+          "6 large jalapeños",
+          "8 oz cream cheese, softened",
+          "1 cup shredded cheddar",
+          "2 Tbsp Ember House Rub, divided",
+          "1 lb breakfast sausage",
+          "12 slices bacon (thin cut crisps best)",
+          "1/2 cup Ember Finishing Glaze (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep the peppers",
+        "body": "Cut the tops off the jalapeños, halve lengthwise, and scrape out the seeds and membranes. Leave some membrane if you like heat. Wear gloves."
+      },
+      {
+        "title": "Stuff",
+        "body": "Mix the cream cheese, cheddar, and 1 Tbsp Ember House Rub. Stuff each jalapeño half full."
+      },
+      {
+        "title": "Wrap in sausage",
+        "body": "Divide the sausage into 12 portions. Flatten each into a thin patty and wrap it completely around a stuffed half, pinching the seams shut."
+      },
+      {
+        "title": "Wrap in bacon",
+        "body": "Dust with the rest of the rub, then wrap each one in a slice of bacon. Secure with a toothpick."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F about 2 hours, until the bacon is crisp and the sausage reads 160°F inside. Brush with Ember Finishing Glaze in the last 15 minutes if you want them sticky."
+      }
+    ],
+    "proTips": [
+      "Thin bacon beats thick here — it actually crisps instead of staying chewy.",
+      "Pinch the sausage seams shut or the cheese will find its way out.",
+      "Make a double batch. They vanish."
+    ],
+    "milestones": []
   }
 ]
