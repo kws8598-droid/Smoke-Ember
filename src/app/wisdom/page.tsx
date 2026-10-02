@@ -4,7 +4,13 @@ import { wisdom } from "@/lib/data";
 export const metadata = { title: "Fire school" };
 export default function WisdomPage() {
   return (
-    <main className="mx-auto max-w-6xl px-4 py-12">
+    <main className="relative">
+      {/* Glowing embers backdrop */}
+      <div aria-hidden className="pointer-events-none fixed inset-0">
+        <img src="/images/tips-page-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <div className="absolute inset-0 bg-ink/60" />
+      </div>
+      <div className="relative mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Cooking tips</h1>
       <p className="mt-3 max-w-xl text-parchment/80">The stall, the bark, the fire, the rest. Notes the pit actually teaches.</p>
@@ -14,6 +20,7 @@ export default function WisdomPage() {
           <div className="p-5"><p className="text-[11px] uppercase tracking-[0.18em] text-ember">{w.kicker}</p><h2 className="mt-1 font-display text-2xl">{w.title}</h2><p className="mt-2 text-sm text-parchment/80">{w.summary}</p></div>
         </Link>
       ))}</div>
+      </div>
     </main>
   );
 }
