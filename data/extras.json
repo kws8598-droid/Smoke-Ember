@@ -4874,5 +4874,80 @@
       "The potato must be lump-free — push it through a ricer or sieve if you have to."
     ],
     "milestones": []
+  },
+  {
+    "slug": "blackberry-jam-cake",
+    "title": "Blackberry Jam Cake",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "12 slices",
+    "wood": "None — oven 350°F",
+    "pitTemp": "350°F",
+    "finish": "Toothpick clean, caramel icing set",
+    "summary": "Kentucky tradition — spice cake with blackberry jam baked right in, frosted all over with caramel icing.",
+    "story": "The jam goes in the batter, not between the layers — that's the Kentucky way Kelly knows. It bakes into the crumb and keeps the cake moist for days. Frost the whole thing with caramel icing and don't stop at one slice.",
+    "school": "Backyard",
+    "image": "/images/blackberry-jam-cake.jpg",
+    "ingredients": [
+      {
+        "group": "Cake",
+        "items": [
+          "1 cup butter, softened",
+          "2 cups sugar",
+          "4 eggs",
+          "1 cup blackberry jam (seedless if you can find it)",
+          "3 cups flour",
+          "1 tsp baking soda",
+          "1 tsp cinnamon",
+          "1/2 tsp cloves",
+          "1/2 tsp nutmeg",
+          "1 cup buttermilk",
+          "1 cup chopped pecans or black walnuts (optional)"
+        ]
+      },
+      {
+        "group": "Caramel icing",
+        "items": [
+          "1/2 cup butter",
+          "1 cup brown sugar",
+          "1/4 cup milk",
+          "2 cups powdered sugar",
+          "1 tsp vanilla"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the batter",
+        "body": "Cream the butter and sugar until fluffy. Beat in the eggs one at a time, then beat in the blackberry jam — it goes right in the batter."
+      },
+      {
+        "title": "Combine",
+        "body": "Whisk the flour, baking soda, and spices. Add to the batter alternating with the buttermilk. Fold in the nuts if using."
+      },
+      {
+        "title": "Bake",
+        "body": "Pour into three greased 9-inch pans (or one 9x13). Bake at 350°F for 25-30 minutes, until a toothpick comes out clean. Cool completely."
+      },
+      {
+        "title": "Caramel icing",
+        "body": "Melt the butter, stir in the brown sugar and milk, and boil 2 minutes. Cool slightly, then beat in the powdered sugar and vanilla."
+      },
+      {
+        "title": "Frost",
+        "body": "Stack the layers and frost the whole cake all over with the caramel icing."
+      }
+    ],
+    "proTips": [
+      "The jam is the flavor — use a good one, or homemade if you've got it.",
+      "The cake gets better the next day as the jam settles into the crumb.",
+      "Work fast with the caramel icing — it sets up as it cools."
+    ],
+    "milestones": []
   }
 ]
