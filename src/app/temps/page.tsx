@@ -22,6 +22,22 @@ const rows: [string, string, string, string][] = [
   ["Duck", "275°F", "165°F", "3–4 hrs"],
 ];
 
+const measures: [string, string][] = [
+  ["1 tablespoon", "3 teaspoons"],
+  ["1 fluid ounce", "2 tablespoons"],
+  ["1/4 cup", "4 tablespoons"],
+  ["1/3 cup", "5 tablespoons + 1 teaspoon"],
+  ["1/2 cup", "8 tablespoons"],
+  ["2/3 cup", "10 tablespoons + 2 teaspoons"],
+  ["3/4 cup", "12 tablespoons"],
+  ["1 cup", "16 tablespoons = 48 teaspoons"],
+  ["1 cup", "8 fluid ounces"],
+  ["1 pint", "2 cups"],
+  ["1 quart", "4 cups (2 pints)"],
+  ["1 gallon", "4 quarts (16 cups)"],
+  ["1 stick butter", "1/2 cup = 8 tablespoons"],
+];
+
 export default function TempsPage() {
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">
@@ -47,6 +63,25 @@ export default function TempsPage() {
                 <td className="border-t border-white/5 px-4 py-3 text-parchment/85">{smoker}</td>
                 <td className="border-t border-white/5 px-4 py-3 text-ember">{done}</td>
                 <td className="border-t border-white/5 px-4 py-3 text-parchment/85">{time}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <h2 className="mt-10 font-display text-3xl italic text-cream">Measurements</h2>
+      <div className="mt-4 overflow-x-auto rounded-2xl border border-white/5">
+        <table className="w-full min-w-[400px] text-left text-sm">
+          <thead>
+            <tr className="bg-bark text-cream">
+              <th className="px-4 py-3 font-semibold">If the recipe says</th>
+              <th className="px-4 py-3 font-semibold">That&apos;s</th>
+            </tr>
+          </thead>
+          <tbody>
+            {measures.map(([from, to], i) => (
+              <tr key={from + i} className={i % 2 ? "bg-white/[0.02]" : ""}>
+                <td className="border-t border-white/5 px-4 py-3 font-medium text-cream">{from}</td>
+                <td className="border-t border-white/5 px-4 py-3 text-ember">{to}</td>
               </tr>
             ))}
           </tbody>
