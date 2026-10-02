@@ -33,10 +33,16 @@ export default function GuidePage() {
       </Link>
       <h2 className="mt-14 font-display text-3xl italic">Regions</h2>
       <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
-        <Link key={id} href={`/recipes?region=${id}`} className="rounded-2xl border border-white/5 p-5 hover:border-ember/40">
-          <h3 className="font-display text-2xl text-cream">{meta.label}</h3>
-          <p className="mt-1 text-parchment/80">{meta.line}</p>
-          <p className="mt-2 text-xs uppercase tracking-[0.16em] text-subtle">{counts[id]} cooks</p>
+        <Link key={id} href={`/recipes?region=${id}`} className="group overflow-hidden rounded-2xl border border-white/5 hover:border-ember/40">
+          <div className="relative h-36">
+            <Image src={meta.image} alt="" fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" />
+            <div className="absolute bottom-3 left-3 right-3">
+              <h3 className="font-display text-2xl italic text-cream">{meta.label}</h3>
+              <p className="text-sm text-parchment/85">{meta.line}</p>
+              <p className="mt-1 text-xs uppercase tracking-[0.16em] text-subtle">{counts[id]} cooks</p>
+            </div>
+          </div>
         </Link>
       ))}</div>
       </div>
