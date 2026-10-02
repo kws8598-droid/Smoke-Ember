@@ -4820,5 +4820,59 @@
       "Cocktail or Spanish peanuts go in late because they're already roasted — raw peanuts would go in much earlier."
     ],
     "milestones": []
+  },
+  {
+    "slug": "peanut-butter-potato-candy",
+    "title": "Peanut Butter Potato Candy",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "About 30 pinwheels",
+    "wood": "None — stovetop",
+    "pitTemp": "No cooking",
+    "finish": "Firm pinwheels after chilling",
+    "summary": "Depression-era Appalachian candy — mashed potato, powdered sugar, and peanut butter rolled into pinwheels.",
+    "story": "Sounds strange until you taste it. This came out of hard times in the mountains — a potato, a bag of powdered sugar, and peanut butter turned into candy. Kelly's had it, and it eats like a peanut butter roll.",
+    "school": "Backyard",
+    "image": "/images/peanut-butter-potato-candy.jpg",
+    "ingredients": [
+      {
+        "group": "Candy",
+        "items": [
+          "1/2 cup plain mashed potato (no butter, no salt — just potato)",
+          "1 lb powdered sugar (about 4 cups), plus more for dusting",
+          "1 tsp vanilla",
+          "Creamy peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the dough",
+        "body": "Mash the warm potato completely smooth — no lumps. Stir in the vanilla, then beat in the powdered sugar a cup at a time until it forms a stiff dough."
+      },
+      {
+        "title": "Roll out",
+        "body": "Roll the dough on a powdered-sugar-dusted surface into a rectangle about 1/4 inch thick."
+      },
+      {
+        "title": "Fill",
+        "body": "Spread peanut butter over the whole thing, edge to edge."
+      },
+      {
+        "title": "Roll and chill",
+        "body": "Roll it up jelly-roll style, wrap in plastic, and chill at least an hour. Slice into pinwheels."
+      }
+    ],
+    "proTips": [
+      "The dough is sticky — that's normal, just keep dusting with powdered sugar.",
+      "Chill before slicing or the pinwheels squish.",
+      "The potato must be lump-free — push it through a ricer or sieve if you have to."
+    ],
+    "milestones": []
   }
 ]
