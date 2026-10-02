@@ -6,6 +6,8 @@ import { useLiveCatalog } from "@/components/LiveCatalog";
 export default function DessertsPage() {
   const { recipes } = useLiveCatalog();
   const list = recipes.filter((r) => r.protein === "desserts");
+  const appalachian = list.filter((r) => r.region === "appalachia");
+  const rest = list.filter((r) => r.region !== "appalachia");
   return (
     <main className="relative">
       {/* Candy-stripe awning backdrop for Bub & Sissy's Sweet Shop */}
@@ -25,10 +27,21 @@ export default function DessertsPage() {
         Bub &amp; Sissy&apos;s Sweet Shop &mdash; featuring Oliver&apos;s Oreos
       </p>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((r) => (
+        {rest.map((r) => (
           <RecipeCard key={r.slug} recipe={r} />
         ))}
       </div>
+      {appalachian.length > 0 && (
+        <>
+          <h2 className="mt-12 font-display text-3xl italic">Appalachian Candies</h2>
+          <p className="mt-2 max-w-xl text-parchment/80">Mountain candy — molasses, black walnuts, and sorghum. Not necessarily barbecue.</p>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {appalachian.map((r) => (
+              <RecipeCard key={r.slug} recipe={r} />
+            ))}
+          </div>
+        </>
+      )}
       </div>
     </main>
   );
