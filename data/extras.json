@@ -4705,5 +4705,62 @@
       "Wrap every piece — left unwrapped, they'll melt into one big lump."
     ],
     "milestones": []
+  },
+  {
+    "slug": "black-walnut-fudge",
+    "title": "Black Walnut Fudge",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "About 36 squares",
+    "wood": "None — stovetop",
+    "pitTemp": "234°F candy",
+    "finish": "Soft ball stage, thick and matte after beating",
+    "summary": "Classic chocolate fudge loaded with black walnuts — the Appalachian nut.",
+    "story": "Black walnuts aren't like the English walnuts in the store — they're stronger, earthier, and they taste like the mountains. Folks used to gather them in the fall and crack them on a rock. Folded into fudge, they're the whole reason for the recipe.",
+    "school": "Backyard",
+    "image": "/images/black-walnut-fudge.jpg",
+    "ingredients": [
+      {
+        "group": "Fudge",
+        "items": [
+          "3 cups sugar",
+          "3/4 cup cocoa powder",
+          "1 1/2 cups whole milk",
+          "1/2 cup butter",
+          "1 cup chopped black walnuts",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook",
+        "body": "Combine the sugar, cocoa, milk, and salt in a heavy pot. Cook over medium heat, stirring until dissolved, then stop stirring. Cook to 234°F (soft ball stage)."
+      },
+      {
+        "title": "Cool",
+        "body": "Remove from heat and drop in the butter — don't stir. Let it cool to 110°F (lukewarm to the touch)."
+      },
+      {
+        "title": "Beat",
+        "body": "Add the vanilla and beat with a wooden spoon until thick and it loses its gloss."
+      },
+      {
+        "title": "Nuts and pan",
+        "body": "Fold in the black walnuts. Spread in a buttered 8x8 pan. Cool completely, then cut into squares."
+      }
+    ],
+    "proTips": [
+      "Black walnuts are stronger than English walnuts — a cup is plenty.",
+      "Don't beat it before it cools to lukewarm or it will go grainy.",
+      "A candy thermometer is worth it here — 5 degrees off either way changes the texture."
+    ],
+    "milestones": []
   }
 ]
