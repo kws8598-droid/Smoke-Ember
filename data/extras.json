@@ -5006,5 +5006,66 @@
       "Leftovers are even better the next day."
     ],
     "milestones": []
+  },
+  {
+    "slug": "popcorn-balls",
+    "title": "Old-Fashioned Popcorn Balls",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "10-12 balls",
+    "wood": "",
+    "pitTemp": "",
+    "finish": "Set and glossy",
+    "summary": "Crunchy, buttery, and just sticky enough. Tint them orange for the Halloween table.",
+    "story": "Every fall needs a batch of these. Hot syrup, buttered hands, and popcorn — shaped fast before it sets.",
+    "school": "Backyard",
+    "image": "/images/popcorn-balls.jpg",
+    "ingredients": [
+      {
+        "group": "Balls",
+        "items": [
+          "10 cups popped popcorn (about 1/2 cup kernels), unpopped kernels picked out",
+          "1 cup sugar",
+          "1/2 cup light corn syrup",
+          "1/4 cup water",
+          "1 Tbsp butter, plus more for your hands",
+          "1 tsp vanilla",
+          "1/2 tsp salt",
+          "Orange food coloring (optional, for Halloween)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep",
+        "body": "Put the popcorn in a big buttered bowl."
+      },
+      {
+        "title": "Cook the syrup",
+        "body": "In a saucepan, stir the sugar, corn syrup, water, butter, and salt. Boil until it hits 250°F on a candy thermometer (hard-ball stage), about 5 minutes. Stir in the vanilla and food coloring if using."
+      },
+      {
+        "title": "Coat",
+        "body": "Pour over the popcorn and toss fast to coat."
+      },
+      {
+        "title": "Shape",
+        "body": "Butter your hands and shape into balls about the size of a tennis ball. Work quick — it sets fast."
+      },
+      {
+        "title": "Cool",
+        "body": "Cool on wax paper."
+      }
+    ],
+    "proTips": [
+      "Don't skip the butter on your hands or you'll be picking popcorn off your palms.",
+      "If the syrup gets too cool to shape, warm it 10 seconds in the microwave."
+    ],
+    "milestones": []
   }
 ]
