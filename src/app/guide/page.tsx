@@ -24,6 +24,13 @@ export default function GuidePage() {
       <div className="mt-10 grid gap-4 md:grid-cols-2">{schools.map((s) => (
         <Link key={s.href} href={s.href} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark hover:border-ember/40"><div className="relative h-40"><Image src={s.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /></div><div className="p-5"><h2 className="font-display text-2xl italic group-hover:text-ember-hot">{s.title}</h2><p className="mt-2 text-sm text-parchment/80">{s.line}</p></div></Link>
       ))}</div>
+      <Link href="/temps" className="group mt-4 flex items-center justify-between gap-4 rounded-2xl border border-ember/30 bg-bark p-5 hover:border-ember">
+        <div>
+          <h2 className="font-display text-2xl italic group-hover:text-ember-hot">Smoking Chart</h2>
+          <p className="mt-1 text-sm text-parchment/80">Done temps, smoker temps, and time estimates for every protein.</p>
+        </div>
+        <span className="shrink-0 font-display text-3xl text-ember">&rarr;</span>
+      </Link>
       <h2 className="mt-14 font-display text-3xl italic">Regions</h2>
       <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
         <Link key={id} href={`/recipes?region=${id}`} className="rounded-2xl border border-white/5 p-5 hover:border-ember/40">
