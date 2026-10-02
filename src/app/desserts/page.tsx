@@ -26,7 +26,7 @@ export default function DessertsPage() {
       <p className="mt-4 text-center font-display text-lg italic text-[#ff8a3d]">
         Bub &amp; Sissy&apos;s Sweet Shop &mdash; featuring Oliver&apos;s Oreos
       </p>
-      <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
         {rest.map((r) => (
           <RecipeCard key={r.slug} recipe={r} />
         ))}
@@ -35,7 +35,7 @@ export default function DessertsPage() {
         <>
           <h2 className="mt-12 font-display text-3xl italic">Appalachian Candies</h2>
           <p className="mt-2 max-w-xl text-parchment/80">Mountain candy — molasses, black walnuts, and sorghum. Not necessarily barbecue.</p>
-          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
             {appalachian.map((r) => (
               <RecipeCard key={r.slug} recipe={r} />
             ))}
