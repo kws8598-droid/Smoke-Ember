@@ -13,7 +13,7 @@ export default function GuidePage() {
     <main className="mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">How to use the book</p>
       <h1 className="mt-2 font-display text-5xl italic">Guide</h1>
-      <p className="mt-3 max-w-2xl text-parchment/80">Pick a time, pick a protein, cook the original recipe \u2014 not a generic template. Fire school sits next to the plate.</p>
+      <p className="mt-3 max-w-2xl text-parchment/80">Pick a time, pick a protein, cook the original recipe — not a generic template. Fire school sits next to the plate.</p>
       <div className="mt-10 grid gap-4 md:grid-cols-2">{schools.map((s) => (
         <Link key={s.href} href={s.href} className="rounded-2xl border border-white/5 p-5 hover:border-ember/40"><h2 className="font-display text-2xl italic">{s.title}</h2><p className="mt-2 text-sm text-parchment/80">{s.line}</p></Link>
       ))}</div>
