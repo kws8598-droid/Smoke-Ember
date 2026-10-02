@@ -76,7 +76,7 @@ export default function HomePage() {
       <section className="relative bg-bark/85 py-4">
         <div className="mx-auto max-w-6xl px-4">
           <p className="text-xs uppercase tracking-[0.22em] text-subtle">The map</p>
-          <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional schools</h2>
+          <h2 className="mt-2 font-display text-4xl italic glow-ember">Regional flavors</h2>
           <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{Object.entries(regionCopy).map(([id, meta]) => (
             <Link key={id} href={`/recipes?region=${id}`} className="overflow-hidden rounded-2xl border border-white/5">
               <div className="relative h-36"><Image src={meta.image} alt="" fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /><div className="absolute bottom-3 left-3 right-3"><h3 className="font-display text-2xl italic text-cream">{meta.label}</h3><p className="text-sm text-parchment/85">{meta.line}</p></div></div>
