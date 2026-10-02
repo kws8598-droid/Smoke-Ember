@@ -22,7 +22,7 @@ export default function HomePage() {
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
-      <div aria-hidden className="pointer-events-none absolute inset-0">
+      <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
         <Image src="/images/homepage-wood-bg.jpg" alt="" fill sizes="100vw" className="object-cover contrast-[1.12]" />
         <div className="absolute inset-0 bg-ink/45" />
       </div>
