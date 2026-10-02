@@ -4644,5 +4644,66 @@
       "Make a double batch. They vanish."
     ],
     "milestones": []
+  },
+  {
+    "slug": "molasses-pull-taffy",
+    "title": "Molasses Pull Taffy",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "About 40 pieces",
+    "wood": "None — stovetop",
+    "pitTemp": "260°F candy",
+    "finish": "Hard ball stage, light tan and satiny after pulling",
+    "summary": "Old-time mountain taffy pull candy — dark molasses, chewy, wrapped in wax paper twists.",
+    "story": "Taffy pulls were a social event in the mountains — everybody's hands got buttered and everybody got candy. Molasses is the Appalachian sweetener, and pulled slow it turns light and satiny. This isn't barbecue, but it belongs to the same people.",
+    "school": "Backyard",
+    "image": "/images/molasses-pull-taffy.jpg",
+    "ingredients": [
+      {
+        "group": "Taffy",
+        "items": [
+          "2 cups sugar",
+          "1 cup molasses (unsulphured)",
+          "1/2 cup water",
+          "2 Tbsp apple cider vinegar",
+          "2 Tbsp butter, plus more for your hands",
+          "1/4 tsp salt",
+          "1/2 tsp baking soda"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook",
+        "body": "Combine everything except the baking soda in a heavy pot. Cook over medium heat, stirring until the sugar dissolves, then stop stirring. Cook to 260°F (hard ball stage)."
+      },
+      {
+        "title": "Foam and pour",
+        "body": "Stir in the baking soda — it will foam up. Pour onto a buttered slab or sheet pan."
+      },
+      {
+        "title": "Cool",
+        "body": "Cool 10-15 minutes until you can handle it without burning yourself."
+      },
+      {
+        "title": "Pull",
+        "body": "Butter your hands. Stretch, fold, and stretch again for 15-20 minutes until the taffy turns light tan and satiny."
+      },
+      {
+        "title": "Cut and wrap",
+        "body": "Pull into ropes, cut with buttered scissors, and wrap each piece in wax paper twists."
+      }
+    ],
+    "proTips": [
+      "A second pair of hands makes the pulling go twice as fast — that's how the old taffy pulls worked.",
+      "If it sticks to your teeth, you pulled it right.",
+      "Wrap every piece — left unwrapped, they'll melt into one big lump."
+    ],
+    "milestones": []
   }
 ]
