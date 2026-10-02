@@ -10,7 +10,13 @@ const schools = [
 export default function GuidePage() {
   const counts = Object.fromEntries(Object.keys(regionCopy).map((id) => [id, recipes.filter((r) => r.region === id).length]));
   return (
-    <main className="mx-auto max-w-6xl px-4 py-12">
+    <main className="relative">
+      {/* Open cookbook backdrop */}
+      <div aria-hidden className="pointer-events-none fixed inset-0">
+        <img src="/images/guide-page-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <div className="absolute inset-0 bg-ink/65" />
+      </div>
+      <div className="relative mx-auto max-w-6xl px-4 py-12">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">How to use the book</p>
       <h1 className="mt-2 font-display text-5xl italic">Guide</h1>
       <p className="mt-3 max-w-2xl text-parchment/80">Pick a time, pick a protein, cook the original recipe — not a generic template. Fire school sits next to the plate.</p>
@@ -25,6 +31,7 @@ export default function GuidePage() {
           <p className="mt-2 text-xs uppercase tracking-[0.16em] text-subtle">{counts[id]} cooks</p>
         </Link>
       ))}</div>
+      </div>
     </main>
   );
 }
