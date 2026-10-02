@@ -115,10 +115,16 @@ export default function HomePage() {
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
         <h2 className="mt-2 font-display text-4xl italic glow-ember">Notes from the pit</h2>
         <div className="mt-3 grid gap-0 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
-          <Link key={w.slug} href={`/wisdom/${w.slug}`} className="rounded-2xl border border-white/5 p-5 hover:border-ember/40">
-            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">{w.kicker}</p>
-            <h3 className="mt-1 font-display text-2xl">{w.title}</h3>
-            <p className="mt-2 text-sm text-parchment/80">{w.summary}</p>
+          <Link key={w.slug} href={`/wisdom/${w.slug}`} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark hover:border-ember/40">
+            <div className="relative h-36">
+              <Image src={w.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
+              <div className="absolute inset-0 bg-gradient-to-t from-ink/80 to-transparent" />
+            </div>
+            <div className="p-5">
+              <p className="text-[11px] uppercase tracking-[0.18em] text-ember">{w.kicker}</p>
+              <h3 className="mt-1 font-display text-2xl group-hover:text-ember-hot">{w.title}</h3>
+              <p className="mt-2 text-sm text-parchment/80">{w.summary}</p>
+            </div>
           </Link>
         ))}</div>
         <p className="mt-6 text-sm text-subtle">{recipes.length} original cooks. No invented plates.</p>
