@@ -4762,5 +4762,63 @@
       "A candy thermometer is worth it here — 5 degrees off either way changes the texture."
     ],
     "milestones": []
+  },
+  {
+    "slug": "sorghum-peanut-brittle",
+    "title": "Sorghum Peanut Brittle",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 0.75,
+      "max": 1
+    },
+    "servings": "About 1 1/2 lbs",
+    "wood": "None — stovetop",
+    "pitTemp": "300°F candy",
+    "finish": "Hard crack stage, thin and glassy",
+    "summary": "Peanut brittle made with Kentucky sorghum instead of corn syrup — deeper, darker, better.",
+    "story": "Sorghum was the mountain sweetener — folks grew the cane and cooked the syrup down every fall. Swapping it for corn syrup in peanut brittle gives you a deeper, almost smoky sweetness. Use cocktail or Spanish peanuts — raw ones are hard to find, and these go in late so they don't scorch.",
+    "school": "Backyard",
+    "image": "/images/sorghum-peanut-brittle.jpg",
+    "ingredients": [
+      {
+        "group": "Brittle",
+        "items": [
+          "1 cup sugar",
+          "1/2 cup sorghum syrup",
+          "1/4 cup water",
+          "1 1/2 cups cocktail peanuts or Spanish peanuts",
+          "2 Tbsp butter",
+          "1 tsp baking soda",
+          "1 tsp vanilla",
+          "1/4 tsp salt (skip if your peanuts are salted)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook the syrup",
+        "body": "Combine the sugar, sorghum, and water in a heavy pot. Cook over medium heat, stirring until the sugar dissolves, to 290°F."
+      },
+      {
+        "title": "Add peanuts",
+        "body": "Stir in the peanuts and cook to 300°F (hard crack stage), stirring so nothing scorches."
+      },
+      {
+        "title": "Finish",
+        "body": "Off the heat, stir in the butter, then the baking soda and vanilla — it will foam up."
+      },
+      {
+        "title": "Spread and break",
+        "body": "Pour onto a buttered sheet pan and spread thin. Cool completely, then break into pieces."
+      }
+    ],
+    "proTips": [
+      "Have everything measured before you start — once it hits temp it moves fast.",
+      "Thin spreads snap better than thick ones.",
+      "Cocktail or Spanish peanuts go in late because they're already roasted — raw peanuts would go in much earlier."
+    ],
+    "milestones": []
   }
 ]
