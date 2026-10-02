@@ -125,7 +125,7 @@ function RecipesInner() {
         <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search the book…" className="h-11 min-w-[12rem] flex-1 rounded-full border border-white/10 bg-bark px-4 text-sm outline-none focus:border-ember" />
       </div>
       <p className="mt-6 text-sm text-subtle">{list.length} cooks</p>
-      <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{list.map((r) => <RecipeCard key={r.slug} recipe={r} />)}</div>
+      <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{list.map((r) => <RecipeCard key={r.slug} recipe={r} />)}</div>
       </div>
     </main>
   );
