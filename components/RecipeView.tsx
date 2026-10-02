@@ -117,7 +117,7 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
       {more.length > 0 && (
         <section className="mx-auto max-w-6xl px-4 pb-16">
           <h2 className="font-display text-3xl italic glow-ember">You might also like</h2>
-          <div className="mt-6 grid gap-5 md:grid-cols-3">
+          <div className="mt-6 grid gap-0 md:grid-cols-3">
             {more.map((m) => (
               <RecipeCard key={m.slug} recipe={m} />
             ))}
