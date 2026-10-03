@@ -5067,5 +5067,73 @@
       "If the syrup gets too cool to shape, warm it 10 seconds in the microwave."
     ],
     "milestones": []
+  },
+  {
+    "slug": "turkey-brine",
+    "title": "Smoke & Ember Turkey Brine",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 12,
+      "max": 24
+    },
+    "servings": "1 turkey (12-16 lb)",
+    "wood": "Pairs with any smoke wood",
+    "pitTemp": "Brine only — no cook",
+    "finish": "Juicy bird, crisp skin",
+    "summary": "The night-before soak that keeps the bird juicy through a long smoke. Salt, brown sugar, citrus, and herbs.",
+    "story": "A dry turkey ruins Thanksgiving. This brine is the insurance policy — salt and sugar carry the citrus and herbs deep into the meat overnight, so the bird stays juicy no matter how long the smoke runs.",
+    "school": "Backyard",
+    "image": "/images/turkey-brine.jpg",
+    "ingredients": [
+      {
+        "group": "Brine",
+        "items": [
+          "2 gallons cold water",
+          "1 1/2 cups kosher salt",
+          "3/4 cup packed brown sugar",
+          "1/4 cup black peppercorns",
+          "6 bay leaves",
+          "1 whole garlic bulb, cut in half crosswise",
+          "2 oranges, quartered",
+          "1 onion, quartered",
+          "4 sprigs fresh thyme (or 1 Tbsp dried)",
+          "4 sprigs fresh rosemary"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dissolve",
+        "body": "In a big stockpot, heat 1/2 gallon of the water with the salt, brown sugar, peppercorns, and bay leaves. Stir until the salt and sugar dissolve, then pull it off the heat."
+      },
+      {
+        "title": "Cool it down",
+        "body": "Add the remaining 1 1/2 gallons of cold water, the garlic, oranges, onion, thyme, and rosemary. Let it cool completely — cold to the touch, not warm."
+      },
+      {
+        "title": "Submerge the bird",
+        "body": "Lower the turkey into the brine breast-side down. It needs to stay fully submerged — weigh it down with a plate if it floats."
+      },
+      {
+        "title": "Wait",
+        "body": "Refrigerate 12 to 24 hours. Don't go past 24 or the meat gets hammy."
+      },
+      {
+        "title": "Rinse and dry",
+        "body": "Pull the bird out, rinse it under cold water, and pat it completely dry with paper towels. Let it sit uncovered in the fridge for an hour so the skin dries — that's what gets you crispy skin on the smoker."
+      },
+      {
+        "title": "Smoke",
+        "body": "Season and smoke like normal. Skip any extra salt in your rub — the brine already handled it."
+      }
+    ],
+    "proTips": [
+      "No fridge space? A brining bag in a cooler full of ice works — just keep it under 40°F.",
+      "This fits a 12 to 16 pound bird. Bigger than that, make half again as much brine.",
+      "Don't use table salt here. The iodine makes the brine taste tinny."
+    ],
+    "milestones": []
   }
 ]
