@@ -5268,5 +5268,74 @@
       "Leftover mojo (that never touched raw meat) makes a killer dipping sauce."
     ],
     "milestones": []
+  },
+  {
+    "slug": "fish-dip",
+    "title": "Florida Smoked Fish Dip",
+    "region": "florida",
+    "protein": "fish",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "8-10",
+    "wood": "Alder or apple (mild)",
+    "pitTemp": "225°F",
+    "finish": "Flakes easily",
+    "summary": "The dockside classic. Smoky, creamy, with a little kick — built for crackers and cold drinks.",
+    "story": "Every dock in Florida has a version of this. Smoke the fish low, flake it chunky, fold it into cream cheese with lemon and heat, and let it sit overnight. By the next day it's the best thing on the table.",
+    "school": "Backyard",
+    "image": "/images/fish-dip.jpg",
+    "ingredients": [
+      {
+        "group": "Dip",
+        "items": [
+          "1 lb smoked white fish (mahi, kingfish, or amberjack), flaked",
+          "8 oz cream cheese, softened",
+          "1/2 cup mayonnaise",
+          "1/4 cup sour cream",
+          "2 Tbsp fresh lemon juice",
+          "1 Tbsp hot sauce",
+          "2 green onions, thinly sliced",
+          "2 Tbsp fresh parsley, chopped",
+          "1 tsp Old Bay seasoning",
+          "1/2 tsp black pepper",
+          "1/2 tsp garlic powder"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke the fish",
+        "body": "Smoke the fish at 225°F over a mild wood (alder or apple) until it flakes easily, about 1 to 1.5 hours. Let it cool."
+      },
+      {
+        "title": "Flake",
+        "body": "Flake the fish into a bowl, picking out any bones. Don't shred it to mush — you want some chunks in there."
+      },
+      {
+        "title": "Mix",
+        "body": "Fold in the cream cheese, mayo, sour cream, lemon juice, and hot sauce. Stir until it's combined but still chunky."
+      },
+      {
+        "title": "Season",
+        "body": "Fold in the green onions, parsley, Old Bay, pepper, and garlic powder."
+      },
+      {
+        "title": "Chill",
+        "body": "Cover and refrigerate at least 2 hours — overnight is better. The flavors need time to get to know each other."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve cold with crackers, celery, or thick-cut potato chips."
+      }
+    ],
+    "proTips": [
+      "Oily fish works best — kingfish and mahi are the Florida classics, but mullet is the old-school pick.",
+      "If your fish comes out too dry from the smoker, add an extra spoonful of mayo. Nobody will know.",
+      "This keeps 4 to 5 days in the fridge. It won't last that long."
+    ],
+    "milestones": []
   }
 ]
