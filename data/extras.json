@@ -5195,5 +5195,78 @@
       "Leftover mop keeps a week in the fridge. Don't save what touched raw meat — make fresh."
     ],
     "milestones": []
+  },
+  {
+    "slug": "mojo-pork",
+    "title": "Citrus Mojo Smoked Pork Shoulder",
+    "region": "florida",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 12,
+      "max": 20
+    },
+    "servings": "12-15",
+    "wood": "Oak or citrus wood",
+    "pitTemp": "250°F",
+    "finish": "Probes tender, 200-205°F",
+    "summary": "Florida's answer to pulled pork — bright citrus, heavy garlic, Cuban soul.",
+    "story": "This is what happens when a pork shoulder spends the night in citrus and garlic and then meets oak smoke. The mojo injection carries orange, lime, and garlic deep into the meat, and the long smoke turns it into the juiciest pulled pork you'll ever make.",
+    "school": "Backyard",
+    "image": "/images/mojo-pork.jpg",
+    "ingredients": [
+      {
+        "group": "Mojo injection",
+        "items": [
+          "1 cup fresh orange juice",
+          "1/2 cup fresh lime juice",
+          "8 cloves garlic, minced",
+          "1/4 cup olive oil",
+          "2 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "1 Tbsp dried oregano",
+          "1 tsp cumin"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "2 Tbsp kosher salt",
+          "2 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "2 tsp cumin",
+          "2 tsp dried oregano"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix the mojo",
+        "body": "Whisk the mojo together. Warm it slightly — not hot, just warm to the touch."
+      },
+      {
+        "title": "Inject",
+        "body": "Inject the pork shoulder in a grid pattern, about an inch apart. Use all of it — this is a big piece of meat and it drinks it up."
+      },
+      {
+        "title": "Rub & rest",
+        "body": "Coat the outside with the rub. Wrap it tight and refrigerate overnight, 8 to 12 hours."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over oak or citrus wood until it probes tender, 200–205°F. Plan on 1.5 to 2 hours per pound."
+      },
+      {
+        "title": "Rest & pull",
+        "body": "Rest it wrapped in a cooler for at least an hour. Pull it and spoon some of the drippings back over the meat."
+      }
+    ],
+    "proTips": [
+      "Fresh citrus only — the bottled stuff tastes like cleaning product in the smoker.",
+      "This one's built for an 8 to 10 pound Boston butt.",
+      "Leftover mojo (that never touched raw meat) makes a killer dipping sauce."
+    ],
+    "milestones": []
   }
 ]
