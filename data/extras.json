@@ -5135,5 +5135,65 @@
       "Don't use table salt here. The iodine makes the brine taste tinny."
     ],
     "milestones": []
+  },
+  {
+    "slug": "mop-sauce",
+    "title": "Pitmaster's Mop Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "About 3 1/2 cups",
+    "wood": "For pork butt, ribs & brisket",
+    "pitTemp": "Mop only — no cook",
+    "finish": "Thin, tangy baste",
+    "summary": "The thin baste that keeps long smokes juicy and builds bark. Mop it on, don't pour it.",
+    "story": "The mop is the pitmaster's paintbrush. This thin vinegar mop goes on every 45 minutes once the bark sets — it keeps the meat from drying out and lays down layer after layer of flavor without washing anything off.",
+    "school": "Backyard",
+    "image": "/images/mop-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "Mop",
+        "items": [
+          "2 cups apple cider vinegar",
+          "1 cup water",
+          "1/2 cup Worcestershire sauce",
+          "1/4 cup yellow mustard",
+          "2 Tbsp hot sauce (your favorite)",
+          "2 Tbsp brown sugar",
+          "1 Tbsp black pepper",
+          "1 Tbsp kosher salt",
+          "1 tsp garlic powder",
+          "1 tsp onion powder"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer",
+        "body": "Whisk everything together in a saucepan. Bring it just to a simmer over medium heat, stirring until the sugar and salt dissolve."
+      },
+      {
+        "title": "Cool & bottle",
+        "body": "Pull it off the heat and let it cool. Pour it into a squeeze bottle or a bowl — whatever you're mopping from."
+      },
+      {
+        "title": "Mop",
+        "body": "Mop the meat every 45 minutes to an hour during the cook, starting after the first 2 hours. Thin coat — you're basting, not drowning it."
+      },
+      {
+        "title": "Keep it warm",
+        "body": "Keep the mop warm on the pit or the stove while you cook. Cold mop on hot meat is a bark killer."
+      }
+    ],
+    "proTips": [
+      "Don't mop in the first 2 hours. Let the bark set first or you'll wash it right off.",
+      "Built for pork butt, ribs, and brisket — anything with a long cook.",
+      "Leftover mop keeps a week in the fridge. Don't save what touched raw meat — make fresh."
+    ],
+    "milestones": []
   }
 ]
