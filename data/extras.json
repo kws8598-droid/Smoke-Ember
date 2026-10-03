@@ -5395,5 +5395,77 @@
       "These are dangerous as an appetizer because nobody saves room for dinner."
     ],
     "milestones": []
+  },
+  {
+    "slug": "key-lime-pie",
+    "title": "Key West Key Lime Pie",
+    "region": "florida",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 1
+    },
+    "servings": "8",
+    "wood": "No smoke needed",
+    "pitTemp": "350°F oven",
+    "finish": "Set with a slight jiggle",
+    "summary": "The real thing: creamy yellow, never green. Tart, sweet, and simple the way the Keys made it.",
+    "story": "I've made this pie, and I'm telling you — the real Key West version is almost insultingly simple. Condensed milk, egg yolks, Key lime juice, graham cracker crust. No green food coloring, no shortcuts on the limes. The acid does all the work.",
+    "school": "Backyard",
+    "image": "/images/key-lime-pie.jpg",
+    "ingredients": [
+      {
+        "group": "Crust",
+        "items": [
+          "1 1/2 cups graham cracker crumbs",
+          "1/3 cup sugar",
+          "6 Tbsp butter, melted"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "1 can (14 oz) sweetened condensed milk",
+          "4 large egg yolks",
+          "1/2 cup Key lime juice (fresh Key limes, or Nellie & Joe's bottled)"
+        ]
+      },
+      {
+        "group": "Topping",
+        "items": [
+          "3/4 cup heavy cream, whipped",
+          "Lime slices, for garnish"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Crust",
+        "body": "Heat the oven to 350°F. Mix the graham cracker crumbs, sugar, and melted butter. Press it firm into a 9-inch pie dish, bottom and sides. Bake 10 minutes, then let it cool."
+      },
+      {
+        "title": "Filling",
+        "body": "Whisk the egg yolks and condensed milk until smooth. Slowly whisk in the Key lime juice — it'll thicken up on its own. That's the magic."
+      },
+      {
+        "title": "Bake",
+        "body": "Pour it into the cooled crust. Bake 15 minutes, until the center is just set with a slight jiggle."
+      },
+      {
+        "title": "Chill",
+        "body": "Cool it on the counter, then refrigerate at least 3 hours — overnight is better."
+      },
+      {
+        "title": "Top & serve",
+        "body": "Top with whipped cream and lime slices right before serving."
+      }
+    ],
+    "proTips": [
+      "Real Key lime pie is yellow, not green. If it's green, something's wrong.",
+      "Don't use regular limes — Key limes or the bottled Key lime juice. Big Persian limes taste flat in this.",
+      "Sweetened condensed milk, never regular milk. That's the whole trick the sponge divers figured out."
+    ],
+    "milestones": []
   }
 ]
