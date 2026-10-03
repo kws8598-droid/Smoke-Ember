@@ -79,6 +79,9 @@ export default function Footer() {
             <Link href="/recipes" className="hover:text-cream">Recipes</Link>
             <Link href="/wisdom" className="hover:text-cream">Fire school</Link>
             <Link href="/guide" className="hover:text-cream">Guide</Link>
+            <Link href="/about" className="hover:text-cream">About</Link>
+            <Link href="/contact" className="hover:text-cream">Contact</Link>
+            <Link href="/privacy" className="hover:text-cream">Privacy</Link>
           </div>
         </div>
         <div className="mx-auto max-w-6xl px-4 pb-8 text-center">
@@ -87,6 +90,11 @@ export default function Footer() {
       </footer>
       <div className="mt-16 border-t border-white/5 px-4 pb-32 pt-6 text-center md:hidden">
         <VisitCounter />
+        <div className="mt-4 flex justify-center gap-4 text-sm text-subtle">
+          <Link href="/about" className="hover:text-cream">About</Link>
+          <Link href="/contact" className="hover:text-cream">Contact</Link>
+          <Link href="/privacy" className="hover:text-cream">Privacy</Link>
+        </div>
       </div>
       <nav aria-label="Main navigation" className="fixed inset-x-0 bottom-0 z-50 grid grid-cols-6 border-t border-white/10 bg-ink/95 pb-[max(.35rem,env(safe-area-inset-bottom))] pt-2 backdrop-blur-md md:hidden">
         {nav.map((item) => (
