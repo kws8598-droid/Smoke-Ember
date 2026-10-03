@@ -5337,5 +5337,63 @@
       "This keeps 4 to 5 days in the fridge. It won't last that long."
     ],
     "milestones": []
+  },
+  {
+    "slug": "key-west-shrimp",
+    "title": "Key West Smoked Shrimp",
+    "region": "florida",
+    "protein": "fish",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 1
+    },
+    "servings": "4-6",
+    "wood": "Alder or apple (mild)",
+    "pitTemp": "225°F",
+    "finish": "Pink, firm & curled",
+    "summary": "Pink shrimp, citrus butter, and a kiss of smoke. Done in under an hour.",
+    "story": "Key West pink shrimp barely need anything — a little citrus butter, a little garlic, and a whisper of mild smoke. They cook fast, so don't walk away. Thirty minutes in the smoker and they're the best thing at the table.",
+    "school": "Backyard",
+    "image": "/images/key-west-shrimp.jpg",
+    "ingredients": [
+      {
+        "group": "Shrimp",
+        "items": [
+          "2 lbs large Key West pink shrimp (or Gulf shrimp), peeled and deveined, tails on",
+          "1/2 cup butter, melted",
+          "1/4 cup fresh lime juice",
+          "4 cloves garlic, minced",
+          "1 Tbsp Old Bay seasoning",
+          "1 tsp black pepper",
+          "1/2 tsp smoked paprika",
+          "Lime wedges and fresh parsley, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Toss the shrimp with the melted butter, lime juice, garlic, Old Bay, pepper, and smoked paprika. Let it sit 15 minutes — no longer, or the lime starts cooking the shrimp."
+      },
+      {
+        "title": "Smoke",
+        "body": "Get the smoker to 225°F. Mild wood — alder or apple. Hickory will bully the shrimp. Lay the shrimp out on a grill pan or frog mat in a single layer."
+      },
+      {
+        "title": "Cook fast",
+        "body": "Smoke for 30 to 45 minutes, until they're pink, firm, and curled."
+      },
+      {
+        "title": "Serve",
+        "body": "Squeeze fresh lime over the top, scatter the parsley, and serve hot. Cocktail sauce optional — these don't need it."
+      }
+    ],
+    "proTips": [
+      "Don't overcook them. Shrimp go from perfect to rubber in about five minutes — start checking at 30.",
+      "If you can't find Key West pinks, any Gulf shrimp works. Just don't use the tiny salad shrimp.",
+      "These are dangerous as an appetizer because nobody saves room for dinner."
+    ],
+    "milestones": []
   }
 ]
