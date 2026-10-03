@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import TonightPicker from "@/components/TonightPicker";
+import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
 
@@ -61,6 +62,7 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
+      <InstallBanner />
       {spooky.length > 0 && (
         <section className="relative overflow-hidden">
           <Image src="/images/halloween-banner.jpg" alt="Halloween barbecue at night with glowing jack-o'-lanterns" fill sizes="100vw" className="object-cover" />
