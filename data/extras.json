@@ -5954,5 +5954,73 @@
       "This makes a lot of sauce. That's the point — it's for the rice."
     ],
     "milestones": []
+  },
+  {
+    "slug": "parrotfish-coconut",
+    "title": "Pacific Island Parrotfish in Coconut Milk",
+    "region": "pacific",
+    "protein": "fish",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 1
+    },
+    "servings": "4-6",
+    "wood": "No smoke needed",
+    "pitTemp": "Stovetop",
+    "finish": "Fish flakes",
+    "summary": "Pacific Island flair — parrotfish (uhu) simmered in coconut milk with onion, tomato, and a little heat.",
+    "story": "Inspired by Manny, my buddy in Saipan, who gave this one the thumbs up. Island-style parrotfish simmered gentle in coconut milk — the kind of dish that makes you wish you lived closer to the water.",
+    "school": "Backyard",
+    "image": "/images/parrotfish-coconut.jpg",
+    "ingredients": [
+      {
+        "group": "Fish",
+        "items": [
+          "2 lbs parrotfish fillets (uhu), cut into chunks",
+          "Salt and black pepper",
+          "2 Tbsp flour"
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          "2 cans (13.5 oz each) coconut milk",
+          "1 onion, finely chopped",
+          "2 tomatoes, diced",
+          "3 cloves garlic, minced",
+          "1 Tbsp lemon juice",
+          "1 tsp salt",
+          "Chopped hot pepper to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep fish",
+        "body": "Season the fish with salt and pepper. Lightly dust with flour."
+      },
+      {
+        "title": "Brown",
+        "body": "Brown the fish quickly in hot oil, just a minute per side. Pull it out."
+      },
+      {
+        "title": "Sauce",
+        "body": "In the same pot, soften the onion and garlic. Add the coconut milk, tomatoes, lemon juice, salt, and hot pepper."
+      },
+      {
+        "title": "Simmer",
+        "body": "Bring to a gentle simmer — don't boil it hard or the coconut milk gets lumpy. Lay the fish back in and simmer 10-12 minutes until it flakes."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve over rice with the sauce spooned over everything."
+      }
+    ],
+    "proTips": [
+      "Don't walk away from coconut milk on high heat. Low and gentle wins.",
+      "Any firm white fish works if you can't get parrotfish — but the real thing is worth it."
+    ],
+    "milestones": []
   }
 ]
