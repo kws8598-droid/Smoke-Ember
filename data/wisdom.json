@@ -206,5 +206,27 @@
     "takeaways": [
       "Low and slow on the reheat, just like the cook — and always add a little liquid back."
     ]
+  },
+  {
+    "slug": "inject-for-insurance",
+    "title": "Inject for insurance",
+    "kicker": "Fire school",
+    "summary": "Brine works from the outside in. Injection puts the moisture where you need it, right now.",
+    "image": "/images/ember-brisket-injection.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "A good injection does two things: carries moisture deep into the meat and seasons from the inside out. It's faster than brining — no overnight wait — and you control exactly where it goes. That's why I reach for the injector over the brine bucket most days. But it's the pitmaster's call: brining still wins for whole birds and anything going in a bucket anyway."
+      },
+      {
+        "text": "Keep it simple: melted butter and broth for poultry, beef broth with a little Worcestershire for brisket. Inject in a grid pattern about an inch apart, going with the grain, and don't overdo it — the meat should look plump, not swollen. Wipe the surface before it hits the rub so the outside still takes seasoning."
+      },
+      {
+        "text": "Warm the liquid first. Cold injection into meat just off the fridge tightens everything up and the flavor doesn't spread as well."
+      }
+    ],
+    "takeaways": [
+      "Injection is the fastest way to guarantee juicy meat — warm liquid, grid pattern, don't flood it."
+    ]
   }
 ]
