@@ -5746,5 +5746,75 @@
       "More heat? Double the red pepper flakes. Less? Leave them out entirely."
     ],
     "milestones": []
+  },
+  {
+    "slug": "spam-burnt-ends",
+    "title": "Smoked Spam Burnt Ends",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 3,
+      "max": 3.5
+    },
+    "servings": "6-8",
+    "wood": "Hickory or apple",
+    "pitTemp": "250°F",
+    "finish": "Sticky & caramelized",
+    "summary": "Cubed, rubbed sweet with Smoke & Ember rub, smoked, and glazed with Smoke & Ember sauce. Poor man's burnt ends that eat like candy.",
+    "story": "Don't sleep on Spam. Cube it, hit it with Smoke & Ember Sweet Rub, and smoke it until the edges caramelize — then drown it in Smoke & Ember BBQ Sauce glaze and give it one more ride. These eat like meat candy.",
+    "school": "Backyard",
+    "image": "/images/spam-burnt-ends.jpg",
+    "ingredients": [
+      {
+        "group": "Meat",
+        "items": [
+          "2 cans (12 oz each) Spam, cut into 1-inch cubes"
+        ]
+      },
+      {
+        "group": "Sweet rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp paprika",
+          "1 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp mustard powder"
+        ]
+      },
+      {
+        "group": "Glaze",
+        "items": [
+          "1/2 cup Smoke & Ember BBQ Sauce",
+          "1/4 cup honey",
+          "2 Tbsp butter, melted"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cube & rub",
+        "body": "Cut the Spam into 1-inch cubes. Toss them in mustard as a binder if you want — helps the rub stick. Coat every cube generously with Smoke & Ember Sweet Rub."
+      },
+      {
+        "title": "First smoke",
+        "body": "Smoke at 250°F over hickory or apple for 2 hours, until the edges start to crisp and caramelize."
+      },
+      {
+        "title": "Glaze & pan",
+        "body": "Toss the cubes in the Smoke & Ember BBQ Sauce glaze. Put them in a foil pan, cover with foil, and back on the smoker for 1 more hour."
+      },
+      {
+        "title": "Finish",
+        "body": "Uncover and give them 15 more minutes so the glaze gets sticky and tacky."
+      }
+    ],
+    "proTips": [
+      "Don't skip the second smoke in the pan — that's where they go from good to candy.",
+      "Two cans sounds like a lot until they're gone in ten minutes."
+    ],
+    "milestones": []
   }
 ]
