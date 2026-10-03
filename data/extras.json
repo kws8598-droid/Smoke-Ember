@@ -5816,5 +5816,74 @@
       "Two cans sounds like a lot until they're gone in ten minutes."
     ],
     "milestones": []
+  },
+  {
+    "slug": "smoked-frog-legs",
+    "title": "Smoked Frog Legs",
+    "region": "louisiana",
+    "protein": "fish",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "4",
+    "wood": "Pecan or oak",
+    "pitTemp": "225°F smoke, 350°F fry",
+    "finish": "Golden & crispy",
+    "summary": "Brined, smoked, then flash-fried. Crispy outside, tender inside — tastes like the bayou.",
+    "story": "Frog legs done right are something special. A buttermilk brine pulls out any gaminess, a kiss of pecan smoke lays down flavor, and a hot fry finishes them crispy. If you've never had them — they taste like a cross between chicken and fish.",
+    "school": "Backyard",
+    "image": "/images/smoked-frog-legs.jpg",
+    "ingredients": [
+      {
+        "group": "Legs",
+        "items": [
+          "2 lbs frog legs (hind legs only), thawed if frozen"
+        ]
+      },
+      {
+        "group": "Brine",
+        "items": [
+          "4 cups buttermilk",
+          "2 Tbsp hot sauce",
+          "1 Tbsp kosher salt"
+        ]
+      },
+      {
+        "group": "Dredge",
+        "items": [
+          "1 cup flour",
+          "1/2 cup cornmeal",
+          "2 Tbsp Cajun seasoning",
+          "1 tsp garlic powder",
+          "1 tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Soak the frog legs in the buttermilk, hot sauce, and salt for at least 2 hours — overnight is better."
+      },
+      {
+        "title": "Smoke",
+        "body": "Pat them dry (don't rinse). Smoke at 225°F over pecan or oak for 45 minutes. You're laying down smoke, not cooking them through."
+      },
+      {
+        "title": "Dredge",
+        "body": "Heat oil to 350°F in a cast iron skillet or fryer. Dredge the smoked legs in the flour-cornmeal mix, pressing it on good."
+      },
+      {
+        "title": "Fry",
+        "body": "Fry 3-4 minutes per side until golden brown and crispy. Drain on a rack, not paper towels — keeps them crispy."
+      }
+    ],
+    "proTips": [
+      "Don't overcook them. Frog legs go from perfect to rubber in about a minute.",
+      "Want to kick it up? Add a little cayenne pepper to the dredge.",
+      "Remoulade or comeback sauce for dipping. Hot sauce works too."
+    ],
+    "milestones": []
   }
 ]
