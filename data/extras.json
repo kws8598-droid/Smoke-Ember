@@ -6022,5 +6022,152 @@
       "Any firm white fish works if you can't get parrotfish — but the real thing is worth it."
     ],
     "milestones": []
+  },
+  {
+    "slug": "kfc-copycat",
+    "title": "Kentucky Fried Chicken (Copycat)",
+    "region": "kentucky",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "8",
+    "wood": "No smoke needed",
+    "pitTemp": "350°F fry or 400-450°F grill",
+    "finish": "165°F inside",
+    "summary": "The 11 herbs and spices, as close as anyone's ever gotten. Deep fry it or grill it — cook's choice.",
+    "story": "This is the Colonel's recipe as close as it gets outside the vault. White pepper is the secret — that's the back-of-the-throat heat you remember. Deep fry it classic style, or do the grill vortex method with no oil bath.",
+    "school": "Backyard",
+    "image": "/images/kfc-copycat.jpg",
+    "ingredients": [
+      {
+        "group": "Chicken",
+        "items": [
+          "1 whole chicken (3-4 lbs), cut into 8 pieces",
+          "1 cup buttermilk",
+          "1 egg, beaten"
+        ]
+      },
+      {
+        "group": "The 11 herbs & spices",
+        "items": [
+          "2/3 Tbsp salt",
+          "1/2 Tbsp dried thyme",
+          "1/2 Tbsp dried basil",
+          "1/3 Tbsp dried oregano",
+          "1 Tbsp celery salt",
+          "1 Tbsp black pepper",
+          "1 Tbsp dry mustard powder",
+          "4 Tbsp paprika",
+          "2 Tbsp garlic salt",
+          "1 Tbsp ground ginger",
+          "3 Tbsp white pepper",
+          "1/2 tsp MSG (optional)"
+        ]
+      },
+      {
+        "group": "Dredge",
+        "items": [
+          "2 cups flour mixed with all the spices above"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soak",
+        "body": "Soak the chicken in buttermilk and beaten egg for 30 minutes."
+      },
+      {
+        "title": "Dredge",
+        "body": "Mix the flour and all 11 spices. Pull each piece from the buttermilk, dredge in the seasoned flour, and rest on a wire rack for 15 minutes to set the crust."
+      },
+      {
+        "title": "Cook — pick your method",
+        "body": "DEEP FRY: Fry at 350°F in shortening for 12-18 minutes depending on the piece. GRILL: Pile coals in a vortex (or center), arrange chicken around the edge, lid on at 400-450°F for 30-40 minutes, flipping once. No oil needed."
+      },
+      {
+        "title": "Rest",
+        "body": "Drain on a wire rack. 165°F inside. Don't cut into it right away — let it rest 5 minutes."
+      }
+    ],
+    "proTips": [
+      "The real KFC is pressure-fried — you can't do that at home safely, but this gets you 95% of the way on flavor.",
+      "Don't skip the rest before cooking. That's what keeps the breading on.",
+      "Shortening over oil for frying — that's the move."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "lees-chicken-copycat",
+    "title": "Lee's Famous Recipe Chicken (Copycat)",
+    "region": "kentucky",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "8",
+    "wood": "No smoke needed",
+    "pitTemp": "325°F",
+    "finish": "165°F inside",
+    "summary": "Lighter and crispier than KFC — the Colonel's nephew's recipe, big in Kentucky.",
+    "story": "Lee's was started by Lee Cummings — Colonel Sanders' own nephew. It's huge in Kentucky but most folks outside the state never heard of it. Lighter, crispier crust than KFC thanks to self-rising flour. The underdog Kentucky chicken, and their loss is your gain.",
+    "school": "Backyard",
+    "image": "/images/lees-chicken.jpg",
+    "ingredients": [
+      {
+        "group": "Chicken",
+        "items": [
+          "1 whole chicken (3-4 lbs), cut into 8 pieces",
+          "4 cups buttermilk",
+          "2 Tbsp kosher salt (for brine)"
+        ]
+      },
+      {
+        "group": "Spice blend",
+        "items": [
+          "1 Tbsp kosher salt",
+          "1 Tbsp Hungarian sweet paprika",
+          "2 tsp black pepper",
+          "2 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp ground thyme",
+          "1/2 tsp white pepper",
+          "1 tsp MSG (optional)"
+        ]
+      },
+      {
+        "group": "Dredge",
+        "items": [
+          "3 cups self-rising flour mixed with 1/4 cup of the spice blend"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Brine the chicken in buttermilk and salt for at least 4 hours — overnight is better."
+      },
+      {
+        "title": "Dredge",
+        "body": "Mix the self-rising flour with the spice blend. Pull each piece from the brine, dredge in the seasoned flour, pressing it on. Rest 10 minutes."
+      },
+      {
+        "title": "Fry",
+        "body": "Fry at 325°F for 12-15 minutes until deep golden and crispy. 165°F inside."
+      },
+      {
+        "title": "Rest",
+        "body": "Drain on a wire rack and rest 10 minutes before serving."
+      }
+    ],
+    "proTips": [
+      "Self-rising flour is non-negotiable — that's what makes the crust light and puffy.",
+      "Fry a touch lower than KFC (325°F) so the lighter crust doesn't burn before the chicken cooks through."
+    ],
+    "milestones": []
   }
 ]
