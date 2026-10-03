@@ -63,7 +63,7 @@ export default function VisitCounter() {
   return (
     <p className="text-sm text-subtle">
       <span aria-hidden="true">🔥 </span>
-      {count.toLocaleString("en-US")} visits to the pit
+      {count.toLocaleString("en-US")} visit{count === 1 ? "" : "s"} to the pit
     </p>
   );
 }
