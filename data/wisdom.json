@@ -168,5 +168,43 @@
     "takeaways": [
       "You're feeding a table, not chasing a scorecard."
     ]
+  },
+  {
+    "slug": "wrap-like-you-mean-it",
+    "title": "Wrap like you mean it",
+    "kicker": "Fire school",
+    "summary": "Foil, butcher paper, or nothing — each one cooks a different brisket.",
+    "image": "/images/brisket.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "Foil (the Texas crutch) powers through the stall fastest and keeps everything juicy, but it steams the bark soft. Butcher paper breathes — the bark stays firm and the cook just slows down a little instead of stopping. No wrap at all gives you the best bark on the planet and the longest cook of your life."
+      },
+      {
+        "text": "Wrap when the bark is set — it shouldn't smear when you scratch it, usually around 160–170°F. For brisket, paper is the sweet spot. For pork butt, foil is fine since you're pulling it anyway. The foil boat (foil just under the bottom, top exposed) splits the difference: it protects the bottom from drying while the bark up top stays crisp."
+      }
+    ],
+    "takeaways": [
+      "Match the wrap to the meat — paper for brisket, foil for pork butt, boat when you can't decide."
+    ]
+  },
+  {
+    "slug": "reheat-like-you-cooked-it",
+    "title": "Reheat it like you cooked it",
+    "kicker": "Fire school",
+    "summary": "Leftover brisket shouldn't eat like shoe leather.",
+    "image": "/images/pit-table.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "The microwave is the enemy — it nukes the moisture right out. For sliced brisket or pulled pork, vacuum-seal or zip-bag the leftovers with a splash of beef broth or apple juice, then warm them in simmering water until they're hot through. Tastes like it just came off the pit."
+      },
+      {
+        "text": "Ribs go back on the smoker or in a 250°F oven, wrapped in foil with a little butter and honey, until they're hot — about 30–45 minutes. Whole turkey or chicken? Low oven (275°F), covered, with broth in the pan."
+      }
+    ],
+    "takeaways": [
+      "Low and slow on the reheat, just like the cook — and always add a little liquid back."
+    ]
   }
 ]
