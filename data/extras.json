@@ -5467,5 +5467,284 @@
       "Sweetened condensed milk, never regular milk. That's the whole trick the sponge divers figured out."
     ],
     "milestones": []
+  },
+  {
+    "slug": "apple-pie-pork-loin",
+    "title": "Apple Pie Stuffed Pork Loin",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "8-10",
+    "wood": "Apple or cherry",
+    "pitTemp": "250°F",
+    "finish": "145°F internal",
+    "summary": "A butterflied pork loin stuffed with apple pie filling, wrapped in sweet-savory rub and finished with apple glaze.",
+    "story": "Sweet meets savory in the best way. The pork loin gets butterflied, loaded with apple pie filling, rolled tight, and smoked until the glaze caramelizes on the outside. Slice it into pinwheels and watch them disappear.",
+    "school": "Backyard",
+    "image": "/images/apple-pie-pork-loin.jpg",
+    "ingredients": [
+      {
+        "group": "Pork",
+        "items": [
+          "1 pork loin (4-5 lbs), butterflied",
+          "1 can (21 oz) apple pie filling",
+          "Butcher's twine"
+        ]
+      },
+      {
+        "group": "Sweet-savory rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp kosher salt",
+          "2 Tbsp paprika",
+          "1 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp cinnamon",
+          "1/2 tsp cayenne"
+        ]
+      },
+      {
+        "group": "Sweet apple glaze",
+        "items": [
+          "1 cup apple juice",
+          "1/2 cup brown sugar",
+          "1/4 cup apple cider vinegar",
+          "2 Tbsp butter",
+          "1 tsp cinnamon"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Butterfly",
+        "body": "Butterfly the pork loin — cut it open like a book so it lays flat, about 3/4 inch thick. Don't cut all the way through."
+      },
+      {
+        "title": "Stuff",
+        "body": "Spread the apple pie filling down the center, leaving a 1-inch border on all sides."
+      },
+      {
+        "title": "Roll & tie",
+        "body": "Roll it up tight from one long side and tie it with butcher's twine every 2 inches so nothing escapes."
+      },
+      {
+        "title": "Rub",
+        "body": "Coat the whole outside with the rub. Every inch of it."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over apple or cherry wood until it hits 145°F internal, about 2.5 to 3 hours."
+      },
+      {
+        "title": "Glaze",
+        "body": "While it smokes, simmer the glaze ingredients until thick enough to coat a spoon, about 10 minutes. Brush it on during the last 30 minutes."
+      },
+      {
+        "title": "Rest & slice",
+        "body": "Rest 15 minutes before slicing into pinwheels."
+      }
+    ],
+    "proTips": [
+      "Tie it tight. Apple pie filling wants to escape — the twine is the only thing standing between you and a mess.",
+      "Don't skip the rest. Cut it too soon and the filling runs everywhere.",
+      "Feeds 8 to 10 off a 5-pounder."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "sweet-apple-glaze",
+    "title": "Sweet Apple Glaze",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "For pork & poultry",
+    "pitTemp": "Stovetop",
+    "finish": "Coats a spoon",
+    "summary": "Apple juice, brown sugar, and cinnamon reduced into a sticky-sweet glaze. Made for pork.",
+    "story": "This started as the finishing glaze for the apple pie stuffed loin, but it's too good to keep locked to one recipe. Brush it on pork chops, ribs, chicken — anything that wants a sweet apple shine.",
+    "school": "Backyard",
+    "image": "/images/sweet-apple-glaze.jpg",
+    "ingredients": [
+      {
+        "group": "Glaze",
+        "items": [
+          "1 cup apple juice",
+          "1/2 cup brown sugar",
+          "1/4 cup apple cider vinegar",
+          "2 Tbsp butter",
+          "1 tsp cinnamon"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer",
+        "body": "Combine everything in a saucepan over medium heat. Stir until the sugar dissolves."
+      },
+      {
+        "title": "Reduce",
+        "body": "Simmer 10 minutes, stirring now and then, until it thickens enough to coat the back of a spoon."
+      },
+      {
+        "title": "Use",
+        "body": "Brush onto pork or poultry during the last 30 minutes of the cook. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [
+      "Don't walk away — sugar burns fast once it starts thickening.",
+      "Warm it before brushing. Cold glaze seizes on hot meat."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "traditional-stuffed-loin",
+    "title": "Traditional Stuffed Pork Loin",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "8-10",
+    "wood": "Hickory or oak",
+    "pitTemp": "250°F",
+    "finish": "145°F internal",
+    "summary": "Peppers, onions, Italian sausage, and melted cheese rolled into a pork loin. The classic.",
+    "story": "This is the stuffed loin I grew up on — savory all the way. Italian sausage, peppers, and onions with a core of melted cheese, rolled into a pork loin and smoked until the outside crisps and the inside goes molten.",
+    "school": "Backyard",
+    "image": "/images/traditional-stuffed-loin.jpg",
+    "ingredients": [
+      {
+        "group": "Pork",
+        "items": [
+          "1 pork loin (4-5 lbs), butterflied",
+          "Butcher's twine"
+        ]
+      },
+      {
+        "group": "Stuffing",
+        "items": [
+          "1 lb Italian sausage, casings removed",
+          "1 large onion, diced",
+          "1 red bell pepper, diced",
+          "1 green bell pepper, diced",
+          "4 cloves garlic, minced",
+          "1 cup shredded mozzarella",
+          "1/2 cup grated Parmesan",
+          "1/4 cup fresh parsley, chopped",
+          "1 tsp Italian seasoning",
+          "Salt and pepper to taste"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "2 Tbsp kosher salt",
+          "2 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp paprika",
+          "2 tsp onion powder"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook the stuffing",
+        "body": "Brown the Italian sausage in a skillet, breaking it up. Add the onion, peppers, and garlic — cook until soft, about 8 minutes. Let it cool slightly."
+      },
+      {
+        "title": "Mix",
+        "body": "Mix in the mozzarella, Parmesan, parsley, and Italian seasoning."
+      },
+      {
+        "title": "Butterfly",
+        "body": "Butterfly the pork loin — cut it open like a book so it lays flat, about 3/4 inch thick."
+      },
+      {
+        "title": "Stuff & roll",
+        "body": "Spread the stuffing down the center, leaving a 1-inch border. Roll it up tight and tie with butcher's twine every 2 inches."
+      },
+      {
+        "title": "Rub",
+        "body": "Coat the outside with the rub."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over hickory or oak until it hits 145°F internal, about 2.5 to 3 hours."
+      },
+      {
+        "title": "Rest & slice",
+        "body": "Rest 15 minutes before slicing into pinwheels."
+      }
+    ],
+    "proTips": [
+      "Don't overstuff it — if the filling's spilling out before you tie it, you've got too much.",
+      "Great the next day sliced thin for sandwiches."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "chimichurri",
+    "title": "Chimichurri",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.25
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "For anything off the fire",
+    "pitTemp": "No cook",
+    "finish": "Bright & garlicky",
+    "summary": "Bright, garlicky, and built for anything that came off the fire.",
+    "story": "Chimichurri is Argentina's answer to steak sauce, and it embarrasses the bottled stuff. Parsley, oregano, garlic, and red pepper flakes swimming in good olive oil — chop it by hand, let it sit, and spoon it over everything.",
+    "school": "Backyard",
+    "image": "/images/chimichurri.jpg",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "1 cup fresh parsley, finely chopped",
+          "1/4 cup fresh oregano leaves, finely chopped (or 2 Tbsp dried)",
+          "4 cloves garlic, minced",
+          "1/2 cup olive oil",
+          "1/4 cup red wine vinegar",
+          "1 tsp red pepper flakes",
+          "1 tsp kosher salt",
+          "1/2 tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Chop",
+        "body": "Chop everything by hand — don't food-process it into baby food. You want texture."
+      },
+      {
+        "title": "Mix & rest",
+        "body": "Stir it all together in a bowl. Let it sit at room temperature for at least 30 minutes so the flavors marry."
+      },
+      {
+        "title": "Serve",
+        "body": "Spoon it over sliced brisket, tri-tip, chicken, or anything grilled."
+      }
+    ],
+    "proTips": [
+      "Keeps a week in the fridge. The oil will solidify — let it come back to room temp before serving.",
+      "More heat? Double the red pepper flakes. Less? Leave them out entirely."
+    ],
+    "milestones": []
   }
 ]
