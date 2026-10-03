@@ -5885,5 +5885,74 @@
       "Remoulade or comeback sauce for dipping. Hot sauce works too."
     ],
     "milestones": []
+  },
+  {
+    "slug": "pacific-pork-butt",
+    "title": "Pacific Island Pork Butt",
+    "region": "pacific",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 7,
+      "max": 8
+    },
+    "servings": "10-12",
+    "wood": "Any mild wood",
+    "pitTemp": "250°F smoke, low braise",
+    "finish": "Falls apart",
+    "summary": "Pacific Island flair — smoked pork butt braised in coconut milk, soy, vinegar, and hot peppers until it falls apart.",
+    "story": "Inspired by Manny, my buddy in Saipan, who told me they cook pork butt with coconut milk over there. I gave it the Smoke & Ember treatment — smoke it first for bark and flavor, then braise it island-style until it shreds. Serve it over rice and don't be shy with the sauce.",
+    "school": "Backyard",
+    "image": "/images/pacific-pork-butt.jpg",
+    "ingredients": [
+      {
+        "group": "Pork",
+        "items": [
+          "1 pork butt (6-8 lbs)",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "group": "Braise",
+        "items": [
+          "2 cans (13.5 oz each) coconut milk",
+          "1 cup soy sauce",
+          "1/2 cup white vinegar",
+          "1 whole head garlic, cloves smashed",
+          "2 large onions, sliced",
+          "4-6 hot peppers (donne', Thai chiles), sliced",
+          "2 bay leaves",
+          "1 Tbsp black peppercorns"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke",
+        "body": "Season the pork butt with salt and pepper. Smoke at 250°F for 4 hours — building bark and smoke flavor, not finishing it."
+      },
+      {
+        "title": "Braise",
+        "body": "Put the butt in a large pot or Dutch oven. Add everything else around it."
+      },
+      {
+        "title": "Low & slow",
+        "body": "Bring to a simmer, cover, and cook low 3-4 hours, turning the butt once halfway. Done when it shreds with a fork."
+      },
+      {
+        "title": "Soak",
+        "body": "Pull the pork apart in the pot and let it soak up the sauce for 15 minutes."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve over white rice with plenty of the braising liquid spooned on top."
+      }
+    ],
+    "proTips": [
+      "The vinegar and soy are the backbone — don't skip either one.",
+      "Coconut milk goes in for richness.",
+      "This makes a lot of sauce. That's the point — it's for the rice."
+    ],
+    "milestones": []
   }
 ]
