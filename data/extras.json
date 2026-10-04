@@ -6249,5 +6249,127 @@
       "Cut the twine off before serving unless you want someone flossing with it."
     ],
     "milestones": []
+  },
+  {
+    "slug": "halloween-pumpkin-spice-rub",
+    "title": "Ember Pumpkin Spice Pork Rub",
+    "region": "backyard",
+    "protein": "rubs",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.1
+    },
+    "servings": "Makes ~3/4 cup",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A fall-seasonal Ember rub — warm pumpkin spice built for pork butt, ribs, belly, and loin.",
+    "story": "Pork and warm spice are old friends — clove-studded ham, apple-cinnamon pork loin. This just puts a name on it. Brown sugar and pumpkin pie spices with enough cayenne to keep the sweet honest. A Halloween-season Ember rub: put it on everything in October and retire it with honor.",
+    "school": "Backyard",
+    "image": "/images/halloween-pumpkin-spice-rub.jpg",
+    "ingredients": [
+      {
+        "group": "Rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp kosher salt",
+          "1 Tbsp paprika",
+          "2 tsp cinnamon",
+          "1 tsp nutmeg",
+          "1 tsp ground ginger",
+          "1/2 tsp ground cloves",
+          "1/2 tsp allspice",
+          "1 tsp black pepper",
+          "1/2 tsp cayenne (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix",
+        "body": "Stir everything together until evenly combined."
+      },
+      {
+        "title": "Use",
+        "body": "Coat pork butt, ribs, belly, or loin generously. Smoke or grill as usual."
+      },
+      {
+        "title": "Store",
+        "body": "Keeps in a sealed jar for 6 months — but you won't need it that long in October."
+      }
+    ],
+    "proTips": [
+      "Don't go heavy-handed past 1/2 tsp on the cloves or it'll taste like a ham from 1974.",
+      "Killer on a smoked pork loin with an apple glaze.",
+      "Or use your favorite rub — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "halloween-pumpkin-spice-sauce",
+    "title": "Ember Pumpkin Spice BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "servings": "Makes ~1 quart",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A fall BBQ sauce — warm pumpkin spice over a tangy apple-cider base. Built for the pumpkin spice rub.",
+    "story": "Every great rub deserves a sauce that speaks its language. Apple butter gives this one body and fall-orchard flavor, pumpkin pie spices bring the warmth, and a splash of bourbon keeps it grown-up. Brush it on in the last 15 minutes and let the sugars caramelize. The full October treatment, start to finish.",
+    "school": "Backyard",
+    "image": "/images/halloween-pumpkin-spice-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "2 cups ketchup",
+          "1 cup apple butter",
+          "1/2 cup apple cider",
+          "1/3 cup brown sugar",
+          "2 Tbsp molasses",
+          "2 Tbsp apple cider vinegar",
+          "2 tsp cinnamon",
+          "1 tsp nutmeg",
+          "1 tsp ground ginger",
+          "1/2 tsp ground cloves",
+          "1/2 tsp allspice",
+          "1 tsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp garlic powder",
+          "1/2 tsp onion powder",
+          "Splash of bourbon (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Combine",
+        "body": "Everything in a saucepan. Stir it smooth."
+      },
+      {
+        "title": "Simmer",
+        "body": "Simmer low for 20 minutes, stirring now and then, until it thickens enough to coat a spoon."
+      },
+      {
+        "title": "Taste",
+        "body": "Want more tang? Another splash of vinegar. More warm? Another pinch of cinnamon."
+      },
+      {
+        "title": "Jar",
+        "body": "Cool and jar it. Keeps 3 weeks in the fridge."
+      }
+    ],
+    "proTips": [
+      "Brush it on ribs or pork loin in the last 15 minutes so the sugars caramelize instead of burn.",
+      "Pair it with the Ember Pumpkin Spice Pork Rub for the full October treatment.",
+      "Or use your favorite sauce — it's not set in stone."
+    ],
+    "milestones": []
   }
 ]
