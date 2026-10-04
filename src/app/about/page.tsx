@@ -23,6 +23,18 @@ export default function AboutPage() {
         <p>
           I also wrote the <em>Smoke and Ember</em> cookbook, and this app grew out of the same fire. Pull up a chair.
         </p>
+        <h2 className="pt-4 font-display text-2xl italic text-cream">You don&apos;t need a fancy pit</h2>
+        <p>
+          I started on a Weber kettle. Not a $5,000 offset, not some competition rig — a kettle grill from the hardware
+          store. And let me tell you, that little thing turns out some beautiful, tasty barbecue.
+        </p>
+        <p>
+          Good barbecue isn&apos;t about the equipment. It&apos;s about fire, patience, and paying attention. Learn your coals,
+          learn your vents, and that kettle will treat you just as right as anything with a trailer hitch.
+        </p>
+        <p>
+          Don&apos;t let anyone tell you you can&apos;t make real barbecue without spending a fortune. I did it. You can too.
+        </p>
       </div>
       <div className="mt-8 flex flex-wrap gap-3">
         <Link href="/recipes" className="rounded-full bg-ember px-5 py-2.5 text-sm font-semibold text-ink hover:bg-ember-hot">
