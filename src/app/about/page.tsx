@@ -7,7 +7,7 @@ export default function AboutPage() {
       <h1 className="mt-2 font-display text-4xl italic text-cream">Smoke &amp; Ember</h1>
       <div className="mt-6 space-y-5 text-parchment/90">
         <p>
-          I&apos;m Kelly Simpson, a pitmaster from Lawrenceburg, Kentucky. I got into barbecue the way a lot of folks do — I
+          I&apos;m Kelly Simpson, a pitmaster from Kentucky. I got into barbecue the way a lot of folks do — I
           got hurt, got disabled, and found myself watching BBQ Pitmasters thinking, &ldquo;I can do this.&rdquo; So I did.
         </p>
         <p>
