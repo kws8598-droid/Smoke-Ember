@@ -6169,5 +6169,85 @@
       "Fry a touch lower than KFC (325°F) so the lighter crust doesn't burn before the chicken cooks through."
     ],
     "milestones": []
+  },
+  {
+    "slug": "cinnamon-pork-belly-rolls",
+    "title": "Cinnamon-Spiced Pork Belly Rolls",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2,
+      "max": 3
+    },
+    "servings": "6-8",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "200-205°F, probe tender",
+    "summary": "Pork belly strips rolled tight with cinnamon-forward Ember rub, smoked, and finished with Ember finishing glaze.",
+    "story": "Not a dessert — a savory pork belly roll with warm cinnamon spice running through it. Rolled tight, smoked until probe-tender, and lacquered with Ember Finishing Glaze. Serve them on skewers and watch them disappear.",
+    "school": "Backyard",
+    "image": "/images/cinnamon-pork-belly-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "Belly",
+        "items": [
+          "1 pork belly (5-6 lbs), skin removed",
+          "Butcher's twine or skewers"
+        ]
+      },
+      {
+        "group": "Cinnamon-esque Ember rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp paprika",
+          "1 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "2 tsp cinnamon",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1/2 tsp cayenne",
+          "1/2 tsp ground ginger"
+        ]
+      },
+      {
+        "group": "Finish",
+        "items": [
+          "Ember Finishing Glaze, warmed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Slice",
+        "body": "Slice the pork belly into long strips, about 1 1/2 inches wide."
+      },
+      {
+        "title": "Rub",
+        "body": "Coat every strip generously with the cinnamon-esque rub — get it in all the cracks."
+      },
+      {
+        "title": "Roll",
+        "body": "Roll each strip up tight and tie with twine or skewer through to hold the shape."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 275°F until 200-205°F internal, about 2-3 hours. You want them probe-tender like burnt ends."
+      },
+      {
+        "title": "Glaze",
+        "body": "Brush with warmed Ember Finishing Glaze during the last 30 minutes. Don't be shy — coat them completely."
+      },
+      {
+        "title": "Serve",
+        "body": "Rest 15 minutes. Serve on the skewers with extra glaze for dipping."
+      }
+    ],
+    "proTips": [
+      "The cinnamon reads as warm spice, not dessert. The cayenne and ginger keep it honest.",
+      "Tie them tight or they'll unroll on you.",
+      "Cut the twine off before serving unless you want someone flossing with it."
+    ],
+    "milestones": []
   }
 ]
