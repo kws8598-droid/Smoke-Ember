@@ -6371,5 +6371,57 @@
       "Or use your favorite sauce — it's not set in stone."
     ],
     "milestones": []
+  },
+  {
+    "slug": "halloween-pumpkin-spice-sweet-potatoes",
+    "title": "Pumpkin-Spiced Grilled Sweet Potatoes",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "servings": "6-8",
+    "wood": "Any",
+    "pitTemp": "400°F",
+    "finish": "Crispy caramelized edges",
+    "summary": "Sweet potato cubes tossed in Ember pumpkin spice rub, grilled until caramelized and crispy-edged.",
+    "story": "The side dish that eats like dessert but isn't. Sweet potatoes love warm spice the way pork does — toss them in the Ember pumpkin spice rub with butter and brown sugar, hit them with high heat, and let the edges go crispy and caramelized. They go scary-good next to anything with the pumpkin spice sauce on it.",
+    "school": "Backyard",
+    "image": "/images/halloween-pumpkin-spice-sweet-potatoes.jpg",
+    "ingredients": [
+      {
+        "group": "Potatoes",
+        "items": [
+          "3 lbs sweet potatoes, peeled and cut into 1-inch cubes",
+          "3 Tbsp melted butter (or oil)",
+          "3 Tbsp Ember Pumpkin Spice Pork Rub",
+          "1 tsp cinnamon",
+          "1 Tbsp brown sugar",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Toss",
+        "body": "Toss the cubes with melted butter until every piece is coated."
+      },
+      {
+        "title": "Season",
+        "body": "Sprinkle the rub, brown sugar, and salt over them. Toss again — get it even."
+      },
+      {
+        "title": "Grill",
+        "body": "Grill over medium-high heat (about 400°F) in a grill basket or on a sheet pan, 20-25 minutes, turning once. You want crispy caramelized edges. No grill? Roast at 425°F in the oven, same time."
+      }
+    ],
+    "proTips": [
+      "Cut them even or the small ones burn while the big ones stay hard. One inch, no heroes.",
+      "The brown sugar's what gives you those crispy edges — don't skip it.",
+      "Or use your favorite rub — it's not set in stone."
+    ],
+    "milestones": []
   }
 ]
