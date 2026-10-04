@@ -35,6 +35,11 @@ export default function AboutPage() {
         <p>
           Don&apos;t let anyone tell you you can&apos;t make real barbecue without spending a fortune. I did it. You can too.
         </p>
+        <p>
+          And don&apos;t let anybody bash you for what you cook on. Pellet grill, gravity-fed charcoal smoker, offset,
+          kettle — it&apos;s all barbecue. Sure, charcoal and wood is where a lot of the flavor lays, but if
+          you&apos;re happy cooking barbecue on a pellet grill, then by all means — use it.
+        </p>
       </div>
       <div className="mt-8 flex flex-wrap gap-3">
         <Link href="/recipes" className="rounded-full bg-ember px-5 py-2.5 text-sm font-semibold text-ink hover:bg-ember-hot">
