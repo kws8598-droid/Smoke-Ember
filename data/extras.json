@@ -8086,11 +8086,11 @@
           "¼ cup honey",
           "¼ cup hoisin sauce",
           "3 Tbsp soy sauce",
-          "2 Tbsp shaoxing wine (or dry sherry)",
+          "2 Tbsp dry sherry (or shaoxing wine if you have it)",
           "1 Tbsp brown sugar",
           "2 tsp five spice powder",
           "3 cloves garlic, minced",
-          "1 tsp red fermented bean curd, mashed (optional, for color)",
+          "1 tsp red fermented bean curd, mashed (optional, for color — Asian market or online; skip it and it still tastes right)",
           "1 tsp sesame oil"
         ]
       },
@@ -8120,7 +8120,12 @@
         "body": "Rest 10 minutes, then slice thin against the grain. Serve over rice."
       }
     ],
-    "proTips": [],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Everything here is in a regular grocery store except the red fermented bean curd — that's Asian-market or online only, and it's optional. Dry sherry stands in fine for shaoxing wine."
+      }
+    ],
     "milestones": []
   }
 ]
