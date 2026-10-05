@@ -14,7 +14,7 @@ export default function GuidePage() {
     <main className="relative">
       {/* Open cookbook backdrop */}
       <div aria-hidden className="pointer-events-none fixed inset-0">
-        <img src="/images/guide-page-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <Image src="/images/guide-page-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-ink/65" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
