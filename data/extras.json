@@ -8059,5 +8059,68 @@
     ],
     "proTips": [],
     "milestones": []
+  },
+  {
+    "slug": "ember-char-siu",
+    "title": "Ember Char Siu (Chinese BBQ Pork)",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "Serves 4–6",
+    "wood": "Cherry or apple",
+    "pitTemp": "325°F",
+    "finish": "145°F internal, charred edges",
+    "summary": "Cantonese-style BBQ pork with a glossy red glaze — honey, hoisin, and five spice, finished over heat for those caramelized edges.",
+    "story": "Char siu is China's answer to barbecue — pork marinated in honey, hoisin, and five spice, roasted until the edges char and the glaze turns to candy. The red fermented bean curd gives it that signature ruby color, but it tastes like char siu without it. Slice it thin over rice and you're in business.",
+    "school": "Backyard",
+    "image": "/images/ember-char-siu.jpg",
+    "ingredients": [
+      {
+        "group": "The marinade",
+        "items": [
+          "2 lbs pork shoulder, cut into long strips about 2 inches thick",
+          "¼ cup honey",
+          "¼ cup hoisin sauce",
+          "3 Tbsp soy sauce",
+          "2 Tbsp shaoxing wine (or dry sherry)",
+          "1 Tbsp brown sugar",
+          "2 tsp five spice powder",
+          "3 cloves garlic, minced",
+          "1 tsp red fermented bean curd, mashed (optional, for color)",
+          "1 tsp sesame oil"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "2 Tbsp honey",
+          "2 Tbsp reserved marinade, boiled"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "body": "Mix all marinade ingredients. Coat the pork well, cover, and refrigerate overnight (at least 4 hours). Reserve 2 tablespoons of marinade before adding the pork."
+      },
+      {
+        "title": "Cook",
+        "body": "Set the smoker or oven to 325°F. Lay the pork on a rack over a pan. Cook about 45 minutes, flipping once, until it hits 145°F internal."
+      },
+      {
+        "title": "Glaze and char",
+        "body": "Boil the reserved marinade, mix with the honey, and brush over the pork. Cook 10–15 more minutes until the edges char a little."
+      },
+      {
+        "title": "Rest and slice",
+        "body": "Rest 10 minutes, then slice thin against the grain. Serve over rice."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
