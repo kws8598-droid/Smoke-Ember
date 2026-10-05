@@ -8191,5 +8191,60 @@
       }
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-herb-compound-butter",
+    "title": "Ember Herb Compound Butter",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.1
+    },
+    "servings": "Makes 1 log (about 16 pats)",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "The butter everybody puts on steaks — garlic, parsley, thyme, and rosemary rolled into a sliceable log.",
+    "story": "This is the stuff steakhouses charge extra for. Softened butter mashed with garlic and fresh herbs, rolled into a log and chilled — then you slice off a pat and let it melt over a hot steak. Also unreal on grilled chicken, roasted veggies, and a baked potato.",
+    "school": "Backyard",
+    "image": "/images/ember-herb-compound-butter.jpg",
+    "ingredients": [
+      {
+        "group": "The butter",
+        "items": [
+          "2 sticks (1 cup) unsalted butter, softened",
+          "4 cloves garlic, minced",
+          "2 Tbsp fresh parsley, chopped",
+          "1 Tbsp fresh thyme leaves",
+          "1 Tbsp fresh rosemary, minced",
+          "1 tsp coarse salt",
+          "½ tsp black pepper",
+          "1 tsp lemon zest"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix",
+        "body": "Mash everything together in a bowl until well mixed."
+      },
+      {
+        "title": "Roll",
+        "body": "Scoop onto plastic wrap and roll into a log. Twist the ends tight."
+      },
+      {
+        "title": "Chill",
+        "body": "Chill at least 2 hours until firm. Slice into pats as needed."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Keeps 2 weeks in the fridge, 3 months in the freezer. Slice a pat over a hot steak and let it melt in."
+      }
+    ],
+    "milestones": []
   }
 ]
