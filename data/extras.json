@@ -3980,8 +3980,8 @@
     "wood": "Apple or hickory",
     "pitTemp": "275°F",
     "finish": "Peppers tender, cheese melted and golden",
-    "summary": "Orange bell peppers carved like jack-o'-lanterns, stuffed with smoky sausage and rice, finished on the pit.",
-    "story": "The kids carve the faces and the smoker does the rest. Big orange bell peppers get the jack-o'-lantern treatment, then get stuffed full of browned smoked sausage, rice, and tomatoes under a blanket of melted cheese. An hour or so on the pit and you've got the centerpiece of the Halloween table — and yes, they taste as good as they look.",
+    "summary": "Orange bell peppers carved like jack-o'-lanterns, stuffed with sausage (or beef) and rice, finished on the pit.",
+    "story": "The kids carve the faces and the smoker does the rest. Big orange bell peppers get the jack-o'-lantern treatment, then get stuffed full of browned smoked sausage or ground beef, rice, and tomatoes under a blanket of melted cheese. An hour or so on the pit and you've got the centerpiece of the Halloween table — and yes, they taste as good as they look.",
     "school": "Backyard",
     "image": "/images/jack-o-lantern-stuffed-peppers.jpg",
     "ingredients": [
@@ -3995,7 +3995,7 @@
       {
         "group": "Filling",
         "items": [
-          "1 lb smoked sausage (kielbasa works), diced small",
+          "1 lb smoked sausage (kielbasa works) or ground beef, diced or crumbled",
           "1 small onion, diced",
           "2 cups cooked rice",
           "1 can (10 oz) diced tomatoes with green chiles, drained",
@@ -4010,7 +4010,7 @@
       },
       {
         "title": "Make the filling",
-        "body": "Brown the sausage and onion in a skillet over medium-high heat. Stir in the cooked rice, drained tomatoes, half the cheese, and the BBQ rub."
+        "body": "Brown the sausage (or ground beef) and onion in a skillet over medium-high heat. Stir in the cooked rice, drained tomatoes, half the cheese, and the BBQ rub."
       },
       {
         "title": "Stuff them",
@@ -4027,7 +4027,8 @@
     ],
     "proTips": [
       "Stand the peppers in a muffin tin or crimped foil rings so they don't tip over on the grate.",
-      "Don't carve the faces too deep or too big — thin walls collapse in the heat."
+      "Don't carve the faces too deep or too big — thin walls collapse in the heat.",
+      "Use ground beef instead of sausage if you like — Kelly makes it with beef."
     ],
     "milestones": null
   },
