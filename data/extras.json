@@ -6866,5 +6866,211 @@
       "Better the next day. Always."
     ],
     "milestones": []
+  },
+  {
+    "slug": "owensboro-pulled-mutton",
+    "title": "Owensboro Pulled Mutton with Black Dip",
+    "region": "kentucky",
+    "protein": "mutton",
+    "difficulty": "hard",
+    "hours": {
+      "min": 10,
+      "max": 12
+    },
+    "servings": "Serves 12-15",
+    "wood": "Hickory",
+    "pitTemp": "250°F",
+    "finish": "200°F internal",
+    "summary": "Owensboro classic — injected mutton shoulder smoked low, pulled and piled on a bun with tangy black dip.",
+    "story": "Owensboro, Kentucky has been doing mutton for 150 years, and the black dip is the whole point — tangy, peppery, thin. Not BBQ sauce, don't treat it like one. The shoulder gets injected to stay juicy through the long smoke, then pulled and piled high.",
+    "school": "Smokehouse",
+    "image": "/images/owensboro-pulled-mutton.jpg",
+    "ingredients": [
+      {
+        "group": "Injection",
+        "items": [
+          "2 cups beef broth",
+          "1/4 cup Worcestershire",
+          "2 Tbsp melted butter",
+          "1 Tbsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp garlic powder"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "1/4 cup kosher salt",
+          "2 Tbsp coarse black pepper",
+          "2 Tbsp garlic powder",
+          "1 Tbsp paprika"
+        ]
+      },
+      {
+        "group": "Black Dip",
+        "items": [
+          "2 cups water",
+          "1 cup Worcestershire",
+          "1/2 cup vinegar",
+          "1/4 cup brown sugar",
+          "2 Tbsp black pepper",
+          "1 Tbsp salt",
+          "1 tsp cayenne",
+          "Juice of 1 lemon"
+        ]
+      },
+      {
+        "group": "Meat",
+        "items": [
+          "1 whole mutton shoulder (8-10 lbs)",
+          "Buns for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Inject",
+        "body": "Inject the shoulder all over with the broth mixture — get it deep in the thickest parts."
+      },
+      {
+        "title": "Rub & rest",
+        "body": "Rub all over with salt, pepper, garlic, and paprika. Rest overnight in the fridge."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over hickory until 200°F internal, 10-12 hours. Mop with black dip every hour after the first 3."
+      },
+      {
+        "title": "Pull",
+        "body": "Rest 1 hour, pull the meat, and serve piled on a bun with black dip on the side."
+      }
+    ],
+    "proTips": [
+      "Owensboro's been doing this for 150 years — they know.",
+      "The injection keeps it juicy through the long smoke.",
+      "The black dip is tangy, peppery, and thin — it's not BBQ sauce, don't treat it like one."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-mutton-ribs",
+    "title": "Smoked Mutton Ribs",
+    "region": "kentucky",
+    "protein": "mutton",
+    "difficulty": "medium",
+    "hours": {
+      "min": 5,
+      "max": 6
+    },
+    "servings": "Serves 4-6",
+    "wood": "Hickory",
+    "pitTemp": "250°F",
+    "finish": "200-203°F, probe tender",
+    "summary": "Meaty mutton ribs with a dark bark — treat them like beef ribs, not baby backs.",
+    "story": "Mutton ribs are meatier than you'd think. Low and slow over hickory, wrapped through the stall, pulled when they probe like butter. These aren't baby backs — give them the full time.",
+    "school": "Smokehouse",
+    "image": "/images/smoked-mutton-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Ribs",
+        "items": [
+          "2 racks mutton ribs (spare rib style)",
+          "1/4 cup kosher salt",
+          "2 Tbsp coarse black pepper",
+          "2 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 Tbsp paprika",
+          "2 tsp cumin",
+          "Apple juice in a spray bottle"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep",
+        "body": "Trim the ribs, pull the membrane, rub all over. Rest 1 hour at room temp."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over hickory, spritzing with apple juice every 45 minutes."
+      },
+      {
+        "title": "Wrap",
+        "body": "Wrap in butcher paper when they hit the stall (around 160°F). Pull at 200-203°F when they probe tender, 5-6 hours total."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 30 minutes before slicing."
+      }
+    ],
+    "proTips": [
+      "Mutton ribs are meatier than you'd think — treat them like beef ribs, not baby backs.",
+      "They need the full time. Don't rush them.",
+      "Or use your favorite rub — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "grilled-mutton-chops",
+    "title": "Grilled Mutton Chops with Mint Chimichurri",
+    "region": "kentucky",
+    "protein": "mutton",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 1
+    },
+    "servings": "Serves 4",
+    "wood": "Direct heat",
+    "pitTemp": "Hot grill",
+    "finish": "135°F internal (medium-rare)",
+    "summary": "Thick mutton chops grilled hot and fast, finished with bright mint chimichurri.",
+    "story": "Don't overcook mutton chops — medium-rare or don't bother. Thick loin chops, hot grill, a few minutes a side, and a mint chimichurri that cuts the richness perfect.",
+    "school": "Backyard",
+    "image": "/images/grilled-mutton-chops.jpg",
+    "ingredients": [
+      {
+        "group": "Chops",
+        "items": [
+          "8 mutton loin chops, 1.5 inches thick",
+          "3 Tbsp olive oil",
+          "2 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "4 cloves garlic, minced"
+        ]
+      },
+      {
+        "group": "Mint Chimichurri",
+        "items": [
+          "1 cup fresh mint",
+          "1/2 cup parsley",
+          "3 cloves garlic",
+          "1/2 cup olive oil",
+          "3 Tbsp red wine vinegar",
+          "1 tsp red pepper flakes",
+          "Salt to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Rub chops with olive oil, salt, pepper, and garlic. Rest 1 hour at room temp."
+      },
+      {
+        "title": "Grill",
+        "body": "Grill hot and fast — 3-4 minutes per side for medium-rare (135°F internal)."
+      },
+      {
+        "title": "Finish",
+        "body": "Blitz the chimichurri ingredients, spoon over the chops, rest 5 minutes."
+      }
+    ],
+    "proTips": [
+      "Don't overcook mutton chops — medium-rare or don't bother.",
+      "The mint chimichurri cuts the richness perfect.",
+      "Let them rest — the juices need to settle."
+    ],
+    "milestones": []
   }
 ]
