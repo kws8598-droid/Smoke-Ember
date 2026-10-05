@@ -7626,6 +7626,7 @@
           "1 stick butter",
           "1 cup heavy cream, warmed",
           "4 cloves garlic, roasted on the smoker",
+          "1/2 cup sour cream",
           "Salt and pepper",
           "Chives for topping"
         ]
@@ -7638,7 +7639,7 @@
       },
       {
         "title": "Mash",
-        "body": "Scoop out the insides and mash with butter, warm cream, and roasted garlic."
+        "body": "Scoop out the insides and mash with butter, sour cream, warm cream, and roasted garlic."
       },
       {
         "title": "Season",
@@ -7648,7 +7649,8 @@
     "proTips": [
       "Smoking them whole in the skin keeps them from drying out.",
       "Warm the cream first — cold cream makes gluey potatoes.",
-      "The gravy goes on top of these. That's the whole point."
+      "The gravy goes on top of these. That's the whole point.",
+      "A little sour cream makes them tangy and rich — Kelly's way."
     ],
     "milestones": []
   }
