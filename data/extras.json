@@ -8127,5 +8127,69 @@
       }
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-reverse-seared-steak",
+    "title": "Ember Reverse-Seared Steak",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "Serves 2–4",
+    "wood": "Oak or hickory",
+    "pitTemp": "225°F, then ripping-hot sear",
+    "finish": "130°F internal (medium-rare)",
+    "summary": "Thick-cut steaks cooked low and slow first, then seared screaming-hot — edge-to-edge pink with a dark crust.",
+    "story": "Reverse sear is the pitmaster's steak method: gentle heat first for an even interior, then a hard sear for the crust. No gray band, no guesswork — just pull at 115°F, rest, and sear. The butter-garlic-thyme baste at the end is optional but you'd be a fool to skip it.",
+    "school": "Backyard",
+    "image": "/images/ember-reverse-seared-steak.jpg",
+    "ingredients": [
+      {
+        "group": "The steak",
+        "items": [
+          "2 thick-cut ribeyes or NY strips, 1½–2 inches thick",
+          "2 Tbsp Ember House Rub (or coarse salt, black pepper, and garlic powder)",
+          "2 Tbsp butter",
+          "2 cloves garlic, smashed",
+          "A few sprigs of thyme (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Season the steaks generously on all sides. Let them sit at room temp for 30–45 minutes (or salt the night before and refrigerate uncovered for a dry brine)."
+      },
+      {
+        "title": "Cook low",
+        "body": "Set the smoker or oven to 225°F. Cook the steaks until they hit 115°F internal for medium-rare — about 45–60 minutes."
+      },
+      {
+        "title": "Rest",
+        "body": "Pull them off and rest 10 minutes while you get a cast iron skillet ripping hot."
+      },
+      {
+        "title": "Sear",
+        "body": "Sear 60–90 seconds per side until crusty and dark."
+      },
+      {
+        "title": "Baste",
+        "body": "Drop in the butter, garlic, and thyme — tilt the pan and baste for 30 seconds."
+      },
+      {
+        "title": "Rest and slice",
+        "body": "Rest 5–10 minutes, then slice against the grain."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Pull at 115°F for medium-rare, 125°F for medium — the sear carries them up 10–15 degrees."
+      }
+    ],
+    "milestones": []
   }
 ]
