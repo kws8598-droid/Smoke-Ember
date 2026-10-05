@@ -28,17 +28,17 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-ink/45" />
       </div>
       <section className="relative overflow-hidden sm:min-h-[88vh]">
-        {/* Mobile: spooky Halloween night still at the top for October, picker card sits below it */}
+        {/* Mobile: witch and bats Halloween still at the top for October, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
-          <Image src="/images/halloween-hero-night-poster.jpg" alt="Spooky Halloween night with glowing pumpkins" fill priority sizes="100vw" className="object-cover" />
+          <Image src="/images/halloween-witch-bats-hero.jpg" alt="Witch flying across the full moon with bats and glowing pumpkins" fill priority sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
             <p className="mt-1 text-[16px] leading-6 text-parchment/90">Smoke and Ember hands you a cook that actually fits tonight.</p>
           </div>
         </div>
-        {/* Desktop: full-bleed hero */}
-        <Image src="/images/hero-bbq-pitrow-v2.jpg" alt="Pitmasters tending smokers and brick pits at a fall barbecue" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
+        {/* Desktop: full-bleed witch and bats hero for October */}
+        <Image src="/images/halloween-witch-bats-hero.jpg" alt="Witch flying across the full moon with bats and glowing pumpkins" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-16 sm:pt-24 md:grid-cols-2">
           <div className="hidden sm:block">
