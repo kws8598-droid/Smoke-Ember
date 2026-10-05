@@ -7653,5 +7653,122 @@
       "A little sour cream makes them tangy and rich — Kelly's way."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-apple-rub",
+    "title": "Ember Apple Rub",
+    "region": "backyard",
+    "protein": "rubs",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.1
+    },
+    "servings": "Makes ~1 cup",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A sweet Ember rub built on real apple — warm fall spice for pork ribs, shoulder, chops, and chicken.",
+    "story": "Apple and pork are old friends. This rub puts the orchard right in the jar: freeze-dried apple powder for true apple flavor, brown sugar for the crust, and cinnamon, ginger, and nutmeg for warmth. Use it anywhere you'd reach for a sweet rub — it shines on ribs and pork shoulder.",
+    "school": "Backyard",
+    "image": "/images/ember-apple-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "½ cup brown sugar, packed",
+          "¼ cup paprika",
+          "3 Tbsp freeze-dried apple powder",
+          "2 Tbsp kosher salt",
+          "1 Tbsp coarse black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "1½ tsp cinnamon",
+          "1 tsp dry mustard",
+          "½ tsp ground ginger",
+          "¼ tsp nutmeg",
+          "½ tsp cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the apple powder",
+        "body": "Buzz a handful of freeze-dried apples in a spice grinder until powder-fine. Measure out 3 tablespoons."
+      },
+      {
+        "title": "Mix",
+        "body": "Combine everything in a bowl and stir until even. Break up any brown sugar lumps with your fingers."
+      },
+      {
+        "title": "Store",
+        "body": "Keep in a sealed jar. Use within 6 months for best flavor."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Freeze-dried fruit is in the dried-fruit aisle at most grocery stores — no specialty shop needed."
+      }
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-peach-rub",
+    "title": "Ember Peach Rub",
+    "region": "backyard",
+    "protein": "rubs",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.1
+    },
+    "servings": "Makes ~1 cup",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A sweet Southern-style Ember rub built on real peach — with allspice for that peach-cobbler warmth. Made for pork and chicken.",
+    "story": "Peach and pork is a Southern love story. This rub gets its peach from real freeze-dried peach powder, backed with brown sugar and a whisper of allspice — the same warmth you taste in a good peach cobbler. Try it on pork chops, ribs, or smoked chicken thighs.",
+    "school": "Backyard",
+    "image": "/images/ember-peach-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "½ cup brown sugar, packed",
+          "¼ cup paprika",
+          "3 Tbsp freeze-dried peach powder",
+          "2 Tbsp kosher salt",
+          "1 Tbsp coarse black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp dry mustard",
+          "1 tsp cinnamon",
+          "½ tsp ground allspice",
+          "½ tsp cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the peach powder",
+        "body": "Buzz a handful of freeze-dried peaches in a spice grinder until powder-fine. Measure out 3 tablespoons."
+      },
+      {
+        "title": "Mix",
+        "body": "Combine everything in a bowl and stir until even. Break up any brown sugar lumps with your fingers."
+      },
+      {
+        "title": "Store",
+        "body": "Keep in a sealed jar. Use within 6 months for best flavor."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Freeze-dried fruit is in the dried-fruit aisle at most grocery stores — no specialty shop needed."
+      }
+    ],
+    "milestones": []
   }
 ]
