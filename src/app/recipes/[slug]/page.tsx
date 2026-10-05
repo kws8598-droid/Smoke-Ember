@@ -4,7 +4,7 @@ import RecipeView from "@/components/RecipeView";
 import { getRecipe, recipes } from "@/lib/data";
 import { getLiveRecipe } from "@/lib/live";
 
-export const revalidate = 0;
+export const revalidate = 600;
 
 export function generateStaticParams() {
   return recipes.map((r) => ({ slug: r.slug }));
