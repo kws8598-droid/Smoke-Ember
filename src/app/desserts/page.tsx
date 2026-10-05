@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import RecipeCard from "@/components/RecipeCard";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 
@@ -12,7 +13,7 @@ export default function DessertsPage() {
     <main className="relative">
       {/* Candy-stripe awning backdrop for Bub & Sissy's Sweet Shop */}
       <div aria-hidden className="pointer-events-none fixed inset-0">
-        <img src="/images/sweet-shop-awning-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <Image src="/images/sweet-shop-awning-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-ink/50" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
@@ -20,8 +21,8 @@ export default function DessertsPage() {
       <h1 className="mt-2 font-display text-5xl italic">Desserts</h1>
       <p className="mt-3 max-w-xl text-parchment/80">The Southern closers that belong after a pit plate.</p>
       <p className="mt-6 text-sm text-subtle">{list.length} sweets</p>
-      <div className="mt-6 overflow-hidden rounded-2xl border border-white/10">
-        <img src="/images/desserts-banner.jpg" alt="Bub and Sissy's Sweet Shop — vintage counter with pies, cakes and candy jars" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+      <div className="relative mt-6 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+        <Image src="/images/desserts-banner.jpg" alt="Bub and Sissy's Sweet Shop — vintage counter with pies, cakes and candy jars" fill sizes="100vw" className="object-cover" loading="lazy" />
       </div>
       <p className="mt-4 text-center font-display text-lg italic text-[#ff8a3d]">
         Bub &amp; Sissy&apos;s Sweet Shop &mdash; featuring Oliver&apos;s Oreos
