@@ -7999,5 +7999,65 @@
     ],
     "proTips": [],
     "milestones": []
+  },
+  {
+    "slug": "ember-peach-bbq-sauce",
+    "title": "Ember Peach BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.5
+    },
+    "servings": "Makes ~2 cups",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A thin, pourable Ember sauce built on real peaches and honey — sweet, glossy, and made for brushing. Pairs with the Ember Peach Rub.",
+    "story": "This is the pourable one — honey does the sweetening and the peaches do the talking. It cooks down just enough to come together, then gets blended smooth and finished with butter. Thin enough to brush on chicken and ribs, sweet enough to stand on its own as a dip. Pair it with the Ember Peach Rub for the full treatment.",
+    "school": "Backyard",
+    "image": "/images/ember-peach-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "2 cups fresh or frozen peaches, pitted and diced",
+          "½ cup ketchup",
+          "½ cup honey",
+          "¼ cup brown sugar, packed",
+          "2 Tbsp apple cider vinegar",
+          "1 Tbsp molasses",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "½ tsp black pepper",
+          "½ tsp ground allspice",
+          "¼ tsp cayenne",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soften the peaches",
+        "body": "Simmer the peaches in a saucepan over medium heat until soft and breaking down, about 10 minutes. Mash with a spoon."
+      },
+      {
+        "title": "Build the sauce",
+        "body": "Stir in everything except the butter. Simmer just 10–12 minutes — don't cook it down thick."
+      },
+      {
+        "title": "Blend",
+        "body": "Blend smooth with an immersion blender."
+      },
+      {
+        "title": "Butter finish",
+        "body": "Stir in the butter off the heat. If it's thicker than you like, thin with a splash of water. Cool and jar. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
