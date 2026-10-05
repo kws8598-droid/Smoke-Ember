@@ -48,7 +48,7 @@ export const regionCopy: Record<string, { label: string; line: string; image: st
   mississippi: { label: "Mississippi", line: "Sweet tomato in the Delta. Gator when you can get it.", image: "/images/mississippi-sweet-ribs.jpg" },
   florida: { label: "Florida", line: "Sweet tomato, a squeeze of orange.", image: "/images/florida-sweet-ribs.jpg" },
   georgia: { label: "Georgia", line: "Championship pork. Inject, wrap, pull.", image: "/images/championship-pulled-pork.jpg" },
-  backyard: { label: "Backyard", line: "Home pit classics. No passport required.", image: "/images/hero-bbq-pitrow.jpg" },
+  backyard: { label: "Backyard", line: "Home pit classics. No passport required.", image: "/images/hero-bbq-pitrow-v2.jpg" },
   california: { label: "California", line: "Baja fish tacos, tri-tip, and coastal smoke.", image: "/images/smoked-baja-fish-tacos.jpg" },
 };
 
