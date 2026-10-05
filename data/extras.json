@@ -7202,5 +7202,293 @@
       "Or use your favorite Cajun seasoning — it's not set in stone."
     ],
     "milestones": []
+  },
+  {
+    "slug": "smoked-lamb-shoulder",
+    "title": "Smoked Lamb Shoulder (Pulled Lamb)",
+    "region": "kentucky",
+    "protein": "lamb",
+    "difficulty": "medium",
+    "hours": {
+      "min": 8,
+      "max": 10
+    },
+    "servings": "Serves 8-10",
+    "wood": "Oak",
+    "pitTemp": "250°F",
+    "finish": "200°F internal",
+    "summary": "Injected lamb shoulder smoked low until it pulls like pork butt — lamb's lean, the injection keeps it juicy.",
+    "story": "Lamb's lean like venison, so this shoulder gets injected before it ever sees smoke. Low and slow over oak, wrapped through the stall, pulled at 200°F like a pork butt. The injection is what keeps it from drying out.",
+    "school": "Smokehouse",
+    "image": "/images/smoked-lamb-shoulder.jpg",
+    "ingredients": [
+      {
+        "group": "Injection",
+        "items": [
+          "1.5 cups beef broth",
+          "2 Tbsp Worcestershire",
+          "1 Tbsp melted butter",
+          "2 tsp kosher salt",
+          "1 tsp garlic powder",
+          "1 tsp black pepper"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "3 Tbsp kosher salt",
+          "2 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp dried rosemary",
+          "1 tsp cumin"
+        ]
+      },
+      {
+        "group": "Meat",
+        "items": [
+          "1 bone-in lamb shoulder (5-7 lbs)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Inject",
+        "body": "Inject the shoulder all over, deep into the thickest parts."
+      },
+      {
+        "title": "Rub & rest",
+        "body": "Rub all over, rest overnight in the fridge."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over oak until 200°F internal, 8-10 hours. Wrap in butcher paper at the stall."
+      },
+      {
+        "title": "Pull",
+        "body": "Rest 1 hour, then pull it like pork butt."
+      }
+    ],
+    "proTips": [
+      "Lamb's lean like venison — the injection is what keeps it from drying out on the long smoke. Don't skip it.",
+      "Wrap at the stall to push through faster.",
+      "Or use your favorite rub — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "braised-lamb-shanks",
+    "title": "Braised Lamb Shanks",
+    "region": "kentucky",
+    "protein": "lamb",
+    "difficulty": "medium",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "Serves 4",
+    "wood": "Oven/Dutch oven",
+    "pitTemp": "325°F",
+    "finish": "Falling off the bone",
+    "summary": "Injected lamb shanks braised in red wine until they fall off the bone, over mashed potatoes.",
+    "story": "Lamb shanks get the injection treatment too, then a hard sear and a long braise in red wine with rosemary and thyme. They come out falling off the bone over a pile of mashed potatoes, with the sauce doing all the talking.",
+    "school": "Smokehouse",
+    "image": "/images/braised-lamb-shanks.jpg",
+    "ingredients": [
+      {
+        "group": "Injection",
+        "items": [
+          "1 cup beef broth",
+          "1 Tbsp Worcestershire",
+          "1 tsp salt",
+          "1/2 tsp garlic powder"
+        ]
+      },
+      {
+        "group": "Shanks",
+        "items": [
+          "4 lamb shanks",
+          "2 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "2 Tbsp oil",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "3 cloves garlic",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "2 sprigs rosemary",
+          "3 sprigs thyme",
+          "Mashed potatoes for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Inject & season",
+        "body": "Inject the shanks, then season with salt and pepper."
+      },
+      {
+        "title": "Sear",
+        "body": "Sear hard in a Dutch oven until browned all over. Set aside."
+      },
+      {
+        "title": "Build",
+        "body": "Cook the veggies in the same pot, add wine and broth, bring to a simmer."
+      },
+      {
+        "title": "Braise",
+        "body": "Add shanks back, cover, and braise at 325°F for 2.5-3 hours until falling off the bone."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve over mashed potatoes with the braising sauce spooned over."
+      }
+    ],
+    "proTips": [
+      "The injection plus the braise means these stay juicy all the way through.",
+      "Serve over mashed potatoes and let the sauce do the talking.",
+      "Skim the fat off the braising liquid before serving if you like."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "grilled-lamb-kebabs",
+    "title": "Grilled Lamb Kebabs",
+    "region": "backyard",
+    "protein": "lamb",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "Serves 4-6",
+    "wood": "Direct heat",
+    "pitTemp": "Hot grill",
+    "finish": "Medium-rare",
+    "summary": "Marinated lamb cubes grilled hot and fast with peppers and onions — the marinade does the injection's job.",
+    "story": "Small cuts can't take an injection, so these kebab cubes go into an olive oil, lemon, garlic, and rosemary marinade overnight. Threaded with peppers and onion, grilled hot and fast to medium-rare. Don't overcook them.",
+    "school": "Backyard",
+    "image": "/images/grilled-lamb-kebabs.jpg",
+    "ingredients": [
+      {
+        "group": "Kebabs",
+        "items": [
+          "2.5 lbs lamb leg or shoulder, cut into 1.5-inch cubes",
+          "2 bell peppers, cut into chunks",
+          "1 red onion, cut into chunks",
+          "Skewers"
+        ]
+      },
+      {
+        "group": "Marinade",
+        "items": [
+          "1/2 cup olive oil",
+          "1/4 cup lemon juice",
+          "4 cloves garlic, minced",
+          "2 Tbsp rosemary, chopped",
+          "1 Tbsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp cumin"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "body": "Marinate the lamb cubes 4-8 hours (overnight's best)."
+      },
+      {
+        "title": "Skewer",
+        "body": "Thread onto skewers alternating with peppers and onion."
+      },
+      {
+        "title": "Grill",
+        "body": "Grill hot — 2-3 minutes per side, medium-rare."
+      }
+    ],
+    "proTips": [
+      "Small cuts can't take an injection, so the marinade does the work — gets the moisture and flavor deep in.",
+      "Don't overcook them.",
+      "Soak wooden skewers 30 minutes so they don't burn."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-lamb-ribs",
+    "title": "Smoked Lamb Ribs with Sticky Glaze",
+    "region": "kentucky",
+    "protein": "lamb",
+    "difficulty": "medium",
+    "hours": {
+      "min": 3,
+      "max": 4
+    },
+    "servings": "Serves 4",
+    "wood": "Oak or cherry",
+    "pitTemp": "250°F",
+    "finish": "Bend test, meat pulls back",
+    "summary": "Marinated lamb ribs smoked low with a sticky honey-balsamic glaze brushed on late.",
+    "story": "Too thin to inject, so these ribs get a garlic-rosemary marinade overnight to stay juicy. Smoked low over oak or cherry, spritzed with apple juice, and finished with a sticky honey-balsamic glaze in the last 30 minutes so it doesn't burn.",
+    "school": "Smokehouse",
+    "image": "/images/smoked-lamb-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Marinade",
+        "items": [
+          "1/4 cup olive oil",
+          "3 cloves garlic, minced",
+          "1 Tbsp rosemary",
+          "1 Tbsp salt",
+          "2 tsp pepper"
+        ]
+      },
+      {
+        "group": "Rub",
+        "items": [
+          "2 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 tsp cumin"
+        ]
+      },
+      {
+        "group": "Glaze",
+        "items": [
+          "1/2 cup honey",
+          "1/4 cup balsamic vinegar",
+          "2 Tbsp Dijon"
+        ]
+      },
+      {
+        "group": "Ribs",
+        "items": [
+          "2 racks lamb ribs",
+          "Apple juice in a spray bottle"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "body": "Marinate the ribs 4 hours or overnight, then apply the rub."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over oak or cherry, spritzing with apple juice every 45 minutes, 3-4 hours."
+      },
+      {
+        "title": "Glaze",
+        "body": "Brush with the honey-balsamic glaze in the last 30 minutes."
+      },
+      {
+        "title": "Check",
+        "body": "Pull when they bend and the meat pulls back from the bone."
+      }
+    ],
+    "proTips": [
+      "Too thin to inject, so the marinade keeps them juicy.",
+      "The glaze goes on late so it doesn't burn.",
+      "Or use your favorite rub — it's not set in stone."
+    ],
+    "milestones": []
   }
 ]
