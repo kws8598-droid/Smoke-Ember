@@ -8246,5 +8246,55 @@
       }
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-cowboy-butter",
+    "title": "Ember Cowboy Butter",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.1
+    },
+    "servings": "Makes ~1 cup",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "The viral spicy butter — garlic, lemon, Dijon, cayenne, and herbs melted together. Made for dipping steak.",
+    "story": "Cowboy butter broke the internet for a reason — it's garlic butter with attitude. Lemon and Dijon cut through the richness, cayenne and red pepper flakes bring the heat, and the herbs keep it fresh. Serve it warm as a dip for steak, chicken, or shrimp, or chill it and slice pats.",
+    "school": "Backyard",
+    "image": "/images/ember-cowboy-butter.jpg",
+    "ingredients": [
+      {
+        "group": "The butter",
+        "items": [
+          "2 sticks (1 cup) unsalted butter, melted",
+          "4 cloves garlic, minced",
+          "1 Tbsp Dijon mustard",
+          "1 Tbsp lemon juice",
+          "1 tsp lemon zest",
+          "1 tsp paprika",
+          "½ tsp cayenne",
+          "2 Tbsp fresh parsley, chopped",
+          "1 Tbsp fresh chives, chopped",
+          "1 tsp coarse salt",
+          "½ tsp black pepper",
+          "Pinch of red pepper flakes"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Melt and mix",
+        "body": "Melt the butter and stir in everything until combined."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve warm as a dip — or chill, roll into a log, and slice pats like the herb butter."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
