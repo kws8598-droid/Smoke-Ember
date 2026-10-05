@@ -7,7 +7,7 @@ export default function WisdomPage() {
     <main className="relative">
       {/* Glowing embers backdrop */}
       <div aria-hidden className="pointer-events-none fixed inset-0">
-        <img src="/images/tips-page-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <Image src="/images/tips-page-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-ink/60" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
