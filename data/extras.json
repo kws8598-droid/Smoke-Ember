@@ -7887,5 +7887,60 @@
     ],
     "proTips": [],
     "milestones": []
+  },
+  {
+    "slug": "ember-dr-pepper-bbq-sauce",
+    "title": "Ember Dr Pepper BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.75
+    },
+    "servings": "Makes ~2 cups",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A sweet Ember sauce built on reduced Dr Pepper — dark, glossy, and sticky-sweet. Made for ribs, pulled pork, and wings.",
+    "story": "Dr Pepper's 23 flavors were practically born for BBQ sauce. This one reduces the soda down to concentrate all that cherry-vanilla-spice character, then builds it into a ketchup-based sauce with extra brown sugar and honey for sweetness and a butter finish. Brush it on ribs in the last 30 minutes and watch it turn to candy.",
+    "school": "Backyard",
+    "image": "/images/ember-dr-pepper-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "2 cups Dr Pepper (not diet)",
+          "1 cup ketchup",
+          "¾ cup brown sugar, packed",
+          "2 Tbsp honey",
+          "¼ cup apple cider vinegar",
+          "2 Tbsp molasses",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "½ tsp black pepper",
+          "¼ tsp cayenne",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reduce the Dr Pepper",
+        "body": "Simmer the Dr Pepper in a saucepan until reduced by half, about 15 minutes. This concentrates the flavor."
+      },
+      {
+        "title": "Build the sauce",
+        "body": "Stir in everything except the butter. Simmer 15–20 minutes, stirring now and then, until thick and glossy."
+      },
+      {
+        "title": "Butter finish",
+        "body": "Stir in the butter off the heat. Cool and jar. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
