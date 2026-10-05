@@ -7942,5 +7942,62 @@
     ],
     "proTips": [],
     "milestones": []
+  },
+  {
+    "slug": "ember-orange-bbq-sauce",
+    "title": "Ember Orange BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.75
+    },
+    "servings": "Makes ~2 cups",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A bright Ember sauce built on reduced fresh orange juice with ginger — citrusy, glossy, and made for chicken and pork.",
+    "story": "Orange BBQ sauce is a real thing — the BBQ Pit Boys did an orange-ginger version, and citrus sauces have a loyal following. This Ember take reduces fresh orange juice to concentrate the flavor, then builds it into a ketchup-based sauce with ginger for warmth and a butter finish. Bright on chicken thighs, beautiful on pork chops.",
+    "school": "Backyard",
+    "image": "/images/ember-orange-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "1½ cups fresh orange juice",
+          "Zest of 2 oranges",
+          "1 cup ketchup",
+          "½ cup brown sugar, packed",
+          "2 Tbsp honey",
+          "2 Tbsp apple cider vinegar",
+          "2 Tbsp molasses",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp fresh grated ginger (or ½ tsp ground)",
+          "1 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "½ tsp black pepper",
+          "¼ tsp cayenne",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reduce the orange juice",
+        "body": "Simmer the orange juice in a saucepan until reduced by half, about 15 minutes."
+      },
+      {
+        "title": "Build the sauce",
+        "body": "Stir in everything except the butter. Simmer 15–20 minutes, stirring now and then, until thick and glossy."
+      },
+      {
+        "title": "Butter finish",
+        "body": "Stir in the butter off the heat. Cool and jar. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
