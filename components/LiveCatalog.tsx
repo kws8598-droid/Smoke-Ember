@@ -22,7 +22,7 @@ export function LiveCatalogProvider({ children }: { children: React.ReactNode })
 
   useEffect(() => {
     let cancelled = false;
-    fetch("/api/catalog", { cache: "no-store" })
+    fetch("/api/catalog")
       .then((res) => (res.ok ? res.json() : null))
       .then((body) => {
         if (cancelled || !body?.recipes || !Array.isArray(body.recipes)) return;
