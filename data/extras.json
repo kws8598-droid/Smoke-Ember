@@ -7490,5 +7490,166 @@
       "Or use your favorite rub — it's not set in stone."
     ],
     "milestones": []
+  },
+  {
+    "slug": "smoked-cornbread-dressing",
+    "title": "Smoked Cornbread Dressing",
+    "region": "kentucky",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.75,
+      "max": 1
+    },
+    "servings": "Serves 8-10",
+    "wood": "Apple or oak",
+    "pitTemp": "325°F",
+    "finish": "Golden on top",
+    "summary": "Day-old cornbread, water chestnuts for crunch, sage and thyme — smoked in cast iron.",
+    "story": "Day-old cornbread or it falls apart. Onion, celery, water chestnuts for that crunch that survives the whole cook, sage and thyme, packed into a buttered cast iron skillet and smoked until golden. If you made the jalapeño cheddar cornbread, this dressing gets a nice little kick.",
+    "school": "Holiday Table",
+    "image": "/images/smoked-cornbread-dressing.jpg",
+    "ingredients": [
+      {
+        "group": "Dressing",
+        "items": [
+          "1 pan of day-old cornbread, crumbled",
+          "1 onion, diced",
+          "3 stalks celery, diced",
+          "1 can (8 oz) water chestnuts, drained and chopped",
+          "2 cups chicken or turkey broth",
+          "2 eggs, beaten",
+          "1 stick butter, melted",
+          "2 Tbsp sage",
+          "1 Tbsp thyme",
+          "Salt and pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sauté",
+        "body": "Sauté onion and celery in butter until soft."
+      },
+      {
+        "title": "Mix",
+        "body": "Mix everything in a big bowl — it should be wet but not soupy."
+      },
+      {
+        "title": "Smoke",
+        "body": "Pack into a buttered cast iron skillet or pan. Smoke at 325°F for 45 minutes until golden on top."
+      }
+    ],
+    "proTips": [
+      "Day-old cornbread or it falls apart.",
+      "The water chestnuts stay crunchy through the whole cook — that's the bite you're looking for.",
+      "If you made the jalapeño cheddar cornbread, this dressing gets a nice little kick."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-turkey-gravy",
+    "title": "Smoked Turkey Gravy",
+    "region": "kentucky",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "Makes about 4 cups",
+    "wood": "None",
+    "pitTemp": "Stovetop",
+    "finish": "Thick enough to coat a spoon",
+    "summary": "Made from smoker drippings with just a whisper of rosemary — liquid gold.",
+    "story": "Save those drippings from the turkey — that's liquid gold. Put a drip pan under the bird and thank yourself later. Whisked into a gravy with just a little rosemary — pull the sprig before serving so nobody gets a mouthful of needles.",
+    "school": "Holiday Table",
+    "image": "/images/smoked-turkey-gravy.jpg",
+    "ingredients": [
+      {
+        "group": "Gravy",
+        "items": [
+          "Turkey drippings (or 4 Tbsp butter + 4 Tbsp flour if you're short)",
+          "4 cups turkey or chicken broth",
+          "1/4 cup flour (if not using drippings roux)",
+          "1 sprig fresh rosemary",
+          "Giblets, chopped fine (optional)",
+          "Salt and pepper",
+          "Splash of Worcestershire"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Roux",
+        "body": "If you've got drippings from the smoker, whisk flour into them and cook 2 minutes. If no drippings, make a roux with butter and flour first."
+      },
+      {
+        "title": "Whisk",
+        "body": "Whisk in broth until thick. Toss in the rosemary sprig."
+      },
+      {
+        "title": "Simmer",
+        "body": "Simmer 10 minutes. Pull the rosemary sprig before serving."
+      }
+    ],
+    "proTips": [
+      "Save those drippings from the turkey — that's liquid gold.",
+      "Put a drip pan under the bird and thank yourself later.",
+      "Just a little rosemary — pull the sprig before serving so nobody gets a mouthful of needles."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-mashed-potatoes",
+    "title": "Smoked Mashed Potatoes",
+    "region": "kentucky",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 8",
+    "wood": "Apple or oak",
+    "pitTemp": "275°F",
+    "finish": "Tender, easy to scoop",
+    "summary": "Potatoes smoked whole in the skin, mashed with butter, cream, and roasted garlic.",
+    "story": "Smoking the potatoes whole in the skin keeps them from drying out — and you get a whisper of smoke in every bite. Mashed with butter, warm cream, and garlic roasted right on the smoker. The gravy goes on top of these. That's the whole point.",
+    "school": "Holiday Table",
+    "image": "/images/smoked-mashed-potatoes.jpg",
+    "ingredients": [
+      {
+        "group": "Potatoes",
+        "items": [
+          "4 lbs russet potatoes",
+          "1 stick butter",
+          "1 cup heavy cream, warmed",
+          "4 cloves garlic, roasted on the smoker",
+          "Salt and pepper",
+          "Chives for topping"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke",
+        "body": "Smoke the whole potatoes at 275°F for 1.5 hours until tender."
+      },
+      {
+        "title": "Mash",
+        "body": "Scoop out the insides and mash with butter, warm cream, and roasted garlic."
+      },
+      {
+        "title": "Season",
+        "body": "Salt to taste. Top with chives."
+      }
+    ],
+    "proTips": [
+      "Smoking them whole in the skin keeps them from drying out.",
+      "Warm the cream first — cold cream makes gluey potatoes.",
+      "The gravy goes on top of these. That's the whole point."
+    ],
+    "milestones": []
   }
 ]
