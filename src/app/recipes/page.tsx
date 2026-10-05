@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import Image from "next/image";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -62,7 +63,7 @@ function RecipesInner() {
     <main className="relative">
       {/* BBQ joint wall backdrop */}
       <div aria-hidden className="pointer-events-none fixed inset-0">
-        <img src="/images/recipes-page-bg.jpg" alt="" className="h-full w-full object-cover" />
+        <Image src="/images/recipes-page-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-ink/60" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
@@ -71,8 +72,8 @@ function RecipesInner() {
       <p className="mt-3 max-w-xl text-parchment/80">Regional cooks, pantry bottles, and the sides that make a plate.</p>
       {protein === "venison" && (
         <>
-          <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-            <img src="/images/venison-banner.jpg" alt="Whitetail buck in a smoky forest at dawn" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
+          <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/venison-banner.jpg" alt="Whitetail buck in a smoky forest at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
           </div>
           <p className="mt-4 text-center font-display text-lg italic text-[#ff8a3d]">
             This page is dedicated to Harold Caldwell, Steve Holt, and Freddie Wash.
@@ -80,34 +81,34 @@ function RecipesInner() {
         </>
       )}
       {protein === "poultry" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/poultry-banner.jpg" alt="Smoked turkey on a rustic harvest table" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/poultry-banner.jpg" alt="Smoked turkey on a rustic harvest table" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       {protein === "mutton" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/mutton-banner.jpg" alt="Mutton shoulders on a vintage Kentucky barbecue joint brick pit" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/mutton-banner.jpg" alt="Mutton shoulders on a vintage Kentucky barbecue joint brick pit" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       {protein === "sauces" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/sauces-banner.jpg" alt="Wooden shelves lined with vintage barbecue sauce bottles and jars" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/sauces-banner.jpg" alt="Wooden shelves lined with vintage barbecue sauce bottles and jars" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       {protein === "beef" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/beef-banner.jpg" alt="Juicy brisket on an offset smoker with smoke rolling" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/beef-banner.jpg" alt="Juicy brisket on an offset smoker with smoke rolling" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       {protein === "pork" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/pork-banner-table.jpg" alt="Farmhouse table spread with pulled pork, glazed ribs, bacon, ham, and pork chops" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/pork-banner-table.jpg" alt="Farmhouse table spread with pulled pork, glazed ribs, bacon, ham, and pork chops" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       {protein === "fish" && (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-white/10">
-          <img src="/images/fish-banner.jpg" alt="Old fisherman holding a stringer of catfish by the creek" className="h-48 w-full object-cover sm:h-64" loading="lazy" />
-        </div>
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/fish-banner.jpg" alt="Old fisherman holding a stringer of catfish by the creek" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
       )}
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
         <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p}</button>
