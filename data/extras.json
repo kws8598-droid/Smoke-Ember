@@ -6491,5 +6491,308 @@
       "Or use your favorite sausage seasoning — it's not set in stone."
     ],
     "milestones": []
+  },
+  {
+    "slug": "louisiana-boudin",
+    "title": "Louisiana Boudin",
+    "region": "louisiana",
+    "protein": "sausage",
+    "difficulty": "medium",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "Makes ~6 lbs (about 18 links)",
+    "wood": "Pecan or oak",
+    "pitTemp": "225°F",
+    "finish": "155°F internal",
+    "summary": "Cajun rice sausage with pork, liver, and the holy trinity — squeeze it out of the casing like the Cajuns do.",
+    "story": "Boudin is Louisiana in a casing — pork, liver, rice, and Cajun seasoning, poached and smoked. Don't skip the liver. That's what makes it boudin and not just rice sausage.",
+    "school": "Cajun",
+    "image": "/images/louisiana-boudin.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "3 lbs pork butt, cubed",
+          "1 lb pork liver (or chicken livers)",
+          "2 cups cooked long-grain rice",
+          "1 large onion, diced",
+          "1 bell pepper, diced",
+          "4 cloves garlic, minced",
+          "3 Tbsp Cajun seasoning",
+          "1 Tbsp kosher salt",
+          "2 tsp black pepper",
+          "1 tsp cayenne",
+          "1 bunch green onions, chopped",
+          "Hog casings"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer",
+        "body": "Simmer pork butt, liver, onion, bell pepper, and garlic in water until tender, about 1.5 hours."
+      },
+      {
+        "title": "Grind",
+        "body": "Grind through a coarse plate. Mix in the rice, Cajun seasoning, and green onions."
+      },
+      {
+        "title": "Stuff",
+        "body": "Stuff into hog casings, twist into links."
+      },
+      {
+        "title": "Poach & smoke",
+        "body": "Poach in simmering water 10 minutes, then smoke at 225°F for 1 hour."
+      }
+    ],
+    "proTips": [
+      "Don't skip the liver — that's what makes it boudin and not just rice sausage.",
+      "Eat it by squeezing it out of the casing like the Cajuns do.",
+      "Or use your favorite Cajun seasoning — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-andouille",
+    "title": "Smoked Andouille",
+    "region": "louisiana",
+    "protein": "sausage",
+    "difficulty": "hard",
+    "hours": {
+      "min": 4,
+      "max": 5
+    },
+    "servings": "Makes ~10 lbs (about 30 links)",
+    "wood": "Pecan or oak",
+    "pitTemp": "180-200°F",
+    "finish": "155°F internal",
+    "summary": "Coarse, peppery, double-smoked Cajun sausage — the one that goes IN the gumbo, not next to it.",
+    "story": "Andouille is the backbone of Cajun cooking — coarse-ground, heavy on the pepper and garlic, smoked low and slow until it's dark as mahogany. This is the sausage that goes in the gumbo, not next to it.",
+    "school": "Cajun",
+    "image": "/images/smoked-andouille.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "8 lbs pork butt, cubed",
+          "2 lbs pork fat",
+          "1/4 cup kosher salt",
+          "2 Tbsp coarse black pepper",
+          "2 Tbsp garlic powder",
+          "2 Tbsp paprika",
+          "1 Tbsp cayenne",
+          "2 tsp thyme",
+          "2 tsp mustard seed",
+          "1 tsp curing salt (Prague Powder #1)",
+          "1 cup ice water",
+          "Hog casings"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind",
+        "body": "Grind pork and fat coarse. Mix in all spices, curing salt, and ice water until sticky."
+      },
+      {
+        "title": "Stuff",
+        "body": "Stuff into hog casings, twist into links. Rest overnight in the fridge."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 180°F for 2 hours, then 200°F until 155°F internal, about 4-5 hours total."
+      }
+    ],
+    "proTips": [
+      "The double smoke is what makes andouille — low and slow, heavy on the pecan or oak.",
+      "Use curing salt (Prague Powder #1) since this smokes low for hours — it's a food-safety thing, not optional.",
+      "Or use your favorite sausage seasoning — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "jalapeno-cheddar-venison-sausage",
+    "title": "Jalapeño Cheddar Venison Sausage",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "medium",
+    "hours": {
+      "min": 3,
+      "max": 4
+    },
+    "servings": "Makes ~10 lbs (about 30 links)",
+    "wood": "Hickory or oak",
+    "pitTemp": "180-200°F",
+    "finish": "155°F internal",
+    "summary": "Deer camp classic — venison sausage studded with jalapeños and cheddar, smoked low and slow.",
+    "story": "Every deer camp needs a jalapeño cheddar sausage. Venison and pork butt, diced jalapeños, and high-temp cheddar, smoked until the casings snap. The heat mellows in the smoke — don't be shy with the peppers.",
+    "school": "Deer Camp",
+    "image": "/images/jalapeno-cheddar-venison-sausage.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "7 lbs ground venison",
+          "3 lbs pork butt",
+          "1 lb high-temp cheddar cheese, diced",
+          "6 jalapeños, diced (seeds in if you're brave)",
+          "3 Tbsp kosher salt",
+          "2 Tbsp coarse black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp mustard seed",
+          "1 tsp curing salt (Prague Powder #1)",
+          "1 cup ice water",
+          "Hog casings"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind",
+        "body": "Grind venison and pork together through a coarse plate. Keep everything cold."
+      },
+      {
+        "title": "Mix",
+        "body": "Mix in jalapeños, cheese, spices, curing salt, and ice water until sticky and bound."
+      },
+      {
+        "title": "Stuff",
+        "body": "Stuff into hog casings, twist into links."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 180°F for 2 hours, then bump to 200°F until 155°F internal."
+      }
+    ],
+    "proTips": [
+      "Use high-temp cheese or it'll melt out and leave you with hollow pockets.",
+      "The jalapeño heat mellows in the smoke — don't be shy with them.",
+      "Or use your favorite sausage seasoning — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "smoked-breakfast-sausage",
+    "title": "Smoked Breakfast Sausage",
+    "region": "kentucky",
+    "protein": "sausage",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "Makes ~10 lbs",
+    "wood": "Apple or cherry",
+    "pitTemp": "200°F",
+    "finish": "155°F internal",
+    "summary": "Sage-forward breakfast sausage, smoked low — make a big batch and freeze it.",
+    "story": "The sage is what makes it breakfast sausage — don't skip it. Pork butt and fat, brown sugar, sage, and red pepper flakes, smoked low or fried up in the skillet. These freeze great, so make a big batch and thank yourself later.",
+    "school": "Smokehouse",
+    "image": "/images/smoked-breakfast-sausage.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "8 lbs pork butt, cubed",
+          "2 lbs pork fat",
+          "1/4 cup brown sugar",
+          "3 Tbsp kosher salt",
+          "2 Tbsp rubbed sage",
+          "1 Tbsp black pepper",
+          "2 tsp red pepper flakes",
+          "1 tsp nutmeg",
+          "1 tsp ginger",
+          "1 cup ice water",
+          "Hog casings (or make patties)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind",
+        "body": "Grind pork and fat through a coarse plate. Keep everything cold."
+      },
+      {
+        "title": "Mix",
+        "body": "Mix in all spices and ice water until sticky and bound."
+      },
+      {
+        "title": "Form",
+        "body": "Stuff into casings or form into patties."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 200°F until 155°F internal, about 2 hours. Or just fry the patties."
+      }
+    ],
+    "proTips": [
+      "The sage is what makes it breakfast sausage — don't skip it.",
+      "These freeze great, so make a big batch and thank yourself later.",
+      "Or use your favorite breakfast seasoning — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "venison-snack-sticks",
+    "title": "Venison Snack Sticks",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "medium",
+    "hours": {
+      "min": 4,
+      "max": 5
+    },
+    "servings": "Makes ~10 lbs",
+    "wood": "Hickory",
+    "pitTemp": "160-180°F",
+    "finish": "155°F internal",
+    "summary": "Jerky's easy-eating cousin — smoky venison sticks with a snap. They disappear fast.",
+    "story": "Venison snack sticks are what jerky wishes it was — same smoky chew, but you can eat them one-handed. Venison and pork, stuffed into collagen casings and smoked low and slow. Low and slow or they'll wrinkle up like raisins. These disappear fast — make double.",
+    "school": "Deer Camp",
+    "image": "/images/venison-snack-sticks.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "7 lbs ground venison",
+          "3 lbs pork butt",
+          "1/4 cup kosher salt",
+          "2 Tbsp coarse black pepper",
+          "2 Tbsp garlic powder",
+          "2 Tbsp brown sugar",
+          "1 Tbsp red pepper flakes",
+          "2 tsp mustard seed",
+          "1 tsp curing salt (Prague Powder #1)",
+          "1 cup ice water",
+          "Collagen casings (19mm)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind",
+        "body": "Grind venison and pork fine. Mix in all spices, curing salt, and ice water until very sticky."
+      },
+      {
+        "title": "Stuff",
+        "body": "Stuff into collagen casings."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 160°F for 1 hour (no smoke), then 180°F with smoke until 155°F internal, about 4 hours."
+      },
+      {
+        "title": "Chill",
+        "body": "Ice bath 10 minutes, then hang to dry."
+      }
+    ],
+    "proTips": [
+      "Low and slow or they'll wrinkle up like raisins.",
+      "The ice bath stops the cooking and gives you that snap.",
+      "These disappear fast — make double."
+    ],
+    "milestones": []
   }
 ]
