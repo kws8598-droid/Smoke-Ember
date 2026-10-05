@@ -7072,5 +7072,135 @@
       "Let them rest — the juices need to settle."
     ],
     "milestones": []
+  },
+  {
+    "slug": "blackened-gator-bites",
+    "title": "Blackened Gator Bites with Remoulade",
+    "region": "louisiana",
+    "protein": "gator",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "Serves 4-6",
+    "wood": "Cast iron",
+    "pitTemp": "Screaming hot skillet",
+    "finish": "Blackened, cooked through",
+    "summary": "Gator tail chunks seared black in cast iron, with a cool remoulade for dipping.",
+    "story": "Gator goes from perfect to rubber in a hurry — hot and fast is the whole trick. Tail meat cut into chunks, coated in blackening seasoning, seared in a screaming-hot skillet, and dunked in homemade remoulade.",
+    "school": "Cajun",
+    "image": "/images/blackened-gator-bites.jpg",
+    "ingredients": [
+      {
+        "group": "Gator",
+        "items": [
+          "2 lbs gator tail meat, cut into 1-inch chunks",
+          "3 Tbsp blackening seasoning (or your favorite Cajun seasoning)",
+          "4 Tbsp butter, melted"
+        ]
+      },
+      {
+        "group": "Remoulade",
+        "items": [
+          "1 cup mayo",
+          "2 Tbsp Creole mustard",
+          "1 Tbsp lemon juice",
+          "1 Tbsp hot sauce",
+          "1 tsp paprika",
+          "1 tsp garlic powder",
+          "2 Tbsp chopped pickles",
+          "1 Tbsp capers"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Toss gator chunks in melted butter, then coat heavy with blackening seasoning."
+      },
+      {
+        "title": "Sear",
+        "body": "Sear in a screaming-hot cast iron skillet, 2-3 minutes per side until blackened and cooked through."
+      },
+      {
+        "title": "Sauce",
+        "body": "Stir the remoulade ingredients together. Serve the bites hot with remoulade for dipping."
+      }
+    ],
+    "proTips": [
+      "Don't walk away from the skillet — gator goes from perfect to rubber in a hurry.",
+      "Hot and fast is the whole trick.",
+      "Or use your favorite Cajun seasoning — it's not set in stone."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "gator-sauce-piquante",
+    "title": "Gator Sauce Piquante",
+    "region": "louisiana",
+    "protein": "gator",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 6-8",
+    "wood": "Stovetop",
+    "pitTemp": "Simmer",
+    "finish": "Gator tender",
+    "summary": "Cajun gator stew in a dark roux, served over rice — the roux is everything.",
+    "story": "Sauce piquante is Cajun comfort in a bowl — gator meat simmered in a dark roux with the holy trinity, tomatoes, and stock, served over rice. The roux is everything: dark but not burnt. If it smells scorched, start over. No shame in it.",
+    "school": "Cajun",
+    "image": "/images/gator-sauce-piquante.jpg",
+    "ingredients": [
+      {
+        "group": "Stew",
+        "items": [
+          "2 lbs gator meat, cubed",
+          "1/2 cup oil",
+          "1/2 cup flour",
+          "1 large onion, diced",
+          "1 bell pepper, diced",
+          "2 stalks celery, diced",
+          "4 cloves garlic, minced",
+          "1 can (14 oz) diced tomatoes",
+          "3 cups chicken or seafood stock",
+          "2 Tbsp Cajun seasoning",
+          "1 tsp cayenne (or to taste)",
+          "3 bay leaves",
+          "Cooked rice for serving",
+          "Green onions for topping"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Roux",
+        "body": "Make a dark roux — oil and flour in a heavy pot, stirring constantly over medium heat until it's the color of peanut butter, 20-30 minutes. Don't burn it."
+      },
+      {
+        "title": "Trinity",
+        "body": "Add onion, bell pepper, celery, and garlic. Cook until soft."
+      },
+      {
+        "title": "Build",
+        "body": "Stir in tomatoes, stock, Cajun seasoning, cayenne, and bay leaves. Bring to a simmer."
+      },
+      {
+        "title": "Simmer",
+        "body": "Add gator meat, cover, and simmer 45 minutes to 1 hour until the gator is tender."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve over rice with green onions on top."
+      }
+    ],
+    "proTips": [
+      "The roux is everything — dark but not burnt.",
+      "If it smells scorched, start over. No shame in it.",
+      "Or use your favorite Cajun seasoning — it's not set in stone."
+    ],
+    "milestones": []
   }
 ]
