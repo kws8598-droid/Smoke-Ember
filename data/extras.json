@@ -6794,5 +6794,76 @@
       "These disappear fast — make double."
     ],
     "milestones": []
+  },
+  {
+    "slug": "real-texas-chili",
+    "title": "Real Texas Chili (Chili Con Carne)",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "medium",
+    "hours": {
+      "min": 3,
+      "max": 3.5
+    },
+    "servings": "Serves 8",
+    "wood": "Oak or mesquite",
+    "pitTemp": "Stovetop or smoker at 275°F",
+    "finish": "Beef falls apart",
+    "summary": "No beans. Don't ask. Beef chunks, dried chiles, and time — this is Texas chili the way it's supposed to be.",
+    "story": "Real Texas chili has no beans — beans are a side dish, not an ingredient. Beef chuck cut into cubes, a puree of toasted dried chiles, cumin, and a long slow simmer until the meat falls apart. Better the next day. Always.",
+    "school": "Chuck Wagon",
+    "image": "/images/real-texas-chili.jpg",
+    "ingredients": [
+      {
+        "group": "Chili",
+        "items": [
+          "4 lbs beef chuck, cut into 3/4-inch cubes",
+          "4 dried ancho chiles",
+          "2 dried pasilla chiles",
+          "2 dried guajillo chiles",
+          "1 large onion, diced",
+          "6 cloves garlic, minced",
+          "3 Tbsp chili powder",
+          "2 Tbsp ground cumin",
+          "1 Tbsp smoked paprika",
+          "2 tsp dried oregano (Mexican if you can find it)",
+          "2 tsp kosher salt",
+          "1 tsp black pepper",
+          "2 cups beef broth",
+          "1 cup dark beer (optional but good)",
+          "2 Tbsp masa harina",
+          "Beef tallow or oil for browning"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Toast & soak",
+        "body": "Toast the dried chiles in a dry skillet until fragrant, about 2 minutes per side. Soak in hot water 20 minutes, then blend smooth with a little of the soaking liquid."
+      },
+      {
+        "title": "Brown",
+        "body": "Brown the beef cubes in batches in beef tallow over high heat. Don't crowd the pot. Set aside."
+      },
+      {
+        "title": "Build the base",
+        "body": "In the same pot, cook the onion until soft. Add garlic, chili powder, cumin, paprika, oregano, salt, and pepper — stir until fragrant, about 1 minute."
+      },
+      {
+        "title": "Simmer",
+        "body": "Pour in the chile puree, beef broth, and beer. Add the beef back in. Simmer low 2.5-3 hours until the beef falls apart."
+      },
+      {
+        "title": "Thicken",
+        "body": "Stir in masa harina in the last 30 minutes to thicken."
+      }
+    ],
+    "proTips": [
+      "No beans. This is Texas chili — beans are a side dish, not an ingredient.",
+      "Cubes, not ground beef. The texture is the whole point.",
+      "The dried chiles are doing the real work here. The chili powder's just backup.",
+      "Better the next day. Always."
+    ],
+    "milestones": []
   }
 ]
