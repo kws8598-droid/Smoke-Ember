@@ -1,8 +1,7 @@
 import { NextResponse } from "next/server";
 import { getLiveRecipes } from "@/lib/live";
 
-export const dynamic = "force-dynamic";
-export const revalidate = 0;
+export const revalidate = 600;
 
 export async function GET() {
   const recipes = await getLiveRecipes();
