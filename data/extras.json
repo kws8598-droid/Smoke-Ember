@@ -6423,5 +6423,73 @@
       "Or use your favorite rub — it's not set in stone."
     ],
     "milestones": []
+  },
+  {
+    "slug": "venison-pineapple-bratwurst",
+    "title": "Venison Pineapple Bratwurst",
+    "region": "kentucky",
+    "protein": "sausage",
+    "difficulty": "medium",
+    "hours": {
+      "min": 2,
+      "max": 3
+    },
+    "servings": "Makes ~10 lbs (about 30 links)",
+    "wood": "Apple or cherry",
+    "pitTemp": "180-200°F",
+    "finish": "155°F internal",
+    "summary": "Sweet pineapple meets savory bratwurst spices in a venison sausage. The Amish know what they're doing.",
+    "story": "Every year I get a deer, I take it to the Amish and have them turn some of it into pineapple bratwurst. Sweet, savory, juicy — it's the sausage I look forward to all year. This is my version of it: venison and pork butt, crushed pineapple, and classic bratwurst spices, stuffed into hog casings and smoked low.",
+    "school": "Deer Camp",
+    "image": "/images/venison-pineapple-bratwurst.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "7 lbs ground venison",
+          "3 lbs pork butt",
+          "1 can (20 oz) crushed pineapple, drained well",
+          "3 Tbsp kosher salt",
+          "2 Tbsp brown sugar",
+          "1 Tbsp coarse black pepper",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "2 tsp mustard seed",
+          "2 tsp marjoram",
+          "1 tsp nutmeg",
+          "1 tsp ground ginger",
+          "1 cup ice water",
+          "Hog casings, soaked and rinsed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind",
+        "body": "Grind the venison and pork butt together through a coarse plate. Keep everything cold — meat, grinder, all of it."
+      },
+      {
+        "title": "Mix",
+        "body": "Mix in the drained pineapple and all the spices. Add the ice water and mix until it gets sticky and binds together."
+      },
+      {
+        "title": "Stuff",
+        "body": "Stuff into hog casings, twist into 6-inch links. Don't overstuff or they'll burst."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 180-200°F until they hit 155°F internal, about 2-3 hours. Or grill them over medium heat."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest 10 minutes before cutting in."
+      }
+    ],
+    "proTips": [
+      "Drain that pineapple GOOD. Squeeze it in a towel if you have to. Too much juice and the sausage won't bind.",
+      "The pork butt's non-negotiable — straight venison bratwurst comes out dry as a bone.",
+      "Or use your favorite sausage seasoning — it's not set in stone."
+    ],
+    "milestones": []
   }
 ]
