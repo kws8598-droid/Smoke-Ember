@@ -7770,5 +7770,122 @@
       }
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-cherry-bbq-sauce",
+    "title": "Ember Cherry BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.5
+    },
+    "servings": "Makes ~2 cups",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A sweet-tart Ember sauce built on real dark cherries — glossy, rich, and made for pork, chicken, and smoked meatloaf.",
+    "story": "Cherries and smoke are a natural pair. This sauce cooks fresh or frozen dark cherries down into a ketchup-based BBQ sauce with brown sugar, molasses, and a butter finish. Blend it smooth or leave it a little chunky — either way it shines on ribs and pulled pork.",
+    "school": "Backyard",
+    "image": "/images/ember-cherry-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "2 cups fresh or frozen dark sweet cherries, pitted",
+          "1 cup ketchup",
+          "⅓ cup brown sugar, packed",
+          "¼ cup apple cider vinegar",
+          "2 Tbsp molasses",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "½ tsp black pepper",
+          "¼ tsp cayenne",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Break down the cherries",
+        "body": "Simmer the cherries in a saucepan over medium heat until they soften and break down, about 10 minutes. Mash with a spoon."
+      },
+      {
+        "title": "Build the sauce",
+        "body": "Stir in everything except the butter. Simmer 15–20 minutes, stirring now and then, until thickened."
+      },
+      {
+        "title": "Blend",
+        "body": "Blend smooth with an immersion blender — or leave it a little chunky if you like texture."
+      },
+      {
+        "title": "Butter finish",
+        "body": "Stir in the butter off the heat. Cool and jar. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
+  },
+  {
+    "slug": "ember-cranberry-bbq-sauce",
+    "title": "Ember Cranberry BBQ Sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0,
+      "max": 0.5
+    },
+    "servings": "Makes ~2 cups",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A sweet-tart Ember sauce built on real cranberries with orange zest — thin, glossy, and made for the holidays. Turkey's best friend.",
+    "story": "Cranberries want to be a BBQ sauce — they're already tart, already red, already built for a glaze. This one gets extra brown sugar to tame the tartness, orange zest for brightness, and a butter finish. Thin enough to brush, bold enough to stand up to smoked turkey and pork.",
+    "school": "Backyard",
+    "image": "/images/ember-cranberry-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "2 cups fresh or frozen cranberries",
+          "1 cup ketchup",
+          "½ cup brown sugar, packed",
+          "2 Tbsp apple cider vinegar",
+          "2 Tbsp molasses",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "½ tsp onion powder",
+          "½ tsp black pepper",
+          "¼ tsp cayenne",
+          "Zest of 1 orange",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pop the cranberries",
+        "body": "Simmer the cranberries in a saucepan over medium heat until they pop and break down, about 10 minutes."
+      },
+      {
+        "title": "Build the sauce",
+        "body": "Stir in everything except the butter. Simmer 15–20 minutes, stirring now and then, until thickened."
+      },
+      {
+        "title": "Blend",
+        "body": "Blend smooth with an immersion blender — or leave it a little chunky if you like texture."
+      },
+      {
+        "title": "Butter finish",
+        "body": "Stir in the butter off the heat. Cool and jar. Keeps 2 weeks in the fridge."
+      }
+    ],
+    "proTips": [],
+    "milestones": []
   }
 ]
