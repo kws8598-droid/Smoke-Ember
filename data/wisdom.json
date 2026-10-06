@@ -228,5 +228,30 @@
     "takeaways": [
       "Injection is the fastest way to guarantee juicy meat — warm liquid, grid pattern, don't flood it."
     ]
+  },
+  {
+    "slug": "trust-your-thermometer",
+    "title": "A good thermometer changes the way you cook",
+    "kicker": "Gear",
+    "summary": "Stop cooking to time and start cooking to temperature. A leave-in probe watches the meat while you live your life; an instant-read tells the truth in seconds.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "Time lies. Every brisket, butt, and bird cooks different — the thermometer doesn't guess, it knows. Cook to the number, not the clock, and a good thermometer comes in handy in ways that change a lot about the way you cook."
+      },
+      {
+        "heading": "Leave a probe in and live your life",
+        "text": "A leave-in probe like an Inkbird sits in the meat the whole cook and beams the temp to your phone. No more opening the lid and dumping heat just to check."
+      },
+      {
+        "heading": "Settle it in two seconds",
+        "text": "An instant-read like a ThermoWorks Thermapen ends arguments fast — spot-check five places on a brisket and know exactly where it stands."
+      }
+    ],
+    "takeaways": [
+      "If you're not temping, you're guessing.",
+      "A good thermometer improves your barbecue more than any fancy gadget."
+    ]
   }
 ]
