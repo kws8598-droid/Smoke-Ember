@@ -11,7 +11,9 @@ export default function InstallBanner() {
     if (window.matchMedia("(display-mode: standalone)").matches) return;
     if ((window.navigator as any).standalone) return;
     try {
-      if (localStorage.getItem("se-install-dismissed")) return;
+      // A dismissal lasts 30 days, then the banner comes back.
+      const dismissedAt = parseInt(localStorage.getItem("se-install-dismissed-at") || "0", 10);
+      if (dismissedAt && Date.now() - dismissedAt < 30 * 24 * 60 * 60 * 1000) return;
     } catch {}
     const onPrompt = (e: Event) => {
       e.preventDefault();
@@ -27,7 +29,7 @@ export default function InstallBanner() {
 
   const dismiss = () => {
     try {
-      localStorage.setItem("se-install-dismissed", "1");
+      localStorage.setItem("se-install-dismissed-at", String(Date.now()));
     } catch {}
     setVisible(false);
   };
