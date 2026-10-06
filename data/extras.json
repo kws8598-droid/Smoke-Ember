@@ -8811,5 +8811,63 @@
       "Dry ice: tongs only, never touch with bare hands, and keep the room ventilated."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-spiced-apple-punch",
+    "title": "Ember Spiced Apple Punch (Warm or Cold)",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 3
+    },
+    "servings": "Serves 12–15",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "Good apple juice — not cider — simmered with cinnamon, cloves, star anise, orange, and ginger. Warm from the slow cooker or ice-cold over Sprite.",
+    "story": "The app already has a smoked hot apple cider, so this one goes a different direction: quality apple juice instead of cider, which comes out clearer and lets the spices shine. Make it steaming in the slow cooker for a cold night, or chill it and pour it over ice with Sprite or ginger ale when it's warm out. The grown-ups get moonshine — apple pie moonshine in the warm cup, regular in the cold one.",
+    "school": "Backyard",
+    "image": "/images/ember-spiced-apple-punch.jpg",
+    "ingredients": [
+      {
+        "group": "The punch",
+        "items": [
+          "1 gallon quality apple juice (not from concentrate if you can find it)",
+          "4 cinnamon sticks",
+          "1 Tbsp whole cloves",
+          "3 star anise",
+          "1 orange, sliced",
+          "A few slices fresh ginger",
+          "½ cup brown sugar",
+          "Sprite or ginger ale, for the cold version",
+          "Apple pie moonshine or regular moonshine, for the adults"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Combine",
+        "body": "Combine the apple juice, brown sugar, cinnamon sticks, cloves, star anise, orange slices, and ginger in a slow cooker or large pot."
+      },
+      {
+        "title": "Warm version",
+        "body": "Slow cooker on low 2–3 hours until steaming and spiced through. Ladle into mugs."
+      },
+      {
+        "title": "Cold version",
+        "body": "Simmer 20 minutes on the stove, chill, then serve over ice topped with Sprite or ginger ale."
+      },
+      {
+        "title": "Adults",
+        "body": "Splash of apple pie moonshine in the warm cup, regular moonshine in the cold one."
+      }
+    ],
+    "proTips": [
+      "Not-from-concentrate juice makes a real difference here.",
+      "Fish out the whole cloves before serving if kids are drinking it."
+    ],
+    "milestones": []
   }
 ]
