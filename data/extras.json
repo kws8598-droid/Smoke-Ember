@@ -8565,5 +8565,195 @@
         "body": "Toss the hot wings in the hot honey. Finish with flaky salt. Serve right away."
       }
     ]
+  },
+  {
+    "slug": "ember-pulled-pork-nachos",
+    "title": "Ember Pulled Pork Nachos",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "Serves 4–6",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "Loaded nachos piled with pulled pork, melted cheese, BBQ drizzle, and jalapeños — the ultimate leftover play.",
+    "story": "Pulled pork nachos are the reason to smoke an extra butt. Chips, pork, cheese, heat — layer it right and every chip is a loaded one. The trick is two layers of chips and cheese so nothing's naked.",
+    "school": "Backyard",
+    "image": "/images/ember-pulled-pork-nachos.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The nachos",
+        "items": [
+          "1 large bag tortilla chips",
+          "2 cups pulled pork, warmed",
+          "2 cups shredded cheddar",
+          "1 cup shredded pepper jack",
+          "½ cup BBQ sauce, plus more for drizzling",
+          "¼ cup pickled jalapeños",
+          "¼ red onion, diced",
+          "2 Tbsp fresh cilantro, chopped"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Layer",
+        "body": "On a sheet pan, layer half the chips, half the pork, and half the cheeses. Repeat."
+      },
+      {
+        "title": "Bake",
+        "body": "Bake at 400°F for 10–12 minutes until the cheese is melted and bubbly."
+      },
+      {
+        "title": "Top",
+        "body": "Drizzle with BBQ sauce and top with jalapeños, red onion, and cilantro. Serve right away."
+      }
+    ]
+  },
+  {
+    "slug": "ember-barbecue-sundaes",
+    "title": "Ember Barbecue Sundaes",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "Makes 4 sundaes",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "The Memphis classic: baked beans, pulled pork, and coleslaw layered in a cup with BBQ sauce on top.",
+    "story": "The BBQ sundae was born at Memphis in May — beans on the bottom, pork in the middle, slaw on top, sauce over everything. Served in a clear cup so you see the layers. It's a whole plate of barbecue you can eat with a spoon.",
+    "school": "Backyard",
+    "image": "/images/ember-barbecue-sundaes.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "Per sundae",
+        "items": [
+          "½ cup baked beans, warmed",
+          "1 cup pulled pork, warmed",
+          "½ cup coleslaw",
+          "2 Tbsp BBQ sauce"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Layer",
+        "body": "In a clear cup or jar, layer beans on the bottom, pulled pork in the middle, and coleslaw on top."
+      },
+      {
+        "title": "Sauce",
+        "body": "Drizzle BBQ sauce over the top. Hand them a spoon and stand back."
+      }
+    ]
+  },
+  {
+    "slug": "ember-pulled-pork-baked-potatoes",
+    "title": "Ember Pulled Pork Baked Potatoes",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "Serves 4",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "Giant baked potatoes stuffed with pulled pork, melted cheddar, BBQ sauce, sour cream, and green onions.",
+    "story": "A baked potato is just a delivery vehicle, and pulled pork is the best cargo. Bake the potatoes until the skins crisp, fluff the insides, and load them up. This is a full meal in a potato.",
+    "school": "Backyard",
+    "image": "/images/ember-pulled-pork-baked-potatoes.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The potatoes",
+        "items": [
+          "4 large russet potatoes",
+          "2 cups pulled pork, warmed",
+          "1 cup shredded cheddar",
+          "½ cup BBQ sauce",
+          "½ cup sour cream",
+          "2 green onions, sliced",
+          "Butter and salt for the potatoes"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Bake",
+        "body": "Rub potatoes with oil and salt. Bake at 400°F for 50–60 minutes until tender."
+      },
+      {
+        "title": "Stuff",
+        "body": "Split open, fluff with a fork, add butter. Pile on pulled pork and cheddar."
+      },
+      {
+        "title": "Top",
+        "body": "Drizzle with BBQ sauce, dollop sour cream, and sprinkle green onions."
+      }
+    ]
+  },
+  {
+    "slug": "ember-redneck-egg-rolls",
+    "title": "Ember Redneck Egg Rolls",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "Makes 8 egg rolls",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "Crispy egg rolls stuffed with pulled pork, melty cheddar, and coleslaw — BBQ joint meets Chinese takeout, and it works.",
+    "story": "Redneck egg rolls are a BBQ joint staple: pulled pork and slaw rolled up in an egg roll wrapper and fried golden. Crunchy outside, smoky and tangy inside. Dunk them in BBQ sauce.",
+    "school": "Backyard",
+    "image": "/images/ember-redneck-egg-rolls.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The egg rolls",
+        "items": [
+          "2 cups pulled pork",
+          "1 cup coleslaw (dressed)",
+          "1 cup shredded cheddar",
+          "8 egg roll wrappers",
+          "1 egg, beaten (for sealing)",
+          "Oil for frying",
+          "BBQ sauce for dipping"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Fill",
+        "body": "Lay out a wrapper. Add ¼ cup pulled pork, 2 tablespoons coleslaw, and a pinch of shredded cheddar. Roll tight, sealing the edge with beaten egg."
+      },
+      {
+        "title": "Fry",
+        "body": "Fry in 350°F oil for 3–4 minutes, turning once, until deep golden. Drain on a rack."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve hot with BBQ sauce for dipping."
+      }
+    ]
   }
 ]
