@@ -8296,5 +8296,274 @@
     ],
     "proTips": [],
     "milestones": []
+  },
+  {
+    "slug": "ember-garlic-parmesan-wings",
+    "title": "Ember Garlic Parmesan Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 4–6",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F internal",
+    "summary": "Smoked wings tossed in garlic butter and showered with parmesan — rich, savory, and dangerously easy to eat.",
+    "story": "Garlic parmesan wings are the ones that disappear first at every party. Smoke the wings low for crispy skin and real smoke flavor, then toss them in garlic butter while they're hot so the parmesan melts right on.",
+    "school": "Backyard",
+    "image": "/images/ember-garlic-parmesan-wings.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "2 Tbsp Ember House Rub (or salt, pepper, garlic powder)"
+        ]
+      },
+      {
+        "group": "The toss",
+        "items": [
+          "4 Tbsp butter, melted",
+          "4 cloves garlic, minced",
+          "½ cup grated parmesan",
+          "2 Tbsp fresh parsley, chopped"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season and smoke",
+        "body": "Season the wings and smoke at 275°F for about 1.5 hours, until 175°F internal and the skin is crisp."
+      },
+      {
+        "title": "Toss",
+        "body": "Toss the hot wings in melted butter and garlic, then shower with parmesan and parsley. Serve right away."
+      }
+    ]
+  },
+  {
+    "slug": "ember-buffalo-wings",
+    "title": "Ember Buffalo Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 4–6",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F internal",
+    "summary": "Smoked wings tossed in classic buffalo sauce — the game-day standard, with real smoke under the heat.",
+    "story": "Buffalo wings don't need reinventing — they need smoke. Cooking them low first renders the fat and crisps the skin, then the hot sauce and butter do the rest. Celery and blue cheese on the side, obviously.",
+    "school": "Backyard",
+    "image": "/images/ember-buffalo-wings.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "2 Tbsp Ember House Rub (or salt, pepper, garlic powder)"
+        ]
+      },
+      {
+        "group": "The sauce",
+        "items": [
+          "½ cup hot sauce (like Frank's)",
+          "4 Tbsp butter, melted"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Celery sticks",
+          "Blue cheese dressing"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season and smoke",
+        "body": "Season the wings and smoke at 275°F for about 1.5 hours, until 175°F internal and the skin is crisp."
+      },
+      {
+        "title": "Toss",
+        "body": "Whisk the hot sauce and melted butter together. Toss the hot wings in the sauce. Serve with celery and blue cheese."
+      }
+    ]
+  },
+  {
+    "slug": "ember-honey-bbq-wings",
+    "title": "Ember Honey BBQ Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 4–6",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F internal",
+    "summary": "Smoked wings brushed with sticky honey BBQ glaze — sweet, caramelized, and gone in minutes.",
+    "story": "Honey BBQ wings are pure crowd-pleaser. The glaze goes on in the last stretch so the honey caramelizes without burning. Sweet, sticky, smoky — the trifecta.",
+    "school": "Backyard",
+    "image": "/images/ember-honey-bbq-wings.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "2 Tbsp Ember House Rub (or salt, pepper, garlic powder)"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "½ cup ketchup",
+          "⅓ cup honey",
+          "2 Tbsp brown sugar",
+          "1 Tbsp apple cider vinegar",
+          "1 tsp smoked paprika"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season and smoke",
+        "body": "Season the wings and smoke at 275°F for about 1 hour 15 minutes."
+      },
+      {
+        "title": "Glaze",
+        "body": "Whisk the glaze ingredients. Brush over the wings and smoke 20 more minutes, until 175°F internal and caramelized."
+      }
+    ]
+  },
+  {
+    "slug": "ember-asian-sticky-wings",
+    "title": "Ember Asian Sticky Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 4–6",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F internal",
+    "summary": "Smoked wings in a sticky soy-honey glaze with ginger and sesame — sweet, savory, and finger-licking.",
+    "story": "These are the wings that make people ask for the recipe. Soy, honey, garlic, and ginger reduce into a glaze that clings to every wing. Sesame seeds and green onions on top for the full effect.",
+    "school": "Backyard",
+    "image": "/images/ember-asian-sticky-wings.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "1 Tbsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp garlic powder"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "½ cup soy sauce",
+          "½ cup honey",
+          "3 cloves garlic, minced",
+          "1 Tbsp fresh ginger, grated",
+          "1 tsp sesame oil"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1 Tbsp sesame seeds",
+          "2 green onions, sliced"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season and smoke",
+        "body": "Season the wings and smoke at 275°F for about 1.5 hours, until 175°F internal and the skin is crisp."
+      },
+      {
+        "title": "Glaze",
+        "body": "Simmer the glaze ingredients 5 minutes until slightly thickened. Toss the hot wings in the glaze."
+      },
+      {
+        "title": "Finish",
+        "body": "Top with sesame seeds and green onions. Serve right away."
+      }
+    ]
+  },
+  {
+    "slug": "ember-hot-honey-wings",
+    "title": "Ember Hot Honey Wings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 4–6",
+    "wood": "Apple or cherry",
+    "pitTemp": "275°F",
+    "finish": "175°F internal",
+    "summary": "Smoked wings tossed in hot honey — sweet heat that builds. The wing everyone's talking about right now.",
+    "story": "Hot honey is having a moment and wings are the perfect vehicle. Warm the honey with red pepper flakes so the heat blooms, strain it, and toss. Sweet first, heat second — that's the magic.",
+    "school": "Backyard",
+    "image": "/images/ember-hot-honey-wings.jpg",
+    "proTips": [],
+    "milestones": [],
+    "ingredients": [
+      {
+        "group": "The wings",
+        "items": [
+          "3 lbs chicken wings, split",
+          "2 Tbsp Ember House Rub (or salt, pepper, garlic powder)"
+        ]
+      },
+      {
+        "group": "The hot honey",
+        "items": [
+          "¾ cup honey",
+          "1 Tbsp red pepper flakes",
+          "1 tsp apple cider vinegar",
+          "Pinch of flaky salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the hot honey",
+        "body": "Warm the honey with the red pepper flakes over low heat for 5 minutes. Stir in the vinegar, then strain."
+      },
+      {
+        "title": "Season and smoke",
+        "body": "Season the wings and smoke at 275°F for about 1.5 hours, until 175°F internal and the skin is crisp."
+      },
+      {
+        "title": "Toss",
+        "body": "Toss the hot wings in the hot honey. Finish with flaky salt. Serve right away."
+      }
+    ]
   }
 ]
