@@ -8755,5 +8755,61 @@
         "body": "Serve hot with BBQ sauce for dipping."
       }
     ]
+  },
+  {
+    "slug": "ember-halloween-punch",
+    "title": "Ember Witch's Brew Halloween Punch",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "Serves 12–15",
+    "wood": "—",
+    "pitTemp": "—",
+    "finish": "—",
+    "summary": "A blood-red party punch with floating gummy eyeballs and worms, fog rolling off dry ice — the kids go crazy for it.",
+    "story": "Every Halloween party needs a centerpiece, and a smoking punch bowl is the easiest one there is. Cranberry and grape juice make it blood-red, lemon-lime soda keeps it fizzy, and sherbet scoops melt into it like something from a cauldron. The gummy eyeballs are what the kids remember. For the grown-ups: pour your own cup first, then add whatever alcohol you like.",
+    "school": "Backyard",
+    "image": "/images/ember-halloween-punch.jpg",
+    "ingredients": [
+      {
+        "group": "The punch",
+        "items": [
+          "1 gallon cranberry juice cocktail, chilled",
+          "1 (2-liter) bottle lemon-lime soda, chilled",
+          "2 cups grape juice, chilled",
+          "1 pint orange sherbet",
+          "1 bag gummy eyeballs",
+          "1 bag gummy worms",
+          "1–2 lbs dry ice (for fog)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix",
+        "body": "In a large punch bowl, stir together the cranberry juice, grape juice, and lemon-lime soda."
+      },
+      {
+        "title": "Float",
+        "body": "Add scoops of orange sherbet and scatter in the gummy eyeballs and worms."
+      },
+      {
+        "title": "Fog",
+        "body": "Using tongs, add dry ice around the OUTSIDE of the bowl or in a smaller bowl nested inside — never put dry ice directly in cups people drink from. The fog rolls for about 30 minutes; add more as needed."
+      },
+      {
+        "title": "Adults",
+        "body": "Grown-ups can spike their own cups with vodka, rum, or whatever they like."
+      }
+    ],
+    "proTips": [
+      "Chill everything first so the sherbet doesn't melt instantly.",
+      "Dry ice: tongs only, never touch with bare hands, and keep the room ventilated."
+    ],
+    "milestones": []
   }
 ]
