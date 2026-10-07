@@ -8869,5 +8869,146 @@
       "Fish out the whole cloves before serving if kids are drinking it."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-cold-smoked-cheddar",
+    "title": "Ember Cold Smoked Cheddar",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2,
+      "max": 4
+    },
+    "servings": "Makes 1 block",
+    "wood": "—",
+    "pitTemp": "Under 90°F (cold smoke)",
+    "finish": "—",
+    "summary": "Sharp cheddar kissed with apple wood smoke — rested 2 weeks until the smoke sinks in deep.",
+    "story": "Cold smoking cheese is patience, not fire. Keep the chamber under 90 degrees, let apple wood do its work for a few hours, then wrap it up and forget it in the fridge for two weeks. What comes out the other side doesn't taste like the cheese you started with.",
+    "school": "Backyard",
+    "image": "/images/ember-cold-smoked-cheddar.jpg",
+    "ingredients": [
+      {
+        "group": "The cheese",
+        "items": [
+          "1 block sharp cheddar (8 oz or larger)",
+          "Apple, cherry, or pecan pellets for the smoke tube"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Set up cold smoke",
+        "body": "Use a smoke tube filled with pellets, or a pan of ice above your heat source — the goal is smoke with the chamber under 90°F so the cheese never melts."
+      },
+      {
+        "title": "Smoke",
+        "body": "Set the cheddar block on the grate and cold smoke with apple wood for 2–3 hours, keeping the chamber under 90°F."
+      },
+      {
+        "title": "Rest (don't skip)",
+        "body": "Wrap the cheese tight in plastic wrap or vacuum seal and refrigerate for 2 weeks. Fresh off the smoke it tastes harsh — the rest lets the smoke mellow and sink in. This is the step that makes it."
+      }
+    ],
+    "proTips": [
+      "Smoke on a cool day or at night — anything over 90°F and the cheese sweats and melts.",
+      "Don't taste it right off the smoker and judge it. The 2-week rest is everything."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-cold-smoked-pepper-jack",
+    "title": "Ember Cold Smoked Pepper Jack",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2,
+      "max": 4
+    },
+    "servings": "Makes 1 block",
+    "wood": "—",
+    "pitTemp": "Under 90°F (cold smoke)",
+    "finish": "—",
+    "summary": "Pepper jack over cherry wood — the smoke plays off the peppers. Made for burgers.",
+    "story": "Pepper jack already has attitude. Cherry wood smoke on top of it, a two-week rest, and you've got a slicing cheese that makes a burger taste like it came off a competition rig.",
+    "school": "Backyard",
+    "image": "/images/ember-cold-smoked-pepper-jack.jpg",
+    "ingredients": [
+      {
+        "group": "The cheese",
+        "items": [
+          "1 block pepper jack (8 oz or larger)",
+          "Apple, cherry, or pecan pellets for the smoke tube"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Set up cold smoke",
+        "body": "Use a smoke tube filled with pellets, or a pan of ice above your heat source — the goal is smoke with the chamber under 90°F so the cheese never melts."
+      },
+      {
+        "title": "Smoke",
+        "body": "Set the pepper jack block on the grate and cold smoke with cherry wood for 2–3 hours, keeping the chamber under 90°F."
+      },
+      {
+        "title": "Rest (don't skip)",
+        "body": "Wrap the cheese tight in plastic wrap or vacuum seal and refrigerate for 2 weeks. Fresh off the smoke it tastes harsh — the rest lets the smoke mellow and sink in. This is the step that makes it."
+      }
+    ],
+    "proTips": [
+      "Smoke on a cool day or at night — anything over 90°F and the cheese sweats and melts.",
+      "Don't taste it right off the smoker and judge it. The 2-week rest is everything."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-cold-smoked-gouda",
+    "title": "Ember Cold Smoked Gouda",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2,
+      "max": 4
+    },
+    "servings": "Makes 1 block",
+    "wood": "—",
+    "pitTemp": "Under 90°F (cold smoke)",
+    "finish": "—",
+    "summary": "A gouda wheel over pecan or apple smoke — creamy inside, deep amber outside.",
+    "story": "Gouda's the sleeper pick for smoking. It's already buttery and smooth, and a few hours of pecan or apple smoke plus the two-week rest turns it into the cheese plate centerpiece.",
+    "school": "Backyard",
+    "image": "/images/ember-cold-smoked-gouda.jpg",
+    "ingredients": [
+      {
+        "group": "The cheese",
+        "items": [
+          "1 small gouda wheel or block",
+          "Apple, cherry, or pecan pellets for the smoke tube"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Set up cold smoke",
+        "body": "Use a smoke tube filled with pellets, or a pan of ice above your heat source — the goal is smoke with the chamber under 90°F so the cheese never melts."
+      },
+      {
+        "title": "Smoke",
+        "body": "Set the gouda on the grate and cold smoke with pecan or apple wood for 2–4 hours, keeping the chamber under 90°F."
+      },
+      {
+        "title": "Rest (don't skip)",
+        "body": "Wrap the cheese tight in plastic wrap or vacuum seal and refrigerate for 2 weeks. Fresh off the smoke it tastes harsh — the rest lets the smoke mellow and sink in. This is the step that makes it."
+      }
+    ],
+    "proTips": [
+      "Smoke on a cool day or at night — anything over 90°F and the cheese sweats and melts.",
+      "Don't taste it right off the smoker and judge it. The 2-week rest is everything."
+    ],
+    "milestones": []
   }
 ]
