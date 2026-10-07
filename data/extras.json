@@ -9066,5 +9066,114 @@
       "Don't over-smoke. 45 minutes max; you're seasoning, not barbecuing."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-beef-short-ribs",
+    "title": "Ember Smoked Beef Short Ribs",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "medium",
+    "hours": {
+      "min": 8,
+      "max": 10
+    },
+    "servings": "Serves 4–6",
+    "wood": "Oak or hickory",
+    "pitTemp": "250°F",
+    "finish": "Probe-tender, ~203–208°F",
+    "summary": "Three-bone plate ribs rubbed with Ember House Rub, smoked low until the bark's black and the meat probes like butter.",
+    "story": "Beef short ribs are brisket on a stick — same rich beef, same low-and-slow patience, but on the bone. Get the big 3-bone plate ribs (the dino bones), not the little chuck ones. Rub them heavy, smoke them low over oak, and don't rush the wrap. When the probe slides in like warm butter, they're done.",
+    "school": "Texas",
+    "image": "/images/ember-beef-short-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "The ribs",
+        "items": [
+          "1 rack 3-bone plate short ribs, trimmed of hard fat and silver skin",
+          "Ember House Rub (or coarse salt, black pepper, and garlic powder)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Rub",
+        "body": "Coat the ribs generously on all sides with Ember House Rub. Rest 30 minutes while the pit comes up."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over oak or hickory, bone-side down, for 8–10 hours."
+      },
+      {
+        "title": "Wrap",
+        "body": "Once the bark is dark and set (around 165–170°F internal), wrap in butcher paper."
+      },
+      {
+        "title": "Finish",
+        "body": "Pull when probe-tender — the probe slides in with no resistance, usually 203–208°F. Rest 1 hour before slicing between the bones."
+      }
+    ],
+    "proTips": [
+      "Plate ribs, not chuck ribs — the 3-bone plate is twice as thick and twice as good.",
+      "Don't slice hot. The rest lets the juices settle back in."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-smoked-au-gratin-potatoes",
+    "title": "Ember Smoked Au Gratin Potatoes",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 1.5
+    },
+    "servings": "Serves 8",
+    "wood": "Apple or hickory",
+    "pitTemp": "350°F",
+    "finish": "Golden top, knife-tender",
+    "summary": "Thin-sliced potatoes layered with cream, garlic, and cheddar in a cast iron skillet — finished on the smoker.",
+    "story": "Au gratin is already comfort food royalty. Put the skillet on the smoker instead of the oven and the whole thing picks up a kiss of wood smoke that makes people ask what your secret is. Slice the potatoes thin and even — that's the whole trick. Everything else is just layering and patience.",
+    "school": "Backyard",
+    "image": "/images/ember-smoked-au-gratin-potatoes.jpg",
+    "ingredients": [
+      {
+        "group": "The potatoes",
+        "items": [
+          "3 lbs russet or Yukon Gold potatoes, peeled and sliced ⅛-inch thick",
+          "2 cups heavy cream",
+          "1 cup whole milk",
+          "3 cloves garlic, minced",
+          "1 tsp salt",
+          "½ tsp black pepper",
+          "2 cups shredded sharp cheddar, divided",
+          "1 Tbsp butter, for the skillet",
+          "Fresh thyme leaves, for the top"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep",
+        "body": "Butter a 12-inch cast iron skillet. Warm the cream, milk, garlic, salt, and pepper in a saucepan until steaming — don't boil."
+      },
+      {
+        "title": "Layer",
+        "body": "Fan a layer of potato slices in the skillet, pour over some warm cream, sprinkle cheddar. Repeat until everything's used, ending with cream."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 350°F for about 90 minutes, uncovered, until the top is golden brown and a knife slides through the center with no resistance."
+      },
+      {
+        "title": "Finish",
+        "body": "Top with the remaining cheddar and thyme, give it 10 more minutes to melt, then rest 15 minutes before serving."
+      }
+    ],
+    "proTips": [
+      "Slice thin and even — a mandoline earns its keep here. Thick slices won't cook through.",
+      "Yukon Golds hold their shape better than russets if you like distinct layers."
+    ],
+    "milestones": []
   }
 ]
