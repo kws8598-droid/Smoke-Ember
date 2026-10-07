@@ -9010,5 +9010,61 @@
       "Don't taste it right off the smoker and judge it. The 2-week rest is everything."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-smoked-stone-crab",
+    "title": "Ember Smoked Stone Crab Claws",
+    "region": "florida",
+    "protein": "fish",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "Serves 4",
+    "wood": "Alder or apple (mild only)",
+    "pitTemp": "180–200°F",
+    "finish": "—",
+    "summary": "Florida's crown jewel kissed with light smoke — served chilled with classic mustard sauce.",
+    "story": "Stone crab claws come pre-cooked from the dock, so this isn't a long cook — it's a gentle warm smoke that lays flavor on without touching the delicate meat. Mild wood only; hickory would bulldoze it. Season opens October 15, and the first claws of the season are the sweetest.",
+    "school": "Florida",
+    "image": "/images/ember-smoked-stone-crab.jpg",
+    "ingredients": [
+      {
+        "group": "The claws",
+        "items": [
+          "2 lbs stone crab claws",
+          "Old Bay or your favorite seafood seasoning, light dusting"
+        ]
+      },
+      {
+        "group": "Mustard sauce",
+        "items": [
+          "½ cup mayo",
+          "2 Tbsp Dijon mustard",
+          "1 Tbsp yellow mustard",
+          "Squeeze of lemon"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "body": "Dust the claws lightly with Old Bay or seafood seasoning."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 180–200°F for 30–45 minutes over alder or apple wood. You're warming and flavoring, not cooking — the claws are already cooked."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Chill the claws, crack, and serve with mustard sauce (stir mayo, mustards, and lemon together)."
+      }
+    ],
+    "proTips": [
+      "Keep the wood mild — stone crab is sweet and delicate, strong smoke ruins it.",
+      "Don't over-smoke. 45 minutes max; you're seasoning, not barbecuing."
+    ],
+    "milestones": []
   }
 ]
