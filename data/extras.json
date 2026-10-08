@@ -9976,5 +9976,77 @@
       "Seeds out = family friendly. Seeds in = wake-up call."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-thors-hammer",
+    "title": "Ember Thor's Hammer",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "hard",
+    "hours": {
+      "min": 9,
+      "max": 11
+    },
+    "servings": "Serves 6–8",
+    "wood": "Oak or hickory",
+    "pitTemp": "250°F",
+    "finish": "Probe-tender, 203–205°F",
+    "summary": "A whole beef shank smoked like a brisket — deep bark, shreddable meat, and marrow in the bone.",
+    "story": "Thor's hammer is a whole beef fore shank with the bone frenched clean so it looks like a hammer handle. It's all over social media for the drama, but it's a legitimately great eat — the shank is loaded with collagen that turns silky over a long, slow smoke. All savory here: heavy black pepper, garlic, and beef tallow. No sweet stuff.",
+    "school": "Backyard",
+    "image": "/images/ember-thors-hammer.jpg",
+    "ingredients": [
+      {
+        "group": "The shank",
+        "items": [
+          "1 whole beef fore shank, 3–5 lbs, bone frenched clean",
+          "Yellow mustard, as a binder",
+          "¼ cup coarse black pepper",
+          "2 Tbsp kosher salt",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 tsp smoked paprika"
+        ]
+      },
+      {
+        "group": "Spritz and wrap",
+        "items": [
+          "1 cup beef broth",
+          "2 Tbsp Worcestershire sauce",
+          "2 Tbsp beef tallow, for the wrap"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season heavy",
+        "body": "Coat the shank in a thin layer of mustard, then season aggressively on all sides. A 4-pound hunk of meat can take the full rub — don't be shy."
+      },
+      {
+        "title": "Smoke",
+        "body": "250°F over oak or hickory. Spritz with the broth-Worcestershire mix every hour after the first 3 hours."
+      },
+      {
+        "title": "Wrap",
+        "body": "When the bark is set and deep mahogany (around 165°F internal), wrap in butcher paper with the beef tallow."
+      },
+      {
+        "title": "Cook to tender",
+        "body": "Go to probe-tender, 203–205°F — the probe should slide in like butter. Plan on 8–10 hours total. If it's tough, it needs more time, not more heat."
+      },
+      {
+        "title": "Rest",
+        "body": "Rest wrapped in a cooler at least 1 hour."
+      },
+      {
+        "title": "Shred and serve",
+        "body": "Shred the meat, spoon the marrow out of the bone, and mix it right in. Serve on toasted rolls or over mashed potatoes."
+      }
+    ],
+    "proTips": [
+      "Ask the butcher to french the bone for you — most will do it free.",
+      "The marrow is the cook's treat. Don't let anyone talk you out of it."
+    ],
+    "milestones": []
   }
 ]
