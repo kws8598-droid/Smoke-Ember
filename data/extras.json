@@ -9479,5 +9479,312 @@
       "Apple cider vinegar is the classic; white vinegar works but tastes sharper."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-shoofly-pie",
+    "title": "Ember Shoofly Pie",
+    "region": "amish",
+    "protein": "desserts",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1,
+      "max": 1
+    },
+    "servings": "Serves 8",
+    "wood": "—",
+    "pitTemp": "350°F",
+    "finish": "Set, crumb topping golden",
+    "summary": "Dark molasses custard under a brown-sugar crumb top — the most iconic Amish dessert there is.",
+    "story": "Shoofly pie is Pennsylvania Dutch country on a plate, and the Amish settlements in Kentucky carry the tradition too. Gooey molasses on the bottom, cake-like crumbs on top. Kelly's made this one before, so it had to be right.",
+    "school": "Amish Country",
+    "image": "/images/ember-shoofly-pie.jpg",
+    "ingredients": [
+      {
+        "group": "Crumb topping",
+        "items": [
+          "2 cups flour",
+          "1 cup brown sugar",
+          "½ cup butter, cold and cubed"
+        ]
+      },
+      {
+        "group": "Molasses filling",
+        "items": [
+          "1 cup molasses",
+          "1 cup hot water",
+          "1 tsp baking soda",
+          "1 unbaked 9-inch pie crust"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the crumbs",
+        "body": "Cut the butter into the flour and brown sugar until it looks like coarse crumbs. Set aside."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "Stir the baking soda into the hot water, then whisk in the molasses."
+      },
+      {
+        "title": "Assemble",
+        "body": "Pour the molasses mixture into the pie crust. Sprinkle two-thirds of the crumbs over the top, then the rest — the layers settle into gooey and cakey as it bakes."
+      },
+      {
+        "title": "Bake",
+        "body": "Bake at 350°F for 40–45 minutes until the center is just set. Cool completely before slicing."
+      }
+    ],
+    "proTips": [
+      "Don't overbake — the center should tremble slightly; it sets as it cools.",
+      "Serve at room temperature, never warm — the layers need to settle."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-amish-chicken-corn-soup",
+    "title": "Ember Amish Chicken Corn Soup",
+    "region": "amish",
+    "protein": "poultry",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1.5,
+      "max": 2
+    },
+    "servings": "Serves 8",
+    "wood": "—",
+    "pitTemp": "Stovetop",
+    "finish": "Rivels tender, broth golden",
+    "summary": "Golden chicken broth with sweet corn and rivels — the little flour dumplings that make it Amish.",
+    "story": "This is the soup of Pennsylvania Dutch country, ladled at church suppers and family tables. Rivels are nothing but flour, egg, and salt rubbed into little pebbles and dropped in the simmering broth — they puff into tender dumplings. Simple food, deeply comforting.",
+    "school": "Amish Country",
+    "image": "/images/ember-amish-chicken-corn-soup.jpg",
+    "ingredients": [
+      {
+        "group": "The soup",
+        "items": [
+          "1 whole chicken (3–4 lbs)",
+          "10 cups water",
+          "2 cups sweet corn (fresh or frozen)",
+          "1 onion, diced",
+          "2 carrots, diced",
+          "2 celery stalks, diced",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "group": "Rivels",
+        "items": [
+          "1 cup flour",
+          "1 egg",
+          "½ tsp salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the chicken",
+        "body": "Cover the chicken with water, bring to a boil, then simmer 60–90 minutes with the onion, carrots, and celery until the meat falls off the bone."
+      },
+      {
+        "title": "Shred",
+        "body": "Pull the chicken out, shred the meat, and return it to the pot. Season the broth with salt and pepper. Stir in the corn."
+      },
+      {
+        "title": "Make the rivels",
+        "body": "Rub the flour, egg, and salt together with your fingers into pea-sized bits."
+      },
+      {
+        "title": "Drop and finish",
+        "body": "Bring the soup to a lively simmer and drop in the rivels. Cook 10 minutes until they float and turn tender. Serve hot."
+      }
+    ],
+    "proTips": [
+      "Don't skip skimming the broth — clear golden soup starts with a clean pot.",
+      "Rivels should be pea-sized; bigger ones stay doughy in the middle."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-whoopie-pies",
+    "title": "Ember Whoopie Pies",
+    "region": "amish",
+    "protein": "desserts",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "servings": "Makes 12",
+    "wood": "—",
+    "pitTemp": "350°F",
+    "finish": "Cakes springy, filling thick",
+    "summary": "Chocolate cake rounds sandwiched with thick cream filling — Amish-born, everybody-loved.",
+    "story": "The whoopie pie started in Amish kitchens — legend says farmers shouted 'whoopie!' when they found them in their lunch pails. Two soft chocolate cakes, a cloud of vanilla cream between them. Kids lose their minds; adults pretend they're for the kids.",
+    "school": "Amish Country",
+    "image": "/images/ember-whoopie-pies.jpg",
+    "ingredients": [
+      {
+        "group": "Cakes",
+        "items": [
+          "2 cups flour",
+          "½ cup cocoa powder",
+          "1 tsp baking soda",
+          "½ tsp salt",
+          "1 cup sugar",
+          "½ cup butter, softened",
+          "1 egg",
+          "1 cup buttermilk",
+          "1 tsp vanilla"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "½ cup butter, softened",
+          "1 cup powdered sugar",
+          "1 jar (7 oz) marshmallow creme",
+          "1 tsp vanilla"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Bake the cakes",
+        "body": "Mix the dry ingredients. Cream the butter and sugar, beat in the egg and vanilla, then alternate adding dry mix and buttermilk. Drop rounded tablespoons onto lined baking sheets and bake at 350°F for 10–12 minutes."
+      },
+      {
+        "title": "Make the filling",
+        "body": "Beat the butter, powdered sugar, marshmallow creme, and vanilla until fluffy."
+      },
+      {
+        "title": "Assemble",
+        "body": "Sandwich the filling between pairs of cooled cakes. Let them set 30 minutes so they hold together."
+      }
+    ],
+    "proTips": [
+      "Cool the cakes completely or the filling melts out the sides.",
+      "A scoop keeps the cakes even so the pairs match up."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-old-fashioned-potato-salad",
+    "title": "Ember Old-Fashioned Potato Salad",
+    "region": "amish",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "servings": "Serves 8",
+    "wood": "—",
+    "pitTemp": "Stovetop",
+    "finish": "Chilled, paprika-dusted",
+    "summary": "Mustardy, a little sweet, loaded with hard-boiled eggs — the old-fashioned potato salad Kelly grew up on.",
+    "story": "This is the potato salad of church picnics and family reunions — mustard in the dressing, a spoon of sugar, hard-boiled eggs through and through, paprika on top. Kelly's always just called it old-fashioned potato salad, and that's exactly what it is.",
+    "school": "Amish Country",
+    "image": "/images/ember-old-fashioned-potato-salad.jpg",
+    "ingredients": [
+      {
+        "group": "The salad",
+        "items": [
+          "3 lbs potatoes, peeled and cubed",
+          "4 hard-boiled eggs, chopped",
+          "1 cup mayo",
+          "2 Tbsp yellow mustard",
+          "1 Tbsp sugar",
+          "2 Tbsp apple cider vinegar",
+          "½ cup diced celery",
+          "¼ cup diced onion",
+          "Salt, pepper, and paprika"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook the potatoes",
+        "body": "Boil the potatoes in salted water until just tender — 12–15 minutes. Drain and cool."
+      },
+      {
+        "title": "Mix the dressing",
+        "body": "Stir the mayo, mustard, sugar, vinegar, salt, and pepper until smooth."
+      },
+      {
+        "title": "Combine",
+        "body": "Fold the potatoes, eggs, celery, and onion into the dressing. Dust the top with paprika."
+      },
+      {
+        "title": "Chill",
+        "body": "Refrigerate at least 2 hours — overnight is better. The flavors need time to marry."
+      }
+    ],
+    "proTips": [
+      "Dress the potatoes while they're still slightly warm — they soak up more flavor.",
+      "Don't overcook the potatoes or it turns to mush. Just tender."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-kristys-chicken-and-dumplings",
+    "title": "Kristy's Chicken and Dumplings",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "medium",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "Serves 8",
+    "wood": "Apple or hickory (optional)",
+    "pitTemp": "Stovetop",
+    "finish": "Thick peppery broth, tender dumplings",
+    "summary": "Kristy's killer chicken and dumplings — whole chicken, flat dumplings from flour, lard, and milk, and a thick peppery broth.",
+    "story": "This one's Kristy's. Whole chicken simmered down — smoked first if you're feeling it — with flat dumplings made her way: just flour, lard, and milk, rolled and cut in rectangles. No celery, no onions. The broth goes thick and peppery, and that's the whole point.",
+    "school": "Backyard",
+    "image": "/images/ember-kristys-chicken-and-dumplings.jpg",
+    "ingredients": [
+      {
+        "group": "The chicken",
+        "items": [
+          "1 whole chicken (3–4 lbs), smoked first if you like",
+          "10 cups water",
+          "Salt and plenty of black pepper"
+        ]
+      },
+      {
+        "group": "Kristy's dumplings",
+        "items": [
+          "2 cups flour",
+          "⅓ cup lard",
+          "¾ cup milk",
+          "1 tsp salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the chicken",
+        "body": "Cover the chicken with water, bring to a boil, then simmer 60–90 minutes until the meat falls off the bone. Pull the chicken, shred the meat, and return it to the pot. Season boldly with salt and lots of black pepper."
+      },
+      {
+        "title": "Thicken",
+        "body": "Let the broth reduce a little, or mash a spoonful of the chicken against the pot to help it along — Kristy's broth is thick, not thin."
+      },
+      {
+        "title": "Make the dumplings",
+        "body": "Cut the lard into the flour and salt, stir in the milk just until it comes together. Roll thin and cut into rectangles."
+      },
+      {
+        "title": "Drop and finish",
+        "body": "Lay the dumplings on the simmering broth — don't stir for the first 10 minutes or they'll break up. Simmer 15–20 minutes until tender. Serve in deep bowls with plenty of broth."
+      }
+    ],
+    "proTips": [
+      "Smoke the chicken first if you want — it adds a backbone the plain version doesn't have.",
+      "Don't stir early. The dumplings need those first 10 minutes undisturbed to set."
+    ],
+    "milestones": []
   }
 ]
