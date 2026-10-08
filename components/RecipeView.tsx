@@ -5,6 +5,7 @@ import Link from "next/link";
 import CookTimer from "@/components/CookTimer";
 import SaveButton from "@/components/SaveButton";
 import ShareButton from "@/components/ShareButton";
+import GroceryButton from "@/components/GroceryButton";
 import RecipeCard from "@/components/RecipeCard";
 import { difficultyLabel, formatHours, img, regionLabel, related } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -54,6 +55,9 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           <p className="mt-3 text-sm text-subtle">Serves {r.servings}.</p>
           <h2 className="mt-12 font-display text-3xl italic glow-ember">Ingredients</h2>
           <p className="mt-1 text-sm text-subtle">Check them off as you go.</p>
+          <div className="mt-3">
+            <GroceryButton recipeTitle={r.title} items={(r.ingredients ?? []).flatMap((g) => g.items)} />
+          </div>
           {r.ingredients?.map((g, gi) => (
             <div key={`${g.group}-${gi}`} className="mt-6">
               <h3 className="text-xs uppercase tracking-[0.18em] text-ember">{g.group}</h3>
