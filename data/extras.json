@@ -9175,5 +9175,309 @@
       "Yukon Golds hold their shape better than russets if you like distinct layers."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-soup-beans-cornbread",
+    "title": "Ember Soup Beans & Cornbread",
+    "region": "appalachia",
+    "protein": "pork",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2.5,
+      "max": 3
+    },
+    "servings": "Serves 6",
+    "wood": "—",
+    "pitTemp": "Stovetop",
+    "finish": "Creamy beans, golden cornbread",
+    "summary": "Pinto beans simmered low with country ham, onion, and beef stock — plus skillet cornbread for sopping.",
+    "story": "This is the mountain supper. Soup beans aren't fancy and they aren't trying to be — they're creamy, smoky, salty-sweet from the country ham, and they demand cornbread alongside. Kelly's version adds onion and a splash of beef stock to the pot liquor, which is the kind of small thing that makes people ask for the recipe.",
+    "school": "Appalachia",
+    "image": "/images/ember-soup-beans-cornbread.jpg",
+    "ingredients": [
+      {
+        "group": "Soup beans",
+        "items": [
+          "1 lb dried pinto beans, soaked overnight",
+          "1 country ham hock (or 1 cup diced country ham)",
+          "1 onion, diced",
+          "2 cups beef stock",
+          "Water to cover",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "group": "Skillet cornbread",
+        "items": [
+          "2 cups cornmeal",
+          "1 cup flour",
+          "1 Tbsp baking powder",
+          "1 tsp salt",
+          "2 eggs",
+          "1½ cups buttermilk",
+          "¼ cup bacon grease or oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the beans",
+        "body": "Cover the soaked beans, ham hock, onion, and beef stock with water in a heavy pot. Bring to a boil, then drop to a low simmer for 2½–3 hours, until the beans are creamy and the hock is falling apart."
+      },
+      {
+        "title": "Season",
+        "body": "Pull the hock, shred the meat back into the pot, and season with salt and pepper. Country ham is salty — taste before you salt."
+      },
+      {
+        "title": "Bake the cornbread",
+        "body": "Heat bacon grease in a cast iron skillet until smoking. Stir the cornbread batter just until combined, pour into the hot skillet, and bake at 425°F for 20–25 minutes until golden."
+      },
+      {
+        "title": "Serve",
+        "body": "Ladle beans into bowls with plenty of pot liquor. Serve with a wedge of cornbread — crumble it right in if that's how your people do it."
+      }
+    ],
+    "proTips": [
+      "Don't rush the beans — creamy takes time, and the pot liquor is the whole point.",
+      "Save the cornbread batter lumps out; overmixing makes it tough."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-killed-lettuce",
+    "title": "Ember Killed Lettuce",
+    "region": "appalachia",
+    "protein": "sides",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.25,
+      "max": 0.25
+    },
+    "servings": "Serves 4",
+    "wood": "—",
+    "pitTemp": "Stovetop",
+    "finish": "Wilted, glistening, hot",
+    "summary": "Leaf lettuce wilted with screaming-hot bacon grease, topped with crumbled bacon and green onions.",
+    "story": "Killed lettuce — some folks call it wilted lettuce — is mountain cooking at its most honest. You take fresh leaf lettuce, pour hot bacon grease over it until it just slumps, and eat it warm. It sounds strange until you've had it, and then it tastes like somebody's grandma's kitchen.",
+    "school": "Appalachia",
+    "image": "/images/ember-killed-lettuce.jpg",
+    "ingredients": [
+      {
+        "group": "The salad",
+        "items": [
+          "1 large head leaf lettuce (or 2 bunches green onions' worth of tender greens), torn",
+          "4 green onions, sliced",
+          "6 slices bacon",
+          "1 Tbsp apple cider vinegar",
+          "Salt and black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Crisp the bacon",
+        "body": "Cook the bacon in a skillet until crisp. Pull it out and crumble it, but leave every drop of grease in the pan."
+      },
+      {
+        "title": "Heat the grease",
+        "body": "Get the bacon grease smoking hot — it should shimmer. Stir in the vinegar (it'll sizzle) and a pinch of salt and pepper."
+      },
+      {
+        "title": "Kill it",
+        "body": "Put the lettuce and green onions in a big bowl. Pour the hot grease over the top and toss fast — the lettuce should wilt but not cook down to nothing."
+      },
+      {
+        "title": "Serve",
+        "body": "Top with the crumbled bacon and eat it immediately, while it's still warm."
+      }
+    ],
+    "proTips": [
+      "The grease has to be HOT — lukewarm grease just makes greasy salad.",
+      "Use tender leaf lettuce, not iceberg. It needs to wilt, not crunch."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-appalachian-stack-cake",
+    "title": "Ember Appalachian Stack Cake",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "medium",
+    "hours": {
+      "min": 1,
+      "max": 1
+    },
+    "servings": "Serves 12",
+    "wood": "—",
+    "pitTemp": "350°F",
+    "finish": "Rested overnight",
+    "summary": "Thin molasses cake layers stacked with glazed dried-apple filling — rested overnight so it all melds.",
+    "story": "The stack cake is the mountain celebration cake. Tradition says neighbors each brought a layer to a gathering and the host stacked them with apple filling between — the more layers, the more loved you were. The secret is the overnight rest: the filling soaks into the cake and the whole thing turns into something no single layer could be.",
+    "school": "Appalachia",
+    "image": "/images/ember-appalachian-stack-cake.jpg",
+    "ingredients": [
+      {
+        "group": "Cake layers",
+        "items": [
+          "4 cups flour",
+          "1 tsp baking soda",
+          "1 tsp cinnamon",
+          "½ tsp cloves",
+          "½ tsp salt",
+          "1 cup sorghum molasses (or regular molasses)",
+          "½ cup butter, softened",
+          "2 eggs",
+          "1 cup buttermilk"
+        ]
+      },
+      {
+        "group": "Apple filling",
+        "items": [
+          "2 lbs dried apples",
+          "4 cups water",
+          "1 cup sugar",
+          "1 tsp cinnamon",
+          "½ tsp nutmeg"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the filling",
+        "body": "Simmer the dried apples in water until soft, about 30 minutes. Stir in the sugar, cinnamon, and nutmeg and cook until thick and glossy. Cool."
+      },
+      {
+        "title": "Bake the layers",
+        "body": "Mix the dry ingredients. Cream the molasses, butter, and eggs, then alternate adding dry mix and buttermilk. Divide among 5–6 greased 9-inch pans (thin layers!) and bake at 350°F for 12–15 minutes."
+      },
+      {
+        "title": "Stack",
+        "body": "Spread apple filling between every layer while the cake is still slightly warm. Don't frost the top — stack cake wears its layers proud."
+      },
+      {
+        "title": "Rest",
+        "body": "Cover and rest overnight at room temperature. This isn't optional — the filling needs the night to soak in."
+      }
+    ],
+    "proTips": [
+      "Thin layers are the whole game — thick cake layers won't absorb the filling.",
+      "Sorghum molasses is the traditional sweetener if you can find it."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-kentucky-hot-brown",
+    "title": "Ember Kentucky Hot Brown",
+    "region": "appalachia",
+    "protein": "poultry",
+    "difficulty": "medium",
+    "hours": {
+      "min": 0.75,
+      "max": 0.75
+    },
+    "servings": "Serves 4",
+    "wood": "—",
+    "pitTemp": "Broiler",
+    "finish": "Bubbly and golden",
+    "summary": "Toast piled with turkey, drowned in Mornay sauce, topped with tomato and bacon, broiled bubbly. Use smoked turkey and it's a new animal.",
+    "story": "Born at the Brown Hotel in Louisville in 1926, invented for the late-night dance crowd. It's Kentucky's most famous sandwich — open-faced turkey under a blanket of cheese sauce with bacon crossed on top. The Ember twist: use smoked turkey instead of plain roast, and the whole thing picks up a backbone the original never had.",
+    "school": "Appalachia",
+    "image": "/images/ember-kentucky-hot-brown.jpg",
+    "ingredients": [
+      {
+        "group": "Mornay sauce",
+        "items": [
+          "4 Tbsp butter",
+          "4 Tbsp flour",
+          "2 cups milk",
+          "1 cup shredded Parmesan",
+          "½ cup shredded white cheddar",
+          "Pinch of nutmeg",
+          "Salt and white pepper"
+        ]
+      },
+      {
+        "group": "The build",
+        "items": [
+          "4 thick slices toast (Texas toast works)",
+          "1 lb sliced turkey (smoked if you've got it)",
+          "2 tomatoes, sliced",
+          "8 slices bacon, cooked crisp",
+          "Paprika and parsley, to finish"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the Mornay",
+        "body": "Melt the butter, whisk in the flour, and cook 2 minutes. Slowly whisk in the milk and simmer until thick. Off the heat, stir in both cheeses, nutmeg, salt, and white pepper until smooth."
+      },
+      {
+        "title": "Build",
+        "body": "Lay toast in an oven-safe dish. Pile on the turkey, ladle over a generous amount of Mornay, and top with tomato slices."
+      },
+      {
+        "title": "Broil",
+        "body": "Broil 3–5 minutes until the sauce is bubbly and spotted golden. Top with crossed bacon strips, a dusting of paprika, and parsley. Serve immediately."
+      }
+    ],
+    "proTips": [
+      "Smoked turkey is the move — it turns a hotel classic into a barbecue dish.",
+      "Keep the Mornay moving while it simmers or it'll catch on the bottom."
+    ],
+    "milestones": []
+  },
+  {
+    "slug": "ember-vinegar-pie",
+    "title": "Ember Vinegar Pie",
+    "region": "appalachia",
+    "protein": "desserts",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.75,
+      "max": 0.75
+    },
+    "servings": "Serves 8",
+    "wood": "—",
+    "pitTemp": "350°F",
+    "finish": "Set, golden, nutmeg-dusted",
+    "summary": "The Depression-era miracle — a custard pie with no fruit that tastes like lemon chess pie.",
+    "story": "When mountain winters meant no fresh fruit, cooks reached for what they had: vinegar. Apple cider vinegar gives this custard the bright tang of lemon, and nobody believes there's no lemon in it until you show them the recipe. Dust it with nutmeg and serve it proud.",
+    "school": "Appalachia",
+    "image": "/images/ember-vinegar-pie.jpg",
+    "ingredients": [
+      {
+        "group": "The pie",
+        "items": [
+          "1 unbaked 9-inch pie crust",
+          "1½ cups sugar",
+          "3 Tbsp flour",
+          "3 eggs",
+          "¼ cup apple cider vinegar",
+          "½ cup butter, melted",
+          "1 tsp vanilla",
+          "Ground nutmeg, for dusting"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix",
+        "body": "Whisk the sugar and flour, then whisk in the eggs, vinegar, melted butter, and vanilla until smooth."
+      },
+      {
+        "title": "Bake",
+        "body": "Pour into the pie crust and bake at 350°F for 40–45 minutes, until the center is just set with a slight jiggle."
+      },
+      {
+        "title": "Finish",
+        "body": "Cool completely, dust with nutmeg, and slice. Serve at room temperature."
+      }
+    ],
+    "proTips": [
+      "Don't overbake — the center should still tremble slightly when it comes out.",
+      "Apple cider vinegar is the classic; white vinegar works but tastes sharper."
+    ],
+    "milestones": []
   }
 ]
