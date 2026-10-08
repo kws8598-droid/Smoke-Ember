@@ -9901,5 +9901,80 @@
       "The coarse black pepper is non-negotiable. It's what makes it comeback sauce."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-jalapeno-popper-pork-loin-fatty",
+    "title": "Ember Jalapeño Popper Pork Loin Fatty",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "medium",
+    "hours": {
+      "min": 3,
+      "max": 3.5
+    },
+    "servings": "Serves 8–10",
+    "wood": "Apple or hickory",
+    "pitTemp": "250°F",
+    "finish": "145°F internal, glazed",
+    "summary": "A butterflied pork loin stuffed with jalapeño popper filling, rolled tight, wrapped in a bacon weave, and smoked.",
+    "story": "Kelly's fatty isn't the sausage-log kind — it's a whole pork loin cut open and stuffed, the way he's always made it. This one's got a jalapeño popper filling: cream cheese, sharp cheddar, bacon, and jalapeños. The hard part of any stuffed loin is keeping the cheese inside, and the fix is all technique — a clean border, a tight roll, butcher's twine, a bacon weave, and 30 minutes in the freezer before it hits the smoke.",
+    "school": "Backyard",
+    "image": "/images/ember-jalapeno-popper-pork-loin-fatty.jpg",
+    "ingredients": [
+      {
+        "group": "The loin",
+        "items": [
+          "1 whole pork loin (3–4 lbs)",
+          "1 lb bacon, for the weave",
+          "Ember House Rub (or your favorite)",
+          "BBQ sauce, for glazing"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "8 oz cream cheese, softened",
+          "1½ cups shredded sharp cheddar",
+          "3–4 jalapeños, diced (seeds out for mild, in for wild)",
+          "6 slices bacon, cooked and crumbled",
+          "3 green onions, sliced"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Butterfly",
+        "body": "Butterfly the loin lengthwise into an even sheet about ¾ inch thick. Take your time and don't cut through."
+      },
+      {
+        "title": "Stuff",
+        "body": "Spread the cream cheese edge to edge, leaving a 1-inch border all around. Layer on the cheddar, jalapeños, crumbled bacon, and green onions. That border is what seals the roll."
+      },
+      {
+        "title": "Roll and tie",
+        "body": "Roll tight from the long side, tucking as you go. Tie with butcher's twine every 2 inches."
+      },
+      {
+        "title": "Wrap",
+        "body": "Wrap in a bacon weave, seam-side down. Season the outside with rub."
+      },
+      {
+        "title": "Freeze",
+        "body": "Freeze 30 minutes before smoking. Cold cheese melts slower — it sets instead of running out."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over apple or hickory to 145°F internal, about 2½–3 hours. Glaze with BBQ sauce in the last 30 minutes."
+      },
+      {
+        "title": "Rest and slice",
+        "body": "Rest 15 minutes — the cheese firms up as it cools. Cut the twine and slice thick."
+      }
+    ],
+    "proTips": [
+      "The six rules for no melt-out: border, tight roll, twine, bacon weave, freeze before smoking, rest after.",
+      "Seeds out = family friendly. Seeds in = wake-up call."
+    ],
+    "milestones": []
   }
 ]
