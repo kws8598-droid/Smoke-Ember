@@ -10048,5 +10048,74 @@
       "The marrow is the cook's treat. Don't let anyone talk you out of it."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-smoked-mullet-dip",
+    "title": "Ember Smoked Mullet Dip",
+    "region": "florida",
+    "protein": "fish",
+    "difficulty": "medium",
+    "hours": {
+      "min": 5,
+      "max": 7
+    },
+    "servings": "Makes about 3 cups",
+    "wood": "Oak or alder",
+    "pitTemp": "200°F",
+    "finish": "Fish flakes, good color",
+    "summary": "Florida fish-camp classic — smoked mullet folded into a creamy, lemony dip with crackers.",
+    "story": "Smoked fish dip is Florida fish-camp food, and mullet is the traditional fish for it — oily enough to take smoke beautifully. Brine it, smoke it low, flake it, and fold it into cream cheese with lemon and hot sauce. Don't overmix: you want flakes, not paste.",
+    "school": "Florida",
+    "image": "/images/ember-smoked-mullet-dip.jpg",
+    "ingredients": [
+      {
+        "group": "The fish",
+        "items": [
+          "1 lb mullet fillets",
+          "1 quart cold water",
+          "¼ cup kosher salt",
+          "¼ cup brown sugar (for the brine)"
+        ]
+      },
+      {
+        "group": "The dip",
+        "items": [
+          "8 oz cream cheese, softened",
+          "¼ cup mayonnaise",
+          "Juice of 1 lemon",
+          "2 green onions, diced",
+          "1–2 Tbsp hot sauce",
+          "1 tsp Old Bay seasoning",
+          "Black pepper to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Dissolve the salt and brown sugar in the cold water. Brine the fillets 2–4 hours in the fridge."
+      },
+      {
+        "title": "Dry",
+        "body": "Rinse, pat dry, and air-dry 30 minutes so the smoke sticks."
+      },
+      {
+        "title": "Smoke",
+        "body": "200°F over oak or alder, 2–3 hours, until the fish flakes easily and has good color."
+      },
+      {
+        "title": "Mix",
+        "body": "Flake the fish, picking out any bones. Fold into the cream cheese, mayo, lemon, green onions, hot sauce, Old Bay, and pepper. Don't overmix — flakes, not paste."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Chill at least 2 hours. Serve with crackers and lemon wedges."
+      }
+    ],
+    "proTips": [
+      "No mullet? Smoked kingfish or mahi works — but mullet's the real Florida deal.",
+      "The dip is better the next day. Make it ahead if you can."
+    ],
+    "milestones": []
   }
 ]
