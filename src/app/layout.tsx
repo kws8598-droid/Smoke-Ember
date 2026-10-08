@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import PwaRegister from "@/components/PwaRegister";
 import { LiveCatalogProvider } from "@/components/LiveCatalog";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <LiveCatalogProvider>{children}</LiveCatalogProvider>
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
