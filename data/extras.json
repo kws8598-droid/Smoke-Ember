@@ -9846,5 +9846,60 @@
       "Start with 4 peppers. Datils run 100,000–300,000 Scoville — respect them."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-mississippi-comeback-sauce",
+    "title": "Ember Mississippi Comeback Sauce",
+    "region": "mississippi",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.17,
+      "max": 0.17
+    },
+    "servings": "Makes about 1½ cups",
+    "wood": "—",
+    "pitTemp": "No cooking",
+    "finish": "Creamy, peppery, ready to dip",
+    "summary": "The Jackson, Mississippi classic — creamy, peppery, a little tangy. Goes on everything.",
+    "story": "Comeback sauce was born in Jackson, Mississippi, and every table in town has its own version. It's a remoulade-style dipping sauce — creamy, peppery, tangy — and once you try it on fries or fried pickles, you'll understand why they call it comeback. You'll keep coming back for more.",
+    "school": "Mississippi",
+    "image": "/images/ember-mississippi-comeback-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "1 cup mayonnaise",
+          "¼ cup chili sauce (Heinz style)",
+          "2 Tbsp Worcestershire sauce",
+          "1 Tbsp yellow mustard",
+          "1 Tbsp grated onion",
+          "1 clove garlic, minced",
+          "1 tsp coarse black pepper",
+          "1 tsp hot sauce",
+          "½ tsp paprika",
+          "Squeeze of lemon juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Whisk",
+        "body": "Whisk everything together in a bowl until smooth and evenly pink."
+      },
+      {
+        "title": "Chill",
+        "body": "Cover and refrigerate at least 2 hours — the flavors need time to marry. Overnight is even better."
+      },
+      {
+        "title": "Serve",
+        "body": "Dip fries, fried pickles, chicken tenders, or onion rings. Spread it on burgers and po'boys. Keeps about a week in the fridge."
+      }
+    ],
+    "proTips": [
+      "Grate the onion on the fine side of a box grater — you want the juice and pulp, not chunks.",
+      "The coarse black pepper is non-negotiable. It's what makes it comeback sauce."
+    ],
+    "milestones": []
   }
 ]
