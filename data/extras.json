@@ -9786,5 +9786,65 @@
       "Don't stir early. The dumplings need those first 10 minutes undisturbed to set."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-datil-pepper-bbq-sauce",
+    "title": "Ember Datil Pepper BBQ Sauce",
+    "region": "florida",
+    "protein": "sauces",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "servings": "Makes about 3 cups",
+    "wood": "—",
+    "pitTemp": "Stovetop",
+    "finish": "Thick enough to coat a spoon",
+    "summary": "St. Augustine's sweet-heat pepper in a tomato-molasses sauce — habanero heat with a fruity sweetness.",
+    "story": "The datil pepper grows in St. Augustine, Florida, and nowhere else much cares — which is a shame, because it's one of the best hot peppers on earth. Habanero-level heat with a sweet, fruity flavor that plays beautifully with brown sugar and molasses. This is Florida in a jar.",
+    "school": "Florida",
+    "image": "/images/ember-datil-pepper-bbq-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "2 cups tomato sauce",
+          "½ cup brown sugar",
+          "¼ cup molasses",
+          "¼ cup apple cider vinegar",
+          "4–6 fresh datil peppers, minced (start with 4)",
+          "1 small onion, minced",
+          "2 cloves garlic, minced",
+          "1 Tbsp yellow mustard",
+          "1 tsp smoked paprika",
+          "1 tsp salt",
+          "½ tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sweat the aromatics",
+        "body": "Soften the onion, garlic, and datils in a splash of oil over medium heat, 5 minutes. Wear gloves with the datils — they're hot."
+      },
+      {
+        "title": "Simmer",
+        "body": "Add everything else and simmer 30 minutes, stirring now and then, until thick enough to coat a spoon."
+      },
+      {
+        "title": "Blend",
+        "body": "Blend smooth with an immersion blender. Taste and adjust — more datil for heat, more brown sugar for sweet, splash of vinegar to brighten."
+      },
+      {
+        "title": "Jar it",
+        "body": "Cool and refrigerate. Keeps 3–4 weeks. The heat mellows a touch after a day or two."
+      }
+    ],
+    "proTips": [
+      "Can't find fresh datils? Dried datils work — rehydrate in hot water first. Habaneros are the backup, but they're less sweet.",
+      "Start with 4 peppers. Datils run 100,000–300,000 Scoville — respect them."
+    ],
+    "milestones": []
   }
 ]
