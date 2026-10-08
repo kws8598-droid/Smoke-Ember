@@ -10117,5 +10117,72 @@
       "The dip is better the next day. Make it ahead if you can."
     ],
     "milestones": []
+  },
+  {
+    "slug": "ember-candied-brisket-jerky",
+    "title": "Ember Candied Brisket Jerky",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "medium",
+    "hours": {
+      "min": 5,
+      "max": 7
+    },
+    "servings": "Makes about 1 lb",
+    "wood": "Hickory or oak",
+    "pitTemp": "170–180°F",
+    "finish": "Bends and cracks, doesn't break",
+    "summary": "Thin-sliced brisket with a brown sugar–molasses glaze, smoked low until it snaps. Meat candy.",
+    "story": "Candied jerky is having a moment — thin brisket, sweet glaze, crisp snap. The trick is the thin slice and the low temp: too thick and it's chewy, too hot and the sugar burns before it dries. Slice the flat partially frozen and you'll get clean ⅛-inch slices.",
+    "school": "Backyard",
+    "image": "/images/ember-candied-brisket-jerky.jpg",
+    "ingredients": [
+      {
+        "group": "The meat",
+        "items": [
+          "2 lbs brisket flat"
+        ]
+      },
+      {
+        "group": "The candy",
+        "items": [
+          "½ cup brown sugar",
+          "2 Tbsp molasses",
+          "¼ cup soy sauce",
+          "1 Tbsp coarse black pepper",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "½ tsp MSG (optional — it's the secret)",
+          "½ tsp cayenne (optional, for heat)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Slice thin",
+        "body": "Partially freeze the flat for 1 hour, then slice against the grain, ⅛ inch thick. Thin is everything."
+      },
+      {
+        "title": "Marinate",
+        "body": "Whisk everything else into a marinade. Coat the slices and refrigerate 12–24 hours."
+      },
+      {
+        "title": "Smoke low",
+        "body": "Lay slices on wire racks, not touching. Smoke at 170–180°F for 4–6 hours, flipping once, until they bend and crack but don't break."
+      },
+      {
+        "title": "Candy it",
+        "body": "In the last hour, brush with a little brown sugar dissolved in warm water for the candied shell."
+      },
+      {
+        "title": "Cool and store",
+        "body": "Cool completely — they crisp as they cool. Airtight container, 2 weeks."
+      }
+    ],
+    "proTips": [
+      "Too thick = chewy. Too hot = burnt sugar. Thin slices and low temp are the whole game.",
+      "Eye of round works too if brisket flat is pricey — but brisket's the real deal."
+    ],
+    "milestones": []
   }
 ]
