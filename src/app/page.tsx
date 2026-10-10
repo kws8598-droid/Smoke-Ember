@@ -13,6 +13,7 @@ const quotes = [
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 const spookySlugs = ["jack-o-lantern-stuffed-peppers", "halloween-mummy-poppers", "halloween-smoked-pumpkin-pie", "candy-apple-pork-belly", "halloween-mummy-meatloaf", "halloween-bat-wings", "halloween-stuffed-mini-pumpkins", "halloween-smoked-cider", "halloween-pumpkin-spice-rub", "halloween-pumpkin-spice-sauce", "halloween-pumpkin-spice-sweet-potatoes", "halloween-snack-mix", "candy-apple-bbq-chicken", "popcorn-balls", "ember-halloween-punch"];
+const worldSlugs = ["chamorro-bbq-chicken", "argentine-asado", "brazilian-picanha", "jamaican-jerk-chicken", "filipino-lechon-belly", "korean-galbi", "ember-char-siu", "filipino-pork-bbq-skewers", "yakitori", "russian-shashlik", "german-schwenkbraten", "chicken-satay", "tacos-al-pastor", "huli-huli-chicken", "israeli-shishlik", "boerewors"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
@@ -20,6 +21,7 @@ export default function HomePage() {
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   const spooky = spookySlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const world = worldSlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
@@ -81,6 +83,14 @@ export default function HomePage() {
           ))}</div>
         </div>
       </section>
+      {world.length > 0 && (
+        <section className="mx-auto max-w-6xl px-4 py-2">
+          <p className="text-xs uppercase tracking-[0.22em] text-subtle">Around the world</p>
+          <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Barbecue Flavors of the World</h2>
+          <p className="mt-2 max-w-xl text-parchment/85">Everywhere has a barbecue. The greatest hits — Guam to Germany, Japan to Jamaica.</p>
+          <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{world.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+        </section>
+      )}
       <section className="relative border-y border-white/5 bg-bark/85 py-4">
         <div className="mx-auto grid max-w-6xl gap-4 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
