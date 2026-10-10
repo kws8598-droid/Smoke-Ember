@@ -10871,5 +10871,169 @@
     "body": "Serve with lettuce, ssamjang, kimchi, and rice. Wrap a bite of everything and eat it in one go — that's the way."
    }
   ]
+ },
+ {
+  "slug": "filipino-pork-bbq-skewers",
+  "title": "Filipino Pork BBQ Skewers",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.75,
+   "max": 1
+  },
+  "servings": "Serves 6-8",
+  "wood": "Hot charcoal grill",
+  "pitTemp": "Hot grill",
+  "finish": "Charred edges, 145°F+",
+  "summary": "The Philippines' street-corner classic: pork in a sweet banana-ketchup marinade, skewered and grilled over hot coals.",
+  "story": "Walk past any grill in the Philippines and you'll smell these — pork shoulder soaked overnight in banana ketchup, soy, calamansi, and brown sugar, then grilled fast over screaming coals until the edges char and caramelize. Sweet, sticky, smoky. Make extra; they disappear.",
+  "school": "Backyard",
+  "image": "/images/filipino-pork-bbq-skewers.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "3 lbs pork shoulder, sliced thin (about 1/4 inch)"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup banana ketchup",
+     "1/2 cup soy sauce",
+     "1/4 cup calamansi or lemon juice",
+     "1/2 cup brown sugar",
+     "8 cloves garlic, minced",
+     "1 Tbsp black pepper",
+     "1/4 cup lemon-lime soda (optional, but authentic)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade and pour over the pork. Refrigerate overnight — 8 hours minimum for the full sweet-savory soak."
+   },
+   {
+    "title": "Skewer",
+    "body": "Thread the pork onto bamboo skewers (soaked 30 minutes so they don't burn), weaving the slices accordion-style."
+   },
+   {
+    "title": "Grill hot",
+    "body": "Grill over hot charcoal 3-4 minutes per side, basting with the reserved marinade, until charred at the edges and cooked through."
+   }
+  ]
+ },
+ {
+  "slug": "yakitori",
+  "title": "Yakitori (Chicken & Negi Skewers)",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "medium",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Binchotan or hot charcoal",
+  "pitTemp": "Hot grill",
+  "finish": "165°F, lacquered with tare",
+  "summary": "Japan's charcoal-grilled chicken skewers — thigh and negi onion, brushed with sweet-savory tare over blazing coals.",
+  "story": "Yakitori is Japanese barbecue stripped to the essentials: chicken thigh, long green onion, blazing binchotan charcoal, and tare — a syrupy glaze of soy, mirin, sake, and sugar. The trick is brushing the tare on again and again until the skewers shine like lacquer. Salt-and-pepper (shio) is the purist's move; tare is the crowd-pleaser.",
+  "school": "Backyard",
+  "image": "/images/yakitori.jpg",
+  "ingredients": [
+   {
+    "group": "Skewers",
+    "items": [
+     "2 lbs boneless skin-on chicken thighs, cut in 1-inch cubes",
+     "4 stalks negi (long green onion), cut in 1 1/2-inch pieces",
+     "Bamboo skewers, soaked 30 minutes"
+    ]
+   },
+   {
+    "group": "Tare",
+    "items": [
+     "1/2 cup soy sauce",
+     "1/2 cup mirin",
+     "1/4 cup sake",
+     "2 Tbsp sugar"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Make the tare",
+    "body": "Simmer the tare ingredients 10 minutes until slightly syrupy. Set aside — this is liquid gold."
+   },
+   {
+    "title": "Skewer",
+    "body": "Alternate chicken and negi on the skewers, packing them snug."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over the hottest charcoal you've got, turning often and brushing with tare every turn, 8-10 minutes until the chicken hits 165°F and shines."
+   }
+  ]
+ },
+ {
+  "slug": "russian-shashlik",
+  "title": "Russian Shashlik",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "medium",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 6-8",
+  "wood": "Hardwood coals, white-ashed",
+  "pitTemp": "Medium coals, no flame",
+  "finish": "Juicy, 145°F+",
+  "summary": "Russia's iconic pork-neck kebab: onion and vinegar marinade, skewered tight, grilled over gray coals.",
+  "story": "Shashlik is Russia's answer to barbecue — pork neck (the fattiest, juiciest cut) drowned in sliced onion, vinegar, salt, and pepper, then grilled over coals burned down to gray ash. The Soviet-era classic uses nothing fancier than that, and it's perfect. Serve it with pickled onions and don't you dare use a fork.",
+  "school": "Backyard",
+  "image": "/images/russian-shashlik.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "4 lbs pork neck, cut in 2-inch cubes"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "3 large onions, sliced in thick rings",
+     "3 Tbsp white vinegar",
+     "1 cup cold water",
+     "1 Tbsp salt",
+     "2 tsp black pepper",
+     "3 bay leaves"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Pickled red onions",
+     "Fresh dill and parsley"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Squeeze half the onion rings with your hands to release the juice, then mix everything with the pork. Dissolve the vinegar in the water and pour over. Refrigerate 6 hours to overnight — longer is better."
+   },
+   {
+    "title": "Skewer",
+    "body": "Thread the pork tightly onto flat metal skewers, alternating with onion rings. Tight packing keeps the meat juicy."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over coals burned to gray-white ash — no open flame. Turn frequently, 15-20 minutes, sprinkling with water if flames flare. Cut one open to check; serve on the skewer with pickled onions."
+   }
+  ]
  }
 ]
