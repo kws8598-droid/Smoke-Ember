@@ -10744,5 +10744,132 @@
     "body": "Rest 10 minutes. Serve with lime wedges — and warn people about the heat."
    }
   ]
+ },
+ {
+  "slug": "filipino-lechon-belly",
+  "title": "Filipino Lechon Belly Roll",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 3.5,
+   "max": 4.5
+  },
+  "servings": "Serves 8-10",
+  "wood": "Oak or charcoal",
+  "pitTemp": "325°F",
+  "finish": "195°F internal, shattering skin",
+  "summary": "Pork belly rolled with lemongrass and garlic, roasted to crackling — the fiesta centerpiece of the Philippines.",
+  "story": "Lechon is the Philippines' celebration food — whole pig on a spit for fiestas. The belly roll is the home-cook version: same crackling skin, same juicy spiral, stuffed with lemongrass and garlic the way it's done back home. Salt the skin hard, dry it overnight, and don't open the lid to peek.",
+  "school": "Backyard",
+  "image": "/images/filipino-lechon-belly.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "1 pork belly slab, about 5 lbs, skin on"
+    ]
+   },
+   {
+    "group": "Stuffing",
+    "items": [
+     "3 stalks lemongrass, bruised",
+     "1 head garlic, crushed",
+     "2 onions, quartered",
+     "2 Tbsp salt",
+     "1 Tbsp black pepper"
+    ]
+   },
+   {
+    "group": "Spiced vinegar",
+    "items": [
+     "1 cup cane vinegar (or white vinegar)",
+     "4 cloves garlic, minced",
+     "2 chiles, sliced",
+     "Salt to taste"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Stuff and roll",
+    "body": "Butterfly the belly to even thickness. Season the meat side, lay in the lemongrass, garlic, and onion, roll tight, and tie with butcher's twine every 2 inches."
+   },
+   {
+    "title": "Dry the skin",
+    "body": "Salt the skin heavily and refrigerate uncovered overnight. Dry skin is crackling skin — don't skip this."
+   },
+   {
+    "title": "Roast",
+    "body": "Roast at 325°F about 3-4 hours to 195°F internal, until the skin is deep golden and shatters when tapped."
+   },
+   {
+    "title": "Serve",
+    "body": "Rest 20 minutes, slice thick, and serve with the spiced vinegar for dipping."
+   }
+  ]
+ },
+ {
+  "slug": "korean-galbi",
+  "title": "Korean Galbi (Grilled Short Ribs)",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Hot charcoal",
+  "pitTemp": "Hot grill",
+  "finish": "Caramelized edges",
+  "summary": "Flanken-cut short ribs in a sweet-savory soy and Asian pear marinade, grilled hot and fast Korean BBQ-style.",
+  "story": "Galbi is Korea's backyard barbecue: thin-cut short ribs soaked overnight in soy, sugar, garlic, and grated Asian pear — the pear tenderizes and sweetens at once. Then screaming-hot grill, a few minutes a side, wrapped in lettuce with ssamjang and kimchi. Fast, loud, and gone in minutes.",
+  "school": "Backyard",
+  "image": "/images/korean-galbi.jpg",
+  "ingredients": [
+   {
+    "group": "Beef",
+    "items": [
+     "4 lbs beef short ribs, flanken cut 1/2-inch thick"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1 cup soy sauce",
+     "1/2 cup sugar",
+     "1/4 cup grated Asian pear (or kiwi)",
+     "6 cloves garlic, minced",
+     "2 Tbsp sesame oil",
+     "4 green onions, chopped",
+     "1 tsp black pepper",
+     "1/4 cup water"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Lettuce leaves",
+     "Ssamjang",
+     "Kimchi",
+     "Steamed rice"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade, pour over the ribs, and refrigerate overnight — 8 hours minimum."
+   },
+   {
+    "title": "Grill hot",
+    "body": "Grill over screaming-hot charcoal 3-4 minutes per side until caramelized at the edges."
+   },
+   {
+    "title": "Wrap and eat",
+    "body": "Serve with lettuce, ssamjang, kimchi, and rice. Wrap a bite of everything and eat it in one go — that's the way."
+   }
+  ]
  }
 ]
