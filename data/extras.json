@@ -10533,5 +10533,216 @@
     "body": "Stir the salsa ingredients together. Serve the wings dry-rubbed with the green chile salsa for dipping."
    }
   ]
+ },
+ {
+  "slug": "chamorro-bbq-chicken",
+  "title": "Chamorro BBQ Chicken",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.75,
+   "max": 1
+  },
+  "servings": "Serves 6",
+  "wood": "Charcoal grill",
+  "pitTemp": "Medium-high grill",
+  "finish": "165°F internal",
+  "summary": "Guam's backyard classic: chicken marinated overnight in soy, vinegar, lemon, onion, and garlic, grilled hot and basted.",
+  "story": "On Guam, barbecue means this marinade — soy sauce, vinegar, lemon, onion, garlic, black pepper. Every family has its version; the overnight soak is non-negotiable. Hot grill, constant turning, constant basting, until the skin chars at the edges and the inside stays juicy. Serve it with red rice if you're doing it right.",
+  "school": "Backyard",
+  "image": "/images/chamorro-bbq-chicken.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "4 lbs bone-in chicken thighs and legs"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1 cup soy sauce",
+     "1/2 cup white vinegar",
+     "1/4 cup lemon juice",
+     "1 large onion, sliced",
+     "8 cloves garlic, minced",
+     "2 Tbsp coarse black pepper",
+     "1 Tbsp sugar",
+     "2 hot peppers, minced (optional)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade ingredients, pour over the chicken, cover, and refrigerate overnight — at least 8 hours. This is the traditional way; don't shortcut it."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over medium-high heat, turning every few minutes and basting with the marinade, 30-40 minutes until the thickest piece reads 165°F."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 10 minutes before serving. Red rice on the side if you're doing it right."
+   }
+  ]
+ },
+ {
+  "slug": "argentine-asado",
+  "title": "Argentine Asado with Chimichurri",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 2,
+   "max": 3
+  },
+  "servings": "Serves 6-8",
+  "wood": "Oak or hardwood embers",
+  "pitTemp": "Wood embers, medium heat",
+  "finish": "Medium-rare to medium",
+  "summary": "Salt-only beef over wood embers, the Argentine way — with a bright chimichurri to cut the richness.",
+  "story": "Asado isn't a recipe, it's a ritual: beef, coarse salt, wood fire, patience. No rubs, no injections, no sauce on the meat — the flavor comes from the embers and the cut. Chimichurri on the side is the one allowance, and it's non-negotiable. Cook it slow over real wood embers and let the beef speak.",
+  "school": "Backyard",
+  "image": "/images/argentine-asado.jpg",
+  "ingredients": [
+   {
+    "group": "Beef",
+    "items": [
+     "4 lbs beef short ribs (tira de asado) and/or vacio (flap), cut thick",
+     "Coarse salt, generously"
+    ]
+   },
+   {
+    "group": "Chimichurri",
+    "items": [
+     "1 cup flat-leaf parsley, finely chopped",
+     "4 cloves garlic, minced",
+     "2 Tbsp fresh oregano (or 2 tsp dried)",
+     "1/2 tsp red pepper flakes",
+     "1/3 cup red wine vinegar",
+     "3/4 cup olive oil",
+     "1 tsp salt"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Salt the beef",
+    "body": "Salt the beef generously on all sides at least 1 hour before cooking — up to overnight in the fridge."
+   },
+   {
+    "title": "Build embers",
+    "body": "Burn hardwood down to glowing embers. You want steady medium heat, no flames licking the meat."
+   },
+   {
+    "title": "Grill slow",
+    "body": "Grill the beef over the embers, turning occasionally, until deeply crusted outside and medium-rare to medium inside — about 2 hours for thick cuts. Patience is the technique."
+   },
+   {
+    "title": "Chimichurri",
+    "body": "Whisk the chimichurri ingredients together and rest 20 minutes. Slice the beef, salt once more if needed, and serve with chimichurri on the side — never on top before slicing."
+   }
+  ]
+ },
+ {
+  "slug": "brazilian-picanha",
+  "title": "Brazilian Picanha (Churrasco)",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "Serves 6-8",
+  "wood": "Charcoal, hot",
+  "pitTemp": "Hot grill",
+  "finish": "Medium-rare, sliced thin",
+  "summary": "The queen of churrasco: picanha with its fat cap, coarse salt, hot fire, sliced thin off the skewer.",
+  "story": "In Brazil, picanha is sacred — top sirloin cap with a thick layer of fat, seasoned with nothing but coarse rock salt. Skewered in a C, roasted over hot coals, and sliced thin right off the skewer so the fat bastes every bite. If your butcher doesn't know the cut, ask for top sirloin cap with the fat left on.",
+  "school": "Backyard",
+  "image": "/images/brazilian-picanha.jpg",
+  "ingredients": [
+   {
+    "group": "Beef",
+    "items": [
+     "1 whole picanha (top sirloin cap), 3-4 lbs, fat cap intact",
+     "Coarse rock salt, generously"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Prep",
+    "body": "Cut the picanha with the grain into 3 thick steaks. Fold each into a C and skewer through both ends — or skewer the whole roast. Coat heavily in coarse rock salt."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over hot charcoal, turning the skewer, until the fat cap is crisp and golden and the interior is medium-rare, about 45-60 minutes for a whole roast."
+   },
+   {
+    "title": "Slice",
+    "body": "Rest 10 minutes. Slice thin against the grain — right off the skewer at the table if you want the full churrascaria show."
+   }
+  ]
+ },
+ {
+  "slug": "jamaican-jerk-chicken",
+  "title": "Jamaican Jerk Chicken",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "medium",
+  "hours": {
+   "min": 1.5,
+   "max": 2
+  },
+  "servings": "Serves 6",
+  "wood": "Pimento wood or charcoal",
+  "pitTemp": "Medium grill with smoke",
+  "finish": "165°F internal, charred edges",
+  "summary": "The real jerk marinade — scotch bonnet, allspice, thyme — smoked over pimento wood the way Boston Bay does it.",
+  "story": "Real jerk is a marinade, not a dry rub: scotch bonnets for fire, allspice (pimento) for that warm clove-pepper depth, fresh thyme, green onion. Traditionally it smokes slow over pimento wood in a pit in Portland parish. Pimento wood is hard to find stateside — charcoal with allspice berries tossed on the coals gets you close.",
+  "school": "Backyard",
+  "image": "/images/jamaican-jerk-chicken.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "4 lbs bone-in chicken pieces"
+    ]
+   },
+   {
+    "group": "Jerk marinade",
+    "items": [
+     "3-4 scotch bonnet peppers, stemmed",
+     "2 Tbsp ground allspice",
+     "1 Tbsp fresh thyme leaves",
+     "6 green onions, roughly chopped",
+     "4 cloves garlic",
+     "1 Tbsp fresh ginger, grated",
+     "2 Tbsp brown sugar",
+     "1/4 cup soy sauce",
+     "2 Tbsp lime juice",
+     "2 Tbsp oil",
+     "1 Tbsp salt"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Blend the marinade ingredients into a thick paste. Coat the chicken thoroughly, cover, and refrigerate overnight — 12 hours minimum for real jerk flavor."
+   },
+   {
+    "title": "Smoke-grill",
+    "body": "Grill over medium charcoal with a handful of allspice berries (or pimento wood chunks) for smoke. Cook with the lid on, turning occasionally, 60-90 minutes to 165°F internal with charred edges."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 10 minutes. Serve with lime wedges — and warn people about the heat."
+   }
+  ]
  }
 ]
