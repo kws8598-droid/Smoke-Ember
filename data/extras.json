@@ -11035,5 +11035,193 @@
     "body": "Grill over coals burned to gray-white ash — no open flame. Turn frequently, 15-20 minutes, sprinkling with water if flames flare. Cut one open to check; serve on the skewer with pickled onions."
    }
   ]
+ },
+ {
+  "slug": "german-schwenkbraten",
+  "title": "German Schwenkbraten",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4",
+  "wood": "Beechwood or charcoal",
+  "pitTemp": "Medium grill",
+  "finish": "145°F internal",
+  "summary": "Saarland's swinging-grate pork steaks — mustard, onion, and juniper marinade over beechwood fire.",
+  "story": "Yes, the Germans barbecue — and in Saarland they take it seriously. Thick pork neck steaks marinate a full day in mustard, onion, juniper, and paprika, then grill on a swinging grate (the Schwenker) over beechwood embers. Serve it with potato salad, a crusty roll, and a cold beer, the way it's done.",
+  "school": "Backyard",
+  "image": "/images/german-schwenkbraten.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "4 pork neck steaks, about 8 oz each, 1 1/2 inches thick"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup vegetable oil",
+     "2 large onions, sliced",
+     "3 cloves garlic, crushed",
+     "5 juniper berries, crushed",
+     "1 Tbsp German or Dijon mustard",
+     "1 tsp dried thyme",
+     "1 tsp dried oregano",
+     "1 tsp smoked paprika",
+     "1 tsp salt",
+     "1/2 tsp cayenne pepper",
+     "1/2 tsp black pepper"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Rub the pork with the mustard, then mix with all marinade ingredients. Refrigerate 24-48 hours — the long soak is what makes it Schwenkbraten."
+   },
+   {
+    "title": "Grill",
+    "body": "Shake off the excess marinade. Grill over medium beechwood or charcoal embers about 10 minutes per side to 145°F internal, grilling the onion slices alongside."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 5 minutes. Serve with potato salad, crusty rolls, and beer."
+   }
+  ]
+ },
+ {
+  "slug": "chicken-satay",
+  "title": "Chicken Satay with Peanut Sauce",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Hot charcoal grill",
+  "pitTemp": "Hot grill",
+  "finish": "165°F, lightly charred",
+  "summary": "Thai-style turmeric chicken skewers over hot coals, with a rich coconut-peanut dipping sauce.",
+  "story": "Satay is Southeast Asia's great street food — chicken strips in a turmeric-coconut marinade, grilled fast over charcoal, dunked in peanut sauce. The marinade does double duty: color, flavor, and just enough sugar to char at the edges. Don't skimp on the peanut sauce; it's half the dish.",
+  "school": "Backyard",
+  "image": "/images/chicken-satay.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "2 lbs chicken thigh, cut in long strips",
+     "Bamboo skewers, soaked 30 minutes"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup coconut milk",
+     "2 Tbsp red curry paste",
+     "2 Tbsp fish sauce",
+     "2 Tbsp brown sugar",
+     "1 Tbsp oil",
+     "1 tsp turmeric"
+    ]
+   },
+   {
+    "group": "Peanut sauce",
+    "items": [
+     "1/2 cup peanut butter",
+     "1/2 cup coconut milk",
+     "2 Tbsp red curry paste",
+     "2 Tbsp fish sauce",
+     "2 Tbsp brown sugar",
+     "Juice of 1 lime"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Coat the chicken in the marinade and refrigerate at least 2 hours, up to overnight. Thread onto skewers."
+   },
+   {
+    "title": "Make the sauce",
+    "body": "Simmer the peanut sauce ingredients 5 minutes, whisking, until smooth and glossy. Thin with a splash of water if needed."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over hot charcoal 3-4 minutes per side until lightly charred and 165°F inside. Serve with the warm peanut sauce, cucumber, and red onion."
+   }
+  ]
+ },
+ {
+  "slug": "tacos-al-pastor",
+  "title": "Tacos al Pastor",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "Serves 8-10",
+  "wood": "Hot grill or trompo",
+  "pitTemp": "Hot grill",
+  "finish": "Crisped edges, charred pineapple",
+  "summary": "Achiote-marinated pork stacked trompo-style with pineapple on top — the taco that Lebanese immigrants gave Mexico.",
+  "story": "Al pastor is shawarma's Mexican grandchild: Lebanese immigrants brought the vertical spit, Mexico gave it achiote, dried chiles, and pineapple. At home, stack the marinated pork on a vertical skewer (or just grill it hot in batches) with a pineapple on top, shave it thin, and build tacos with charred pineapple, onion, and cilantro.",
+  "school": "Backyard",
+  "image": "/images/tacos-al-pastor.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "3 lbs pork shoulder, sliced thin"
+    ]
+   },
+   {
+    "group": "Adobo",
+    "items": [
+     "3 oz achiote paste",
+     "1/2 cup pineapple juice",
+     "1/4 cup white vinegar",
+     "4 dried guajillo chiles, stemmed, seeded, and soaked",
+     "4 cloves garlic",
+     "1 tsp dried oregano",
+     "1/2 tsp cumin",
+     "1 Tbsp salt"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "1 whole pineapple",
+     "Corn tortillas",
+     "Diced onion and cilantro",
+     "Lime wedges"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Blend the adobo ingredients smooth and coat the pork. Refrigerate overnight — the achiote needs time to work."
+   },
+   {
+    "title": "Stack",
+    "body": "Stack the pork on a vertical skewer set in a halved onion base, crowned with the pineapple (trompo-style). No vertical setup? Just grill the slices hot in batches."
+   },
+   {
+    "title": "Cook",
+    "body": "Roast or grill, turning, until the edges crisp and char — about 45-60 minutes on a trompo, less in batches. Shave thin."
+   },
+   {
+    "title": "Build tacos",
+    "body": "Pile onto warm corn tortillas with charred pineapple chunks, onion, cilantro, and lime."
+   }
+  ]
  }
 ]
