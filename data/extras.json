@@ -10334,5 +10334,204 @@
     "body": "Off the heat, stir in the butter until melted and silky. Cool, bottle, and refrigerate — keeps about 3 weeks."
    }
   ]
+ },
+ {
+  "slug": "hatch-smothered-chicken-thighs",
+  "title": "Hatch Green Chile Smothered Chicken Thighs",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1.5,
+   "max": 2
+  },
+  "servings": "Serves 4-6",
+  "wood": "Oak or hickory",
+  "pitTemp": "275°F",
+  "finish": "165°F internal, smothered",
+  "summary": "Smoked chicken thighs with crispy skin, smothered New Mexico-style in roasted Hatch green chile sauce.",
+  "story": "This is the New Mexico plate: simple salt brine, a chile-cumin rub, and a proper green chile sauce made from roasted Hatch chiles, onion, garlic, and chicken stock. The thighs smoke to crispy-skinned and juicy, then get buried in sauce. Warm tortillas are not optional.",
+  "school": "Backyard",
+  "image": "/images/hatch-smothered-chicken-thighs.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "8 bone-in, skin-on chicken thighs",
+     "4 cups water",
+     "1/4 cup kosher salt"
+    ]
+   },
+   {
+    "group": "Rub",
+    "items": [
+     "2 Tbsp Hatch chile powder",
+     "1 Tbsp ground cumin",
+     "1 tsp Mexican oregano",
+     "1 tsp garlic powder",
+     "1 Tbsp kosher salt"
+    ]
+   },
+   {
+    "group": "Green chile sauce",
+    "items": [
+     "2 cups diced roasted Hatch chiles",
+     "1 onion, diced",
+     "4 cloves garlic, minced",
+     "1 tsp ground cumin",
+     "1/2 tsp Mexican oregano",
+     "2 cups chicken stock",
+     "2 Tbsp oil"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brine",
+    "body": "Dissolve the salt in the water and brine the thighs 2 hours (or overnight in the fridge). Rinse and pat very dry."
+   },
+   {
+    "title": "Rub and smoke",
+    "body": "Coat the thighs in the rub. Smoke at 275°F about 90 minutes, until the skin is crisp and the thickest thigh reads 165°F."
+   },
+   {
+    "title": "Make the sauce",
+    "body": "While the chicken smokes, saute the onion in the oil until soft, add the garlic, chiles, cumin, and oregano, then pour in the stock. Simmer 20 minutes."
+   },
+   {
+    "title": "Smother",
+    "body": "Plate the thighs and ladle the hot green chile sauce over the top. Serve with warm tortillas."
+   }
+  ]
+ },
+ {
+  "slug": "hatch-chile-verde-pulled-pork",
+  "title": "Hatch Chile Verde Pulled Pork",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 10,
+   "max": 12
+  },
+  "servings": "Serves 12-15",
+  "wood": "Oak or hickory",
+  "pitTemp": "250°F",
+  "finish": "Probe-tender near 203°F",
+  "summary": "Pork butt smoked low, then braised in Hatch chile verde until it shreds — built for warm tortillas.",
+  "story": "Chile verde is one of the great braises, and the smoker makes it better. The butt takes on oak smoke for hours first, then finishes swimming in roasted Hatch chiles, tomatillos, and onion until it surrenders. Shred it through the braising juices, hit it with lime and cilantro, and pile it into tortillas.",
+  "school": "Backyard",
+  "image": "/images/hatch-chile-verde-pulled-pork.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "1 pork butt, 8-10 lbs"
+    ]
+   },
+   {
+    "group": "Rub",
+    "items": [
+     "1/4 cup kosher salt",
+     "2 Tbsp black pepper",
+     "2 Tbsp Hatch chile powder",
+     "1 Tbsp ground cumin",
+     "1 tsp Mexican oregano",
+     "1 Tbsp garlic powder"
+    ]
+   },
+   {
+    "group": "Chile verde braise",
+    "items": [
+     "2 cups diced roasted Hatch chiles",
+     "1 lb tomatillos, husked and halved",
+     "1 onion, quartered",
+     "6 cloves garlic",
+     "2 cups chicken broth",
+     "Juice of 2 limes",
+     "Chopped cilantro, to finish"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Rub",
+    "body": "Coat the butt all over in the rub. Rest at room temp while the smoker comes up to 250°F."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke fat-side up at 250°F to about 165°F internal, 6-7 hours, until the bark is set and the color is deep."
+   },
+   {
+    "title": "Braise",
+    "body": "Set the butt in a deep pan with the chiles, tomatillos, onion, garlic, and broth. Cover tight with foil and return to the smoker until probe-tender near 203°F."
+   },
+   {
+    "title": "Shred",
+    "body": "Rest 1 hour, then shred and fold through the chile verde in the pan. Finish with lime juice and cilantro. Serve with warm tortillas."
+   }
+  ]
+ },
+ {
+  "slug": "hatch-lime-wings",
+  "title": "Hatch-Lime Wings with Green Chile Salsa",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1.5,
+   "max": 2
+  },
+  "servings": "Serves 4",
+  "wood": "Hickory or apple",
+  "pitTemp": "250°F, finish hot",
+  "finish": "Crisp skin, chile-dusted",
+  "summary": "Smoked wings in a Hatch chile-lime dry rub, crisped hot and served with green chile salsa for dipping.",
+  "story": "No buffalo sauce here — these wings go the Southwest way. A dry rub of Hatch chile powder, cumin, and lime zest, low smoke, then a blast of heat for crackling skin. The green chile salsa on the side is for dunking, and it will not last long.",
+  "school": "Backyard",
+  "image": "/images/hatch-lime-wings.jpg",
+  "ingredients": [
+   {
+    "group": "Wings",
+    "items": [
+     "3 lbs chicken wings, patted very dry",
+     "2 tsp Hatch chile powder",
+     "1 tsp ground cumin",
+     "1 tsp garlic powder",
+     "1 Tbsp kosher salt",
+     "Zest of 2 limes",
+     "1 tsp baking powder"
+    ]
+   },
+   {
+    "group": "Green chile salsa",
+    "items": [
+     "1 cup diced roasted Hatch chiles",
+     "1/2 cup diced tomatillo",
+     "1/4 cup diced onion",
+     "Chopped cilantro",
+     "Juice of 1 lime",
+     "Salt to taste"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Rub",
+    "body": "Toss the dry wings thoroughly in the rub. The baking powder is the crisp-skin trick — don't skip it."
+   },
+   {
+    "title": "Smoke",
+    "body": "Smoke at 250°F about 90 minutes until cooked through and the skin is starting to tighten."
+   },
+   {
+    "title": "Crisp",
+    "body": "Move to high direct heat (or under the broiler) a few minutes per side until the skin crackles."
+   },
+   {
+    "title": "Serve",
+    "body": "Stir the salsa ingredients together. Serve the wings dry-rubbed with the green chile salsa for dipping."
+   }
+  ]
  }
 ]
