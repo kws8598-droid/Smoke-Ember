@@ -11403,5 +11403,56 @@
     "body": "Grill over medium coals 20-25 minutes, turning gently, to 160°F internal. Never pierce the casing. Slice the coil at the table."
    }
   ]
+ },
+ {
+  "slug": "ember-southwest-rub",
+  "title": "Ember Southwest Rub",
+  "region": "backyard",
+  "protein": "rubs",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.1,
+   "max": 0.1
+  },
+  "servings": "Makes about 3/4 cup",
+  "wood": "—",
+  "pitTemp": "—",
+  "finish": "Mixed and jarred",
+  "summary": "Chipotle, cumin, and Hatch chile — the dry half of the Ember Southwest lineup.",
+  "story": "Every sauce needs its rub. This is the dry half of the Southwest lineup: chipotle for smoke, cumin for earth, Hatch chile powder for that New Mexico kick Kelly loves, and brown sugar to caramelize it all. Rub it on the Hatch thighs, dust it over wings, or shake it on ribs — then finish with the Ember Southwest BBQ Sauce.",
+  "school": "Backyard",
+  "image": "/images/ember-southwest-rub.jpg",
+  "ingredients": [
+   {
+    "group": "Rub",
+    "items": [
+     "1/4 cup brown sugar",
+     "2 Tbsp chipotle powder",
+     "2 Tbsp ground cumin",
+     "1 Tbsp Hatch green chile powder (or New Mexico chile powder)",
+     "1 Tbsp smoked paprika",
+     "1 Tbsp garlic powder",
+     "1 Tbsp onion powder",
+     "2 tsp kosher salt",
+     "1 tsp black pepper",
+     "1 tsp Mexican oregano",
+     "1/2 tsp cayenne"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Mix",
+    "body": "Whisk everything together, breaking up any lumps in the brown sugar."
+   },
+   {
+    "title": "Store",
+    "body": "Keep in an airtight jar away from heat and light. Good for 6 months."
+   },
+   {
+    "title": "Use",
+    "body": "Rub generously on chicken, pork, or beef 1 hour before cooking (overnight for big cuts). Pair with Ember Southwest BBQ Sauce."
+   }
+  ]
  }
 ]
