@@ -86,15 +86,6 @@ export const events: CompEvent[] = [
     state: "MS",
     body: "MBN",
   },
-  {
-    name: "Kentucky State BBQ Festival",
-    start: "2027-09-10",
-    end: "2027-09-12",
-    city: "Danville",
-    state: "KY",
-    body: "KY",
-    note: "Kelly's home turf — dates TBA, check back",
-  },
 ];
 
 export function monthLabel(iso: string) {
