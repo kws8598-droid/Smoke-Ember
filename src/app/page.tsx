@@ -13,7 +13,6 @@ const quotes = [
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 const spookySlugs = ["jack-o-lantern-stuffed-peppers", "halloween-mummy-poppers", "halloween-smoked-pumpkin-pie", "candy-apple-pork-belly", "halloween-mummy-meatloaf", "halloween-bat-wings", "halloween-stuffed-mini-pumpkins", "halloween-smoked-cider", "halloween-pumpkin-spice-rub", "halloween-pumpkin-spice-sauce", "halloween-pumpkin-spice-sweet-potatoes", "halloween-snack-mix", "candy-apple-bbq-chicken", "popcorn-balls", "ember-halloween-punch"];
-const worldSlugs = ["chamorro-bbq-chicken", "argentine-asado", "brazilian-picanha", "jamaican-jerk-chicken", "filipino-lechon-belly", "korean-galbi", "ember-char-siu", "filipino-pork-bbq-skewers", "yakitori", "russian-shashlik", "german-schwenkbraten", "chicken-satay", "tacos-al-pastor", "huli-huli-chicken", "israeli-shishlik", "boerewors"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
@@ -21,7 +20,6 @@ export default function HomePage() {
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   const spooky = spookySlugs.map((s) => getRecipe(s)).filter(Boolean);
-  const world = worldSlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
@@ -30,17 +28,17 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-ink/45" />
       </div>
       <section className="relative overflow-hidden sm:min-h-[88vh]">
-        {/* Mobile: witch and bats Halloween still at the top for October, picker card sits below it */}
+        {/* Mobile: Halloween still at the top for October, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
-          <Image src="/images/halloween-witch-bats-hero.jpg" alt="Witch flying across the full moon with bats and glowing pumpkins" fill priority sizes="100vw" className="object-cover" />
+          <Image src="/images/halloween-witch-bats-hero.jpg" alt="Glowing jack-o'-lanterns on a stone bridge under a full moon with bats, a black cat and a scarecrow" fill priority sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
             <p className="mt-1 text-[16px] leading-6 text-parchment/90">Smoke and Ember hands you a cook that actually fits tonight.</p>
           </div>
         </div>
-        {/* Desktop: full-bleed witch and bats hero for October */}
-        <Image src="/images/halloween-witch-bats-hero.jpg" alt="Witch flying across the full moon with bats and glowing pumpkins" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
+        {/* Desktop: full-bleed Halloween hero for October */}
+        <Image src="/images/halloween-witch-bats-hero.jpg" alt="Glowing jack-o'-lanterns on a stone bridge under a full moon with bats, a black cat and a scarecrow" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-16 sm:pt-24 md:grid-cols-2">
           <div className="hidden sm:block">
@@ -83,14 +81,6 @@ export default function HomePage() {
           ))}</div>
         </div>
       </section>
-      {world.length > 0 && (
-        <section className="mx-auto max-w-6xl px-4 py-2">
-          <p className="text-xs uppercase tracking-[0.22em] text-subtle">Around the world</p>
-          <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Barbecue Flavors of the World</h2>
-          <p className="mt-2 max-w-xl text-parchment/85">Everywhere has a barbecue. The greatest hits — Guam to Germany, Japan to Jamaica.</p>
-          <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{world.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
-        </section>
-      )}
       <section className="relative border-y border-white/5 bg-bark/85 py-4">
         <div className="mx-auto grid max-w-6xl gap-4 px-4 lg:grid-cols-3">
           {quotes.map((q) => (
