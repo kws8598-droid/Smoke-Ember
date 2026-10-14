@@ -126,6 +126,19 @@ export default function HomePage() {
         ))}</div>
         <p className="mt-6 text-sm text-subtle">{recipes.length} original cooks. No invented plates.</p>
       </section>
+      <section className="mx-auto max-w-6xl px-4 py-2">
+        <Link href="/competitions" className="group relative block overflow-hidden rounded-2xl border border-white/5 hover:border-ember/40">
+          <div className="relative h-44 sm:h-56">
+            <Image src="/images/competitions-header.jpg" alt="BBQ competition with smokers and trophies" fill sizes="100vw" className="object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/30 to-transparent" />
+          </div>
+          <div className="absolute inset-x-0 bottom-0 p-5">
+            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Hit the road</p>
+            <h2 className="mt-1 font-display text-3xl italic text-cream group-hover:text-ember-hot">Competition Calendar</h2>
+            <p className="mt-1 text-sm text-parchment/80">KCBS and MBN cook-offs across the South, Texas to Virginia — updated monthly.</p>
+          </div>
+        </Link>
+      </section>
     </main>
   );
 }
