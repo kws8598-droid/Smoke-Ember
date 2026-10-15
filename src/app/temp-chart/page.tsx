@@ -17,11 +17,12 @@ function Estimator() {
   const [lbs, setLbs] = useState("10");
   const e = (estimator as Est[])[cutIdx];
   const w = parseFloat(lbs);
+  const tooBig = !!(w && w > 150);
   const est = useMemo(() => {
-    if (e.rate == null || !w || w <= 0) return null;
+    if (e.rate == null || !w || w <= 0 || tooBig) return null;
     const mid = w * e.rate;
     return `${fmt(mid * 0.85)} – ${fmt(mid * 1.15)}`;
-  }, [e, w]);
+  }, [e, w, tooBig]);
   return (
     <div className="mt-8 rounded-2xl border border-white/10 bg-bark p-5">
       <div className="grid gap-4 sm:grid-cols-2">
@@ -46,7 +47,12 @@ function Estimator() {
         <div className="rounded-xl bg-ink/60 p-4"><p className="text-[11px] uppercase tracking-[0.18em] text-subtle">Plus rest</p><p className="mt-1 text-xl font-semibold text-cream">~1 hr</p></div>
       </div>
       <p className="mt-4 text-sm text-parchment/80">{e.note}</p>
-      <p className="mt-2 text-sm italic text-subtle">Estimate only — the probe decides when it's done.</p>
+      {tooBig && (
+        <p className="mt-2 text-sm font-semibold text-ember">
+          Whoa — {Math.round(w)} lbs? That&apos;s a whole cow, not a cut. Try again with the weight of just the meat. 😄
+        </p>
+      )}
+      <p className="mt-2 text-sm italic text-subtle">Estimate only — the probe decides when it&apos;s done.</p>
     </div>
   );
 }
