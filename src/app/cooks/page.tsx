@@ -315,12 +315,207 @@ function CooksTab() {
     const n = name.trim();
     if (!n) return;
     const c: Cook = {
-      id: uid(), name: n,
+      id: uid(),
+      name: n,
       recipeSlug: recipeSlug || undefined,
       cookerId: cookerId || undefined,
-      wood: wood.trim(), rub: rub.trim(), targetTemp: targetTemp.trim(),
-      startedAt: Date.now(), notes: [], temps: [], wraps: [], done: [],
+      wood: wood.trim(),
+      rub: rub.trim(),
+      targetTemp: targetTemp.trim(),
+      startedAt: Date.now(),
+      notes: [],
+      temps: [],
+      wraps: [],
+      done: [],
     };
     persist([c, ...cooks]);
-    setName(""); setRecipeSlug(""); setCo
-...[truncated 5380 chars]
+    setName("");
+    setRecipeSlug("");
+    setCookerId("");
+    setWood("");
+    setRub("");
+    setTargetTemp("");
+    setShowForm(false);
+  }
+
+  function updateCook(next: Cook) {
+    persist(cooks.map((c) => (c.id === next.id ? next : c)));
+  }
+
+  function finishCook() {
+    if (!active) return;
+    persist(cooks.map((c) => (c.id === active.id ? { ...c, endedAt: Date.now() } : c)));
+  }
+
+  function deleteCook(id: string) {
+    if (!confirm("Delete this cook log?")) return;
+    persist(cooks.filter((c) => c.id !== id));
+  }
+
+  const cookerName = (id?: string) => cookers.find((c) => c.id === id)?.name;
+  const recipeTitle = (slug?: string) => recipes.find((r) => r.slug === slug)?.title;
+
+  return (
+    <div>
+      {active ? (
+        <ActiveCook
+          cook={active}
+          onUpdate={updateCook}
+          onFinish={finishCook}
+          milestones={activeMilestones}
+        />
+      ) : (
+        <div className="rounded-2xl border border-white/10 bg-bark p-5">
+          {!showForm ? (
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div>
+                <h2 className="font-display text-2xl text-cream">No cook on the pit</h2>
+                <p className="mt-1 text-sm text-parchment/80">Start one and the timer, notes, and checkpoints run together.</p>
+              </div>
+              <button onClick={() => setShowForm(true)} className={btnPrimary}>Start a cook</button>
+            </div>
+          ) : (
+            <div>
+              <h2 className="font-display text-2xl text-cream">Start a cook</h2>
+              <div className="mt-4 space-y-3">
+                <div>
+                  <label className={labelCls}>What&apos;s on the pit?</label>
+                  <input value={name} onChange={(e) => setName(e.target.value)} placeholder="e.g. Brisket, spare ribs" className={inputCls} />
+                </div>
+                <div className="grid gap-3 sm:grid-cols-2">
+                  <div>
+                    <label className={labelCls}>Recipe (optional)</label>
+                    <select value={recipeSlug} onChange={(e) => setRecipeSlug(e.target.value)} className={inputCls}>
+                      <option value="">No recipe linked</option>
+                      {sortedRecipes.map((r) => (
+                        <option key={r.slug} value={r.slug}>{r.title}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div>
+                    <label className={labelCls}>Cooker (optional)</label>
+                    <select value={cookerId} onChange={(e) => setCookerId(e.target.value)} className={inputCls}>
+                      <option value="">No cooker picked</option>
+                      {cookers.map((c) => (
+                        <option key={c.id} value={c.id}>{c.name}</option>
+                      ))}
+                    </select>
+                  </div>
+                </div>
+                <div className="grid gap-3 sm:grid-cols-3">
+                  <div>
+                    <label className={labelCls}>Wood</label>
+                    <input value={wood} onChange={(e) => setWood(e.target.value)} placeholder="e.g. Hickory" className={inputCls} />
+                  </div>
+                  <div>
+                    <label className={labelCls}>Rub</label>
+                    <input value={rub} onChange={(e) => setRub(e.target.value)} placeholder="e.g. Ember rub" className={inputCls} />
+                  </div>
+                  <div>
+                    <label className={labelCls}>Target pit temp</label>
+                    <input value={targetTemp} onChange={(e) => setTargetTemp(e.target.value)} placeholder="e.g. 275°F" className={inputCls} />
+                  </div>
+                </div>
+                <div className="flex gap-2">
+                  <button onClick={startCook} className={btnPrimary}>Start the timer</button>
+                  <button onClick={() => setShowForm(false)} className={btnGhost}>Cancel</button>
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {past.length > 0 && (
+        <div className="mt-8">
+          <h2 className="font-display text-2xl text-cream">Cook history</h2>
+          <div className="mt-4 space-y-3">
+            {past.map((c) => {
+              const open = openId === c.id;
+              const dur = c.endedAt ? Math.round((c.endedAt - c.startedAt) / 60000) : 0;
+              const hrs = Math.floor(dur / 60);
+              const mins = dur % 60;
+              return (
+                <div key={c.id} className="rounded-2xl border border-white/10 bg-bark p-5">
+                  <button onClick={() => setOpenId(open ? null : c.id)} className="flex w-full items-start justify-between gap-3 text-left">
+                    <div>
+                      <h3 className="font-display text-xl text-cream">{c.name}</h3>
+                      <p className="mt-1 text-sm text-subtle">
+                        {fmtTime(c.startedAt)} · {hrs > 0 ? `${hrs}h ` : ""}{mins}m
+                        {c.wood && ` · ${c.wood}`}
+                        {c.rub && ` · ${c.rub}`}
+                      </p>
+                    </div>
+                    <span className="shrink-0 text-subtle">{open ? "▾" : "▸"}</span>
+                  </button>
+                  {open && (
+                    <div className="mt-4 border-t border-white/10 pt-4 text-sm">
+                      {c.recipeSlug && recipeTitle(c.recipeSlug) && (
+                        <p className="text-parchment/80">Recipe: <Link href={`/recipes/${c.recipeSlug}`} className="text-ember-hot hover:underline">{recipeTitle(c.recipeSlug)}</Link></p>
+                      )}
+                      {c.cookerId && cookerName(c.cookerId) && <p className="mt-1 text-parchment/80">Cooker: {cookerName(c.cookerId)}</p>}
+                      {c.targetTemp && <p className="mt-1 text-parchment/80">Target pit temp: {c.targetTemp}</p>}
+                      {(c.notes.length > 0 || c.temps.length > 0 || c.wraps.length > 0) && (
+                        <div className="mt-3 space-y-1.5">
+                          {c.temps.map((t, i) => (
+                            <p key={`t${i}`} className="text-parchment/90"><span className="text-subtle">{fmtClock(t.t)}</span> · 🌡 {t.label}: {t.value}°F</p>
+                          ))}
+                          {c.wraps.map((w, i) => (
+                            <p key={`w${i}`} className="text-parchment/90"><span className="text-subtle">{fmtClock(w.t)}</span> · 🎁 {w.text}</p>
+                          ))}
+                          {c.notes.map((n, i) => (
+                            <p key={`n${i}`} className="text-parchment/90"><span className="text-subtle">{fmtClock(n.t)}</span> · {n.text}</p>
+                          ))}
+                        </div>
+                      )}
+                      <button onClick={() => deleteCook(c.id)} className="mt-4 text-sm text-subtle hover:text-cream">Delete this log</button>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ---------- page ---------- */
+
+export default function CooksPage() {
+  const [tab, setTab] = useState<"cooks" | "cookers">("cooks");
+  return (
+    <main className="mx-auto max-w-6xl px-4 py-12">
+      <p className="text-xs uppercase tracking-[0.22em] text-subtle">This device</p>
+      <h1 className="mt-2 font-display text-5xl italic">My cooks</h1>
+      <p className="mt-3 max-w-2xl text-parchment/80">
+        Your cook notebook — timers, timestamped notes, temps, wraps, and your cooker profiles.
+        Lives in the browser on this device, not the cloud.
+      </p>
+      <div className="mt-4 flex flex-wrap gap-2 text-sm">
+        <Link href="/temp-chart" className="rounded-full border border-white/15 px-4 py-1.5 text-parchment hover:border-ember">
+          ⏱ Time estimates
+        </Link>
+        <Link href="/wisdom" className="rounded-full border border-white/15 px-4 py-1.5 text-parchment hover:border-ember">
+          🔥 Pit tips
+        </Link>
+        <Link href="/recipes" className="rounded-full border border-white/15 px-4 py-1.5 text-parchment hover:border-ember">
+          📖 Recipes
+        </Link>
+      </div>
+      <div className="mt-6 flex gap-2">
+        {(["cooks", "cookers"] as const).map((t) => (
+          <button
+            key={t}
+            onClick={() => setTab(t)}
+            className={`rounded-full px-4 py-2 text-sm ${tab === t ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}
+          >
+            {t === "cooks" ? "Cook log" : "My cookers"}
+          </button>
+        ))}
+      </div>
+      <div className="mt-6">{tab === "cooks" ? <CooksTab /> : <CookersTab />}</div>
+    </main>
+  );
+}
