@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 import type { Milestone } from "@/lib/types";
 
@@ -487,6 +488,10 @@ export default function CooksPage() {
   const [tab, setTab] = useState<"cooks" | "cookers">("cooks");
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
+      <div className="relative mb-8 h-48 overflow-hidden rounded-2xl border border-white/5 sm:h-64">
+        <Image src="/images/my-cooks-header.jpg" alt="Smoker with barbecue and a cook journal" fill sizes="100vw" className="object-cover" priority />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink/70 to-transparent" />
+      </div>
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">This device</p>
       <h1 className="mt-2 font-display text-5xl italic">My cooks</h1>
       <p className="mt-3 max-w-2xl text-parchment/80">
