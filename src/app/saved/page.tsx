@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import RecipeCard from "@/components/RecipeCard";
 import { getSaved } from "@/components/SaveButton";
 import {
@@ -61,10 +62,17 @@ function GroceryTab() {
 }
 
 export default function SavedPage() {
-  const [tab, setTab] = useState<"saved" | "grocery">("saved");
+  const [tab, setTab] = useState<"saved" | "grocery" | "cooks">("saved");
+  const [cookCount, setCookCount] = useState(0);
   const [slugs, setSlugs] = useState<string[]>([]);
   const { recipes } = useLiveCatalog();
   useEffect(() => setSlugs(getSaved()), []);
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem("ember-cook-log");
+      if (raw) setCookCount((JSON.parse(raw) as unknown[]).length);
+    } catch {}
+  }, [tab]);
   const list = recipes.filter((r) => slugs.includes(r.slug));
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
@@ -72,13 +80,13 @@ export default function SavedPage() {
       <h1 className="mt-2 font-display text-5xl italic">Saved</h1>
       <p className="mt-3 text-parchment/80">Cooks you marked and your grocery list. Lives in the browser, not the cloud.</p>
       <div className="mt-6 flex gap-2">
-        {(["saved", "grocery"] as const).map((t) => (
+        {(["saved", "grocery", "cooks"] as const).map((t) => (
           <button
             key={t}
             onClick={() => setTab(t)}
             className={`rounded-full px-4 py-2 text-sm ${tab === t ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}
           >
-            {t === "saved" ? "Saved cooks" : "Grocery list"}
+            {t === "saved" ? "Saved cooks" : t === "grocery" ? "Grocery list" : "My cooks"}
           </button>
         ))}
       </div>
@@ -86,7 +94,18 @@ export default function SavedPage() {
         list.length === 0 ? <p className="mt-10 text-subtle">Nothing saved yet. Open a cook and hit Save.</p> : (
           <div className="mt-10 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{list.map((r) => <RecipeCard key={r.slug} recipe={r} />)}</div>
         )
-      ) : <GroceryTab />}
+      ) : tab === "grocery" ? <GroceryTab /> : (
+        <div className="mt-10 rounded-2xl border border-white/10 bg-bark p-6">
+          <h2 className="font-display text-2xl text-cream">My cooks</h2>
+          <p className="mt-2 text-sm text-parchment/80">
+            Your cook notebook — timers, timestamped notes, temps, wraps, and your cooker profiles.
+            {cookCount > 0 ? ` ${cookCount} ${cookCount === 1 ? "cook" : "cooks"} logged so far.` : " Nothing logged yet."}
+          </p>
+          <Link href="/cooks" className="mt-4 inline-block rounded-full bg-ember px-5 py-2.5 text-sm font-semibold text-ink hover:bg-ember-hot">
+            Open my cook notebook
+          </Link>
+        </div>
+      )}
     </main>
   );
 }
