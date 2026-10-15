@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smokeandember.app",
+      "sha256_cert_fingerprints": [
+        "7C:6C:0C:0D:BD:BA:52:72:7B:E4:83:40:42:FD:8A:1A:4E:0C:98:3A:97:85:70:49:8E:D1:3E:ED:90:8C:76:79",
+        "25:96:30:B8:00:0D:C0:E5:39:37:FF:72:39:DC:44:A9:F8:04:D5:74:F9:43:EE:A5:8A:C5:44:1A:D5:A2:05:3B",
+        "9C:E8:86:28:C8:2B:FC:53:71:44:BB:0B:24:C1:BB:6A:78:FF:66:4E:A0:EC:E3:09:D8:4E:ED:AC:E6:57:B0:FC",
+        "DD:A9:23:DD:60:B1:D6:B8:8F:2D:22:A6:B1:55:E1:30:F3:F4:3A:FB:F9:06:19:37:9E:4B:37:D1:37:C9:C2:20"
+      ]
+    }
+  }
+]
