@@ -139,6 +139,15 @@ export default function HomePage() {
           </div>
         </Link>
       </section>
+      <section className="mx-auto max-w-6xl px-4 py-2">
+        <Link href="/cooks" className="group block overflow-hidden rounded-2xl border border-ember/30 bg-bark hover:border-ember/60">
+          <div className="p-5 sm:p-6">
+            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">New</p>
+            <h2 className="mt-1 font-display text-3xl italic text-cream group-hover:text-ember-hot">My Cooks Notebook</h2>
+            <p className="mt-1 text-sm text-parchment/80">Track your cooks — running timer, timestamped notes, temps, wraps — and keep profiles of your cookers with their hot zones and quirks. Lives on your device.</p>
+          </div>
+        </Link>
+      </section>
     </main>
   );
 }
