@@ -6,6 +6,7 @@ import CookTimer from "@/components/CookTimer";
 import SaveButton from "@/components/SaveButton";
 import ShareButton from "@/components/ShareButton";
 import PrintButton from "@/components/PrintButton";
+import WakeLockButton from "@/components/WakeLockButton";
 import GroceryButton from "@/components/GroceryButton";
 import RecipeCard from "@/components/RecipeCard";
 import { difficultyLabel, formatHours, img, regionLabel, related } from "@/lib/data";
@@ -38,6 +39,7 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
               <ShareButton title={r.title} text={`Smoke and Ember: ${r.title}`} />
               <SaveButton slug={r.slug} />
               <PrintButton />
+              <WakeLockButton />
             </div>
           </div>
           <p className="mt-2 text-sm text-subtle">{r.school}</p>
