@@ -5,6 +5,7 @@ import Link from "next/link";
 import CookTimer from "@/components/CookTimer";
 import SaveButton from "@/components/SaveButton";
 import ShareButton from "@/components/ShareButton";
+import PrintButton from "@/components/PrintButton";
 import GroceryButton from "@/components/GroceryButton";
 import RecipeCard from "@/components/RecipeCard";
 import { difficultyLabel, formatHours, img, regionLabel, related } from "@/lib/data";
@@ -19,11 +20,11 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
 
   return (
     <main>
-      <section className="relative min-h-[52vh] overflow-hidden">
-        <Image src={img(r.image)} alt={r.title} fill priority sizes="100vw" className="object-cover" />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20" />
-        <div className="relative mx-auto max-w-6xl px-4 pb-10 pt-28">
-          <Link href={dessert ? "/desserts" : "/recipes"} className="text-sm text-parchment/80 hover:text-cream">
+      <section className="relative min-h-[52vh] overflow-hidden print:min-h-0">
+        <Image src={img(r.image)} alt={r.title} fill priority sizes="100vw" className="object-cover print:hidden" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20 print:hidden" />
+        <div className="relative mx-auto max-w-6xl px-4 pb-10 pt-28 print:pb-2 print:pt-2">
+          <Link href={dessert ? "/desserts" : "/recipes"} className="text-sm text-parchment/80 hover:text-cream print:hidden">
             ← {dessert ? "All desserts" : "All recipes"}
           </Link>
           <div className="mt-4 flex flex-wrap gap-2 text-[11px] uppercase tracking-[0.16em] text-parchment">
@@ -33,9 +34,10 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           </div>
           <div className="mt-4 flex items-start justify-between gap-4">
             <h1 className="font-display text-4xl italic text-cream glow-ember sm:text-6xl">{r.title}</h1>
-            <div className="flex shrink-0 gap-2">
+            <div className="flex shrink-0 gap-2 print:hidden">
               <ShareButton title={r.title} text={`Smoke and Ember: ${r.title}`} />
               <SaveButton slug={r.slug} />
+              <PrintButton />
             </div>
           </div>
           <p className="mt-2 text-sm text-subtle">{r.school}</p>
@@ -55,7 +57,7 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           <p className="mt-3 text-sm text-subtle">Serves {r.servings}.</p>
           <h2 className="mt-12 font-display text-3xl italic glow-ember">Ingredients</h2>
           <p className="mt-1 text-sm text-subtle">Check them off as you go.</p>
-          <div className="mt-3">
+          <div className="mt-3 print:hidden">
             <GroceryButton recipeTitle={r.title} items={(r.ingredients ?? []).flatMap((g) => g.items)} />
           </div>
           {r.ingredients?.map((g, gi) => (
@@ -97,12 +99,12 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
             </>
           )}
         </div>
-        <aside className="lg:sticky lg:top-24 lg:self-start">
+        <aside className="lg:sticky lg:top-24 lg:self-start print:hidden">
           <CookTimer slug={r.slug} milestones={r.milestones} />
         </aside>
       </section>
       {r.video && (
-        <section className="mx-auto max-w-6xl px-4 pb-16">
+        <section className="mx-auto max-w-6xl px-4 pb-16 print:hidden">
           <h2 className="font-display text-3xl italic glow-ember">Watch the cook</h2>
           <div className="mt-6 overflow-hidden rounded-2xl border border-white/10">
             <div className="relative aspect-video w-full">
@@ -119,7 +121,7 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
         </section>
       )}
       {more.length > 0 && (
-        <section className="mx-auto max-w-6xl px-4 pb-16">
+        <section className="mx-auto max-w-6xl px-4 pb-16 print:hidden">
           <h2 className="font-display text-3xl italic glow-ember">You might also like</h2>
           <div className="mt-6 grid gap-0 md:grid-cols-3">
             {more.map((m) => (
