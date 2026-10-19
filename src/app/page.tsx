@@ -30,7 +30,7 @@ export default function HomePage() {
       <section className="relative overflow-hidden sm:min-h-[88vh]">
         {/* Mobile: Halloween still at the top for October, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
-          <Image src="/images/halloween-witch-bats-hero.jpg" alt="Glowing jack-o'-lanterns on a stone bridge under a full moon with bats, a black cat and a scarecrow" fill priority sizes="100vw" className="object-cover" />
+          <Image src="/images/halloween-jack-o-lanterns-hero.jpg" alt="Glowing jack-o'-lanterns with candles and autumn leaves" fill priority sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
@@ -38,7 +38,7 @@ export default function HomePage() {
           </div>
         </div>
         {/* Desktop: full-bleed Halloween hero for October */}
-        <Image src="/images/halloween-witch-bats-hero.jpg" alt="Glowing jack-o'-lanterns on a stone bridge under a full moon with bats, a black cat and a scarecrow" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
+        <Image src="/images/halloween-jack-o-lanterns-hero.jpg" alt="Glowing jack-o'-lanterns with candles and autumn leaves" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-16 sm:pt-24 md:grid-cols-2">
           <div className="hidden sm:block">
