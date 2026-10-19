@@ -85,3 +85,22 @@ input, button, textarea { font: inherit; }
   background-attachment: fixed;
 }
 
+/* Printer-friendly recipes: clean black-on-white, no chrome */
+@media print {
+  html, body { background: #fff !important; color: #111 !important; }
+  body { padding-bottom: 0 !important; }
+  /* Hide site chrome injected by the layout */
+  body > header, body > footer { display: none !important; }
+  /* Flatten the dark theme */
+  main, section, div, aside { background: transparent !important; }
+  h1, h2, h3, h4, p, li, span, blockquote, div { color: #111 !important; text-shadow: none !important; }
+  .glow-ember { text-shadow: none !important; }
+  a { color: #111 !important; text-decoration: none !important; }
+  /* Keep ingredient checkboxes as printable empty boxes */
+  input[type="checkbox"] { appearance: auto !important; accent-color: #111 !important; }
+  /* Borders go light gray instead of invisible-on-white */
+  .border-white\/10, .border-white\/5 { border-color: #ddd !important; }
+  /* Avoid awkward page breaks inside steps */
+  ol > li, ul > li { break-inside: avoid; }
+}
+
