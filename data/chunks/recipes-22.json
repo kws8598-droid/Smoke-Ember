@@ -958,5 +958,74 @@
    }
   ],
   "image": "/images/smoked-pork-chops.jpg"
+ },
+ {
+  "slug": "smoked-barbecue-meatballs",
+  "title": "Smoked Barbecue Meatballs",
+  "region": "kentucky",
+  "protein": "beef",
+  "difficulty": "weeknight",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "About 24 meatballs",
+  "summary": "Beef-and-pork meatballs smoked low, then glazed with Ember sauce and cherry preserves \u2014 sweet, a little tart, sticky.",
+  "story": "Everybody knows the grape-jelly potluck meatball. This is the pit version: real smoke first, then a cherry glaze. Cherry belongs with beef and pork \u2014 it's the same fruit behind the cherry Dr Pepper bark trick \u2014 and it makes these yours instead of a copy of everybody else's.",
+  "ingredients": [
+   {
+    "group": "The meatballs",
+    "items": [
+     "1 lb ground beef (80/20)",
+     "1 lb ground pork",
+     "\u00bd cup plain breadcrumbs",
+     "1 egg",
+     "\u00bc cup milk",
+     "1 Tbsp Worcestershire sauce",
+     "2 Tbsp Ember rub (or your favorite rub), plus a little extra for dusting"
+    ]
+   },
+   {
+    "group": "The cherry glaze",
+    "items": [
+     "1 cup Ember sauce (or your favorite barbecue sauce)",
+     "\u00bc cup cherry preserves",
+     "\u00bd tsp red pepper flakes (optional, for heat)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Mix",
+    "body": "Mix everything gentle, just until it comes together. Overworking the mix is what makes meatballs eat like hockey pucks."
+   },
+   {
+    "title": "Roll and chill",
+    "body": "Roll into balls about 1\u00bd inches across \u2014 wet hands keep the mix from sticking to you. You should get about 24. Rest them in the fridge 20\u201330 minutes so they hold their shape on the pit."
+   },
+   {
+    "title": "Smoke",
+    "body": "Pit at 250\u00b0F with apple or cherry wood. Dust the tops with a little more rub and smoke about an hour, until they hit 160\u00b0F inside."
+   },
+   {
+    "title": "Glaze",
+    "body": "Warm the Ember sauce and cherry preserves together until the preserves melt in \u2014 stir in the red pepper flakes if you're using them. Brush the glaze over the meatballs and give them 10\u201315 more minutes so it sets sticky."
+   },
+   {
+    "title": "Serve",
+    "body": "Serve them as a pick-up appetizer with toothpicks, or pile them up as a main."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Kelly",
+    "text": "You can put red pepper flakes in it if you want to make them spicier."
+   },
+   {
+    "voice": "Kelly",
+    "text": "Don't overmix \u2014 gentle hands keep them tender."
+   }
+  ],
+  "image": "/images/smoked-barbecue-meatballs.jpg"
  }
 ]
