@@ -1100,5 +1100,66 @@
       "The rice goes in uncooked. It cooks in the juice, and that is what makes the quills."
     ],
     "image": "/images/porcupine-meatballs.jpg"
+  },
+  {
+    "slug": "hawaiian-shish-kebabs",
+    "title": "Hawaiian Shish Kebabs",
+    "region": "hawaii",
+    "protein": "chicken",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1.5,
+      "max": 5.0
+    },
+    "servings": "4–6",
+    "summary": "Kelly's Hawaiian skewers — chicken and pork in a soy-pineapple marinade, threaded with big pineapple chunks, bell pepper, and onion, grilled until the edges char.",
+    "story": "These are Kelly's own, off his grill. The pineapple goes right on the skewer with the meat, and the marinade is the Hawaiian way — soy, pineapple juice, and brown sugar — so the edges caramelize and catch a little char over the fire. Sweet, salty, smoky, and gone fast.",
+    "ingredients": [
+      {
+        "group": "The marinade",
+        "items": [
+          "½ cup soy sauce",
+          "½ cup pineapple juice",
+          "⅓ cup brown sugar",
+          "2 cloves garlic, minced",
+          "1 tsp fresh ginger, grated",
+          "1 Tbsp oil"
+        ]
+      },
+      {
+        "group": "The skewers",
+        "items": [
+          "1½ lbs chicken (thighs or breast), cut in big chunks",
+          "1½ lbs pork, cut in big chunks",
+          "1 fresh pineapple, cut in big chunks",
+          "1 orange bell pepper, cut in squares",
+          "1 red onion, cut in chunks"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Marinate",
+        "d": "Stir the marinade together, toss the chicken and pork in it, and let it sit at least an hour — a few hours is better."
+      },
+      {
+        "t": "Thread the skewers",
+        "d": "Meat, pineapple, pepper, onion, repeat. Don't pack them tight or they won't char right."
+      },
+      {
+        "t": "Grill",
+        "d": "Over medium-high heat, turning every few minutes, about 12–15 minutes, until the meat is cooked through and the pineapple and peppers have charred edges."
+      },
+      {
+        "t": "Serve",
+        "d": "Over rice, straight off the skewers."
+      }
+    ],
+    "proTips": [
+      "The pineapple isn't decoration — its sugar is what chars and caramelizes the edges.",
+      "If you're using wooden skewers, soak them in water first so they don't burn up on you.",
+      "Leave a little space between pieces on the skewer — crowded meat steams instead of grilling."
+    ],
+    "image": "/images/hawaiian-shish-kebabs.jpg"
   }
 ]
