@@ -13,6 +13,7 @@ const quotes = [
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 const spookySlugs = ["jack-o-lantern-stuffed-peppers", "halloween-mummy-poppers", "halloween-smoked-pumpkin-pie", "candy-apple-pork-belly", "halloween-mummy-meatloaf", "halloween-bat-wings", "halloween-stuffed-mini-pumpkins", "halloween-smoked-cider", "halloween-pumpkin-spice-rub", "halloween-pumpkin-spice-sauce", "halloween-pumpkin-spice-sweet-potatoes", "halloween-snack-mix", "candy-apple-bbq-chicken", "popcorn-balls", "ember-halloween-punch"];
+const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
@@ -20,6 +21,7 @@ export default function HomePage() {
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   const spooky = spookySlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
@@ -95,6 +97,10 @@ export default function HomePage() {
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">The cook that sorts you out</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Featured pits</h2>
         <div className="mt-3 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+      </section>
+      <section className="mx-auto max-w-6xl px-4 pb-2">
+        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
+        <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{gameCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Pitmaster sides</p><h2 className="mt-2 font-display text-4xl italic glow-ember">The plate around the meat</h2></div><Link href="/recipes?protein=sides" className="text-sm text-ember hover:text-ember-hot">All sides</Link></div>
