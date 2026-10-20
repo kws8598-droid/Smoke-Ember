@@ -38,7 +38,7 @@ export const recipes = [
 export const wisdom = wisdomJson as Wisdom[];
 
 export const proteins = [
-  "all","beef","desserts","fish","gator","lamb","mutton","pork","poultry","rubs","sauces","sausage","sides","venison",
+  "all","beef","desserts","fish","game","gator","lamb","mutton","pork","poultry","rubs","sauces","sausage","sides","venison",
 ] as const;
 
 export const regionCopy: Record<string, { label: string; line: string; image: string }> = {
@@ -85,7 +85,14 @@ export function filterRecipes(
 ) {
   let list = source.slice();
   if (!opts.includeDesserts) list = list.filter((r) => r.protein !== "desserts");
-  if (opts.protein && opts.protein !== "all") list = list.filter((r) => r.protein === opts.protein);
+  if (opts.protein && opts.protein !== "all") {
+    if (opts.protein === "game") {
+      const extraGame = ["smoked-duck", "smoked-frog-legs"];
+      list = list.filter((r) => r.protein === "venison" || r.protein === "gator" || extraGame.includes(r.slug));
+    } else {
+      list = list.filter((r) => r.protein === opts.protein);
+    }
+  }
   if (opts.time === "2h") list = list.filter((r) => r.hours.max <= 2.5);
   if (opts.time === "afternoon") list = list.filter((r) => r.hours.max > 2.5 && r.hours.max <= 8);
   if (opts.time === "all-day") list = list.filter((r) => r.hours.min >= 8 || r.hours.max > 8);
