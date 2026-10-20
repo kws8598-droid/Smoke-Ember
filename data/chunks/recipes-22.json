@@ -1161,5 +1161,81 @@
       "Leave a little space between pieces on the skewer — crowded meat steams instead of grilling."
     ],
     "image": "/images/hawaiian-shish-kebabs.jpg"
+  },
+  {
+    "slug": "over-the-top-smoked-chili",
+    "title": "Over-the-Top Smoked Chili",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 3.0,
+      "max": 4.0
+    },
+    "servings": "8–10",
+    "summary": "The chili everybody's cooking right now — a seasoned beef loaf smokes on the grate over a Dutch oven of chili, dripping into the pot the whole cook, then gets crumbled in to finish.",
+    "story": "Over-the-top chili is the one all over the BBQ sites this year, and the trick earns it: the meat never touches the chili until it is smoked, so the pot catches two hours of seasoned drippings while the loaf takes on smoke and a crust. Crumble it in, let it simmer, and you get a chili with smoke all the way through instead of just on top.",
+    "ingredients": [
+      {
+        "group": "The meat loaf",
+        "items": [
+          "2 lbs ground beef, 80/20",
+          "2 Tbsp Ember rub (or your favorite beef rub)",
+          "1 Tbsp chili powder",
+          "1 tsp cumin"
+        ]
+      },
+      {
+        "group": "The pot",
+        "items": [
+          "1 onion, diced",
+          "1 bell pepper, diced",
+          "1 jalapeño, diced (optional)",
+          "3 cloves garlic, minced",
+          "2 cans kidney beans, drained",
+          "1 can pinto beans, drained",
+          "1 big can (28 oz) crushed tomatoes",
+          "1 can (14 oz) diced tomatoes",
+          "1 small can Hatch green chiles",
+          "2 Tbsp chili powder",
+          "2 tsp cumin",
+          "1 tsp smoked paprika",
+          "1 tsp oregano",
+          "1 cup beef broth"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Form the loaf",
+        "d": "Mix the beef with the rub, chili powder, and cumin and form it into one tight loaf. Tight matters — a loose loaf will sag and break up on the grate."
+      },
+      {
+        "t": "Build the pot",
+        "d": "Everything for the pot goes in a Dutch oven, stirred together."
+      },
+      {
+        "t": "Set up the pit",
+        "d": "Pit at 250–275°F, hickory or oak. The Dutch oven sits on the lower grate and the loaf goes on the grate right over the pot, so every drip lands in the chili."
+      },
+      {
+        "t": "Smoke the loaf",
+        "d": "About 2 hours, until the loaf hits 150°F inside and has a good crust."
+      },
+      {
+        "t": "Crumble and simmer",
+        "d": "Crumble the loaf into the pot, stir it through, and simmer 1–2 more hours with the lid cracked, until it is as thick as you like it."
+      },
+      {
+        "t": "Serve",
+        "d": "Cheese, sour cream, and saltines or oyster crackers. Kelly's jalapeño cheddar cornbread sits perfect next to it."
+      }
+    ],
+    "proTips": [
+      "The loaf is the smoke catcher — the pot below is mostly steaming, so the meat is where the smoke flavor comes from. Do not rush the two hours.",
+      "If your pit only has one grate, set the pot on the grate and lay a small cooling rack across the top of the pot for the loaf. Same trick.",
+      "Like every chili, it is better the second day."
+    ],
+    "image": "/images/over-the-top-smoked-chili.jpg"
   }
 ]
