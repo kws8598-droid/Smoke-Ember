@@ -1,1 +1,962 @@
-[{"slug":"korean-galbi","title":"Korean Galbi (Grilled Short Ribs)","region":"backyard","protein":"beef","difficulty":"easy","hours":{"min":0.5,"max":0.75},"servings":"Serves 4-6","wood":"Hot charcoal","pitTemp":"Hot grill","finish":"Caramelized edges","summary":"Flanken-cut short ribs in a sweet-savory soy and Asian pear marinade, grilled hot and fast Korean BBQ-style.","story":"Galbi is Korea's backyard barbecue: thin-cut short ribs soaked overnight in soy, sugar, garlic, and grated Asian pear \u2014 the pear tenderizes and sweetens at once. Then screaming-hot grill, a few minutes a side, wrapped in lettuce with ssamjang and kimchi. Fast, loud, and gone in minutes.","school":"Backyard","image":"/images/korean-galbi.jpg","ingredients":[{"group":"Beef","items":["4 lbs beef short ribs, flanken cut 1/2-inch thick"]},{"group":"Marinade","items":["1 cup soy sauce","1/2 cup sugar","1/4 cup grated Asian pear (or kiwi)","6 cloves garlic, minced","2 Tbsp sesame oil","4 green onions, chopped","1 tsp black pepper","1/4 cup water"]},{"group":"To serve","items":["Lettuce leaves","Ssamjang","Kimchi","Steamed rice"]}],"steps":[{"title":"Marinate","body":"Whisk the marinade, pour over the ribs, and refrigerate overnight \u2014 8 hours minimum."},{"title":"Grill hot","body":"Grill over screaming-hot charcoal 3-4 minutes per side until caramelized at the edges."},{"title":"Wrap and eat","body":"Serve with lettuce, ssamjang, kimchi, and rice. Wrap a bite of everything and eat it in one go \u2014 that's the way."}]},{"slug":"filipino-pork-bbq-skewers","title":"Filipino Pork BBQ Skewers","region":"backyard","protein":"pork","difficulty":"easy","hours":{"min":0.75,"max":1},"servings":"Serves 6-8","wood":"Hot charcoal grill","pitTemp":"Hot grill","finish":"Charred edges, 145\u00b0F+","summary":"The Philippines' street-corner classic: pork in a sweet banana-ketchup marinade, skewered and grilled over hot coals.","story":"Walk past any grill in the Philippines and you'll smell these \u2014 pork shoulder soaked overnight in banana ketchup, soy, calamansi, and brown sugar, then grilled fast over screaming coals until the edges char and caramelize. Sweet, sticky, smoky. Make extra; they disappear.","school":"Backyard","image":"/images/filipino-pork-bbq-skewers.jpg","ingredients":[{"group":"Pork","items":["3 lbs pork shoulder, sliced thin (about 1/4 inch)"]},{"group":"Marinade","items":["1/2 cup banana ketchup","1/2 cup soy sauce","1/4 cup calamansi or lemon juice","1/2 cup brown sugar","8 cloves garlic, minced","1 Tbsp black pepper","1/4 cup lemon-lime soda (optional, but authentic)"]}],"steps":[{"title":"Marinate","body":"Whisk the marinade and pour over the pork. Refrigerate overnight \u2014 8 hours minimum for the full sweet-savory soak."},{"title":"Skewer","body":"Thread the pork onto bamboo skewers (soaked 30 minutes so they don't burn), weaving the slices accordion-style."},{"title":"Grill hot","body":"Grill over hot charcoal 3-4 minutes per side, basting with the reserved marinade, until charred at the edges and cooked through."}]},{"slug":"yakitori","title":"Yakitori (Chicken & Negi Skewers)","region":"backyard","protein":"poultry","difficulty":"medium","hours":{"min":0.5,"max":0.75},"servings":"Serves 4-6","wood":"Binchotan or hot charcoal","pitTemp":"Hot grill","finish":"165\u00b0F, lacquered with tare","summary":"Japan's charcoal-grilled chicken skewers \u2014 thigh and negi onion, brushed with sweet-savory tare over blazing coals.","story":"Yakitori is Japanese barbecue stripped to the essentials: chicken thigh, long green onion, blazing binchotan charcoal, and tare \u2014 a syrupy glaze of soy, mirin, sake, and sugar. The trick is brushing the tare on again and again until the skewers shine like lacquer. Salt-and-pepper (shio) is the purist's move; tare is the crowd-pleaser.","school":"Backyard","image":"/images/yakitori.jpg","ingredients":[{"group":"Skewers","items":["2 lbs boneless skin-on chicken thighs, cut in 1-inch cubes","4 stalks negi (long green onion), cut in 1 1/2-inch pieces","Bamboo skewers, soaked 30 minutes"]},{"group":"Tare","items":["1/2 cup soy sauce","1/2 cup mirin","1/4 cup sake","2 Tbsp sugar"]}],"steps":[{"title":"Make the tare","body":"Simmer the tare ingredients 10 minutes until slightly syrupy. Set aside \u2014 this is liquid gold."},{"title":"Skewer","body":"Alternate chicken and negi on the skewers, packing them snug."},{"title":"Grill","body":"Grill over the hottest charcoal you've got, turning often and brushing with tare every turn, 8-10 minutes until the chicken hits 165\u00b0F and shines."}]},{"slug":"russian-shashlik","title":"Russian Shashlik","region":"backyard","protein":"pork","difficulty":"medium","hours":{"min":0.5,"max":0.75},"servings":"Serves 6-8","wood":"Hardwood coals, white-ashed","pitTemp":"Medium coals, no flame","finish":"Juicy, 145\u00b0F+","summary":"Russia's iconic pork-neck kebab: onion and vinegar marinade, skewered tight, grilled over gray coals.","story":"Shashlik is Russia's answer to barbecue \u2014 pork neck (the fattiest, juiciest cut) drowned in sliced onion, vinegar, salt, and pepper, then grilled over coals burned down to gray ash. The Soviet-era classic uses nothing fancier than that, and it's perfect. Serve it with pickled onions and don't you dare use a fork.","school":"Backyard","image":"/images/russian-shashlik.jpg","ingredients":[{"group":"Pork","items":["4 lbs pork neck, cut in 2-inch cubes"]},{"group":"Marinade","items":["3 large onions, sliced in thick rings","3 Tbsp white vinegar","1 cup cold water","1 Tbsp salt","2 tsp black pepper","3 bay leaves"]},{"group":"To serve","items":["Pickled red onions","Fresh dill and parsley"]}],"steps":[{"title":"Marinate","body":"Squeeze half the onion rings with your hands to release the juice, then mix everything with the pork. Dissolve the vinegar in the water and pour over. Refrigerate 6 hours to overnight \u2014 longer is better."},{"title":"Skewer","body":"Thread the pork tightly onto flat metal skewers, alternating with onion rings. Tight packing keeps the meat juicy."},{"title":"Grill","body":"Grill over coals burned to gray-white ash \u2014 no open flame. Turn frequently, 15-20 minutes, sprinkling with water if flames flare. Cut one open to check; serve on the skewer with pickled onions."}]},{"slug":"german-schwenkbraten","title":"German Schwenkbraten","region":"backyard","protein":"pork","difficulty":"easy","hours":{"min":0.5,"max":0.75},"servings":"Serves 4","wood":"Beechwood or charcoal","pitTemp":"Medium grill","finish":"145\u00b0F internal","summary":"Saarland's swinging-grate pork steaks \u2014 mustard, onion, and juniper marinade over beechwood fire.","story":"Yes, the Germans barbecue \u2014 and in Saarland they take it seriously. Thick pork neck steaks marinate a full day in mustard, onion, juniper, and paprika, then grill on a swinging grate (the Schwenker) over beechwood embers. Serve it with potato salad, a crusty roll, and a cold beer, the way it's done.","school":"Backyard","image":"/images/german-schwenkbraten.jpg","ingredients":[{"group":"Pork","items":["4 pork neck steaks, about 8 oz each, 1 1/2 inches thick"]},{"group":"Marinade","items":["1/2 cup vegetable oil","2 large onions, sliced","3 cloves garlic, crushed","5 juniper berries, crushed","1 Tbsp German or Dijon mustard","1 tsp dried thyme","1 tsp dried oregano","1 tsp smoked paprika","1 tsp salt","1/2 tsp cayenne pepper","1/2 tsp black pepper"]}],"steps":[{"title":"Marinate","body":"Rub the pork with the mustard, then mix with all marinade ingredients. Refrigerate 24-48 hours \u2014 the long soak is what makes it Schwenkbraten."},{"title":"Grill","body":"Shake off the excess marinade. Grill over medium beechwood or charcoal embers about 10 minutes per side to 145\u00b0F internal, grilling the onion slices alongside."},{"title":"Rest","body":"Rest 5 minutes. Serve with potato salad, crusty rolls, and beer."}]},{"slug":"chicken-satay","title":"Chicken Satay with Peanut Sauce","region":"backyard","protein":"poultry","difficulty":"easy","hours":{"min":0.5,"max":0.75},"servings":"Serves 4-6","wood":"Hot charcoal grill","pitTemp":"Hot grill","finish":"165\u00b0F, lightly charred","summary":"Thai-style turmeric chicken skewers over hot coals, with a rich coconut-peanut dipping sauce.","story":"Satay is Southeast Asia's great street food \u2014 chicken strips in a turmeric-coconut marinade, grilled fast over charcoal, dunked in peanut sauce. The marinade does double duty: color, flavor, and just enough sugar to char at the edges. Don't skimp on the peanut sauce; it's half the dish.","school":"Backyard","image":"/images/chicken-satay.jpg","ingredients":[{"group":"Chicken","items":["2 lbs chicken thigh, cut in long strips","Bamboo skewers, soaked 30 minutes"]},{"group":"Marinade","items":["1/2 cup coconut milk","2 Tbsp red curry paste","2 Tbsp fish sauce","2 Tbsp brown sugar","1 Tbsp oil","1 tsp turmeric"]},{"group":"Peanut sauce","items":["1/2 cup peanut butter","1/2 cup coconut milk","2 Tbsp red curry paste","2 Tbsp fish sauce","2 Tbsp brown sugar","Juice of 1 lime"]}],"steps":[{"title":"Marinate","body":"Coat the chicken in the marinade and refrigerate at least 2 hours, up to overnight. Thread onto skewers."},{"title":"Make the sauce","body":"Simmer the peanut sauce ingredients 5 minutes, whisking, until smooth and glossy. Thin with a splash of water if needed."},{"title":"Grill","body":"Grill over hot charcoal 3-4 minutes per side until lightly charred and 165\u00b0F inside. Serve with the warm peanut sauce, cucumber, and red onion."}]},{"slug":"tacos-al-pastor","title":"Tacos al Pastor","region":"backyard","protein":"pork","difficulty":"weekend","hours":{"min":1,"max":1.5},"servings":"Serves 8-10","wood":"Hot grill or trompo","pitTemp":"Hot grill","finish":"Crisped edges, charred pineapple","summary":"Achiote-marinated pork stacked trompo-style with pineapple on top \u2014 the taco that Lebanese immigrants gave Mexico.","story":"Al pastor is shawarma's Mexican grandchild: Lebanese immigrants brought the vertical spit, Mexico gave it achiote, dried chiles, and pineapple. At home, stack the marinated pork on a vertical skewer (or just grill it hot in batches) with a pineapple on top, shave it thin, and build tacos with charred pineapple, onion, and cilantro.","school":"Backyard","image":"/images/tacos-al-pastor.jpg","ingredients":[{"group":"Pork","items":["3 lbs pork shoulder, sliced thin"]},{"group":"Adobo","items":["3 oz achiote paste","1/2 cup pineapple juice","1/4 cup white vinegar","4 dried guajillo chiles, stemmed, seeded, and soaked","4 cloves garlic","1 tsp dried oregano","1/2 tsp cumin","1 Tbsp salt"]},{"group":"To serve","items":["1 whole pineapple","Corn tortillas","Diced onion and cilantro","Lime wedges"]}],"steps":[{"title":"Marinate","body":"Blend the adobo ingredients smooth and coat the pork. Refrigerate overnight \u2014 the achiote needs time to work."},{"title":"Stack","body":"Stack the pork on a vertical skewer set in a halved onion base, crowned with the pineapple (trompo-style). No vertical setup? Just grill the slices hot in batches."},{"title":"Cook","body":"Roast or grill, turning, until the edges crisp and char \u2014 about 45-60 minutes on a trompo, less in batches. Shave thin."},{"title":"Build tacos","body":"Pile onto warm corn tortillas with charred pineapple chunks, onion, cilantro, and lime."}]},{"slug":"huli-huli-chicken","title":"Hawaiian Huli Huli Chicken","region":"backyard","protein":"poultry","difficulty":"easy","hours":{"min":1,"max":1.25},"servings":"Serves 6","wood":"Charcoal or kiawe","pitTemp":"Medium grill","finish":"165\u00b0F internal, caramelized","summary":"Hawaii's roadside legend: chicken in a soy-pineapple-ginger glaze, turned again and again over the fire.","story":"Huli huli means 'turn turn' \u2014 and that's the whole technique. Since 1955, when Ernest Morgado grilled it for a farmers' gathering, this soy-pineapple-ginger chicken has been Hawaii's fundraiser and roadside staple. Marinate it, grill it, and keep turning and basting until the glaze caramelizes dark and sticky. Grill some pineapple rings alongside \u2014 that's not optional.","school":"Backyard","image":"/images/huli-huli-chicken.jpg","ingredients":[{"group":"Chicken","items":["4 lbs bone-in chicken thighs"]},{"group":"Huli huli marinade","items":["1 cup soy sauce","1 cup pineapple juice","1/2 cup brown sugar","1/4 cup ketchup","2 Tbsp rice vinegar","1 Tbsp fresh ginger, grated","4 cloves garlic, minced","1 tsp sesame oil"]},{"group":"To serve","items":["Grilled pineapple rings","Steamed rice","Sliced green onions"]}],"steps":[{"title":"Marinate","body":"Whisk the marinade ingredients. Reserve 1 cup for basting; pour the rest over the chicken and refrigerate 4 hours or overnight."},{"title":"Grill and turn","body":"Grill over medium heat, turning every 5 minutes and basting with the reserved marinade \u2014 huli huli, turn turn \u2014 about 35-45 minutes."},{"title":"Finish","body":"Cook to 165\u00b0F internal with a dark caramelized glaze. Rest 10 minutes. Serve with grilled pineapple and rice."}]},{"slug":"israeli-shishlik","title":"Israeli Shishlik","region":"backyard","protein":"poultry","difficulty":"easy","hours":{"min":0.5,"max":0.75},"servings":"Serves 6","wood":"Charcoal grill","pitTemp":"Hot grill","finish":"165\u00b0F internal, charred edges","summary":"Israel's backyard skewers: cumin-and-paprika chicken grilled over coals, served with hummus and Israeli salad.","story":"In Israel, barbecue is 'al ha'esh' \u2014 on the fire \u2014 and shishlik is the weeknight hero: chicken cubes in olive oil, lemon, cumin, and paprika, grilled fast over hot coals. No fancy equipment, no long smoke, just bold spice and fire. Pile it into pita with hummus, Israeli salad, and a squeeze of lemon, and dinner's done.","school":"Backyard","image":"/images/israeli-shishlik.jpg","ingredients":[{"group":"Chicken","items":["2 1/2 lbs boneless chicken thighs, cut in 1 1/2-inch cubes"]},{"group":"Marinade","items":["1/3 cup olive oil","Juice of 2 lemons","2 Tbsp ground cumin","2 Tbsp sweet paprika","1 Tbsp garlic powder","4 cloves garlic, minced","2 tsp salt","1 tsp black pepper","1/4 cup chopped parsley"]},{"group":"To serve","items":["Warm pita","Hummus","Israeli salad (diced tomato, cucumber, red onion, parsley, lemon)","Lemon wedges"]}],"steps":[{"title":"Marinate","body":"Toss the chicken cubes in all the marinade ingredients. Refrigerate at least 1 hour, up to 8."},{"title":"Skewer and grill","body":"Thread onto skewers. Grill hot, 3-4 minutes per side, until charred at the edges and 165\u00b0F internal."},{"title":"Serve","body":"Slide into warm pita with hummus, Israeli salad, and lemon. Eat over the plate \u2014 it drips."}]},{"slug":"boerewors","title":"South African Boerewors","region":"backyard","protein":"sausage","difficulty":"medium","hours":{"min":1,"max":1.5},"servings":"Makes about 4 lbs","wood":"Hardwood coals (braai)","pitTemp":"Medium coals","finish":"160\u00b0F internal","summary":"The coil sausage of the South African braai: coriander-scented beef and pork, grilled in one long spiral.","story":"Boerewors \u2014 'farmer's sausage' \u2014 is the heart of the South African braai. By law it's mostly meat, but the soul is in the spice: toasted coriander above all, with nutmeg, cloves, and black pepper behind it. It's made and grilled in one long coil, never links. If you've got a grinder and stuffer, make it from scratch; if not, find a South African butcher and grill it right \u2014 medium coals, turned gently, never pierced.","school":"Backyard","image":"/images/boerewors.jpg","ingredients":[{"group":"Sausage","items":["2 1/2 lbs beef chuck, cubed","1 1/2 lbs pork shoulder, cubed","1/2 lb pork fatback, cubed","1/4 cup red wine vinegar","2 Tbsp toasted coriander seed, cracked","1 Tbsp coarse salt","2 tsp black pepper","1 tsp ground nutmeg","1/2 tsp ground cloves","Hog casings, rinsed"]}],"steps":[{"title":"Grind","body":"Chill the meat and fat until nearly frozen. Grind through a coarse plate into a cold bowl."},{"title":"Season and mix","body":"Add the vinegar and spices. Mix with cold hands just until tacky \u2014 don't overwork it. Fry a small patty and adjust salt."},{"title":"Stuff","body":"Stuff into hog casings in one continuous coil \u2014 no links. Prick any air pockets."},{"title":"Braai","body":"Grill over medium coals 20-25 minutes, turning gently, to 160\u00b0F internal. Never pierce the casing. Slice the coil at the table."}]},{"slug":"ember-southwest-rub","title":"Ember Southwest Rub","region":"backyard","protein":"rubs","difficulty":"easy","hours":{"min":0.1,"max":0.1},"servings":"Makes about 3/4 cup","wood":"\u2014","pitTemp":"\u2014","finish":"Mixed and jarred","summary":"Chipotle, cumin, and Hatch chile \u2014 the dry half of the Ember Southwest lineup.","story":"Every sauce needs its rub. This is the dry half of the Southwest lineup: chipotle for smoke, cumin for earth, Hatch chile powder for that New Mexico kick Kelly loves, and brown sugar to caramelize it all. Rub it on the Hatch thighs, dust it over wings, or shake it on ribs \u2014 then finish with the Ember Southwest BBQ Sauce.","school":"Backyard","image":"/images/ember-southwest-rub.jpg","ingredients":[{"group":"Rub","items":["1/4 cup brown sugar","2 Tbsp chipotle powder","2 Tbsp ground cumin","1 Tbsp Hatch green chile powder (or New Mexico chile powder)","1 Tbsp smoked paprika","1 Tbsp garlic powder","1 Tbsp onion powder","2 tsp kosher salt","1 tsp black pepper","1 tsp Mexican oregano","1/2 tsp cayenne"]}],"steps":[{"title":"Mix","body":"Whisk everything together, breaking up any lumps in the brown sugar."},{"title":"Store","body":"Keep in an airtight jar away from heat and light. Good for 6 months."},{"title":"Use","body":"Rub generously on chicken, pork, or beef 1 hour before cooking (overnight for big cuts). Pair with Ember Southwest BBQ Sauce."}]},{"slug":"smoked-barbecue-chicken","title":"Smoked Barbecue Chicken","region":"kentucky","protein":"poultry","difficulty":"weekend","hours":{"min":2.5,"max":3},"servings":"4","wood":"Hickory or apple","pitTemp":"275\u2013300\u00b0F","finish":"Thighs 175\u00b0F, breast 160\u00b0F","summary":"A whole bird spatchcocked and halved, rubbed with Ember rub and finished with a sticky Ember sauce glaze. The backyard bird done right.","story":"Halves are the working man's chicken \u2014 cheaper than breasts, more forgiving than a whole bird, and every piece gets smoke and sauce. Take a whole chicken, spatchcock it, and cut it in half. Season with Ember rub, smoke it steady, and don't sauce too early or the sugar burns before the meat's done. This is Kelly's backyard bird, the one from the grill photo.","school":"Kentucky backyard","image":"/images/smoked-barbecue-chicken.jpg","ingredients":[{"group":"Chicken","items":["1 whole chicken, 4\u20135 lb","Ember rub (or your favorite rub), enough to coat","1 cup Ember sauce (or your favorite barbecue sauce), thinned with a splash of apple juice if it's thick"]}],"steps":[{"title":"Spatchcock and halve","body":"Cut out the backbone, press the breast flat, then cut the bird in half through the breastbone. Pat dry. Season all over with Ember rub \u2014 under the skin where you can reach."},{"title":"Smoke","body":"Pit at 275\u2013300\u00b0F with hickory or apple, skin-side up. About 2 to 2\u00bd hours."},{"title":"Glaze \u2014 your call","body":"When the thighs read 165\u00b0F, it\u2019s your choice: brush on the Ember sauce and give it 20\u201330 more minutes so the glaze sets and gets sticky, or leave the bird dry if you like the bark just the way it is."},{"title":"Rest and serve","body":"Pull at 175\u00b0F in the thigh (breast 160\u00b0F). Rest 10 minutes, then cut each half into leg and breast portions."}],"proTips":[{"voice":"Pit note","text":"Sauce late \u2014 if you sauce at all. Sugar burns, so the glaze goes on in the last half hour, not the first. No sauce? The bark stands on its own."},{"voice":"Kentucky","text":"Halves over direct heat for the last 5 minutes if you want the skin to bite through."}],"milestones":[{"id":"on","label":"On the pit","hint":"275\u2013300\u00b0F, skin up, hickory or apple."},{"id":"glaze","label":"Glaze","hint":"Thighs 165\u00b0F \u2014 brush on Ember sauce."},{"id":"pull","label":"Pull","hint":"Thighs 175\u00b0F, breast 160\u00b0F. Rest 10 minutes."}]},{"slug":"smoked-canadian-bacon","title":"Smoked Canadian Bacon","region":"kentucky","protein":"pork","difficulty":"weekend-cook","hours":{"min":168,"max":171},"servings":"About 3 lbs of bacon","summary":"Turn a pork loin into deli-style Canadian bacon with a simple 7-day cure and a kiss of smoke.","story":"Canadian bacon isn't bacon at all \u2014 it's cured pork loin, smoked gentle and sliced thin. The cure does the real work over a week in the fridge; the smoker just finishes the job. Slice it thin for breakfast sandwiches, chop it into hash, or eat it cold right off the slicer.","ingredients":[{"group":"The cure","items":["1 whole pork loin, 3\u20134 lbs, trimmed of excess fat and silverskin","1/4 cup kosher salt","1/4 cup brown sugar, packed","1 tsp pink curing salt (Prague Powder #1)","1 Tbsp coarse black pepper","1 tsp garlic powder","1 tsp onion powder"]}],"steps":[{"title":"Mix the cure","body":"Stir the kosher salt, brown sugar, pink curing salt, black pepper, garlic powder, and onion powder together in a bowl."},{"title":"Rub the loin","body":"Coat the pork loin all over with the cure \u2014 every surface, no bare spots."},{"title":"Cure 7 days","body":"Seal the loin in a large zip-top or vacuum bag, squeezing out the air. Set it on a tray in the fridge and flip the bag once a day for 7 days. It will release liquid \u2014 that's normal."},{"title":"Rinse and dry","body":"Rinse the loin under cold water and pat dry. Set it on a rack over a tray, uncovered, in the fridge overnight. The dry surface takes smoke better."},{"title":"Smoke","body":"Run the smoker at 200\u2013225\u00b0F with fruit wood or hickory. Smoke the loin to 145\u00b0F internal, about 2 to 3 hours."},{"title":"Rest, chill, slice","body":"Rest 20 minutes, then chill fully in the fridge before slicing thin, like deli meat."}],"proTips":[{"voice":"Pit note","text":"Don't skip the pink curing salt \u2014 it's what keeps the meat rosy and safe through the long cure. 1 teaspoon per 5 lbs of meat is the rule."},{"voice":"Serving","text":"Chill it firm before slicing \u2014 a cold loin cuts thin and even. Fry slices for breakfast sandwiches or chop into hash."}],"image":"/images/smoked-canadian-bacon.jpg"},{"slug":"smoked-baby-back-ribs","title":"Kelly's Smoked Baby Back Ribs","region":"kentucky","protein":"pork","difficulty":"weekend","hours":{"min":4,"max":5},"servings":"3\u20134","summary":"Real ribs off Kelly's smoker \u2014 sweet heat, crackly crust, clean bite off the bone.","story":"Baby backs are the leaner, quicker rib \u2014 they take smoke beautifully and don't need all day. The crust is the thing: a little turbinado sugar over the rub goes crackly under the heat, and the sauce goes on late so it sets instead of burns.","ingredients":[{"group":"The ribs","items":["1-2 racks baby back ribs","Ember rub (or your favorite rib rub), enough to coat","2 Tbsp turbinado sugar","Ember sauce (or your favorite barbecue sauce), for glazing","Butter, brown sugar, honey, and a sprinkle of rub (for wrapping, optional)"]}],"steps":[{"title":"Prep","body":"Pull the membrane from the bone side. Coat the racks all over with Ember rub, then a light shake of turbinado sugar over the top."},{"title":"Smoke","body":"Pit at 250\u00b0F with hickory or oak, bone-side down, about 3 hours \u2014 until the bark sets and the color goes deep."},{"title":"Wrap or ride it out","body":"Your choice: wrap in foil with pats of butter, a handful of brown sugar, a drizzle of honey, a sprinkle of extra rub, and a splash of cherry Dr Pepper or whatever flavor soda you like for about an hour for bend-tender ribs, or skip the wrap and ride it out for a firmer bite."},{"title":"Glaze","body":"Brush on the Ember sauce and give it 20\u201330 minutes so the glaze sets sticky."},{"title":"Rest and slice","body":"Rest 10 minutes, then slice between the bones."}],"proTips":[{"voice":"Kelly","text":"Turbinado for the crust \u2014 crackly, not burnt."},{"voice":"Kelly","text":"Sauce late. Sugar burns \u2014 the glaze goes on at the end."},{"voice":"Bark trick","text":"Cherry Dr Pepper mixed with brown sugar, mopped or sprayed on during the cook, builds a crackling bark."}],"image":"/images/smoked-baby-back-ribs.jpg"},{"slug":"smoked-pork-tenderloin","title":"Smoked Pork Tenderloin","region":"kentucky","protein":"pork","difficulty":"weeknight","hours":{"min":1,"max":2},"servings":"2\u20133","summary":"Smoke it gentle, then char it like a steakhouse steak \u2014 juicy, barely pink, crosshatch crust.","story":"There's a hundred ways to do a tenderloin, but treat it like a good steak and it eats like one. Smoke brings the flavor; a screaming-hot finish on GrillGrates brings the crust. Pull it at 155\u00b0F and it stays juicy with just a blush of pink.","ingredients":[{"group":"The tenderloin","items":["1\u20132 pork tenderloins, about 1 lb each, silverskin trimmed","Ember rub (or your favorite steak seasoning), enough to coat","Light coat of olive oil or yellow mustard as a binder"]}],"steps":[{"title":"Prep","body":"Trim the silverskin. Rub with a light coat of oil or mustard, then season all over with Ember rub."},{"title":"Smoke","body":"Pit at 250\u00b0F with apple or cherry wood. Smoke to about 140\u00b0F internal \u2014 roughly an hour."},{"title":"Char it","body":"Move to screaming-hot GrillGrates over direct heat. Roll the tenderloins to char all sides with crosshatch marks, pulling at 155\u00b0F internal."},{"title":"Rest and slice","body":"Rest 10 minutes, then slice into medallions. Barely pink, juicy, steakhouse crust."}],"proTips":[{"voice":"Kelly","text":"I run mine to 155\u00b0F \u2014 stays juicy with just a blush of pink. Don't let it ride past that."},{"voice":"Kelly","text":"GrillGrates are worth it \u2014 that crosshatch char eats like a professional steakhouse."}],"image":"/images/smoked-pork-tenderloin.jpg"}]
+[
+ {
+  "slug": "korean-galbi",
+  "title": "Korean Galbi (Grilled Short Ribs)",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Hot charcoal",
+  "pitTemp": "Hot grill",
+  "finish": "Caramelized edges",
+  "summary": "Flanken-cut short ribs in a sweet-savory soy and Asian pear marinade, grilled hot and fast Korean BBQ-style.",
+  "story": "Galbi is Korea's backyard barbecue: thin-cut short ribs soaked overnight in soy, sugar, garlic, and grated Asian pear \u2014 the pear tenderizes and sweetens at once. Then screaming-hot grill, a few minutes a side, wrapped in lettuce with ssamjang and kimchi. Fast, loud, and gone in minutes.",
+  "school": "Backyard",
+  "image": "/images/korean-galbi.jpg",
+  "ingredients": [
+   {
+    "group": "Beef",
+    "items": [
+     "4 lbs beef short ribs, flanken cut 1/2-inch thick"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1 cup soy sauce",
+     "1/2 cup sugar",
+     "1/4 cup grated Asian pear (or kiwi)",
+     "6 cloves garlic, minced",
+     "2 Tbsp sesame oil",
+     "4 green onions, chopped",
+     "1 tsp black pepper",
+     "1/4 cup water"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Lettuce leaves",
+     "Ssamjang",
+     "Kimchi",
+     "Steamed rice"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade, pour over the ribs, and refrigerate overnight \u2014 8 hours minimum."
+   },
+   {
+    "title": "Grill hot",
+    "body": "Grill over screaming-hot charcoal 3-4 minutes per side until caramelized at the edges."
+   },
+   {
+    "title": "Wrap and eat",
+    "body": "Serve with lettuce, ssamjang, kimchi, and rice. Wrap a bite of everything and eat it in one go \u2014 that's the way."
+   }
+  ]
+ },
+ {
+  "slug": "filipino-pork-bbq-skewers",
+  "title": "Filipino Pork BBQ Skewers",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.75,
+   "max": 1
+  },
+  "servings": "Serves 6-8",
+  "wood": "Hot charcoal grill",
+  "pitTemp": "Hot grill",
+  "finish": "Charred edges, 145\u00b0F+",
+  "summary": "The Philippines' street-corner classic: pork in a sweet banana-ketchup marinade, skewered and grilled over hot coals.",
+  "story": "Walk past any grill in the Philippines and you'll smell these \u2014 pork shoulder soaked overnight in banana ketchup, soy, calamansi, and brown sugar, then grilled fast over screaming coals until the edges char and caramelize. Sweet, sticky, smoky. Make extra; they disappear.",
+  "school": "Backyard",
+  "image": "/images/filipino-pork-bbq-skewers.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "3 lbs pork shoulder, sliced thin (about 1/4 inch)"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup banana ketchup",
+     "1/2 cup soy sauce",
+     "1/4 cup calamansi or lemon juice",
+     "1/2 cup brown sugar",
+     "8 cloves garlic, minced",
+     "1 Tbsp black pepper",
+     "1/4 cup lemon-lime soda (optional, but authentic)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade and pour over the pork. Refrigerate overnight \u2014 8 hours minimum for the full sweet-savory soak."
+   },
+   {
+    "title": "Skewer",
+    "body": "Thread the pork onto bamboo skewers (soaked 30 minutes so they don't burn), weaving the slices accordion-style."
+   },
+   {
+    "title": "Grill hot",
+    "body": "Grill over hot charcoal 3-4 minutes per side, basting with the reserved marinade, until charred at the edges and cooked through."
+   }
+  ]
+ },
+ {
+  "slug": "yakitori",
+  "title": "Yakitori (Chicken & Negi Skewers)",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "medium",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Binchotan or hot charcoal",
+  "pitTemp": "Hot grill",
+  "finish": "165\u00b0F, lacquered with tare",
+  "summary": "Japan's charcoal-grilled chicken skewers \u2014 thigh and negi onion, brushed with sweet-savory tare over blazing coals.",
+  "story": "Yakitori is Japanese barbecue stripped to the essentials: chicken thigh, long green onion, blazing binchotan charcoal, and tare \u2014 a syrupy glaze of soy, mirin, sake, and sugar. The trick is brushing the tare on again and again until the skewers shine like lacquer. Salt-and-pepper (shio) is the purist's move; tare is the crowd-pleaser.",
+  "school": "Backyard",
+  "image": "/images/yakitori.jpg",
+  "ingredients": [
+   {
+    "group": "Skewers",
+    "items": [
+     "2 lbs boneless skin-on chicken thighs, cut in 1-inch cubes",
+     "4 stalks negi (long green onion), cut in 1 1/2-inch pieces",
+     "Bamboo skewers, soaked 30 minutes"
+    ]
+   },
+   {
+    "group": "Tare",
+    "items": [
+     "1/2 cup soy sauce",
+     "1/2 cup mirin",
+     "1/4 cup sake",
+     "2 Tbsp sugar"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Make the tare",
+    "body": "Simmer the tare ingredients 10 minutes until slightly syrupy. Set aside \u2014 this is liquid gold."
+   },
+   {
+    "title": "Skewer",
+    "body": "Alternate chicken and negi on the skewers, packing them snug."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over the hottest charcoal you've got, turning often and brushing with tare every turn, 8-10 minutes until the chicken hits 165\u00b0F and shines."
+   }
+  ]
+ },
+ {
+  "slug": "russian-shashlik",
+  "title": "Russian Shashlik",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "medium",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 6-8",
+  "wood": "Hardwood coals, white-ashed",
+  "pitTemp": "Medium coals, no flame",
+  "finish": "Juicy, 145\u00b0F+",
+  "summary": "Russia's iconic pork-neck kebab: onion and vinegar marinade, skewered tight, grilled over gray coals.",
+  "story": "Shashlik is Russia's answer to barbecue \u2014 pork neck (the fattiest, juiciest cut) drowned in sliced onion, vinegar, salt, and pepper, then grilled over coals burned down to gray ash. The Soviet-era classic uses nothing fancier than that, and it's perfect. Serve it with pickled onions and don't you dare use a fork.",
+  "school": "Backyard",
+  "image": "/images/russian-shashlik.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "4 lbs pork neck, cut in 2-inch cubes"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "3 large onions, sliced in thick rings",
+     "3 Tbsp white vinegar",
+     "1 cup cold water",
+     "1 Tbsp salt",
+     "2 tsp black pepper",
+     "3 bay leaves"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Pickled red onions",
+     "Fresh dill and parsley"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Squeeze half the onion rings with your hands to release the juice, then mix everything with the pork. Dissolve the vinegar in the water and pour over. Refrigerate 6 hours to overnight \u2014 longer is better."
+   },
+   {
+    "title": "Skewer",
+    "body": "Thread the pork tightly onto flat metal skewers, alternating with onion rings. Tight packing keeps the meat juicy."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over coals burned to gray-white ash \u2014 no open flame. Turn frequently, 15-20 minutes, sprinkling with water if flames flare. Cut one open to check; serve on the skewer with pickled onions."
+   }
+  ]
+ },
+ {
+  "slug": "german-schwenkbraten",
+  "title": "German Schwenkbraten",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4",
+  "wood": "Beechwood or charcoal",
+  "pitTemp": "Medium grill",
+  "finish": "145\u00b0F internal",
+  "summary": "Saarland's swinging-grate pork steaks \u2014 mustard, onion, and juniper marinade over beechwood fire.",
+  "story": "Yes, the Germans barbecue \u2014 and in Saarland they take it seriously. Thick pork neck steaks marinate a full day in mustard, onion, juniper, and paprika, then grill on a swinging grate (the Schwenker) over beechwood embers. Serve it with potato salad, a crusty roll, and a cold beer, the way it's done.",
+  "school": "Backyard",
+  "image": "/images/german-schwenkbraten.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "4 pork neck steaks, about 8 oz each, 1 1/2 inches thick"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup vegetable oil",
+     "2 large onions, sliced",
+     "3 cloves garlic, crushed",
+     "5 juniper berries, crushed",
+     "1 Tbsp German or Dijon mustard",
+     "1 tsp dried thyme",
+     "1 tsp dried oregano",
+     "1 tsp smoked paprika",
+     "1 tsp salt",
+     "1/2 tsp cayenne pepper",
+     "1/2 tsp black pepper"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Rub the pork with the mustard, then mix with all marinade ingredients. Refrigerate 24-48 hours \u2014 the long soak is what makes it Schwenkbraten."
+   },
+   {
+    "title": "Grill",
+    "body": "Shake off the excess marinade. Grill over medium beechwood or charcoal embers about 10 minutes per side to 145\u00b0F internal, grilling the onion slices alongside."
+   },
+   {
+    "title": "Rest",
+    "body": "Rest 5 minutes. Serve with potato salad, crusty rolls, and beer."
+   }
+  ]
+ },
+ {
+  "slug": "chicken-satay",
+  "title": "Chicken Satay with Peanut Sauce",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 4-6",
+  "wood": "Hot charcoal grill",
+  "pitTemp": "Hot grill",
+  "finish": "165\u00b0F, lightly charred",
+  "summary": "Thai-style turmeric chicken skewers over hot coals, with a rich coconut-peanut dipping sauce.",
+  "story": "Satay is Southeast Asia's great street food \u2014 chicken strips in a turmeric-coconut marinade, grilled fast over charcoal, dunked in peanut sauce. The marinade does double duty: color, flavor, and just enough sugar to char at the edges. Don't skimp on the peanut sauce; it's half the dish.",
+  "school": "Backyard",
+  "image": "/images/chicken-satay.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "2 lbs chicken thigh, cut in long strips",
+     "Bamboo skewers, soaked 30 minutes"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/2 cup coconut milk",
+     "2 Tbsp red curry paste",
+     "2 Tbsp fish sauce",
+     "2 Tbsp brown sugar",
+     "1 Tbsp oil",
+     "1 tsp turmeric"
+    ]
+   },
+   {
+    "group": "Peanut sauce",
+    "items": [
+     "1/2 cup peanut butter",
+     "1/2 cup coconut milk",
+     "2 Tbsp red curry paste",
+     "2 Tbsp fish sauce",
+     "2 Tbsp brown sugar",
+     "Juice of 1 lime"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Coat the chicken in the marinade and refrigerate at least 2 hours, up to overnight. Thread onto skewers."
+   },
+   {
+    "title": "Make the sauce",
+    "body": "Simmer the peanut sauce ingredients 5 minutes, whisking, until smooth and glossy. Thin with a splash of water if needed."
+   },
+   {
+    "title": "Grill",
+    "body": "Grill over hot charcoal 3-4 minutes per side until lightly charred and 165\u00b0F inside. Serve with the warm peanut sauce, cucumber, and red onion."
+   }
+  ]
+ },
+ {
+  "slug": "tacos-al-pastor",
+  "title": "Tacos al Pastor",
+  "region": "backyard",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "Serves 8-10",
+  "wood": "Hot grill or trompo",
+  "pitTemp": "Hot grill",
+  "finish": "Crisped edges, charred pineapple",
+  "summary": "Achiote-marinated pork stacked trompo-style with pineapple on top \u2014 the taco that Lebanese immigrants gave Mexico.",
+  "story": "Al pastor is shawarma's Mexican grandchild: Lebanese immigrants brought the vertical spit, Mexico gave it achiote, dried chiles, and pineapple. At home, stack the marinated pork on a vertical skewer (or just grill it hot in batches) with a pineapple on top, shave it thin, and build tacos with charred pineapple, onion, and cilantro.",
+  "school": "Backyard",
+  "image": "/images/tacos-al-pastor.jpg",
+  "ingredients": [
+   {
+    "group": "Pork",
+    "items": [
+     "3 lbs pork shoulder, sliced thin"
+    ]
+   },
+   {
+    "group": "Adobo",
+    "items": [
+     "3 oz achiote paste",
+     "1/2 cup pineapple juice",
+     "1/4 cup white vinegar",
+     "4 dried guajillo chiles, stemmed, seeded, and soaked",
+     "4 cloves garlic",
+     "1 tsp dried oregano",
+     "1/2 tsp cumin",
+     "1 Tbsp salt"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "1 whole pineapple",
+     "Corn tortillas",
+     "Diced onion and cilantro",
+     "Lime wedges"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Blend the adobo ingredients smooth and coat the pork. Refrigerate overnight \u2014 the achiote needs time to work."
+   },
+   {
+    "title": "Stack",
+    "body": "Stack the pork on a vertical skewer set in a halved onion base, crowned with the pineapple (trompo-style). No vertical setup? Just grill the slices hot in batches."
+   },
+   {
+    "title": "Cook",
+    "body": "Roast or grill, turning, until the edges crisp and char \u2014 about 45-60 minutes on a trompo, less in batches. Shave thin."
+   },
+   {
+    "title": "Build tacos",
+    "body": "Pile onto warm corn tortillas with charred pineapple chunks, onion, cilantro, and lime."
+   }
+  ]
+ },
+ {
+  "slug": "huli-huli-chicken",
+  "title": "Hawaiian Huli Huli Chicken",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1.25
+  },
+  "servings": "Serves 6",
+  "wood": "Charcoal or kiawe",
+  "pitTemp": "Medium grill",
+  "finish": "165\u00b0F internal, caramelized",
+  "summary": "Hawaii's roadside legend: chicken in a soy-pineapple-ginger glaze, turned again and again over the fire.",
+  "story": "Huli huli means 'turn turn' \u2014 and that's the whole technique. Since 1955, when Ernest Morgado grilled it for a farmers' gathering, this soy-pineapple-ginger chicken has been Hawaii's fundraiser and roadside staple. Marinate it, grill it, and keep turning and basting until the glaze caramelizes dark and sticky. Grill some pineapple rings alongside \u2014 that's not optional.",
+  "school": "Backyard",
+  "image": "/images/huli-huli-chicken.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "4 lbs bone-in chicken thighs"
+    ]
+   },
+   {
+    "group": "Huli huli marinade",
+    "items": [
+     "1 cup soy sauce",
+     "1 cup pineapple juice",
+     "1/2 cup brown sugar",
+     "1/4 cup ketchup",
+     "2 Tbsp rice vinegar",
+     "1 Tbsp fresh ginger, grated",
+     "4 cloves garlic, minced",
+     "1 tsp sesame oil"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Grilled pineapple rings",
+     "Steamed rice",
+     "Sliced green onions"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Whisk the marinade ingredients. Reserve 1 cup for basting; pour the rest over the chicken and refrigerate 4 hours or overnight."
+   },
+   {
+    "title": "Grill and turn",
+    "body": "Grill over medium heat, turning every 5 minutes and basting with the reserved marinade \u2014 huli huli, turn turn \u2014 about 35-45 minutes."
+   },
+   {
+    "title": "Finish",
+    "body": "Cook to 165\u00b0F internal with a dark caramelized glaze. Rest 10 minutes. Serve with grilled pineapple and rice."
+   }
+  ]
+ },
+ {
+  "slug": "israeli-shishlik",
+  "title": "Israeli Shishlik",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.5,
+   "max": 0.75
+  },
+  "servings": "Serves 6",
+  "wood": "Charcoal grill",
+  "pitTemp": "Hot grill",
+  "finish": "165\u00b0F internal, charred edges",
+  "summary": "Israel's backyard skewers: cumin-and-paprika chicken grilled over coals, served with hummus and Israeli salad.",
+  "story": "In Israel, barbecue is 'al ha'esh' \u2014 on the fire \u2014 and shishlik is the weeknight hero: chicken cubes in olive oil, lemon, cumin, and paprika, grilled fast over hot coals. No fancy equipment, no long smoke, just bold spice and fire. Pile it into pita with hummus, Israeli salad, and a squeeze of lemon, and dinner's done.",
+  "school": "Backyard",
+  "image": "/images/israeli-shishlik.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "2 1/2 lbs boneless chicken thighs, cut in 1 1/2-inch cubes"
+    ]
+   },
+   {
+    "group": "Marinade",
+    "items": [
+     "1/3 cup olive oil",
+     "Juice of 2 lemons",
+     "2 Tbsp ground cumin",
+     "2 Tbsp sweet paprika",
+     "1 Tbsp garlic powder",
+     "4 cloves garlic, minced",
+     "2 tsp salt",
+     "1 tsp black pepper",
+     "1/4 cup chopped parsley"
+    ]
+   },
+   {
+    "group": "To serve",
+    "items": [
+     "Warm pita",
+     "Hummus",
+     "Israeli salad (diced tomato, cucumber, red onion, parsley, lemon)",
+     "Lemon wedges"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Marinate",
+    "body": "Toss the chicken cubes in all the marinade ingredients. Refrigerate at least 1 hour, up to 8."
+   },
+   {
+    "title": "Skewer and grill",
+    "body": "Thread onto skewers. Grill hot, 3-4 minutes per side, until charred at the edges and 165\u00b0F internal."
+   },
+   {
+    "title": "Serve",
+    "body": "Slide into warm pita with hummus, Israeli salad, and lemon. Eat over the plate \u2014 it drips."
+   }
+  ]
+ },
+ {
+  "slug": "boerewors",
+  "title": "South African Boerewors",
+  "region": "backyard",
+  "protein": "sausage",
+  "difficulty": "medium",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "Makes about 4 lbs",
+  "wood": "Hardwood coals (braai)",
+  "pitTemp": "Medium coals",
+  "finish": "160\u00b0F internal",
+  "summary": "The coil sausage of the South African braai: coriander-scented beef and pork, grilled in one long spiral.",
+  "story": "Boerewors \u2014 'farmer's sausage' \u2014 is the heart of the South African braai. By law it's mostly meat, but the soul is in the spice: toasted coriander above all, with nutmeg, cloves, and black pepper behind it. It's made and grilled in one long coil, never links. If you've got a grinder and stuffer, make it from scratch; if not, find a South African butcher and grill it right \u2014 medium coals, turned gently, never pierced.",
+  "school": "Backyard",
+  "image": "/images/boerewors.jpg",
+  "ingredients": [
+   {
+    "group": "Sausage",
+    "items": [
+     "2 1/2 lbs beef chuck, cubed",
+     "1 1/2 lbs pork shoulder, cubed",
+     "1/2 lb pork fatback, cubed",
+     "1/4 cup red wine vinegar",
+     "2 Tbsp toasted coriander seed, cracked",
+     "1 Tbsp coarse salt",
+     "2 tsp black pepper",
+     "1 tsp ground nutmeg",
+     "1/2 tsp ground cloves",
+     "Hog casings, rinsed"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Grind",
+    "body": "Chill the meat and fat until nearly frozen. Grind through a coarse plate into a cold bowl."
+   },
+   {
+    "title": "Season and mix",
+    "body": "Add the vinegar and spices. Mix with cold hands just until tacky \u2014 don't overwork it. Fry a small patty and adjust salt."
+   },
+   {
+    "title": "Stuff",
+    "body": "Stuff into hog casings in one continuous coil \u2014 no links. Prick any air pockets."
+   },
+   {
+    "title": "Braai",
+    "body": "Grill over medium coals 20-25 minutes, turning gently, to 160\u00b0F internal. Never pierce the casing. Slice the coil at the table."
+   }
+  ]
+ },
+ {
+  "slug": "ember-southwest-rub",
+  "title": "Ember Southwest Rub",
+  "region": "backyard",
+  "protein": "rubs",
+  "difficulty": "easy",
+  "hours": {
+   "min": 0.1,
+   "max": 0.1
+  },
+  "servings": "Makes about 3/4 cup",
+  "wood": "\u2014",
+  "pitTemp": "\u2014",
+  "finish": "Mixed and jarred",
+  "summary": "Chipotle, cumin, and Hatch chile \u2014 the dry half of the Ember Southwest lineup.",
+  "story": "Every sauce needs its rub. This is the dry half of the Southwest lineup: chipotle for smoke, cumin for earth, Hatch chile powder for that New Mexico kick Kelly loves, and brown sugar to caramelize it all. Rub it on the Hatch thighs, dust it over wings, or shake it on ribs \u2014 then finish with the Ember Southwest BBQ Sauce.",
+  "school": "Backyard",
+  "image": "/images/ember-southwest-rub.jpg",
+  "ingredients": [
+   {
+    "group": "Rub",
+    "items": [
+     "1/4 cup brown sugar",
+     "2 Tbsp chipotle powder",
+     "2 Tbsp ground cumin",
+     "1 Tbsp Hatch green chile powder (or New Mexico chile powder)",
+     "1 Tbsp smoked paprika",
+     "1 Tbsp garlic powder",
+     "1 Tbsp onion powder",
+     "2 tsp kosher salt",
+     "1 tsp black pepper",
+     "1 tsp Mexican oregano",
+     "1/2 tsp cayenne"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Mix",
+    "body": "Whisk everything together, breaking up any lumps in the brown sugar."
+   },
+   {
+    "title": "Store",
+    "body": "Keep in an airtight jar away from heat and light. Good for 6 months."
+   },
+   {
+    "title": "Use",
+    "body": "Rub generously on chicken, pork, or beef 1 hour before cooking (overnight for big cuts). Pair with Ember Southwest BBQ Sauce."
+   }
+  ]
+ },
+ {
+  "slug": "smoked-barbecue-chicken",
+  "title": "Smoked Barbecue Chicken",
+  "region": "kentucky",
+  "protein": "poultry",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 2.5,
+   "max": 3
+  },
+  "servings": "4",
+  "wood": "Hickory or apple",
+  "pitTemp": "275\u2013300\u00b0F",
+  "finish": "Thighs 175\u00b0F, breast 160\u00b0F",
+  "summary": "A whole bird spatchcocked and halved, rubbed with Ember rub and finished with a sticky Ember sauce glaze. The backyard bird done right.",
+  "story": "Halves are the working man's chicken \u2014 cheaper than breasts, more forgiving than a whole bird, and every piece gets smoke and sauce. Take a whole chicken, spatchcock it, and cut it in half. Season with Ember rub, smoke it steady, and don't sauce too early or the sugar burns before the meat's done. This is Kelly's backyard bird, the one from the grill photo.",
+  "school": "Kentucky backyard",
+  "image": "/images/smoked-barbecue-chicken.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "1 whole chicken, 4\u20135 lb",
+     "Ember rub (or your favorite rub), enough to coat",
+     "1 cup Ember sauce (or your favorite barbecue sauce), thinned with a splash of apple juice if it's thick"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Spatchcock and halve",
+    "body": "Cut out the backbone, press the breast flat, then cut the bird in half through the breastbone. Pat dry. Season all over with Ember rub \u2014 under the skin where you can reach."
+   },
+   {
+    "title": "Smoke",
+    "body": "Pit at 275\u2013300\u00b0F with hickory or apple, skin-side up. About 2 to 2\u00bd hours."
+   },
+   {
+    "title": "Glaze \u2014 your call",
+    "body": "When the thighs read 165\u00b0F, it\u2019s your choice: brush on the Ember sauce and give it 20\u201330 more minutes so the glaze sets and gets sticky, or leave the bird dry if you like the bark just the way it is."
+   },
+   {
+    "title": "Rest and serve",
+    "body": "Pull at 175\u00b0F in the thigh (breast 160\u00b0F). Rest 10 minutes, then cut each half into leg and breast portions."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "Sauce late \u2014 if you sauce at all. Sugar burns, so the glaze goes on in the last half hour, not the first. No sauce? The bark stands on its own."
+   },
+   {
+    "voice": "Kentucky",
+    "text": "Halves over direct heat for the last 5 minutes if you want the skin to bite through."
+   }
+  ],
+  "milestones": [
+   {
+    "id": "on",
+    "label": "On the pit",
+    "hint": "275\u2013300\u00b0F, skin up, hickory or apple."
+   },
+   {
+    "id": "glaze",
+    "label": "Glaze",
+    "hint": "Thighs 165\u00b0F \u2014 brush on Ember sauce."
+   },
+   {
+    "id": "pull",
+    "label": "Pull",
+    "hint": "Thighs 175\u00b0F, breast 160\u00b0F. Rest 10 minutes."
+   }
+  ]
+ },
+ {
+  "slug": "smoked-canadian-bacon",
+  "title": "Smoked Canadian Bacon",
+  "region": "kentucky",
+  "protein": "pork",
+  "difficulty": "weekend-cook",
+  "hours": {
+   "min": 168,
+   "max": 171
+  },
+  "servings": "About 3 lbs of bacon",
+  "summary": "Turn a pork loin into deli-style Canadian bacon with a simple 7-day cure and a kiss of smoke.",
+  "story": "Canadian bacon isn't bacon at all \u2014 it's cured pork loin, smoked gentle and sliced thin. The cure does the real work over a week in the fridge; the smoker just finishes the job. Slice it thin for breakfast sandwiches, chop it into hash, or eat it cold right off the slicer.",
+  "ingredients": [
+   {
+    "group": "The cure",
+    "items": [
+     "1 whole pork loin, 3\u20134 lbs, trimmed of excess fat and silverskin",
+     "1/4 cup kosher salt",
+     "1/4 cup brown sugar, packed",
+     "1 tsp pink curing salt (Prague Powder #1)",
+     "1 Tbsp coarse black pepper",
+     "1 tsp garlic powder",
+     "1 tsp onion powder"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Mix the cure",
+    "body": "Stir the kosher salt, brown sugar, pink curing salt, black pepper, garlic powder, and onion powder together in a bowl."
+   },
+   {
+    "title": "Rub the loin",
+    "body": "Coat the pork loin all over with the cure \u2014 every surface, no bare spots."
+   },
+   {
+    "title": "Cure 7 days",
+    "body": "Seal the loin in a large zip-top or vacuum bag, squeezing out the air. Set it on a tray in the fridge and flip the bag once a day for 7 days. It will release liquid \u2014 that's normal."
+   },
+   {
+    "title": "Rinse and dry",
+    "body": "Rinse the loin under cold water and pat dry. Set it on a rack over a tray, uncovered, in the fridge overnight. The dry surface takes smoke better."
+   },
+   {
+    "title": "Smoke",
+    "body": "Run the smoker at 200\u2013225\u00b0F with fruit wood or hickory. Smoke the loin to 145\u00b0F internal, about 2 to 3 hours."
+   },
+   {
+    "title": "Rest, chill, slice",
+    "body": "Rest 20 minutes, then chill fully in the fridge before slicing thin, like deli meat."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Pit note",
+    "text": "Don't skip the pink curing salt \u2014 it's what keeps the meat rosy and safe through the long cure. 1 teaspoon per 5 lbs of meat is the rule."
+   },
+   {
+    "voice": "Serving",
+    "text": "Chill it firm before slicing \u2014 a cold loin cuts thin and even. Fry slices for breakfast sandwiches or chop into hash."
+   }
+  ],
+  "image": "/images/smoked-canadian-bacon.jpg"
+ },
+ {
+  "slug": "smoked-baby-back-ribs",
+  "title": "Kelly's Smoked Baby Back Ribs",
+  "region": "kentucky",
+  "protein": "pork",
+  "difficulty": "weekend",
+  "hours": {
+   "min": 4,
+   "max": 5
+  },
+  "servings": "3\u20134",
+  "summary": "Real ribs off Kelly's smoker \u2014 sweet heat, crackly crust, clean bite off the bone.",
+  "story": "Baby backs are the leaner, quicker rib \u2014 they take smoke beautifully and don't need all day. The crust is the thing: a little turbinado sugar over the rub goes crackly under the heat, and the sauce goes on late so it sets instead of burns.",
+  "ingredients": [
+   {
+    "group": "The ribs",
+    "items": [
+     "1-2 racks baby back ribs",
+     "Ember rub (or your favorite rib rub), enough to coat",
+     "2 Tbsp turbinado sugar",
+     "Ember sauce (or your favorite barbecue sauce), for glazing",
+     "Butter, brown sugar, honey, and a sprinkle of rub (for wrapping, optional)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Prep",
+    "body": "Pull the membrane from the bone side. Coat the racks all over with Ember rub, then a light shake of turbinado sugar over the top."
+   },
+   {
+    "title": "Smoke",
+    "body": "Pit at 250\u00b0F with hickory or oak, bone-side down, about 3 hours \u2014 until the bark sets and the color goes deep."
+   },
+   {
+    "title": "Wrap or ride it out",
+    "body": "Your choice: wrap in foil with pats of butter, a handful of brown sugar, a drizzle of honey, a sprinkle of extra rub, and a splash of cherry Dr Pepper or whatever flavor soda you like for about an hour for bend-tender ribs, or skip the wrap and ride it out for a firmer bite."
+   },
+   {
+    "title": "Glaze",
+    "body": "Brush on the Ember sauce and give it 20\u201330 minutes so the glaze sets sticky."
+   },
+   {
+    "title": "Rest and slice",
+    "body": "Rest 10 minutes, then slice between the bones."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Kelly",
+    "text": "Turbinado for the crust \u2014 crackly, not burnt."
+   },
+   {
+    "voice": "Kelly",
+    "text": "Sauce late. Sugar burns \u2014 the glaze goes on at the end."
+   },
+   {
+    "voice": "Bark trick",
+    "text": "Cherry Dr Pepper mixed with brown sugar, mopped or sprayed on during the cook, builds a crackling bark."
+   }
+  ],
+  "image": "/images/smoked-baby-back-ribs.jpg"
+ },
+ {
+  "slug": "smoked-pork-tenderloin",
+  "title": "Smoked Pork Tenderloin",
+  "region": "kentucky",
+  "protein": "pork",
+  "difficulty": "weeknight",
+  "hours": {
+   "min": 1,
+   "max": 2
+  },
+  "servings": "2\u20133",
+  "summary": "Smoke it gentle, then char it like a steakhouse steak \u2014 juicy, barely pink, crosshatch crust.",
+  "story": "There's a hundred ways to do a tenderloin, but treat it like a good steak and it eats like one. Smoke brings the flavor; a screaming-hot finish on GrillGrates brings the crust. Pull it at 155\u00b0F and it stays juicy with just a blush of pink.",
+  "ingredients": [
+   {
+    "group": "The tenderloin",
+    "items": [
+     "1\u20132 pork tenderloins, about 1 lb each, silverskin trimmed",
+     "Ember rub (or your favorite steak seasoning), enough to coat",
+     "Light coat of olive oil or yellow mustard as a binder"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Prep",
+    "body": "Trim the silverskin. Rub with a light coat of oil or mustard, then season all over with Ember rub."
+   },
+   {
+    "title": "Smoke",
+    "body": "Pit at 250\u00b0F with apple or cherry wood. Smoke to about 140\u00b0F internal \u2014 roughly an hour."
+   },
+   {
+    "title": "Char it",
+    "body": "Move to screaming-hot GrillGrates over direct heat. Roll the tenderloins to char all sides with crosshatch marks, pulling at 155\u00b0F internal."
+   },
+   {
+    "title": "Rest and slice",
+    "body": "Rest 10 minutes, then slice into medallions. Barely pink, juicy, steakhouse crust."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Kelly",
+    "text": "I run mine to 155\u00b0F \u2014 stays juicy with just a blush of pink. Don't let it ride past that."
+   },
+   {
+    "voice": "Kelly",
+    "text": "GrillGrates are worth it \u2014 that crosshatch char eats like a professional steakhouse."
+   }
+  ],
+  "image": "/images/smoked-pork-tenderloin.jpg"
+ },
+ {
+  "slug": "smoked-pork-chops",
+  "title": "Smoked Pork Chops",
+  "region": "kentucky",
+  "protein": "pork",
+  "difficulty": "weeknight",
+  "hours": {
+   "min": 1,
+   "max": 1.5
+  },
+  "servings": "4",
+  "summary": "Thick-cut chops with a kiss of smoke, finished like a steak \u2014 crosshatch char and a sticky Ember glaze.",
+  "story": "A thick pork chop wants the same treatment as a good steak. Start it low so it takes on a little smoke, then move it over direct heat on the GrillGrates and char it with crosshatch marks. Brush on the Ember Finishing Glaze at the end, pull it at 155\u00b0F, and it stays juicy. No wrapping \u2014 a chop this thick doesn't need it.",
+  "ingredients": [
+   {
+    "group": "The chops",
+    "items": [
+     "4 bone-in pork chops, 1\u20131\u00bd inches thick",
+     "Mayonnaise or yellow mustard, a thin coat as a binder",
+     "Ember rub (or your favorite pork rub), enough to coat"
+    ]
+   },
+   {
+    "group": "The glaze",
+    "items": [
+     "\u00bd cup Ember Finishing Glaze (or your favorite barbecue sauce)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Prep",
+    "body": "Pat the chops dry. Smear on a thin coat of mayonnaise or mustard as a binder, then season all over with Ember rub."
+   },
+   {
+    "title": "Smoke",
+    "body": "Pit at 250\u00b0F with apple or cherry wood. Smoke the chops to about 135\u00b0F internal \u2014 roughly 45 minutes to an hour, depending on thickness."
+   },
+   {
+    "title": "Char and glaze",
+    "body": "Move the chops to screaming-hot GrillGrates over direct heat. Sear with crosshatch marks, turning once, and brush on the Ember Finishing Glaze in the last minute or two. Pull at 155\u00b0F internal."
+   },
+   {
+    "title": "Rest and serve",
+    "body": "Rest 5\u201310 minutes so the juices settle, then serve. Juicy and smoky, with a steakhouse char."
+   }
+  ],
+  "proTips": [
+   {
+    "voice": "Kelly",
+    "text": "I never wrap my pork chops. A thick chop doesn't need it \u2014 the smoke and the char do all the work."
+   },
+   {
+    "voice": "Kelly",
+    "text": "Treat the finish like a steak: hot grates, crosshatch marks, and don't let it ride past 155\u00b0F or it'll dry out."
+   }
+  ],
+  "image": "/images/smoked-pork-chops.jpg"
+ }
+]
