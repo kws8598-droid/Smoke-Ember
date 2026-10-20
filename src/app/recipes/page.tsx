@@ -2,6 +2,7 @@
 import { useEffect, useMemo, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Image from "next/image";
+import Link from "next/link";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -110,8 +111,14 @@ function RecipesInner() {
             <Image src="/images/fish-banner.jpg" alt="Old fisherman holding a stringer of catfish by the creek" fill sizes="100vw" className="object-cover" loading="lazy" />
           </div>
       )}
+      {protein === "game" && (
+        <div className="mt-8 rounded-2xl border border-ember/30 bg-bark p-5">
+          <p className="font-display text-xl italic text-cream">From the woods to the pit.</p>
+          <p className="mt-2 text-sm text-parchment/80">Deer, duck, gator, and frog legs, all in one place. Most game is so lean you have to inject it — that is the rule here. <Link href="/game" className="text-ember hover:text-ember-hot">Visit the Wild Game page →</Link></p>
+        </div>
+      )}
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
-        <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p}</button>
+        <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p === "game" ? "Wild Game" : p}</button>
       ))}</div>
       <div className="mt-4 flex flex-wrap gap-2">
         <button onClick={() => selectRegion("all")} className={`h-11 rounded-full px-3 text-xs ${region === "all" ? "bg-cream text-ink" : "text-subtle"}`}>Any region</button>
