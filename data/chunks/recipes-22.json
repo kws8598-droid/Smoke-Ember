@@ -1723,5 +1723,79 @@
       "This is the side that disappears first at a cookout. Make more than you think you need."
     ],
     "image": "/images/esquites.jpg"
+  },
+  {
+    "slug": "smoked-prime-rib",
+    "title": "Smoked Prime Rib",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 4.0,
+      "max": 6.0
+    },
+    "servings": "6–8",
+    "wood": "oak",
+    "summary": "A bone-in rib roast dry-brined overnight, rubbed with Ember Herb Rub and coarse pepper, smoked low over oak, rested, and reverse-seared to a deep crust — rosy red edge to edge.",
+    "story": "Prime rib is the Christmas roast, the special-occasion roast — the one most folks cook once a year and think about the rest of it. It does not need much: a dry brine for the crust, Kelly's Ember Herb Rub with extra coarse pepper (rosemary and thyme were born for this meat), low oak smoke, and a hot finish. Cook it to temperature, slice it thick, and let the table go quiet.",
+    "ingredients": [
+      {
+        "group": "The roast",
+        "items": [
+          "1 bone-in rib roast, 3 bones (about 6–7 lbs)",
+          "Kosher salt, for the dry brine (about 1 tsp per pound)",
+          "3 Tbsp Ember Herb Rub",
+          "1 Tbsp coarse black pepper"
+        ]
+      },
+      {
+        "group": "Horseradish cream",
+        "items": [
+          "1/2 cup sour cream",
+          "2 Tbsp prepared horseradish",
+          "1 tsp lemon juice",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "group": "Au jus",
+        "items": [
+          "The pan drippings",
+          "1 cup beef broth"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dry brine",
+        "body": "Salt the roast all over and set it uncovered in the fridge overnight. The salt seasons it deep and dries the surface — that's what makes the crust."
+      },
+      {
+        "title": "Rub",
+        "body": "Pat the roast dry. Work the Ember Herb Rub and the extra coarse pepper into every side. Let it sit out about an hour to take the chill off."
+      },
+      {
+        "title": "Smoke",
+        "body": "225–250°F over oak or hickory, fat side up. Figure 35–40 minutes a pound, but cook to temperature, not the clock — pull it at 120–125°F in the center for medium-rare."
+      },
+      {
+        "title": "Rest",
+        "body": "Tent it loose with foil and rest 30 minutes. The temperature will climb a few degrees while it sits, and the juices settle back in."
+      },
+      {
+        "title": "Reverse sear",
+        "body": "Into a ripping hot oven at 500°F — or over direct coals — 5–10 minutes, till the outside is crusted deep brown. Watch it close; it goes fast."
+      },
+      {
+        "title": "Slice and serve",
+        "body": "Carve thick slices, 130–135°F and rosy edge to edge. Warm the drippings with the beef broth for au jus, stir the horseradish cream together cold, and pass both at the table."
+      }
+    ],
+    "proTips": [
+      "A leave-in thermometer is not optional on a roast this pricey — guesswork is expensive.",
+      "Leftover prime rib makes the finest sandwich there is: shaved thin, warm au jus, horseradish cream, crusty roll.",
+      "Save the bones. They make a beef broth worth writing home about."
+    ],
+    "image": "/images/smoked-prime-rib.jpg"
   }
 ]
