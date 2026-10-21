@@ -2041,8 +2041,8 @@
     },
     "servings": "4",
     "wood": "hickory",
-    "summary": "Freddie Wash's way with squirrels: a light brine, a dusting of salt, pepper, garlic and paprika, a spell in hickory smoke, then a slow braise and gravy over biscuits.",
-    "story": "This one comes down from Freddie Wash, Kelly's ex-father-in-law, born 1920 in Midway, Kentucky, in the middle of horse country. Freddie grew up in the Depression and wasted nothing — and he taught Kelly a whole lot about deer hunting besides. His squirrels got smoke first, then a slow braise, then gravy, and that order matters: the smoke is flavor, the braise is tenderness. Take grays over reds when you can — Freddie's table preferred the gray squirrels, the more tender of the two. Same method as the rabbit, because it was always the same method.",
+    "summary": "Freddie Wash's squirrels — quartered, braised tender, and gravied the way he did them — with Kelly's hickory smoke added up front, Smoke & Ember style.",
+    "story": "This one comes down from Freddie Wash, Kelly's ex-father-in-law, born 1920 in Midway, Kentucky, in the middle of horse country. Freddie grew up in the Depression and wasted nothing — and he taught Kelly a whole lot about deer hunting besides. Now, Freddie did not smoke his squirrels, and he did not chop them up: he quartered them, braised them slow till they were tender, and made the gravy. That braise and gravy are Freddie's, unchanged. The spell in the hickory smoke up front is Kelly's addition — his Smoke & Ember road to the same supper, same as his rabbit. Take grays over reds when you can: Freddie's table preferred the gray squirrels, the more tender of the two.",
     "ingredients": [
       {
         "group": "The brine",
@@ -2093,7 +2093,7 @@
       },
       {
         "title": "Braise",
-        "body": "Into a Dutch oven with the chicken broth and sliced onion, lid on, 300°F till the meat is falling off the bone — about an hour for a young squirrel, up to two for an old one. Old squirrels are honest work; give them their time."
+        "body": "Into a Dutch oven with the chicken broth and sliced onion, lid on, 300°F till the meat is falling off the bone — about an hour for a young squirrel, up to two for an old one. This is Freddie's step: quartered, braised tender, no shortcuts."
       },
       {
         "title": "Gravy",
@@ -2106,7 +2106,7 @@
     ],
     "proTips": [
       "Freddie preferred gray squirrels over reds — the grays are more tender. Reds eat fine; they just ask for the longer braise.",
-      "Same smoke-braise-gravy road as the rabbit — learn it once and it covers most small game.",
+      "The braise-and-gravy heart of this is Freddie's; the smoke is Kelly's. His rabbit rides the same smoke-then-braise road.",
       "Freddie wasted nothing, and squirrel makes the case: a couple of squirrels and a pan of biscuits is a full supper."
     ],
     "image": "/images/smoked-squirrel.jpg"
