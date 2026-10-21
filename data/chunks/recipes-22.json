@@ -2110,5 +2110,65 @@
       "Freddie wasted nothing, and squirrel makes the case: a couple of squirrels and a pan of biscuits is a full supper."
     ],
     "image": "/images/smoked-squirrel.jpg"
+  },
+  {
+    "slug": "hickory-nut-pie",
+    "title": "Freddie's Hickory Nut Pie",
+    "region": "kentucky",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1.25,
+      "max": 1.5
+    },
+    "servings": "8",
+    "wood": "Oven",
+    "summary": "Hickory nuts Freddie gathered, floated on a dark molasses filling — sweetened the old way, because Freddie's day didn't run on corn syrup.",
+    "story": "Freddie Wash gathered hickory nuts — and black walnuts — the way a man of his time did everything: by hand, off the land, around Midway, Kentucky. This pie is built for those nuts. There is no corn syrup in it; back then there wasn't much of it to be had, and molasses did the sweetening, so molasses does it here — dark, deep, a little smoky all on its own. The nuts float up while it bakes and toast on top, same as a pecan pie, which stands to reason: hickory nuts look a whole lot like pecans. Cracking them is half the work, and Freddie would tell you that's exactly why the pie means something.",
+    "ingredients": [
+      {
+        "group": "The crust",
+        "items": [
+          "1 unbaked 9-inch pie crust"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "3 eggs, beaten",
+          "3/4 cup molasses",
+          "1/2 cup brown sugar",
+          "1/3 cup butter, melted",
+          "1 tsp vanilla",
+          "1/4 tsp salt"
+        ]
+      },
+      {
+        "group": "The nuts",
+        "items": [
+          "1 1/2 cups shelled hickory nuts"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Fill",
+        "body": "Whisk the eggs, molasses, brown sugar, melted butter, vanilla, and salt till smooth. Stir in the hickory nuts and pour it all into the crust — the nuts will find their way to the top on their own."
+      },
+      {
+        "title": "Bake",
+        "body": "350°F for 45–55 minutes, till the edges are set and the center still has a little jiggle. If the crust browns too fast, tent it with foil."
+      },
+      {
+        "title": "Cool",
+        "body": "Cool at least 2 hours before slicing — a molasses pie cuts clean when it's had its rest. Good plain; better with coffee."
+      }
+    ],
+    "proTips": [
+      "Black walnuts swap in one-for-one — Freddie gathered both, and either one belongs in this pie.",
+      "No corn syrup on purpose. If your people want it tamer, half molasses and half syrup splits the difference, but the old way is all molasses.",
+      "Hickory nuts crack hard and pick slow. That labor is the price of the pie, and it's worth it."
+    ],
+    "image": "/images/hickory-nut-pie.jpg"
   }
 ]
