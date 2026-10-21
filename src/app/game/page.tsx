@@ -17,6 +17,7 @@ const venisonSlugs = [
   "venison-pineapple-bratwurst",
   "jalapeno-cheddar-venison-sausage",
   "venison-snack-sticks",
+  "venison-pork-onion-bombs",
 ];
 const smallGameSlugs = [
   "smoked-rabbit",
