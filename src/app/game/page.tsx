@@ -18,6 +18,9 @@ const venisonSlugs = [
   "jalapeno-cheddar-venison-sausage",
   "venison-snack-sticks",
 ];
+const smallGameSlugs = [
+  "smoked-rabbit",
+];
 const waterSlugs = [
   "smoked-duck",
   "smoked-alligator-tail",
@@ -31,7 +34,8 @@ export default function GamePage() {
   const bySlug = (s: string) => recipes.find((r) => r.slug === s);
   const venison = venisonSlugs.map(bySlug).filter(Boolean);
   const water = waterSlugs.map(bySlug).filter(Boolean);
-  const total = venison.length + water.length;
+  const small = smallGameSlugs.map(bySlug).filter(Boolean);
+  const total = venison.length + water.length + small.length;
   return (
     <main className="relative">
       <div className="relative mx-auto max-w-6xl px-4 py-12">
@@ -72,10 +76,18 @@ export default function GamePage() {
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
           {water.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
         </div>
+        <h2 className="mt-12 font-display text-3xl italic">Small Game</h2>
+        <p className="mt-2 max-w-xl text-parchment/80">
+          Rabbit now, squirrel when its turn comes — brined, smoked, and braised
+          tender, the country way.
+        </p>
+        <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
+          {small.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
+        </div>
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
-            Rabbit, squirrel, elk, buffalo, grouse, ring-neck pheasant, and prairie
+            Squirrel, elk, buffalo, grouse, ring-neck pheasant, and prairie
             chicken — added one at a time as Kelly cooks them and gives the verdict.
             Nothing goes on this page he has not put over his own fire.
           </p>
