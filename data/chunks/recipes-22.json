@@ -1458,5 +1458,126 @@
       "No sugar means no crackle and no candy — that's the point. This bottle is about bark staying dark."
     ],
     "image": "/images/brisket-spritz.jpg"
+  },
+  {
+    "slug": "butter-herb-smoked-cornish-hens",
+    "title": "Butter & Herb Smoked Cornish Hens",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1.0,
+      "max": 1.5
+    },
+    "servings": "2 hens — one per person",
+    "wood": "cherry",
+    "summary": "Little hens with herb butter worked under the skin — thyme, rosemary, and basil — smoked over cherry until the skin browns deep and the butter bastes them from the inside.",
+    "story": "A Cornish hen is a one-person chicken, and that is the whole charm — everybody at the table gets their own bird. Kelly does his the butter-and-herb way: a stick of butter loaded with Ember Herb Rub, half of it under the skin where it bastes the meat, half over the top where it browns it. The herb trio — thyme, rosemary, and dried basil — is the Malcolm Reed way, and the rub is Kelly's own.",
+    "ingredients": [
+      {
+        "group": "The brine (optional)",
+        "items": [
+          "1 quart cold water",
+          "1/4 cup kosher salt",
+          "1/4 cup brown sugar"
+        ]
+      },
+      {
+        "group": "The herb butter",
+        "items": [
+          "1 stick (1/2 cup) butter, soft",
+          "2 Tbsp Ember Herb Rub",
+          "2 cloves garlic, minced fine"
+        ]
+      },
+      {
+        "group": "The birds",
+        "items": [
+          "2 Cornish hens, 1 1/4–1 1/2 lbs each",
+          "1 tsp Ember Herb Rub, for a light dusting (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Brine (optional)",
+        "d": "Stir the salt and sugar into the water till melted and sink the hens in for about 4 hours in the fridge. It seasons the meat itself — worth it if you've got the time, fine to skip if you don't."
+      },
+      {
+        "t": "Make the butter",
+        "d": "Mash the Ember Herb Rub and garlic into the soft butter till it's one spread. That's a tablespoon of rub per bird — on a small bird, that's the right hand."
+      },
+      {
+        "t": "Butter the birds",
+        "d": "Pat the hens dry. Loosen the skin over the breast with your fingers and push half the butter up under it, spreading toward the thighs. Rub the rest all over the outside, and dust lightly with extra rub if you like."
+      },
+      {
+        "t": "Smoke",
+        "d": "250–275°F over cherry or apple wood, skin up, about 45–60 minutes. The butter bastes them from the inside while they take the smoke."
+      },
+      {
+        "t": "Crisp and finish",
+        "d": "Kick the heat up at the end — or a quick pass over direct heat — to brown the skin deep, to 165°F in the thigh. Spoon the buttery drippings from the pan over the birds."
+      },
+      {
+        "t": "Rest",
+        "d": "Ten minutes. One hen per person, butter and herbs in every bite."
+      }
+    ],
+    "proTips": [
+      "Little birds cook fast — this is not a wander-off cook.",
+      "Want them faster? Spatchcock each hen flat — same butter, same herbs, about 10 minutes less.",
+      "The butter mix is the Ember Herb Rub at work — keep a jar of the rub and this whole recipe gets easy."
+    ],
+    "image": "/images/butter-herb-smoked-cornish-hens.jpg"
+  },
+  {
+    "slug": "ember-herb-rub",
+    "title": "Ember Herb Rub",
+    "region": "backyard",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.05,
+      "max": 0.1
+    },
+    "servings": "About 1/3 cup",
+    "wood": "Pantry",
+    "summary": "Thyme, rosemary, and dried basil over a salt-and-garlic base — the herb rub behind the Butter & Herb Cornish Hens, and good anywhere a bird or a pork loin needs green flavor.",
+    "story": "Kelly needed an herb rub of his own, so this one got built on the trio Malcolm Reed cooks with — thyme, rosemary, and dried basil — over a plain salt, garlic, and pepper base with nothing sweet and nothing red in it. It's a green rub, and it earns its keep two ways: straight on the meat, or mashed into butter.",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "2 Tbsp kosher salt",
+          "1 Tbsp dried thyme",
+          "1 Tbsp dried basil",
+          "2 tsp dried rosemary, crushed fine",
+          "1 Tbsp garlic powder",
+          "2 tsp onion powder",
+          "2 tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Crush the rosemary",
+        "d": "Rosemary is pushy and poky — crush it fine with your fingers, a mortar, or a quick pulse in a spice grinder, so it blends instead of stabbing."
+      },
+      {
+        "t": "Stir it together",
+        "d": "Everything in a bowl, stirred till it's even — green all through the salt."
+      },
+      {
+        "t": "Jar it",
+        "d": "Into a sealed jar in the pantry. Dried herbs keep their punch for months."
+      }
+    ],
+    "proTips": [
+      "The famous use: 1 stick of soft butter + 2 Tbsp of this rub = the herb butter for two Cornish hens — a tablespoon a bird.",
+      "Table salt runs saltier than kosher by the spoon — if that's what you've got, use a shade less.",
+      "Try it on chicken, turkey, pork loin and chops, and roasted potatoes."
+    ],
+    "image": "/images/ember-herb-rub.jpg"
   }
 ]
