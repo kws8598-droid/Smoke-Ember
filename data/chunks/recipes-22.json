@@ -1651,5 +1651,77 @@
       "Leftovers re-crisp in a hot skillet better than almost any barbecue there is."
     ],
     "image": "/images/kellys-smoked-carnitas.jpg"
+  },
+  {
+    "slug": "esquites",
+    "title": "Esquites (Street Corn in a Cup)",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.75,
+      "max": 1.25
+    },
+    "servings": "6",
+    "wood": "apple",
+    "summary": "Mexican street corn off the cob and into a cup — smoked corn cut from the cob, stirred warm with mayo, crema, and lime, and heaped up with cotija and Tajín.",
+    "story": "Elote is the corn on the cob; esquites is the same street corn cut off and served in a cup with a spoon — easier to eat, easier to pass around a crowd. Kelly's version starts the corn on the smoker in its husks, so the kernels pick up real smoke before the char, then everything gets stirred together warm so the sauce coats every bite.",
+    "ingredients": [
+      {
+        "group": "The corn",
+        "items": [
+          "6 ears corn, husks on",
+          "1 Tbsp butter"
+        ]
+      },
+      {
+        "group": "The mix",
+        "items": [
+          "1/2 cup mayonnaise",
+          "1/4 cup Mexican crema or sour cream",
+          "Juice and zest of 1 lime",
+          "1 small clove garlic, grated fine",
+          "Pinch of kosher salt"
+        ]
+      },
+      {
+        "group": "The top",
+        "items": [
+          "3/4 cup cotija, crumbled",
+          "Tajín, for dusting",
+          "Chopped cilantro",
+          "Lime wedges",
+          "Hot sauce, for whoever wants it (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke the corn",
+        "body": "Husks on, straight on the grate at 225°F over apple or hickory, about 45 minutes. The husk keeps the corn moist while it takes on gentle smoke."
+      },
+      {
+        "title": "Char and cut",
+        "body": "Pull the husks back and give the ears a quick pass over direct heat till the kernels spot and char here and there. Stand each ear up and cut the kernels off into a big bowl."
+      },
+      {
+        "title": "Warm it through",
+        "body": "Melt the butter in a skillet, add the kernels, and stir a few minutes till everything is steaming hot."
+      },
+      {
+        "title": "Stir in the mix",
+        "body": "Off the heat, stir in the mayonnaise, crema, lime juice and zest, garlic, and salt till every kernel is coated."
+      },
+      {
+        "title": "Serve in cups",
+        "body": "Spoon into cups heaped up, shower with cotija, dust with Tajín, scatter cilantro, and set a lime wedge on each. Hot sauce at the table for whoever wants the heat."
+      }
+    ],
+    "proTips": [
+      "Cutting the kernels into a bowl set inside a bigger bowl keeps them from jumping all over the counter.",
+      "Frozen corn works in a pinch — thaw it and get it dry, then char it hard in the skillet for the spots.",
+      "This is the side that disappears first at a cookout. Make more than you think you need."
+    ],
+    "image": "/images/esquites.jpg"
   }
 ]
