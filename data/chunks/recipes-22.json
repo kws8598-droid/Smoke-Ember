@@ -1956,5 +1956,77 @@
       "The glaze goes on late for a reason: sugar burns. Two coats at the end beats one early coat every time."
     ],
     "image": "/images/cherry-dr-pepper-turkey.jpg"
+  },
+  {
+    "slug": "venison-pork-onion-bombs",
+    "title": "Venison & Pork Onion Bombs",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.0,
+      "max": 2.75
+    },
+    "servings": "6–8 bombs",
+    "wood": "hickory",
+    "summary": "Ground venison and pork — the pork brings the fat the deer can't — stuffed into sweet onion shells with a cheese center, wrapped in bacon, smoked, and glazed heavy with Ember sauce.",
+    "story": "An onion bomb is a meatloaf wearing an onion for a jacket and bacon for a coat. Kelly's version runs on deer burger and pork, half and half, because venison on its own is too lean to stay juicy — the pork does that job, and the finely diced pepper in the mix is his touch. Cheese hides in the middle. These come off the smoker looking like something you'd pay money for at a festival.",
+    "ingredients": [
+      {
+        "group": "The meat mix",
+        "items": [
+          "1 lb ground venison",
+          "1 lb ground pork",
+          "1 Tbsp Ember rub",
+          "1 tsp garlic powder",
+          "1/2 tsp black pepper",
+          "1/2 cup finely diced bell pepper",
+          "1/4 cup breadcrumbs",
+          "1 egg, beaten",
+          "1 jalapeño, finely diced (optional)"
+        ]
+      },
+      {
+        "group": "The bombs",
+        "items": [
+          "3–4 large sweet onions",
+          "4 oz cheddar or pepper jack, cut into cubes",
+          "12–16 slices bacon",
+          "1/2 cup Ember sauce, for glazing"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix",
+        "body": "Venison, pork, rub, garlic, pepper, the diced bell pepper, breadcrumbs, and egg — mixed just till it holds together. The jalapeño goes in now too, if you want the heat."
+      },
+      {
+        "title": "Build the shells",
+        "body": "Cut the onions in half across the middle, peel them, and separate the layers into cups. Match up the halves that fit together — those are your bombs."
+      },
+      {
+        "title": "Fill and wrap",
+        "body": "Pack meat into an onion cup, press a cube of cheese into the center, cap it with more meat and the matching onion half. Wrap each bomb in 2 slices of bacon and toothpick it shut."
+      },
+      {
+        "title": "Smoke",
+        "body": "250–275°F over hickory or apple, about 2 to 2 1/2 hours, till the bacon is crisped and the center reads 160°F."
+      },
+      {
+        "title": "Glaze",
+        "body": "Brush Ember sauce all over for the last 20–30 minutes — and be generous. It should set shiny and drip a little."
+      },
+      {
+        "title": "Serve",
+        "body": "Rest five minutes, pull the toothpicks, and cut one open at the table so everybody sees the cheese pull."
+      }
+    ],
+    "proTips": [
+      "The 50/50 pork is not filler — venison is so lean it needs the fat, and the flavor stays deer.",
+      "Finely diced pepper is the key word. Big chunks push the shells apart; fine dice disappears into the mix.",
+      "Leftover bombs slice cold into the best sandwich you will eat all season."
+    ],
+    "image": "/images/venison-pork-onion-bombs.jpg"
   }
 ]
