@@ -1797,5 +1797,79 @@
       "Save the bones. They make a beef broth worth writing home about."
     ],
     "image": "/images/smoked-prime-rib.jpg"
+  },
+  {
+    "slug": "smoked-rabbit",
+    "title": "Smoked Rabbit in Gravy",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.5,
+      "max": 3.5
+    },
+    "servings": "4",
+    "wood": "hickory",
+    "summary": "Rabbit pieces brined, smoked over hickory for flavor, then braised tender in a Dutch oven and finished in their own gravy — the country way, over mashed potatoes or biscuits.",
+    "story": "Rabbit is lean as a fence rail, and if you treat it like chicken it will go tough on you. The country answer is the one Kelly cooks by: smoke it first for the flavor, then braise it tender in a pot and let the gravy finish the job. Same road works for squirrel — Kelly will tell you that himself.",
+    "ingredients": [
+      {
+        "group": "The brine",
+        "items": [
+          "1 quart cold water",
+          "1/4 cup kosher salt",
+          "1 Tbsp sugar"
+        ]
+      },
+      {
+        "group": "The rabbit",
+        "items": [
+          "1 rabbit, cut into pieces (about 2 1/2–3 lbs)",
+          "1 Tbsp Ember rub (or salt, pepper, garlic, and a little paprika)"
+        ]
+      },
+      {
+        "group": "The braise & gravy",
+        "items": [
+          "1 1/2 cups chicken broth",
+          "1 onion, sliced",
+          "2 cloves garlic, smashed",
+          "2 Tbsp butter",
+          "2 Tbsp flour"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Stir the salt and sugar into the water, sink the rabbit pieces in, and refrigerate 4 hours or overnight. Rabbit wants the brine worse than almost anything — it is that lean."
+      },
+      {
+        "title": "Season",
+        "body": "Pat the pieces dry and season all over with the rub."
+      },
+      {
+        "title": "Smoke",
+        "body": "225–250°F over hickory or apple, about an hour. You are not cooking it done here — you are putting the smoke in it."
+      },
+      {
+        "title": "Braise",
+        "body": "Into a Dutch oven with the broth, onion, and garlic. Lid on, at 300°F — in the oven or back on the smoker — for 1 to 1 1/2 hours, till the meat is tender and starting to give."
+      },
+      {
+        "title": "Make the gravy",
+        "body": "Lift the rabbit out and keep it warm. Melt the butter in the pot, whisk in the flour, and cook a minute. Pour the braising liquid back in, whisking, and simmer till it coats a spoon."
+      },
+      {
+        "title": "Serve",
+        "body": "Rabbit back into the gravy for a minute to warm through. Over mashed potatoes or biscuits — there is no wrong answer."
+      }
+    ],
+    "proTips": [
+      "Young rabbits are the tender ones; an old, big rabbit just needs more time in the braise, not more heat.",
+      "This exact treatment — brine, smoke, braise, gravy — is the squirrel recipe too. Kelly's words.",
+      "Do not skip the brine on lean game. It is the difference between tender and shoe leather."
+    ],
+    "image": "/images/smoked-rabbit.jpg"
   }
 ]
