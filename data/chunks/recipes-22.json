@@ -2028,5 +2028,87 @@
       "Leftover bombs slice cold into the best sandwich you will eat all season."
     ],
     "image": "/images/venison-pork-onion-bombs.jpg"
+  },
+  {
+    "slug": "smoked-squirrel",
+    "title": "Smoked Squirrel in Gravy",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2.25,
+      "max": 3.0
+    },
+    "servings": "4",
+    "wood": "hickory",
+    "summary": "Freddie Wash's way with squirrels: a light brine, a dusting of salt, pepper, garlic and paprika, a spell in hickory smoke, then a slow braise and gravy over biscuits.",
+    "story": "This one comes down from Freddie Wash, Kelly's ex-father-in-law, born 1920 in Midway, Kentucky, in the middle of horse country. Freddie grew up in the Depression and wasted nothing — and he taught Kelly a whole lot about deer hunting besides. His squirrels got smoke first, then a slow braise, then gravy, and that order matters: the smoke is flavor, the braise is tenderness. Take grays over reds when you can — Freddie's table preferred the gray squirrels, the more tender of the two. Same method as the rabbit, because it was always the same method.",
+    "ingredients": [
+      {
+        "group": "The brine",
+        "items": [
+          "1 quart water",
+          "1/4 cup kosher salt",
+          "1 Tbsp sugar"
+        ]
+      },
+      {
+        "group": "The squirrels",
+        "items": [
+          "2 gray squirrels, cleaned and cut into pieces",
+          "1 1/2 tsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp garlic powder",
+          "1/2 tsp paprika"
+        ]
+      },
+      {
+        "group": "The braise & gravy",
+        "items": [
+          "1 1/2 cups chicken broth",
+          "1 onion, sliced",
+          "2 Tbsp butter",
+          "2 Tbsp flour"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Biscuits or mashed potatoes"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Stir the salt and sugar into the water, sink the squirrel pieces in, and refrigerate 4 hours to overnight. Small game is lean — the brine keeps it from drying out in the smoke."
+      },
+      {
+        "title": "Season",
+        "body": "Pat the pieces dry and dust with the salt, pepper, garlic powder, and paprika."
+      },
+      {
+        "title": "Smoke",
+        "body": "225°F over hickory or apple, 45 minutes to an hour, till the pieces take on good color."
+      },
+      {
+        "title": "Braise",
+        "body": "Into a Dutch oven with the chicken broth and sliced onion, lid on, 300°F till the meat is falling off the bone — about an hour for a young squirrel, up to two for an old one. Old squirrels are honest work; give them their time."
+      },
+      {
+        "title": "Gravy",
+        "body": "Lift the pieces out. Melt the butter, whisk in the flour and cook it a minute, then whisk in the braising liquid and simmer till it coats a spoon. Salt and pepper to taste."
+      },
+      {
+        "title": "Serve",
+        "body": "Squirrel back in its gravy, spooned over split biscuits or mashed potatoes."
+      }
+    ],
+    "proTips": [
+      "Freddie preferred gray squirrels over reds — the grays are more tender. Reds eat fine; they just ask for the longer braise.",
+      "Same smoke-braise-gravy road as the rabbit — learn it once and it covers most small game.",
+      "Freddie wasted nothing, and squirrel makes the case: a couple of squirrels and a pan of biscuits is a full supper."
+    ],
+    "image": "/images/smoked-squirrel.jpg"
   }
 ]
