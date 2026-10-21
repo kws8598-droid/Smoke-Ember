@@ -1,1 +1,955 @@
-[{"slug":"vinegar-slaw","title":"Pepper Vinegar Slaw","region":"carolina","protein":"sides","difficulty":"weeknight","hours":{"min":0.3,"max":0.5},"servings":"8","wood":"None","pitTemp":"None \u2014 cold side","finish":"Crisp, sharp, not watery","summary":"The slaw that belongs on pulled pork: no mayo, a lot of pepper, vinegar that wakes the fat up.","story":"Creamy slaw has its place, which is not on eastern Carolina pork. This is shredded cabbage in a hot vinegar dressing that pickles itself in the bowl. Make it an hour ahead so it wilts just enough, then keep it cold. It should crunch next to soft meat, not dissolve into the bun.","school":"Eastern NC counter","image":"/images/slaw.jpg","ingredients":[{"group":"Cabbage","items":["\u00bd head green cabbage, finely shredded","1 carrot, grated (optional)","2 scallions, thin"]},{"group":"Dressing","items":["\u00bd cup apple cider vinegar","2 Tbsp sugar","1 Tbsp kosher salt","1 tsp coarse black pepper","\u00bd tsp crushed red pepper","2 Tbsp oil","1 tsp celery seed"]}],"steps":[{"title":"Warm the dressing","body":"Heat vinegar, sugar, salt, peppers, and celery seed until the sugar dissolves. Whisk in the oil. It should taste too sharp in the pan \u2014 the cabbage will mute it."},{"title":"Pour and wait","body":"Toss with cabbage and scallions. Rest 30\u201360 minutes, tossing once. Drain a little if it throws too much liquid before serving."}],"proTips":[{"voice":"Chop house","text":"Fine shred, not coleslaw-bag ribbons. The dressing has to coat, and a thick chip of cabbage just tastes like wet salad."},{"voice":"Eastern NC","text":"If you add mayo you have made a different slaw. That's fine. Don't call it Carolina."}],"milestones":[{"id":"dress","label":"Warm dressing","hint":"Sugar dissolved, too sharp on purpose."},{"id":"rest","label":"30\u201360 minute rest","hint":"Wilt just enough. Serve cold."}]},{"slug":"texas-plate-ribs","title":"Texas Plate Ribs","region":"texas","protein":"beef","difficulty":"weekend","hours":{"min":7,"max":9},"servings":"4\u20136","wood":"Post oak","pitTemp":"275\u00b0F","finish":"Probe tender between bones, ~203\u00b0F","summary":"Dinosaur ribs: three bones of beef plate, salt, pepper, oak. The most impressive thing you can pull off a backyard pit.","story":"Plate ribs are the short rib of the brisket world \u2014 huge bones, thick meat, a bark that looks like furniture. They do not need a sweet glaze. A Dalmatian rub, a hotter pit than a packer, and patience until a probe slides in between the bones. Serve them whole and let people fight over the last one.","school":"Central Texas offset","image":"/images/beef-ribs.jpg","ingredients":[{"group":"Ribs","items":["1 rack beef plate ribs (3-bone), 5\u20137 lb, membrane off","3 Tbsp kosher salt","3 Tbsp 16-mesh black pepper","1 tsp granulated garlic (optional)"]},{"group":"On the pit","items":["Post oak splits","Beef tallow or water for a late spritz"]}],"steps":[{"title":"Trim the hard fat, keep the cap","body":"Peel the membrane on the bone side. Knock off only the hard, waxy fat on top. Leave a \u00bc-inch cap so the meat doesn't dry. Coat with salt and pepper on every surface, including the bones."},{"title":"Hotter than brisket","body":"275\u00b0F, post oak, bone-side down. Plate ribs can take the heat. Leave them alone for 4 hours. Spritz only if the bark looks like it's turning to jerky."},{"title":"Don't wrap unless you have to","body":"Paper wrap after bark is mahogany if dinner is waiting. Otherwise ride them naked. Start probing between bones around 6\u20137 hours."},{"title":"Probe, rest, serve whole","body":"Done feels like brisket \u2014 warm butter, usually 200\u2013205\u00b0F. Rest 45\u201360 minutes wrapped in a towel. Cut between bones. One bone is a meal."}],"proTips":[{"voice":"Offset school","text":"If the bark is black and bitter, your fire was dirty, not too hot. Thin blue smoke or don't bother with plate ribs \u2014 they show every mistake."},{"voice":"Butcher's note","text":"Ask for plate ribs (chuck short ribs / dino ribs), not flanken and not English-cut braise ribs. You want the three long bones."}],"milestones":[{"id":"on","label":"On the pit","hint":"275\u00b0F, bone down, post oak."},{"id":"bark","label":"Bark set","hint":"Mahogany, about 4 hours. Spritz only if dry."},{"id":"probe","label":"Probe tender","hint":"Between the bones, like butter."},{"id":"rest","label":"Rest","hint":"45\u201360 minutes. Serve on the bone."}]},{"slug":"poor-mans-brisket","title":"Poor Man's Brisket","region":"texas","protein":"beef","difficulty":"weekend","hours":{"min":6,"max":8},"servings":"8\u201310","wood":"Post oak or hickory","pitTemp":"250\u2013275\u00b0F","finish":"Probe tender, ~200\u2013203\u00b0F","summary":"A chuck roast smoked like a packer. Same bark, half the time, half the money, still a Texas plate.","story":"Chuck has the marbling and connective tissue to eat like brisket if you treat it like one: Dalmatian rub, clean oak, wrap after bark, rest. It will not fool a Hill Country hall, but it will fool a weeknight table that wanted smoked beef without a 14-hour hostage situation.","school":"Central Texas backyard","image":"/images/chuck.jpg","ingredients":[{"group":"Roast","items":["1 chuck roast, 4\u20135 lb, well marbled","2 Tbsp kosher salt","2 Tbsp 16-mesh black pepper","1 tsp granulated garlic"]},{"group":"Wrap","items":["Pink butcher paper","1 Tbsp beef tallow (optional)"]}],"steps":[{"title":"Season like brisket","body":"Pat dry. Salt, pepper, garlic on all sides. Overnight in the fridge if you can. Chuck has a lot of grain changes \u2014 glance at them now so you know how to slice later."},{"title":"Smoke to bark","body":"250\u2013275\u00b0F. 3\u20134 hours until the color is deep and the rub has tacked on. Spritz with water if the surface dries out."},{"title":"Paper wrap","body":"Wrap with a spoon of tallow if you have it. Back on until a probe slides in with almost no push, usually 200\u2013203\u00b0F. Chuck can stall; don't panic at 165."},{"title":"Rest and slice against the grain","body":"Rest 45 minutes. Slice \u00bc-inch against the grain. If a piece shreds instead of slicing, you went past tender into pulled-beef territory \u2014 that's still dinner."}],"proTips":[{"voice":"Backyard pit","text":"This is also how you make burnt-end-ish cubes without a packer. Cube after probe tender, glaze 30 minutes, done."},{"voice":"Butcher's note","text":"Choose a thick, even chuck, not a thin blade steak. You need mass or it dries before collagen gives up."}],"milestones":[{"id":"on","label":"On the pit","hint":"250\u2013275\u00b0F, Dalmatian rub."},{"id":"wrap","label":"Wrap","hint":"Bark set, then paper."},{"id":"probe","label":"Probe tender","hint":"200\u2013203\u00b0F, like brisket."},{"id":"slice","label":"Rest and slice","hint":"45 minutes, then against the grain."}]},{"slug":"st-louis-pork-steaks","title":"St. Louis Pork Steaks","region":"kansas-city","protein":"pork","difficulty":"weeknight","hours":{"min":2,"max":3},"servings":"6","wood":"Hickory","pitTemp":"Two-zone, then a sauce pan","finish":"Fork-tender in the pan, not shoe leather on the grate","summary":"Bone-in shoulder steaks, seared, sauced, and covered until they give. St. Louis backyard religion.","story":"Pork steaks are cheap cuts from the shoulder, cut like a chop. In St. Louis they get a hard sear, then a swim in a pan of barbecue sauce with the lid on so the connective tissue melts. They are not a dry grill-mark flex. They should pull with a fork and taste like the sauce and the hog at the same time.","school":"St. Louis backyard","image":"/images/pork-steaks.jpg","ingredients":[{"group":"Steaks","items":["6 pork steaks, ~\u00be\u20131 inch thick (from the Boston butt)","2 Tbsp kosher salt","2 Tbsp paprika-forward pork rub"]},{"group":"Pan sauce","items":["2 cups tomato-molasses barbecue sauce","\u00bd cup beer or apple juice","2 Tbsp butter","1 Tbsp Worcestershire"]}],"steps":[{"title":"Season and sear","body":"Salt and rub both sides. Hot two-zone fire. Sear 3\u20134 minutes a side over the coals until you have real color. Don't cook them through on the grate \u2014 they will seize."},{"title":"Into the pan","body":"Nestle the steaks in a foil pan or cast iron. Pour sauce, beer, Worcestershire, and butter around them. Cover tightly with foil."},{"title":"Braise on the cool side","body":"Lid the grill, 250\u2013275\u00b0F, 60\u201390 minutes until a fork twists in the meat with no fight. Uncover last 10 minutes if you want the sauce to tack up."},{"title":"Rest in the liquor","body":"10 minutes in the pan. Serve with extra sauce and cheap white bread to mop. This is not a tidy plate."}],"proTips":[{"voice":"St. Louis","text":"If you skip the covered pan you will serve grilled shoulder steaks that chew like a belt. The braise is the recipe."},{"voice":"Pit note","text":"Maverick's and similar cheap sauces are traditional. Save the fancy bottle for ribs."}],"milestones":[{"id":"sear","label":"Hard sear","hint":"Color on both sides, not cooked through."},{"id":"pan","label":"Covered pan","hint":"Sauce + beer, foil on, 60\u201390 minutes."},{"id":"fork","label":"Fork tender","hint":"Rest in the pan 10 minutes."}]},{"slug":"smoked-pork-loin","title":"Applewood Pork Loin","region":"kansas-city","protein":"pork","difficulty":"weeknight","hours":{"min":2,"max":3},"servings":"8","wood":"Apple or cherry","pitTemp":"250\u00b0F","finish":"140\u2013145\u00b0F, then rest (it is not a shoulder)","summary":"A lean roast that dries if you treat it like pulled pork. Pull it like a pork chop and let the rest finish it.","story":"Loin is the cut people ruin on a smoker because the internet said 203\u00b0F. That number is for collagens. Loin is a big chop. Brine it, rub it, kiss it with apple wood, and get it off at 140. Sliced, it should be blushing and juicy. Sauce on the side \u2014 mustard or a thin KC.","school":"Backyard fruitwood","image":"/images/pork-loin.jpg","ingredients":[{"group":"Loin","items":["1 boneless pork loin, 3\u20134 lb, silver skin off","2 Tbsp kosher salt (or overnight brine: \u00bc cup salt + \u00bc cup brown sugar per quart water)","2 Tbsp pork rub"]}],"steps":[{"title":"Brine or dry-brine","body":"Overnight wet brine or a heavy salt the night before. Loin has no fat to hide dryness. Pat dry. Rub."},{"title":"Gentle fruitwood","body":"250\u00b0F, apple or cherry. A 3\u20134 lb loin is often done in 90\u2013150 minutes. Start probing at 75 minutes."},{"title":"Pull at 140","body":"Carryover will take it to 145. Rest 15 minutes. Slice \u00bd-inch medallions. If you wait for 160 it will taste like a cafeteria."}],"proTips":[{"voice":"Pit note","text":"A mustard-honey glaze in the last 15 minutes is allowed. A 3-hour wrap in foil is how you make pork-flavored sawdust."},{"voice":"Butcher's note","text":"Loin, not tenderloin. Tenderloin is smaller and even faster \u2014 30\u201340 minutes. Don't mix them up."}],"milestones":[{"id":"brine","label":"Brine","hint":"Overnight if you can. Pat dry, rub."},{"id":"smoke","label":"On the pit","hint":"250\u00b0F, apple or cherry."},{"id":"pull","label":"140\u00b0F and rest","hint":"15 minutes, then slice."}]},{"slug":"cedar-plank-salmon","title":"Cedar-Plank Salmon","region":"pacific","protein":"fish","difficulty":"weeknight","hours":{"min":0.75,"max":1.25},"servings":"4\u20136","wood":"Alder or apple, plus a soaked cedar plank","pitTemp":"225\u2013250\u00b0F","finish":"125\u2013130\u00b0F in the thickest part; pellicle set","summary":"The fish cook barbecue people skip. Alder, a cedar plank, and the nerve to pull it when it's still silk.","story":"Smoke is a seasoning on salmon, not a 12-hour identity. Dry the fillet until a pellicle forms, set it on a soaked cedar plank, and run a mild wood. Pull it when the thickest part is 125\u2013130\u00b0F \u2014 it will flake and still look wet. Overcooked salmon is cat food with bark.","school":"West Coast live fire","image":"/images/salmon.jpg","ingredients":[{"group":"Fish","items":["1 side of salmon, 2\u20132\u00bd lb, pin bones out, skin on","1 Tbsp kosher salt","1 Tbsp brown sugar","1 tsp black pepper","Zest of 1 lemon"]},{"group":"Plank","items":["1 untreated cedar plank, soaked 1\u20132 hours"]}],"steps":[{"title":"Dry brine and pellicle","body":"Mix salt, sugar, pepper, zest. Coat the flesh. Fridge uncovered 45\u201390 minutes until the surface feels tacky, not wet. That tacky film is the pellicle \u2014 smoke sticks to it."},{"title":"Plank and mild smoke","body":"Fish on the soaked plank, 225\u2013250\u00b0F, alder or apple. One chunk of wood is enough. 35\u201350 minutes depending on thickness."},{"title":"Pull early","body":"125\u2013130\u00b0F in the thickest part. The protein should just flake. Rest 5 minutes on the plank. Lemon, maybe a little white sauce or dill. Do not sauce it like ribs."}],"proTips":[{"voice":"West Coast","text":"Hickory on salmon is a dare. If you can only burn hickory, use less and get it off faster."},{"voice":"Pit note","text":"If the plank catches fire you ran it too hot or didn't soak it. Keep a spray bottle. Char on the plank edges is fine; flames under the fish are not."}],"milestones":[{"id":"pellicle","label":"Pellicle","hint":"Uncovered fridge until the surface is tacky."},{"id":"plank","label":"On the plank","hint":"225\u2013250\u00b0F, mild wood."},{"id":"pull","label":"125\u2013130\u00b0F","hint":"Flakes, still silk. Rest 5."}]},{"slug":"smoked-lamb-shoulder","title":"Herb-Crusted Lamb Shoulder","region":"california","protein":"Lamb","difficulty":"weekend","hours":{"min":5,"max":7},"servings":"6\u20138","wood":"Oak or pecan","pitTemp":"275\u00b0F","finish":"Probe tender, ~195\u2013203\u00b0F, or 135\u00b0F if you want it sliceable and pink","summary":"Shoulder treated like pork butt: herb, garlic, oak, until the blade gives. The cook that makes a table go quiet.","story":"Lamb on a smoker scares people who only know chops. A shoulder has the fat and collagen to go low and slow. Garlic, rosemary, salt, and oak \u2014 not a mint jelly situation. Pull it to shred for pitas, or stop at 135 if you want rosy slices. Either way, rest it.","school":"West Coast oak","image":"/images/lamb.jpg","ingredients":[{"group":"Shoulder","items":["1 bone-in lamb shoulder, 5\u20136 lb","2 Tbsp kosher salt","1 Tbsp black pepper","1 Tbsp chopped rosemary","1 Tbsp chopped thyme","6 garlic cloves, minced","Zest of 1 lemon","2 Tbsp olive oil"]}],"steps":[{"body":"Mash garlic, herbs, zest, oil, salt, and pepper into a paste. Score the fat cap in a crosshatch. Rub the paste into every crevice. Overnight if you can.","title":"Herb paste"},{"body":"Fat cap up. 4\u20136 hours. Lamb fat can taste tallow-y if the fire is dirty \u2014 keep the smoke thin and blue.","title":"Oak at 275"},{"body":"For slices: 135\u00b0F in the thickest part, rest 20 minutes. For pull: ride it to probe tender like a pork shoulder, around 200\u00b0F, rest 45 minutes, then shred off the blade.","title":"Choose your doneness"}],"proTips":[{"text":"Lamb and mesquite is a bar fight. Oak or pecan. Save mesquite for a steak.","voice":"West Coast"},{"text":"A sharp salsa or yogurt-garlic sauce on the side. Not a cup of mint jelly unless you are feeding your aunt on purpose.","voice":"Table"}],"milestones":[{"id":"paste","hint":"Overnight on the shoulder if you can.","label":"Herb paste"},{"id":"smoke","hint":"275\u00b0F, thin blue smoke.","label":"Oak fire"},{"id":"pull","hint":"135\u00b0F for pink slices, probe tender to pull.","label":"Slice or shred"}]},{"slug":"dalmatian-rub","title":"Dalmatian Rub","region":"texas","protein":"rubs","difficulty":"weeknight","hours":{"min":0.05,"max":0.1},"servings":"About 1 cup \u2014 enough for a packer","wood":"Pantry","pitTemp":"None","finish":"Even 50/50, coarse, no clumps","summary":"Salt and 16-mesh pepper. The Central Texas seasoning that is a philosophy, not a blend.","story":"If the meat is good and the fire is clean, you do not need a fourteen-spice jar. Equal parts kosher salt and coarse black pepper by volume. Garlic if you are not arguing with a purist. Make it in a shaker, not a grinder \u2014 you want pebbles of pepper that become bark, not a grey dust.","school":"Central Texas meat market","image":"/images/dalmatian-rub.jpg","ingredients":[{"group":"The mix","items":["\u00bd cup 16-mesh coarse black pepper","\u00bd cup kosher salt (Diamond Crystal; \u2153 cup if Morton)","1 Tbsp granulated garlic (optional)"]}],"steps":[{"title":"Measure by volume, not vibes","body":"Pepper and salt 50/50 in a bowl. Whisk so the garlic, if using, disappears. It should look speckled like a Dalmatian \u2014 hence the name."},{"title":"Jar it","body":"A shaker with large holes, or a pint jar and your hands. Keeps months in a cupboard. Do not refrigerate \u2014 moisture clumps salt."},{"title":"How to use it","body":"Coat brisket, beef ribs, chuck, and sausage until you can barely see meat. Poultry wants a lighter coat. This is not a pork-rib candy rub."}],"proTips":[{"voice":"Meat market","text":"Table pepper is too fine. It turns muddy and bitter over a 12-hour cook. Buy 16-mesh, or crack whole peppercorns coarse."},{"voice":"Offset school","text":"If your bark is salty, you used Morton at Diamond volume. Weigh it once, then you know your handful."}],"milestones":[{"id":"mix","label":"Mix","hint":"50/50 salt and coarse pepper."},{"id":"jar","label":"Jar","hint":"Dry cupboard. Shake before every cook."}]},{"slug":"spg-rub","title":"SPG House Rub","region":"texas","protein":"rubs","difficulty":"weeknight","hours":{"min":0.05,"max":0.1},"servings":"About 1\u00bc cups","wood":"Pantry","pitTemp":"None","finish":"Even blend, garlic distributed","summary":"Salt, pepper, garlic \u2014 the weeknight beef rub that still respects the meat.","story":"SPG is what you reach for when Dalmatian feels too austere and a competition pork rub feels like dessert. Same coarse pepper, same salt, granulated garlic for the savory note that makes tri-tip and chuck taste finished. Keep a shaker by the pit.","school":"Backyard beef","image":"/images/spg-rub.jpg","ingredients":[{"group":"The mix","items":["\u00bd cup kosher salt","\u00bd cup 16-mesh black pepper","\u00bc cup granulated garlic"]}],"steps":[{"title":"Whisk dry","body":"Combine in a bowl until the garlic no longer sits on top. Granulated garlic, not garlic salt \u2014 you already have salt."},{"title":"Use it","body":"Tri-tip, steaks, chuck, burgers, even potatoes. A heavy coat on beef, a dusting on chicken skin. Not for a 16-hour brisket if you want true Central Texas \u2014 use Dalmatian there."}],"proTips":[{"voice":"Pit note","text":"Garlic burns if you sear screaming-hot after a thick coat. For steaks, SPG, rest 10 minutes, then sear. For low-and-slow, it just becomes bark."}],"milestones":[{"id":"mix","label":"Mix","hint":"Salt, pepper, granulated garlic."},{"id":"jar","label":"Jar","hint":"Label it so you don't grab the pork rub at 5 a.m."}]},{"slug":"competition-pork-rub","title":"Competition Pork Rub","region":"kansas-city","protein":"rubs","difficulty":"weeknight","hours":{"min":0.1,"max":0.15},"servings":"About 1\u00bd cups","wood":"Pantry","pitTemp":"None","finish":"Brick-red, a little sweet, no clumps of brown sugar","summary":"Paprika, brown sugar, chili \u2014 the rib and shoulder coat that turns into candy bark without tasting like a candle.","story":"Pork can take sugar. Beef mostly cannot, not for 14 hours. This is the rub for ribs, pork steaks, belly burnt ends, and a Boston butt if you want a mahogany crust. Brown sugar is structural. Paprika is color. Cayenne is a rumor, not a dare.","school":"KCBS backyard","image":"/images/pork-rub.jpg","ingredients":[{"group":"The mix","items":["\u00bd cup paprika (not smoked \u2014 you have a pit for that)","\u2153 cup packed light brown sugar","2 Tbsp kosher salt","2 Tbsp 16-mesh black pepper","1 Tbsp chili powder","2 tsp garlic powder","2 tsp onion powder","1 tsp dry mustard","1 tsp cumin","\u00bd tsp cayenne"]}],"steps":[{"title":"Break up the sugar","body":"If the brown sugar is clumped, rub it through your fingers first. Whisk everything until the color is even brick-red."},{"title":"Jar and date","body":"Keeps 2\u20133 months. Sugar draws moisture \u2014 if it turns into a brick, smash it and keep going."},{"title":"How to apply","body":"A thin binder of mustard or oil, then a coat you can still see meat through. Too heavy and it pastes, then slides. Second dust on ribs at the end for Memphis-adjacent dry."}],"proTips":[{"voice":"Competition pit","text":"Smoked paprika plus smoke is a double. Regular paprika lets the fire do the talking."},{"voice":"Rib shack","text":"For a hotter cook (300\u00b0F chicken), cut the sugar by a third or it will scorch before the skin renders."}],"milestones":[{"id":"mix","label":"Mix","hint":"No brown-sugar lumps. Even brick-red."},{"id":"jar","label":"Jar","hint":"Cool, dry. Smash if it cakes."}]},{"slug":"coffee-chile-rub","title":"Coffee-Chile Beef Rub","region":"texas","protein":"rubs","difficulty":"weeknight","hours":{"min":0.1,"max":0.15},"servings":"About 1 cup","wood":"Pantry","pitTemp":"None","finish":"Dark, fragrant, not muddy","summary":"Espresso, ancho, brown sugar \u2014 a steak and burnt-end rub with a bitter edge that beef can handle.","story":"Coffee on beef is not a gimmick if you keep it coarse and don't soak the meat in a latte. Fine espresso, ancho, a little sugar, salt, and pepper. It builds a dark crust on chuck, burnt ends, and a reverse-seared tri-tip. Too much on a 16-hour packer can taste like an ashtray. Use a lighter hand than Dalmatian.","school":"Modern Texas backyard","image":"/images/coffee-rub.jpg","ingredients":[{"group":"The mix","items":["\u00bc cup finely ground espresso or dark coffee (not instant crystals if you can help it)","2 Tbsp ancho chile powder","2 Tbsp kosher salt","2 Tbsp coarse black pepper","1 Tbsp brown sugar","1 tsp smoked paprika","1 tsp granulated garlic","\u00bd tsp cayenne"]}],"steps":[{"title":"Grind and whisk","body":"Coffee should be espresso-fine so it doesn't stay gritty on the crust. Whisk with the rest until even."},{"title":"Where it shines","body":"Chuck roast, burnt ends, tri-tip, a ribeye reverse sear. Dust, don't bury. Pair with a molasses glaze on cubes, not on a whole brisket."}],"proTips":[{"voice":"Modern pit","text":"Yesterday's coffee grounds from the percolator are stale and sour. Grind fresh or don't bother."}],"milestones":[{"id":"mix","label":"Mix","hint":"Fine coffee, even color."},{"id":"use","label":"Dust, don't bury","hint":"Beef that can take bitter. Not a 14-hour packer coat."}]},{"slug":"poultry-rub","title":"Lemon-Pepper Poultry Rub","region":"alabama","protein":"rubs","difficulty":"weeknight","hours":{"min":0.1,"max":0.15},"servings":"About \u00be cup","wood":"Pantry","pitTemp":"None","finish":"Fragrant, not clumped","summary":"Salt, paprika, lemon zest, thyme. The bird rub that doesn't try to be pork candy.","story":"Chicken and turkey want salt, a little sugar, herbs, and citrus \u2014 not a cup of brown sugar that never renders through the skin. This is the shaker for the Alabama white-sauce bird, competition thighs, and a holiday turkey. Lemon zest goes in dry; use it within a couple of weeks or skip the zest and add it fresh on the bird.","school":"South poultry pit","image":"/images/poultry-rub.jpg","ingredients":[{"group":"The mix","items":["3 Tbsp kosher salt","2 Tbsp paprika","1 Tbsp brown sugar","1 Tbsp black pepper","2 tsp garlic powder","2 tsp onion powder","1 tsp dried thyme","1 tsp dried mustard","Zest of 2 lemons, dried on the counter 30 minutes","\u00bd tsp cayenne"]}],"steps":[{"title":"Dry the zest","body":"Wet zest clumps the salt. Spread it 30 minutes, then whisk into the spices."},{"title":"Under the skin","body":"A little under turkey or chicken skin with butter, the rest on top. Thighs get a heavier coat than breasts."}],"proTips":[{"voice":"Holiday pit","text":"If you dry-brine a turkey overnight with salt only, skip extra salt in this rub the next day or you will overshoot."}],"milestones":[{"id":"zest","label":"Dry the zest","hint":"30 minutes on the counter."},{"id":"mix","label":"Mix and jar","hint":"Use within a few weeks if you included zest."}]},{"slug":"kc-molasses-sauce","title":"Kansas City Molasses Sauce","region":"kansas-city","protein":"sauces","difficulty":"weeknight","hours":{"min":0.4,"max":0.6},"servings":"About 2\u00bd cups","wood":"Pantry","pitTemp":"Stovetop simmer","finish":"Thick enough to coat a spoon, shiny, not scorched","summary":"Tomato, molasses, a little heat. The American default sauce, cooked so it tastes like a kitchen, not a bottle.","story":"Kansas City sauce is thick, sweet, and tomato-forward. The trick is simmering long enough that raw ketchup and molasses stop tasting like the pantry. Vinegar keeps it from cloying. Use it as a late glaze, not a marinade, and never as a substitute for bark.","school":"Kansas City backyard","image":"/images/kc-sauce.jpg","ingredients":[{"group":"Pot","items":["1\u00bd cups ketchup","\u00bd cup molasses (not blackstrap unless you like bitter)","\u2153 cup apple cider vinegar","\u00bc cup packed brown sugar","2 Tbsp Worcestershire","1 Tbsp mustard","1 Tbsp paprika","1 tsp onion powder","1 tsp garlic powder","1 tsp kosher salt","\u00bd tsp black pepper","\u00bd tsp cayenne","Optional: 1 tsp liquid smoke only if this is a stovetop-only batch with no pit"]}],"steps":[{"title":"Whisk cold, then heat","body":"Everything in a saucepan off heat until smooth. Then medium-low. Molasses scorches if you walk away."},{"title":"Simmer 20\u201330 minutes","body":"It should go from shiny-thin to a coat that clings to a spoon. Stir often. Taste: more vinegar if it's flabby, more cayenne if it's shy."},{"title":"Cool and jar","body":"It thickens in the fridge. Keeps 2 weeks. Thin with a splash of vinegar to glaze ribs; use it thick on burnt ends."}],"proTips":[{"voice":"KC pit","text":"Glaze in the last 20 minutes. Sugar in this sauce will blacken if you mop it on at hour two."},{"voice":"Bottle shop","text":"If you must start from a grocery sauce, simmer it with vinegar and Worcestershire for 15 minutes. Straight from the bottle tastes like the factory."}],"milestones":[{"id":"whisk","label":"Whisk","hint":"Smooth before it sees heat."},{"id":"simmer","label":"Simmer","hint":"20\u201330 minutes, stirring, until it coats."},{"id":"jar","label":"Jar","hint":"Cool, then fridge. Two weeks."}]}]
+[
+  {
+    "slug": "vinegar-slaw",
+    "title": "Pepper Vinegar Slaw",
+    "region": "carolina",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "servings": "8",
+    "wood": "None",
+    "pitTemp": "None — cold side",
+    "finish": "Crisp, sharp, not watery",
+    "summary": "The slaw that belongs on pulled pork: no mayo, a lot of pepper, vinegar that wakes the fat up.",
+    "story": "Creamy slaw has its place, which is not on eastern Carolina pork. This is shredded cabbage in a hot vinegar dressing that pickles itself in the bowl. Make it an hour ahead so it wilts just enough, then keep it cold. It should crunch next to soft meat, not dissolve into the bun.",
+    "school": "Eastern NC counter",
+    "image": "/images/slaw.jpg",
+    "ingredients": [
+      {
+        "group": "Cabbage",
+        "items": [
+          "½ head green cabbage, finely shredded",
+          "1 carrot, grated (optional)",
+          "2 scallions, thin"
+        ]
+      },
+      {
+        "group": "Dressing",
+        "items": [
+          "½ cup apple cider vinegar",
+          "2 Tbsp sugar",
+          "1 Tbsp kosher salt",
+          "1 tsp coarse black pepper",
+          "½ tsp crushed red pepper",
+          "2 Tbsp oil",
+          "1 tsp celery seed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Warm the dressing",
+        "body": "Heat vinegar, sugar, salt, peppers, and celery seed until the sugar dissolves. Whisk in the oil. It should taste too sharp in the pan — the cabbage will mute it."
+      },
+      {
+        "title": "Pour and wait",
+        "body": "Toss with cabbage and scallions. Rest 30–60 minutes, tossing once. Drain a little if it throws too much liquid before serving."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Chop house",
+        "text": "Fine shred, not coleslaw-bag ribbons. The dressing has to coat, and a thick chip of cabbage just tastes like wet salad."
+      },
+      {
+        "voice": "Eastern NC",
+        "text": "If you add mayo you have made a different slaw. That's fine. Don't call it Carolina."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "dress",
+        "label": "Warm dressing",
+        "hint": "Sugar dissolved, too sharp on purpose."
+      },
+      {
+        "id": "rest",
+        "label": "30–60 minute rest",
+        "hint": "Wilt just enough. Serve cold."
+      }
+    ]
+  },
+  {
+    "slug": "texas-plate-ribs",
+    "title": "Texas Plate Ribs",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 7,
+      "max": 9
+    },
+    "servings": "4–6",
+    "wood": "Post oak",
+    "pitTemp": "275°F",
+    "finish": "Probe tender between bones, ~203°F",
+    "summary": "Dinosaur ribs: three bones of beef plate, salt, pepper, oak. The most impressive thing you can pull off a backyard pit.",
+    "story": "Plate ribs are the short rib of the brisket world — huge bones, thick meat, a bark that looks like furniture. They do not need a sweet glaze. A Dalmatian rub, a hotter pit than a packer, and patience until a probe slides in between the bones. Serve them whole and let people fight over the last one.",
+    "school": "Central Texas offset",
+    "image": "/images/beef-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Ribs",
+        "items": [
+          "1 rack beef plate ribs (3-bone), 5–7 lb, membrane off",
+          "3 Tbsp kosher salt",
+          "3 Tbsp 16-mesh black pepper",
+          "1 tsp granulated garlic (optional)"
+        ]
+      },
+      {
+        "group": "On the pit",
+        "items": [
+          "Post oak splits",
+          "Beef tallow or water for a late spritz"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Trim the hard fat, keep the cap",
+        "body": "Peel the membrane on the bone side. Knock off only the hard, waxy fat on top. Leave a ¼-inch cap so the meat doesn't dry. Coat with salt and pepper on every surface, including the bones."
+      },
+      {
+        "title": "Hotter than brisket",
+        "body": "275°F, post oak, bone-side down. Plate ribs can take the heat. Leave them alone for 4 hours. Spritz only if the bark looks like it's turning to jerky."
+      },
+      {
+        "title": "Don't wrap unless you have to",
+        "body": "Paper wrap after bark is mahogany if dinner is waiting. Otherwise ride them naked. Start probing between bones around 6–7 hours."
+      },
+      {
+        "title": "Probe, rest, serve whole",
+        "body": "Done feels like brisket — warm butter, usually 200–205°F. Rest 45–60 minutes wrapped in a towel. Cut between bones. One bone is a meal."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Offset school",
+        "text": "If the bark is black and bitter, your fire was dirty, not too hot. Thin blue smoke or don't bother with plate ribs — they show every mistake."
+      },
+      {
+        "voice": "Butcher's note",
+        "text": "Ask for plate ribs (chuck short ribs / dino ribs), not flanken and not English-cut braise ribs. You want the three long bones."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "on",
+        "label": "On the pit",
+        "hint": "275°F, bone down, post oak."
+      },
+      {
+        "id": "bark",
+        "label": "Bark set",
+        "hint": "Mahogany, about 4 hours. Spritz only if dry."
+      },
+      {
+        "id": "probe",
+        "label": "Probe tender",
+        "hint": "Between the bones, like butter."
+      },
+      {
+        "id": "rest",
+        "label": "Rest",
+        "hint": "45–60 minutes. Serve on the bone."
+      }
+    ]
+  },
+  {
+    "slug": "poor-mans-brisket",
+    "title": "Poor Man's Brisket",
+    "region": "texas",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 6,
+      "max": 8
+    },
+    "servings": "8–10",
+    "wood": "Post oak or hickory",
+    "pitTemp": "250–275°F",
+    "finish": "Probe tender, ~200–203°F",
+    "summary": "A chuck roast smoked like a packer. Same bark, half the time, half the money, still a Texas plate.",
+    "story": "Chuck has the marbling and connective tissue to eat like brisket if you treat it like one: Dalmatian rub, clean oak, wrap after bark, rest. It will not fool a Hill Country hall, but it will fool a weeknight table that wanted smoked beef without a 14-hour hostage situation.",
+    "school": "Central Texas backyard",
+    "image": "/images/chuck.jpg",
+    "ingredients": [
+      {
+        "group": "Roast",
+        "items": [
+          "1 chuck roast, 4–5 lb, well marbled",
+          "2 Tbsp kosher salt",
+          "2 Tbsp 16-mesh black pepper",
+          "1 tsp granulated garlic"
+        ]
+      },
+      {
+        "group": "Wrap",
+        "items": [
+          "Pink butcher paper",
+          "1 Tbsp beef tallow (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season like brisket",
+        "body": "Pat dry. Salt, pepper, garlic on all sides. Overnight in the fridge if you can. Chuck has a lot of grain changes — glance at them now so you know how to slice later."
+      },
+      {
+        "title": "Smoke to bark",
+        "body": "250–275°F. 3–4 hours until the color is deep and the rub has tacked on. Spritz with water if the surface dries out."
+      },
+      {
+        "title": "Paper wrap",
+        "body": "Wrap with a spoon of tallow if you have it. Back on until a probe slides in with almost no push, usually 200–203°F. Chuck can stall; don't panic at 165."
+      },
+      {
+        "title": "Rest and slice against the grain",
+        "body": "Rest 45 minutes. Slice ¼-inch against the grain. If a piece shreds instead of slicing, you went past tender into pulled-beef territory — that's still dinner."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Backyard pit",
+        "text": "This is also how you make burnt-end-ish cubes without a packer. Cube after probe tender, glaze 30 minutes, done."
+      },
+      {
+        "voice": "Butcher's note",
+        "text": "Choose a thick, even chuck, not a thin blade steak. You need mass or it dries before collagen gives up."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "on",
+        "label": "On the pit",
+        "hint": "250–275°F, Dalmatian rub."
+      },
+      {
+        "id": "wrap",
+        "label": "Wrap",
+        "hint": "Bark set, then paper."
+      },
+      {
+        "id": "probe",
+        "label": "Probe tender",
+        "hint": "200–203°F, like brisket."
+      },
+      {
+        "id": "slice",
+        "label": "Rest and slice",
+        "hint": "45 minutes, then against the grain."
+      }
+    ]
+  },
+  {
+    "slug": "st-louis-pork-steaks",
+    "title": "St. Louis Pork Steaks",
+    "region": "kansas-city",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 3
+    },
+    "servings": "6",
+    "wood": "Hickory",
+    "pitTemp": "Two-zone, then a sauce pan",
+    "finish": "Fork-tender in the pan, not shoe leather on the grate",
+    "summary": "Bone-in shoulder steaks, seared, sauced, and covered until they give. St. Louis backyard religion.",
+    "story": "Pork steaks are cheap cuts from the shoulder, cut like a chop. In St. Louis they get a hard sear, then a swim in a pan of barbecue sauce with the lid on so the connective tissue melts. They are not a dry grill-mark flex. They should pull with a fork and taste like the sauce and the hog at the same time.",
+    "school": "St. Louis backyard",
+    "image": "/images/pork-steaks.jpg",
+    "ingredients": [
+      {
+        "group": "Steaks",
+        "items": [
+          "6 pork steaks, ~¾–1 inch thick (from the Boston butt)",
+          "2 Tbsp kosher salt",
+          "2 Tbsp paprika-forward pork rub"
+        ]
+      },
+      {
+        "group": "Pan sauce",
+        "items": [
+          "2 cups tomato-molasses barbecue sauce",
+          "½ cup beer or apple juice",
+          "2 Tbsp butter",
+          "1 Tbsp Worcestershire"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season and sear",
+        "body": "Salt and rub both sides. Hot two-zone fire. Sear 3–4 minutes a side over the coals until you have real color. Don't cook them through on the grate — they will seize."
+      },
+      {
+        "title": "Into the pan",
+        "body": "Nestle the steaks in a foil pan or cast iron. Pour sauce, beer, Worcestershire, and butter around them. Cover tightly with foil."
+      },
+      {
+        "title": "Braise on the cool side",
+        "body": "Lid the grill, 250–275°F, 60–90 minutes until a fork twists in the meat with no fight. Uncover last 10 minutes if you want the sauce to tack up."
+      },
+      {
+        "title": "Rest in the liquor",
+        "body": "10 minutes in the pan. Serve with extra sauce and cheap white bread to mop. This is not a tidy plate."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "St. Louis",
+        "text": "If you skip the covered pan you will serve grilled shoulder steaks that chew like a belt. The braise is the recipe."
+      },
+      {
+        "voice": "Pit note",
+        "text": "Maverick's and similar cheap sauces are traditional. Save the fancy bottle for ribs."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "sear",
+        "label": "Hard sear",
+        "hint": "Color on both sides, not cooked through."
+      },
+      {
+        "id": "pan",
+        "label": "Covered pan",
+        "hint": "Sauce + beer, foil on, 60–90 minutes."
+      },
+      {
+        "id": "fork",
+        "label": "Fork tender",
+        "hint": "Rest in the pan 10 minutes."
+      }
+    ]
+  },
+  {
+    "slug": "smoked-pork-loin",
+    "title": "Applewood Pork Loin",
+    "region": "kansas-city",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 3
+    },
+    "servings": "8",
+    "wood": "Apple or cherry",
+    "pitTemp": "250°F",
+    "finish": "140–145°F, then rest (it is not a shoulder)",
+    "summary": "A lean roast that dries if you treat it like pulled pork. Pull it like a pork chop and let the rest finish it.",
+    "story": "Loin is the cut people ruin on a smoker because the internet said 203°F. That number is for collagens. Loin is a big chop. Brine it, rub it, kiss it with apple wood, and get it off at 140. Sliced, it should be blushing and juicy. Sauce on the side — mustard or a thin KC.",
+    "school": "Backyard fruitwood",
+    "image": "/images/pork-loin.jpg",
+    "ingredients": [
+      {
+        "group": "Loin",
+        "items": [
+          "1 boneless pork loin, 3–4 lb, silver skin off",
+          "2 Tbsp kosher salt (or overnight brine: ¼ cup salt + ¼ cup brown sugar per quart water)",
+          "2 Tbsp pork rub"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine or dry-brine",
+        "body": "Overnight wet brine or a heavy salt the night before. Loin has no fat to hide dryness. Pat dry. Rub."
+      },
+      {
+        "title": "Gentle fruitwood",
+        "body": "250°F, apple or cherry. A 3–4 lb loin is often done in 90–150 minutes. Start probing at 75 minutes."
+      },
+      {
+        "title": "Pull at 140",
+        "body": "Carryover will take it to 145. Rest 15 minutes. Slice ½-inch medallions. If you wait for 160 it will taste like a cafeteria."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "A mustard-honey glaze in the last 15 minutes is allowed. A 3-hour wrap in foil is how you make pork-flavored sawdust."
+      },
+      {
+        "voice": "Butcher's note",
+        "text": "Loin, not tenderloin. Tenderloin is smaller and even faster — 30–40 minutes. Don't mix them up."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "brine",
+        "label": "Brine",
+        "hint": "Overnight if you can. Pat dry, rub."
+      },
+      {
+        "id": "smoke",
+        "label": "On the pit",
+        "hint": "250°F, apple or cherry."
+      },
+      {
+        "id": "pull",
+        "label": "140°F and rest",
+        "hint": "15 minutes, then slice."
+      }
+    ]
+  },
+  {
+    "slug": "cedar-plank-salmon",
+    "title": "Cedar-Plank Salmon",
+    "region": "pacific",
+    "protein": "fish",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.75,
+      "max": 1.25
+    },
+    "servings": "4–6",
+    "wood": "Alder or apple, plus a soaked cedar plank",
+    "pitTemp": "225–250°F",
+    "finish": "125–130°F in the thickest part; pellicle set",
+    "summary": "The fish cook barbecue people skip. Alder, a cedar plank, and the nerve to pull it when it's still silk.",
+    "story": "Smoke is a seasoning on salmon, not a 12-hour identity. Dry the fillet until a pellicle forms, set it on a soaked cedar plank, and run a mild wood. Pull it when the thickest part is 125–130°F — it will flake and still look wet. Overcooked salmon is cat food with bark.",
+    "school": "West Coast live fire",
+    "image": "/images/salmon.jpg",
+    "ingredients": [
+      {
+        "group": "Fish",
+        "items": [
+          "1 side of salmon, 2–2½ lb, pin bones out, skin on",
+          "1 Tbsp kosher salt",
+          "1 Tbsp brown sugar",
+          "1 tsp black pepper",
+          "Zest of 1 lemon"
+        ]
+      },
+      {
+        "group": "Plank",
+        "items": [
+          "1 untreated cedar plank, soaked 1–2 hours"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dry brine and pellicle",
+        "body": "Mix salt, sugar, pepper, zest. Coat the flesh. Fridge uncovered 45–90 minutes until the surface feels tacky, not wet. That tacky film is the pellicle — smoke sticks to it."
+      },
+      {
+        "title": "Plank and mild smoke",
+        "body": "Fish on the soaked plank, 225–250°F, alder or apple. One chunk of wood is enough. 35–50 minutes depending on thickness."
+      },
+      {
+        "title": "Pull early",
+        "body": "125–130°F in the thickest part. The protein should just flake. Rest 5 minutes on the plank. Lemon, maybe a little white sauce or dill. Do not sauce it like ribs."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "West Coast",
+        "text": "Hickory on salmon is a dare. If you can only burn hickory, use less and get it off faster."
+      },
+      {
+        "voice": "Pit note",
+        "text": "If the plank catches fire you ran it too hot or didn't soak it. Keep a spray bottle. Char on the plank edges is fine; flames under the fish are not."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "pellicle",
+        "label": "Pellicle",
+        "hint": "Uncovered fridge until the surface is tacky."
+      },
+      {
+        "id": "plank",
+        "label": "On the plank",
+        "hint": "225–250°F, mild wood."
+      },
+      {
+        "id": "pull",
+        "label": "125–130°F",
+        "hint": "Flakes, still silk. Rest 5."
+      }
+    ]
+  },
+  {
+    "slug": "smoked-lamb-shoulder",
+    "title": "Herb-Crusted Lamb Shoulder",
+    "region": "california",
+    "protein": "lamb",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 5,
+      "max": 7
+    },
+    "servings": "6–8",
+    "wood": "Oak or pecan",
+    "pitTemp": "275°F",
+    "finish": "Probe tender, ~195–203°F, or 135°F if you want it sliceable and pink",
+    "summary": "Shoulder treated like pork butt: herb, garlic, oak, until the blade gives. The cook that makes a table go quiet.",
+    "story": "Lamb on a smoker scares people who only know chops. A shoulder has the fat and collagen to go low and slow. Garlic, rosemary, salt, and oak — not a mint jelly situation. Pull it to shred for pitas, or stop at 135 if you want rosy slices. Either way, rest it.",
+    "school": "West Coast oak",
+    "image": "/images/lamb.jpg",
+    "ingredients": [
+      {
+        "group": "Shoulder",
+        "items": [
+          "1 bone-in lamb shoulder, 5–6 lb",
+          "2 Tbsp kosher salt",
+          "1 Tbsp black pepper",
+          "1 Tbsp chopped rosemary",
+          "1 Tbsp chopped thyme",
+          "6 garlic cloves, minced",
+          "Zest of 1 lemon",
+          "2 Tbsp olive oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "body": "Mash garlic, herbs, zest, oil, salt, and pepper into a paste. Score the fat cap in a crosshatch. Rub the paste into every crevice. Overnight if you can.",
+        "title": "Herb paste"
+      },
+      {
+        "body": "Fat cap up. 4–6 hours. Lamb fat can taste tallow-y if the fire is dirty — keep the smoke thin and blue.",
+        "title": "Oak at 275"
+      },
+      {
+        "body": "For slices: 135°F in the thickest part, rest 20 minutes. For pull: ride it to probe tender like a pork shoulder, around 200°F, rest 45 minutes, then shred off the blade.",
+        "title": "Choose your doneness"
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Lamb and mesquite is a bar fight. Oak or pecan. Save mesquite for a steak.",
+        "voice": "West Coast"
+      },
+      {
+        "text": "A sharp salsa or yogurt-garlic sauce on the side. Not a cup of mint jelly unless you are feeding your aunt on purpose.",
+        "voice": "Table"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "paste",
+        "hint": "Overnight on the shoulder if you can.",
+        "label": "Herb paste"
+      },
+      {
+        "id": "smoke",
+        "hint": "275°F, thin blue smoke.",
+        "label": "Oak fire"
+      },
+      {
+        "id": "pull",
+        "hint": "135°F for pink slices, probe tender to pull.",
+        "label": "Slice or shred"
+      }
+    ]
+  },
+  {
+    "slug": "dalmatian-rub",
+    "title": "Dalmatian Rub",
+    "region": "texas",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.05,
+      "max": 0.1
+    },
+    "servings": "About 1 cup — enough for a packer",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Even 50/50, coarse, no clumps",
+    "summary": "Salt and 16-mesh pepper. The Central Texas seasoning that is a philosophy, not a blend.",
+    "story": "If the meat is good and the fire is clean, you do not need a fourteen-spice jar. Equal parts kosher salt and coarse black pepper by volume. Garlic if you are not arguing with a purist. Make it in a shaker, not a grinder — you want pebbles of pepper that become bark, not a grey dust.",
+    "school": "Central Texas meat market",
+    "image": "/images/dalmatian-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "½ cup 16-mesh coarse black pepper",
+          "½ cup kosher salt (Diamond Crystal; ⅓ cup if Morton)",
+          "1 Tbsp granulated garlic (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Measure by volume, not vibes",
+        "body": "Pepper and salt 50/50 in a bowl. Whisk so the garlic, if using, disappears. It should look speckled like a Dalmatian — hence the name."
+      },
+      {
+        "title": "Jar it",
+        "body": "A shaker with large holes, or a pint jar and your hands. Keeps months in a cupboard. Do not refrigerate — moisture clumps salt."
+      },
+      {
+        "title": "How to use it",
+        "body": "Coat brisket, beef ribs, chuck, and sausage until you can barely see meat. Poultry wants a lighter coat. This is not a pork-rib candy rub."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Meat market",
+        "text": "Table pepper is too fine. It turns muddy and bitter over a 12-hour cook. Buy 16-mesh, or crack whole peppercorns coarse."
+      },
+      {
+        "voice": "Offset school",
+        "text": "If your bark is salty, you used Morton at Diamond volume. Weigh it once, then you know your handful."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "mix",
+        "label": "Mix",
+        "hint": "50/50 salt and coarse pepper."
+      },
+      {
+        "id": "jar",
+        "label": "Jar",
+        "hint": "Dry cupboard. Shake before every cook."
+      }
+    ]
+  },
+  {
+    "slug": "spg-rub",
+    "title": "SPG House Rub",
+    "region": "texas",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.05,
+      "max": 0.1
+    },
+    "servings": "About 1¼ cups",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Even blend, garlic distributed",
+    "summary": "Salt, pepper, garlic — the weeknight beef rub that still respects the meat.",
+    "story": "SPG is what you reach for when Dalmatian feels too austere and a competition pork rub feels like dessert. Same coarse pepper, same salt, granulated garlic for the savory note that makes tri-tip and chuck taste finished. Keep a shaker by the pit.",
+    "school": "Backyard beef",
+    "image": "/images/spg-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "½ cup kosher salt",
+          "½ cup 16-mesh black pepper",
+          "¼ cup granulated garlic"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Whisk dry",
+        "body": "Combine in a bowl until the garlic no longer sits on top. Granulated garlic, not garlic salt — you already have salt."
+      },
+      {
+        "title": "Use it",
+        "body": "Tri-tip, steaks, chuck, burgers, even potatoes. A heavy coat on beef, a dusting on chicken skin. Not for a 16-hour brisket if you want true Central Texas — use Dalmatian there."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Pit note",
+        "text": "Garlic burns if you sear screaming-hot after a thick coat. For steaks, SPG, rest 10 minutes, then sear. For low-and-slow, it just becomes bark."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "mix",
+        "label": "Mix",
+        "hint": "Salt, pepper, granulated garlic."
+      },
+      {
+        "id": "jar",
+        "label": "Jar",
+        "hint": "Label it so you don't grab the pork rub at 5 a.m."
+      }
+    ]
+  },
+  {
+    "slug": "competition-pork-rub",
+    "title": "Competition Pork Rub",
+    "region": "kansas-city",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.15
+    },
+    "servings": "About 1½ cups",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Brick-red, a little sweet, no clumps of brown sugar",
+    "summary": "Paprika, brown sugar, chili — the rib and shoulder coat that turns into candy bark without tasting like a candle.",
+    "story": "Pork can take sugar. Beef mostly cannot, not for 14 hours. This is the rub for ribs, pork steaks, belly burnt ends, and a Boston butt if you want a mahogany crust. Brown sugar is structural. Paprika is color. Cayenne is a rumor, not a dare.",
+    "school": "KCBS backyard",
+    "image": "/images/pork-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "½ cup paprika (not smoked — you have a pit for that)",
+          "⅓ cup packed light brown sugar",
+          "2 Tbsp kosher salt",
+          "2 Tbsp 16-mesh black pepper",
+          "1 Tbsp chili powder",
+          "2 tsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp dry mustard",
+          "1 tsp cumin",
+          "½ tsp cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Break up the sugar",
+        "body": "If the brown sugar is clumped, rub it through your fingers first. Whisk everything until the color is even brick-red."
+      },
+      {
+        "title": "Jar and date",
+        "body": "Keeps 2–3 months. Sugar draws moisture — if it turns into a brick, smash it and keep going."
+      },
+      {
+        "title": "How to apply",
+        "body": "A thin binder of mustard or oil, then a coat you can still see meat through. Too heavy and it pastes, then slides. Second dust on ribs at the end for Memphis-adjacent dry."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Competition pit",
+        "text": "Smoked paprika plus smoke is a double. Regular paprika lets the fire do the talking."
+      },
+      {
+        "voice": "Rib shack",
+        "text": "For a hotter cook (300°F chicken), cut the sugar by a third or it will scorch before the skin renders."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "mix",
+        "label": "Mix",
+        "hint": "No brown-sugar lumps. Even brick-red."
+      },
+      {
+        "id": "jar",
+        "label": "Jar",
+        "hint": "Cool, dry. Smash if it cakes."
+      }
+    ]
+  },
+  {
+    "slug": "coffee-chile-rub",
+    "title": "Coffee-Chile Beef Rub",
+    "region": "texas",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.15
+    },
+    "servings": "About 1 cup",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Dark, fragrant, not muddy",
+    "summary": "Espresso, ancho, brown sugar — a steak and burnt-end rub with a bitter edge that beef can handle.",
+    "story": "Coffee on beef is not a gimmick if you keep it coarse and don't soak the meat in a latte. Fine espresso, ancho, a little sugar, salt, and pepper. It builds a dark crust on chuck, burnt ends, and a reverse-seared tri-tip. Too much on a 16-hour packer can taste like an ashtray. Use a lighter hand than Dalmatian.",
+    "school": "Modern Texas backyard",
+    "image": "/images/coffee-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "¼ cup finely ground espresso or dark coffee (not instant crystals if you can help it)",
+          "2 Tbsp ancho chile powder",
+          "2 Tbsp kosher salt",
+          "2 Tbsp coarse black pepper",
+          "1 Tbsp brown sugar",
+          "1 tsp smoked paprika",
+          "1 tsp granulated garlic",
+          "½ tsp cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grind and whisk",
+        "body": "Coffee should be espresso-fine so it doesn't stay gritty on the crust. Whisk with the rest until even."
+      },
+      {
+        "title": "Where it shines",
+        "body": "Chuck roast, burnt ends, tri-tip, a ribeye reverse sear. Dust, don't bury. Pair with a molasses glaze on cubes, not on a whole brisket."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Modern pit",
+        "text": "Yesterday's coffee grounds from the percolator are stale and sour. Grind fresh or don't bother."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "mix",
+        "label": "Mix",
+        "hint": "Fine coffee, even color."
+      },
+      {
+        "id": "use",
+        "label": "Dust, don't bury",
+        "hint": "Beef that can take bitter. Not a 14-hour packer coat."
+      }
+    ]
+  },
+  {
+    "slug": "poultry-rub",
+    "title": "Lemon-Pepper Poultry Rub",
+    "region": "alabama",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.15
+    },
+    "servings": "About ¾ cup",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Fragrant, not clumped",
+    "summary": "Salt, paprika, lemon zest, thyme. The bird rub that doesn't try to be pork candy.",
+    "story": "Chicken and turkey want salt, a little sugar, herbs, and citrus — not a cup of brown sugar that never renders through the skin. This is the shaker for the Alabama white-sauce bird, competition thighs, and a holiday turkey. Lemon zest goes in dry; use it within a couple of weeks or skip the zest and add it fresh on the bird.",
+    "school": "South poultry pit",
+    "image": "/images/poultry-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "3 Tbsp kosher salt",
+          "2 Tbsp paprika",
+          "1 Tbsp brown sugar",
+          "1 Tbsp black pepper",
+          "2 tsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp dried thyme",
+          "1 tsp dried mustard",
+          "Zest of 2 lemons, dried on the counter 30 minutes",
+          "½ tsp cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dry the zest",
+        "body": "Wet zest clumps the salt. Spread it 30 minutes, then whisk into the spices."
+      },
+      {
+        "title": "Under the skin",
+        "body": "A little under turkey or chicken skin with butter, the rest on top. Thighs get a heavier coat than breasts."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "Holiday pit",
+        "text": "If you dry-brine a turkey overnight with salt only, skip extra salt in this rub the next day or you will overshoot."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "zest",
+        "label": "Dry the zest",
+        "hint": "30 minutes on the counter."
+      },
+      {
+        "id": "mix",
+        "label": "Mix and jar",
+        "hint": "Use within a few weeks if you included zest."
+      }
+    ]
+  },
+  {
+    "slug": "kc-molasses-sauce",
+    "title": "Kansas City Molasses Sauce",
+    "region": "kansas-city",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.4,
+      "max": 0.6
+    },
+    "servings": "About 2½ cups",
+    "wood": "Pantry",
+    "pitTemp": "Stovetop simmer",
+    "finish": "Thick enough to coat a spoon, shiny, not scorched",
+    "summary": "Tomato, molasses, a little heat. The American default sauce, cooked so it tastes like a kitchen, not a bottle.",
+    "story": "Kansas City sauce is thick, sweet, and tomato-forward. The trick is simmering long enough that raw ketchup and molasses stop tasting like the pantry. Vinegar keeps it from cloying. Use it as a late glaze, not a marinade, and never as a substitute for bark.",
+    "school": "Kansas City backyard",
+    "image": "/images/kc-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "Pot",
+        "items": [
+          "1½ cups ketchup",
+          "½ cup molasses (not blackstrap unless you like bitter)",
+          "⅓ cup apple cider vinegar",
+          "¼ cup packed brown sugar",
+          "2 Tbsp Worcestershire",
+          "1 Tbsp mustard",
+          "1 Tbsp paprika",
+          "1 tsp onion powder",
+          "1 tsp garlic powder",
+          "1 tsp kosher salt",
+          "½ tsp black pepper",
+          "½ tsp cayenne",
+          "Optional: 1 tsp liquid smoke only if this is a stovetop-only batch with no pit"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Whisk cold, then heat",
+        "body": "Everything in a saucepan off heat until smooth. Then medium-low. Molasses scorches if you walk away."
+      },
+      {
+        "title": "Simmer 20–30 minutes",
+        "body": "It should go from shiny-thin to a coat that clings to a spoon. Stir often. Taste: more vinegar if it's flabby, more cayenne if it's shy."
+      },
+      {
+        "title": "Cool and jar",
+        "body": "It thickens in the fridge. Keeps 2 weeks. Thin with a splash of vinegar to glaze ribs; use it thick on burnt ends."
+      }
+    ],
+    "proTips": [
+      {
+        "voice": "KC pit",
+        "text": "Glaze in the last 20 minutes. Sugar in this sauce will blacken if you mop it on at hour two."
+      },
+      {
+        "voice": "Bottle shop",
+        "text": "If you must start from a grocery sauce, simmer it with vinegar and Worcestershire for 15 minutes. Straight from the bottle tastes like the factory."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "whisk",
+        "label": "Whisk",
+        "hint": "Smooth before it sees heat."
+      },
+      {
+        "id": "simmer",
+        "label": "Simmer",
+        "hint": "20–30 minutes, stirring, until it coats."
+      },
+      {
+        "id": "jar",
+        "label": "Jar",
+        "hint": "Cool, then fridge. Two weeks."
+      }
+    ]
+  }
+]
