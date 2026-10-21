@@ -1069,28 +1069,28 @@
     ],
     "steps": [
       {
-        "t": "Mix and roll big",
-        "d": "Mix all the meatball ingredients and roll them big, about 3 inches across — 8 to 12 meatballs. One pound ain't nothing; this is a family batch."
+        "title": "Mix and roll big",
+        "body": "Mix all the meatball ingredients and roll them big, about 3 inches across — 8 to 12 meatballs. One pound ain't nothing; this is a family batch."
       },
       {
-        "t": "Into the juice",
-        "d": "Set the meatballs in a Dutch oven or deep pot and pour the whole big can of tomato juice over them. They cook in the juice the whole time. If you want whole or diced tomatoes in yours, add them to the juice now — it's up to the cook."
+        "title": "Into the juice",
+        "body": "Set the meatballs in a Dutch oven or deep pot and pour the whole big can of tomato juice over them. They cook in the juice the whole time. If you want whole or diced tomatoes in yours, add them to the juice now — it's up to the cook."
       },
       {
-        "t": "On the stove",
-        "d": "Cover and simmer low about 1 hour, until the rice is tender and poking out of the meatballs like quills."
+        "title": "On the stove",
+        "body": "Cover and simmer low about 1 hour, until the rice is tender and poking out of the meatballs like quills."
       },
       {
-        "t": "Or on the smoker",
-        "d": "Dutch oven on the pit at 250°F with a light wood like apple or cherry. Lid off or cracked the first hour so they take a little smoke, then cover and cook 1½–2 hours total, until the rice is tender."
+        "title": "Or on the smoker",
+        "body": "Dutch oven on the pit at 250°F with a light wood like apple or cherry. Lid off or cracked the first hour so they take a little smoke, then cover and cook 1½–2 hours total, until the rice is tender."
       },
       {
-        "t": "Make the gravy",
-        "d": "Work the butter and flour together into a roux and stir it into the juice around the meatballs. Simmer a few more minutes until it thickens into a tomato gravy."
+        "title": "Make the gravy",
+        "body": "Work the butter and flour together into a roux and stir it into the juice around the meatballs. Simmer a few more minutes until it thickens into a tomato gravy."
       },
       {
-        "t": "Serve",
-        "d": "Over mashed potatoes, with plenty of gravy spooned over."
+        "title": "Serve",
+        "body": "Over mashed potatoes, with plenty of gravy spooned over."
       }
     ],
     "proTips": [
@@ -1139,20 +1139,20 @@
     ],
     "steps": [
       {
-        "t": "Marinate",
-        "d": "Stir the marinade together, toss the chicken and pork in it, and let it sit at least an hour — a few hours is better."
+        "title": "Marinate",
+        "body": "Stir the marinade together, toss the chicken and pork in it, and let it sit at least an hour — a few hours is better."
       },
       {
-        "t": "Thread the skewers",
-        "d": "Meat, pineapple, pepper, onion, repeat. Don't pack them tight or they won't char right."
+        "title": "Thread the skewers",
+        "body": "Meat, pineapple, pepper, onion, repeat. Don't pack them tight or they won't char right."
       },
       {
-        "t": "Grill",
-        "d": "Over medium-high heat, turning every few minutes, about 12–15 minutes, until the meat is cooked through and the pineapple and peppers have charred edges."
+        "title": "Grill",
+        "body": "Over medium-high heat, turning every few minutes, about 12–15 minutes, until the meat is cooked through and the pineapple and peppers have charred edges."
       },
       {
-        "t": "Serve",
-        "d": "Over rice, straight off the skewers."
+        "title": "Serve",
+        "body": "Over rice, straight off the skewers."
       }
     ],
     "proTips": [
@@ -1207,28 +1207,28 @@
     ],
     "steps": [
       {
-        "t": "Form the loaf",
-        "d": "Mix the beef with the rub, chili powder, and cumin and form it into one tight loaf. Tight matters — a loose loaf will sag and break up on the grate."
+        "title": "Form the loaf",
+        "body": "Mix the beef with the rub, chili powder, and cumin and form it into one tight loaf. Tight matters — a loose loaf will sag and break up on the grate."
       },
       {
-        "t": "Build the pot",
-        "d": "Everything for the pot goes in a Dutch oven, stirred together."
+        "title": "Build the pot",
+        "body": "Everything for the pot goes in a Dutch oven, stirred together."
       },
       {
-        "t": "Set up the pit",
-        "d": "Pit at 250–275°F, hickory or oak. The Dutch oven sits on the lower grate and the loaf goes on the grate right over the pot, so every drip lands in the chili."
+        "title": "Set up the pit",
+        "body": "Pit at 250–275°F, hickory or oak. The Dutch oven sits on the lower grate and the loaf goes on the grate right over the pot, so every drip lands in the chili."
       },
       {
-        "t": "Smoke the loaf",
-        "d": "About 2 hours, until the loaf hits 150°F inside and has a good crust."
+        "title": "Smoke the loaf",
+        "body": "About 2 hours, until the loaf hits 150°F inside and has a good crust."
       },
       {
-        "t": "Crumble and simmer",
-        "d": "Crumble the loaf into the pot, stir it through, and simmer 1–2 more hours with the lid cracked, until it is as thick as you like it."
+        "title": "Crumble and simmer",
+        "body": "Crumble the loaf into the pot, stir it through, and simmer 1–2 more hours with the lid cracked, until it is as thick as you like it."
       },
       {
-        "t": "Serve",
-        "d": "Cheese, sour cream, and saltines or oyster crackers. Kelly's jalapeño cheddar cornbread sits perfect next to it."
+        "title": "Serve",
+        "body": "Cheese, sour cream, and saltines or oyster crackers. Kelly's jalapeño cheddar cornbread sits perfect next to it."
       }
     ],
     "proTips": [
@@ -1264,16 +1264,16 @@
     ],
     "steps": [
       {
-        "t": "Stir it up",
-        "d": "Apple juice and vinegar in a measuring cup. If you use the brown sugar, stir till it melts in — it adds a little bark-building sweetness."
+        "title": "Stir it up",
+        "body": "Apple juice and vinegar in a measuring cup. If you use the brown sugar, stir till it melts in — it adds a little bark-building sweetness."
       },
       {
-        "t": "Into the bottle",
-        "d": "Pour it into a clean food-grade spray bottle and give it a shake."
+        "title": "Into the bottle",
+        "body": "Pour it into a clean food-grade spray bottle and give it a shake."
       },
       {
-        "t": "Spritz the cook",
-        "d": "Wait till the bark has started to set — about 90 minutes in — then spritz every 45–60 minutes. Lid up, quick spray, lid back down. No drowning it."
+        "title": "Spritz the cook",
+        "body": "Wait till the bark has started to set — about 90 minutes in — then spritz every 45–60 minutes. Lid up, quick spray, lid back down. No drowning it."
       }
     ],
     "proTips": [
@@ -1308,16 +1308,16 @@
     ],
     "steps": [
       {
-        "t": "Warm and melt",
-        "d": "Soda and brown sugar in a small pot over low heat, stirred till the sugar is melted clean through. Don't boil it."
+        "title": "Warm and melt",
+        "body": "Soda and brown sugar in a small pot over low heat, stirred till the sugar is melted clean through. Don't boil it."
       },
       {
-        "t": "Cool and bottle",
-        "d": "Let it cool, then into a clean spray bottle."
+        "title": "Cool and bottle",
+        "body": "Let it cool, then into a clean spray bottle."
       },
       {
-        "t": "Spritz for the crackle",
-        "d": "Once the bark has set, spritz every 45–60 minutes. Ribs, chicken, pork butt, pork belly — this is the one that makes the crust crackle."
+        "title": "Spritz for the crackle",
+        "body": "Once the bark has set, spritz every 45–60 minutes. Ribs, chicken, pork butt, pork belly — this is the one that makes the crust crackle."
       }
     ],
     "proTips": [
@@ -1353,16 +1353,16 @@
     ],
     "steps": [
       {
-        "t": "Warm and melt",
-        "d": "Cola and brown sugar over low heat till the sugar melts, then stir in the vinegar."
+        "title": "Warm and melt",
+        "body": "Cola and brown sugar over low heat till the sugar melts, then stir in the vinegar."
       },
       {
-        "t": "Cool and bottle",
-        "d": "Cool it down and into a clean spray bottle."
+        "title": "Cool and bottle",
+        "body": "Cool it down and into a clean spray bottle."
       },
       {
-        "t": "Spritz the cook",
-        "d": "After the bark sets, every 45–60 minutes — ribs and pork take to it best."
+        "title": "Spritz the cook",
+        "body": "After the bark sets, every 45–60 minutes — ribs and pork take to it best."
       }
     ],
     "proTips": [
@@ -1397,16 +1397,16 @@
     ],
     "steps": [
       {
-        "t": "Stir it up",
-        "d": "Tea and peach nectar together in a measuring cup. The spoon of vinegar is optional — it just wakes it up."
+        "title": "Stir it up",
+        "body": "Tea and peach nectar together in a measuring cup. The spoon of vinegar is optional — it just wakes it up."
       },
       {
-        "t": "Into the bottle",
-        "d": "Into a clean spray bottle, no cooking needed."
+        "title": "Into the bottle",
+        "body": "Into a clean spray bottle, no cooking needed."
       },
       {
-        "t": "Spritz the cook",
-        "d": "Once the bark or skin has set, spritz every 45–60 minutes. Pork loin, ribs, and chicken are its best friends."
+        "title": "Spritz the cook",
+        "body": "Once the bark or skin has set, spritz every 45–60 minutes. Pork loin, ribs, and chicken are its best friends."
       }
     ],
     "proTips": [
@@ -1441,16 +1441,16 @@
     ],
     "steps": [
       {
-        "t": "Stir it up",
-        "d": "Broth, vinegar, and Worcestershire in a measuring cup. No heat, no sugar, nothing to melt."
+        "title": "Stir it up",
+        "body": "Broth, vinegar, and Worcestershire in a measuring cup. No heat, no sugar, nothing to melt."
       },
       {
-        "t": "Into the bottle",
-        "d": "Into a clean spray bottle."
+        "title": "Into the bottle",
+        "body": "Into a clean spray bottle."
       },
       {
-        "t": "Spritz the cook",
-        "d": "Wait for the bark to set dark — a few hours in — then spritz every 45–60 minutes, mostly the edges and the flat, where brisket dries first."
+        "title": "Spritz the cook",
+        "body": "Wait for the bark to set dark — a few hours in — then spritz every 45–60 minutes, mostly the edges and the flat, where brisket dries first."
       }
     ],
     "proTips": [
@@ -1500,28 +1500,28 @@
     ],
     "steps": [
       {
-        "t": "Brine (optional)",
-        "d": "Stir the salt and sugar into the water till melted and sink the hens in for about 4 hours in the fridge. It seasons the meat itself — worth it if you've got the time, fine to skip if you don't."
+        "title": "Brine (optional)",
+        "body": "Stir the salt and sugar into the water till melted and sink the hens in for about 4 hours in the fridge. It seasons the meat itself — worth it if you've got the time, fine to skip if you don't."
       },
       {
-        "t": "Make the butter",
-        "d": "Mash the Ember Herb Rub and garlic into the soft butter till it's one spread. That's a tablespoon of rub per bird — on a small bird, that's the right hand."
+        "title": "Make the butter",
+        "body": "Mash the Ember Herb Rub and garlic into the soft butter till it's one spread. That's a tablespoon of rub per bird — on a small bird, that's the right hand."
       },
       {
-        "t": "Butter the birds",
-        "d": "Pat the hens dry. Loosen the skin over the breast with your fingers and push half the butter up under it, spreading toward the thighs. Rub the rest all over the outside, and dust lightly with extra rub if you like."
+        "title": "Butter the birds",
+        "body": "Pat the hens dry. Loosen the skin over the breast with your fingers and push half the butter up under it, spreading toward the thighs. Rub the rest all over the outside, and dust lightly with extra rub if you like."
       },
       {
-        "t": "Smoke",
-        "d": "250–275°F over cherry or apple wood, skin up, about 45–60 minutes. The butter bastes them from the inside while they take the smoke."
+        "title": "Smoke",
+        "body": "250–275°F over cherry or apple wood, skin up, about 45–60 minutes. The butter bastes them from the inside while they take the smoke."
       },
       {
-        "t": "Crisp and finish",
-        "d": "Kick the heat up at the end — or a quick pass over direct heat — to brown the skin deep, to 165°F in the thigh. Spoon the buttery drippings from the pan over the birds."
+        "title": "Crisp and finish",
+        "body": "Kick the heat up at the end — or a quick pass over direct heat — to brown the skin deep, to 165°F in the thigh. Spoon the buttery drippings from the pan over the birds."
       },
       {
-        "t": "Rest",
-        "d": "Ten minutes. One hen per person, butter and herbs in every bite."
+        "title": "Rest",
+        "body": "Ten minutes. One hen per person, butter and herbs in every bite."
       }
     ],
     "proTips": [
@@ -1561,16 +1561,16 @@
     ],
     "steps": [
       {
-        "t": "Crush the rosemary",
-        "d": "Rosemary is pushy and poky — crush it fine with your fingers, a mortar, or a quick pulse in a spice grinder, so it blends instead of stabbing."
+        "title": "Crush the rosemary",
+        "body": "Rosemary is pushy and poky — crush it fine with your fingers, a mortar, or a quick pulse in a spice grinder, so it blends instead of stabbing."
       },
       {
-        "t": "Stir it together",
-        "d": "Everything in a bowl, stirred till it's even — green all through the salt."
+        "title": "Stir it together",
+        "body": "Everything in a bowl, stirred till it's even — green all through the salt."
       },
       {
-        "t": "Jar it",
-        "d": "Into a sealed jar in the pantry. Dried herbs keep their punch for months."
+        "title": "Jar it",
+        "body": "Into a sealed jar in the pantry. Dried herbs keep their punch for months."
       }
     ],
     "proTips": [
