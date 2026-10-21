@@ -1871,5 +1871,90 @@
       "Do not skip the brine on lean game. It is the difference between tender and shoe leather."
     ],
     "image": "/images/smoked-rabbit.jpg"
+  },
+  {
+    "slug": "cherry-dr-pepper-turkey",
+    "title": "Cherry Dr Pepper Turkey",
+    "region": "kentucky",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 3.5,
+      "max": 4.5
+    },
+    "servings": "10–12",
+    "wood": "cherry",
+    "summary": "Kelly's signature cherry Dr Pepper and brown sugar — the same crackle he puts on ribs — moved to the Thanksgiving bird: brined, injected with chicken-broth butter, spritzed, and glazed deep red mahogany.",
+    "story": "Everybody else's smoked turkey is herb butter or Cajun. Kelly's wears his signature: cherry Dr Pepper and brown sugar, the combination that crackles the bark on his ribs and chicken, here as a spritz and a reduced glaze over cherry wood. He injects his turkeys, always — chicken broth and butter, shot in warm. The skin comes off the smoker deep red mahogany and crackling, and there is not another bird like it on any Thanksgiving table.",
+    "ingredients": [
+      {
+        "group": "The brine",
+        "items": [
+          "1 gallon cold water",
+          "1 cup kosher salt",
+          "1/2 cup brown sugar"
+        ]
+      },
+      {
+        "group": "The injection",
+        "items": [
+          "2 cups warm chicken broth",
+          "1 stick (1/2 cup) butter, melted",
+          "2 tsp Worcestershire sauce",
+          "1 tsp garlic powder",
+          "Pinch of Ember rub"
+        ]
+      },
+      {
+        "group": "The bird",
+        "items": [
+          "1 whole turkey, 12–14 lbs, thawed",
+          "1 Tbsp kosher salt",
+          "2 tsp black pepper",
+          "2 tsp garlic powder"
+        ]
+      },
+      {
+        "group": "The spritz & glaze",
+        "items": [
+          "1 batch Ember Cherry Dr Pepper Spritz",
+          "12 oz cherry Dr Pepper",
+          "1/4 cup brown sugar",
+          "1 Tbsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "body": "Stir the salt and sugar into the water till melted, sink the turkey in, and refrigerate overnight. (This is the Smoke & Ember Turkey Brine — it is what keeps a long smoke juicy.)"
+      },
+      {
+        "title": "Inject",
+        "body": "Whisk the melted butter into the warm chicken broth with the Worcestershire, garlic powder, and rub. Inject it warm — all over the breast, down into the thighs and legs. Butter sets cold, so warm is not a suggestion."
+      },
+      {
+        "title": "Season",
+        "body": "Pat the skin dry and season with the salt, pepper, and garlic. Keep it simple — the glaze is the star of this bird."
+      },
+      {
+        "title": "Smoke and spritz",
+        "body": "275°F over cherry wood. Leave it alone the first 90 minutes so the skin sets, then spritz with the Cherry Dr Pepper Spritz every 45 minutes or so."
+      },
+      {
+        "title": "Glaze",
+        "body": "Simmer the cherry Dr Pepper and brown sugar down to a syrup, stir in the butter, and brush it over the bird twice in the last 30–45 minutes, till the skin goes deep red mahogany and starts to crackle. Sugar darkens fast — stay close."
+      },
+      {
+        "title": "Rest and carve",
+        "body": "Pull at 160°F in the breast (165°F in the thigh), tent, and rest 30 minutes before carving. Save the drippings — they make a gravy worth talking about."
+      }
+    ],
+    "proTips": [
+      "Kelly injects his turkeys every time — poultry gets the chicken-broth butter injection, same as this one.",
+      "In a hurry? Spatchcock the bird flat — same brine, injection, and glaze, near half the time.",
+      "The glaze goes on late for a reason: sugar burns. Two coats at the end beats one early coat every time."
+    ],
+    "image": "/images/cherry-dr-pepper-turkey.jpg"
   }
 ]
