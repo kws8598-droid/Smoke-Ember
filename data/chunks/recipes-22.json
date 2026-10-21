@@ -1579,5 +1579,77 @@
       "Try it on chicken, turkey, pork loin and chops, and roasted potatoes."
     ],
     "image": "/images/ember-herb-rub.jpg"
+  },
+  {
+    "slug": "kellys-smoked-carnitas",
+    "title": "Kelly's Smoked Carnitas",
+    "region": "backyard",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 6.0,
+      "max": 8.5
+    },
+    "servings": "8–10",
+    "wood": "hickory",
+    "summary": "Pork butt smoked till the bark sets, braised down in citrus, garlic, and cumin till it falls apart, then crisped so the edges catch — carnitas that still eats like barbecue.",
+    "story": "Carnitas is pork shoulder taken past pulled — cooked down in citrus and its own juices till it falls apart, then crisped so the edges catch and brown. Kelly's way starts it on the smoker first, so the smoke is in the meat before the braise ever starts. This is the last of the four pork cooks he picked out for the app, and it might be the best of the bunch.",
+    "ingredients": [
+      {
+        "group": "The pork",
+        "items": [
+          "4–5 lb pork butt",
+          "2–3 Tbsp Ember pork rub (or your favorite pork rub)"
+        ]
+      },
+      {
+        "group": "The braise",
+        "items": [
+          "Juice of 2 oranges",
+          "Juice of 2 limes",
+          "1 onion, quartered",
+          "6 cloves garlic, smashed",
+          "1 tsp cumin",
+          "1 tsp oregano",
+          "1 cup Mexican lager or chicken broth"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Warm tortillas",
+          "Diced onion and cilantro",
+          "Ember sauce, for the table (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep",
+        "body": "Score the fat cap, rub the butt heavy all over, and let it rest an hour on the counter — or overnight in the fridge if you're thinking ahead."
+      },
+      {
+        "title": "Smoke",
+        "body": "250°F over hickory or oak, 5–6 hours, till the bark is set deep and it probes around 165°F."
+      },
+      {
+        "title": "Braise",
+        "body": "Set the butt in a pan with the orange and lime juice, onion, garlic, cumin, oregano, and the lager or broth. Cover tight and back on at 300°F till it probes like butter, 200–205°F — another 1 1/2 to 2 hours, give or take."
+      },
+      {
+        "title": "Shred",
+        "body": "Pull the meat apart into chunks and shreds. Ditch the bone and the big pieces of fat. Keep the braising juices — that's liquid gold."
+      },
+      {
+        "title": "Crisp",
+        "body": "Spread the meat out with a ladle of the braising juices over it and crisp the edges — under a hot broiler, on a flat top, or back on the smoker running hot — till the corners catch and brown. Serve on warm tortillas with onion and cilantro."
+      }
+    ],
+    "proTips": [
+      "Don't skip the crisp — tender carnitas is good, but the crispy edges are the whole point.",
+      "Leftover braising juice goes in the fridge; a spoonful wakes the meat right back up when you reheat it.",
+      "Leftovers re-crisp in a hot skillet better than almost any barbecue there is."
+    ],
+    "image": "/images/kellys-smoked-carnitas.jpg"
   }
 ]
