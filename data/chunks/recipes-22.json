@@ -1237,5 +1237,226 @@
       "Like every chili, it is better the second day."
     ],
     "image": "/images/over-the-top-smoked-chili.jpg"
+  },
+  {
+    "slug": "classic-apple-cider-spritz",
+    "title": "Classic Apple Cider Spritz",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.2
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "apple",
+    "summary": "The old reliable — apple juice and apple cider vinegar in a spray bottle. Keeps pork moist, helps the bark set, and the vinegar cuts the fat just enough.",
+    "story": "If a pitmaster owns one spray bottle, this is what's in it. Two ingredients every kitchen already has, and it works on just about anything pork — butts, ribs, loins. The apple brings a little sweetness, the vinegar keeps it honest.",
+    "ingredients": [
+      {
+        "group": "The bottle",
+        "items": [
+          "1 cup apple juice",
+          "1/2 cup apple cider vinegar",
+          "1 Tbsp brown sugar (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Stir it up",
+        "d": "Apple juice and vinegar in a measuring cup. If you use the brown sugar, stir till it melts in — it adds a little bark-building sweetness."
+      },
+      {
+        "t": "Into the bottle",
+        "d": "Pour it into a clean food-grade spray bottle and give it a shake."
+      },
+      {
+        "t": "Spritz the cook",
+        "d": "Wait till the bark has started to set — about 90 minutes in — then spritz every 45–60 minutes. Lid up, quick spray, lid back down. No drowning it."
+      }
+    ],
+    "proTips": [
+      "Never spritz before the rub sets — you will wash it right off. The bark should look dry and set before the first spray.",
+      "Shake the bottle before every round; the sugar settles.",
+      "Leftovers keep a week in the fridge. Rinse the sprayer head so it doesn't clog."
+    ],
+    "image": "/images/classic-apple-cider-spritz.jpg"
+  },
+  {
+    "slug": "ember-cherry-dr-pepper-spritz",
+    "title": "Ember Cherry Dr Pepper Spritz",
+    "region": "kentucky",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.25
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "cherry",
+    "summary": "Kelly's signature — cherry Dr Pepper with brown sugar melted in. This is the spritz behind the crackling bark on his ribs, chicken, pork butt, and pork belly.",
+    "story": "This one's Kelly's own. The cherry soda brings the fruit, the brown sugar caramelizes as it hits the heat, and together they build a crust that crackles when you slice it. It's the bottle that lives next to his pit.",
+    "ingredients": [
+      {
+        "group": "The bottle",
+        "items": [
+          "1 can (12 oz) cherry Dr Pepper",
+          "1/4 cup brown sugar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Warm and melt",
+        "d": "Soda and brown sugar in a small pot over low heat, stirred till the sugar is melted clean through. Don't boil it."
+      },
+      {
+        "t": "Cool and bottle",
+        "d": "Let it cool, then into a clean spray bottle."
+      },
+      {
+        "t": "Spritz for the crackle",
+        "d": "Once the bark has set, spritz every 45–60 minutes. Ribs, chicken, pork butt, pork belly — this is the one that makes the crust crackle."
+      }
+    ],
+    "proTips": [
+      "The sugar is what crackles — don't leave it out and don't swap in diet soda.",
+      "Flat soda works fine; the bubbles don't matter, the sugar does.",
+      "A splash of this same mix goes in Kelly's rib wrap, too."
+    ],
+    "image": "/images/ember-cherry-dr-pepper-spritz.jpg"
+  },
+  {
+    "slug": "cola-brown-sugar-spritz",
+    "title": "Cola Brown Sugar Spritz",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.25
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "hickory",
+    "summary": "The Dr Pepper's first cousin — cola and brown sugar with a splash of vinegar to keep it from going candy-sweet. Same crackle, different soda.",
+    "story": "Not everybody keeps cherry Dr Pepper in the house, but most folks have a cola. This one drinks from the same well — soda sugar for the crust, brown sugar for depth, and one spoon of vinegar so it tastes like barbecue and not dessert.",
+    "ingredients": [
+      {
+        "group": "The bottle",
+        "items": [
+          "1 can (12 oz) cola",
+          "1/4 cup brown sugar",
+          "1 Tbsp apple cider vinegar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Warm and melt",
+        "d": "Cola and brown sugar over low heat till the sugar melts, then stir in the vinegar."
+      },
+      {
+        "t": "Cool and bottle",
+        "d": "Cool it down and into a clean spray bottle."
+      },
+      {
+        "t": "Spritz the cook",
+        "d": "After the bark sets, every 45–60 minutes — ribs and pork take to it best."
+      }
+    ],
+    "proTips": [
+      "The vinegar spoon is small but it matters — skip it and the spritz goes flat-sweet.",
+      "Real sugar cola only; diet won't caramelize."
+    ],
+    "image": "/images/cola-brown-sugar-spritz.jpg"
+  },
+  {
+    "slug": "sweet-tea-peach-spritz",
+    "title": "Sweet Tea Peach Spritz",
+    "region": "georgia",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.2
+    },
+    "servings": "About 1 1/2 cups",
+    "wood": "pecan",
+    "summary": "Sweet tea and peach nectar — a gentle, Southern spritz that loves pork and chicken and never fights the rub.",
+    "story": "Some cooks want the spritz to whisper instead of shout. Sweet tea brings a mellow tannin, peach brings the fruit, and together they keep pork and chicken moist with a flavor that stays in the background where a light spritz belongs.",
+    "ingredients": [
+      {
+        "group": "The bottle",
+        "items": [
+          "1 cup sweet tea",
+          "1/2 cup peach nectar (or the juice from canned peaches)",
+          "1 tsp apple cider vinegar (optional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Stir it up",
+        "d": "Tea and peach nectar together in a measuring cup. The spoon of vinegar is optional — it just wakes it up."
+      },
+      {
+        "t": "Into the bottle",
+        "d": "Into a clean spray bottle, no cooking needed."
+      },
+      {
+        "t": "Spritz the cook",
+        "d": "Once the bark or skin has set, spritz every 45–60 minutes. Pork loin, ribs, and chicken are its best friends."
+      }
+    ],
+    "proTips": [
+      "No peach nectar in the pantry? The syrup off a can of peaches does the same job.",
+      "This one's gentle — it's the spritz for cooks who don't want the soda sweetness."
+    ],
+    "image": "/images/sweet-tea-peach-spritz.jpg"
+  },
+  {
+    "slug": "brisket-spritz",
+    "title": "Brisket Spritz",
+    "region": "texas",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.2
+    },
+    "servings": "About 1 1/3 cups",
+    "wood": "oak",
+    "summary": "Beef broth, cider vinegar, and Worcestershire — a savory spritz with no sugar in it, so a brisket's bark stays dark and beefy.",
+    "story": "Brisket doesn't want sweet — it wants beef on beef. This is the Texas way of spritzing: broth for depth, vinegar for a little bite, Worcestershire for the dark savory note. It keeps the bark moist without ever turning it candy.",
+    "ingredients": [
+      {
+        "group": "The bottle",
+        "items": [
+          "1 cup beef broth",
+          "1/4 cup apple cider vinegar",
+          "1 Tbsp Worcestershire sauce"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Stir it up",
+        "d": "Broth, vinegar, and Worcestershire in a measuring cup. No heat, no sugar, nothing to melt."
+      },
+      {
+        "t": "Into the bottle",
+        "d": "Into a clean spray bottle."
+      },
+      {
+        "t": "Spritz the cook",
+        "d": "Wait for the bark to set dark — a few hours in — then spritz every 45–60 minutes, mostly the edges and the flat, where brisket dries first."
+      }
+    ],
+    "proTips": [
+      "Hit the edges and the thin end of the flat hardest — that's where brisket gives up its moisture.",
+      "No sugar means no crackle and no candy — that's the point. This bottle is about bark staying dark."
+    ],
+    "image": "/images/brisket-spritz.jpg"
   }
 ]
