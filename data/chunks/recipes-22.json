@@ -2596,5 +2596,202 @@
       "Keeps 3–4 days in the fridge, but it has never once lasted that long."
     ],
     "image": "/images/southern-sweet-tea.jpg"
+  },
+  {
+    "slug": "real-lemonade",
+    "title": "Real Lemonade",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "8",
+    "wood": "None",
+    "summary": "Real lemonade — fresh lemons, sugar, water, and a pinch of salt. Nothing from a powder, ever.",
+    "story": "Lemonade the way it was made before the powder mixes showed up: lemons squeezed by hand, sugar melted into hot water so it disappears clean, and a pinch of salt that you can't taste but that makes the lemon taste more like itself. This is the glass that sits next to the sweet tea at every cookout, and half-and-half with that tea — that's the third drink hiding inside these two.",
+    "ingredients": [
+      {
+        "group": "The lemonade",
+        "items": [
+          "1 1/2 cups fresh lemon juice — 8 to 10 lemons",
+          "1 cup sugar",
+          "1 cup hot water",
+          "5 cups cold water",
+          "Pinch of salt",
+          "Ice and lemon slices, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Melt the sugar",
+        "body": "Sugar into the hot water, stir till it's clear as glass. Lemonade made with undissolved sugar is gritty at the bottom and sour at the top."
+      },
+      {
+        "title": "Squeeze the lemons",
+        "body": "Roll each lemon hard on the counter first — it gives up more juice. Squeeze to 1 1/2 cups; strain out the seeds, keep a little pulp if you like it honest."
+      },
+      {
+        "title": "Stir it together",
+        "body": "Syrup, lemon juice, cold water, and the pinch of salt in a pitcher. Chill it cold."
+      },
+      {
+        "title": "Serve over ice",
+        "body": "Full glass of ice, lemon slice on the rim if you're showing off."
+      }
+    ],
+    "proTips": [
+      "Too tart? A tablespoon of sugar at a time — lemonade should bite a little, that's its job."
+    ],
+    "image": "/images/real-lemonade.jpg"
+  },
+  {
+    "slug": "peach-sweet-tea",
+    "title": "Peach Sweet Tea",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 2
+    },
+    "servings": "16",
+    "wood": "None",
+    "summary": "Kelly's sweet tea — five Luzianne bags, 15-minute steep — with ripe peaches simmered into the sugar first.",
+    "story": "Start with Kelly's sweet tea exactly the way he makes it — five family-size Luzianne bags, a 15-minute steep — and run ripe summer peaches through the sugar water before the tea ever touches it. The peaches simmer, get mashed, and give the whole gallon a round, honeyed fruit flavor underneath the tea. August in a glass, and it was made for a plate of ribs.",
+    "ingredients": [
+      {
+        "group": "The peach syrup",
+        "items": [
+          "3–4 ripe peaches, pitted and sliced",
+          "1 1/2 cups sugar",
+          "4 cups water",
+          "1/8 tsp baking soda"
+        ]
+      },
+      {
+        "group": "The tea",
+        "items": [
+          "5 family-size Luzianne tea bags",
+          "Cold water, to fill to 1 gallon",
+          "Ice and peach slices, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the peaches",
+        "body": "Peaches, sugar, and the 4 cups of water in a pot; simmer 15 minutes, mashing the peaches soft with a spoon as they go."
+      },
+      {
+        "title": "Steep the tea in it",
+        "body": "Off the heat. Baking soda in, then the tea bags — steep 15 minutes, Kelly's timing. Bags out, drain, don't wring."
+      },
+      {
+        "title": "Strain and fill",
+        "body": "Pour through a strainer into the gallon pitcher, pressing the peaches for every drop. Cold water to the gallon mark."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Fridge till cold, over a full glass of ice, peach slice on the rim."
+      }
+    ],
+    "proTips": [
+      "Frozen peaches work when fresh ones aren't in season — the tea doesn't mind."
+    ],
+    "image": "/images/peach-sweet-tea.jpg"
+  },
+  {
+    "slug": "watermelon-lemonade",
+    "title": "Watermelon Lemonade",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "8",
+    "wood": "None",
+    "summary": "Half a watermelon blended and strained, sharpened with lemon — pink, ice-cold, and gone by supper.",
+    "story": "Every summer there's a watermelon too big to finish, and this is its second life. Blended and strained, sweetened just a touch, and cut with lemon juice so it drinks bright instead of flat-sweet. It pours the color of a sunset and the kids treat the pitcher like it owes them money.",
+    "ingredients": [
+      {
+        "group": "The lemonade",
+        "items": [
+          "About 8 cups watermelon chunks, seeds out — half a medium melon",
+          "3/4 cup fresh lemon juice — 5 to 6 lemons",
+          "1/3 cup sugar, to taste",
+          "1 cup cold water",
+          "Pinch of salt",
+          "Ice and watermelon wedges, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend the melon",
+        "body": "Watermelon chunks in the blender till it's juice. Strain through a sieve, pressing the pulp — you want it smooth, not slushy."
+      },
+      {
+        "title": "Cut it with lemon",
+        "body": "Lemon juice, sugar, salt, and the cold water stirred in. Taste: it should be watermelon first, lemonade right behind it."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Cold as you can get it, over ice, little watermelon wedge on the rim."
+      }
+    ],
+    "proTips": [
+      "Make it the same day you serve it — watermelon juice is best fresh and knows it."
+    ],
+    "image": "/images/watermelon-lemonade.jpg"
+  },
+  {
+    "slug": "sherbet-punch",
+    "title": "Sherbet Punch",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.1,
+      "max": 0.25
+    },
+    "servings": "20",
+    "wood": "None",
+    "summary": "The church-potluck crown: ginger ale over rainbow sherbet with pineapple juice, foaming in the big bowl.",
+    "story": "Every church supper, baby shower, and family reunion in the South has this bowl in the middle of the table: rainbow sherbet melting into ginger ale, foaming up pastel, sweet enough to make the kids orbit it like a porch light. Five minutes to make, and Bub and Sissy will drain it to the ladle. Some things don't need improving — they need refilling.",
+    "ingredients": [
+      {
+        "group": "The punch",
+        "items": [
+          "1/2 gallon rainbow sherbet",
+          "1 (2-liter) bottle ginger ale, cold",
+          "1 (46 oz) can pineapple juice, cold",
+          "1 (2-liter) bottle lemon-lime soda, cold (optional, for extra fizz)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Build the bowl",
+        "body": "Pineapple juice in the punch bowl first, then the sherbet in big scoops all over the top."
+      },
+      {
+        "title": "Pour the fizz",
+        "body": "Ginger ale (and the lemon-lime, if you're using it) poured slow over the sherbet so it foams up proud instead of fizzing out."
+      },
+      {
+        "title": "Ladle it out",
+        "body": "Serve right away, a little sherbet in every cup. Refill as needed — it will be needed."
+      }
+    ],
+    "proTips": [
+      "Everything cold before you start, including the bowl if you can manage it — warm punch goes flat and sad.",
+      "Adults doctoring their own cup at their own end is between them and the cup."
+    ],
+    "image": "/images/sherbet-punch.jpg"
   }
 ]
