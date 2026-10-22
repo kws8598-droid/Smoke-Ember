@@ -2439,5 +2439,111 @@
       "Leftover slaw on a fried bologna sandwich the next day is not a compromise. It's a plan."
     ],
     "image": "/images/classic-creamy-coleslaw.jpg"
+  },
+  {
+    "slug": "cold-smoked-cream-cheese",
+    "title": "Cold-Smoked Cream Cheese",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 3
+    },
+    "servings": "8",
+    "wood": "Apple — cold smoke",
+    "summary": "Kelly's way: a cream cheese block cold-smoked under 90°F so it stays firm and sliceable, rested overnight, pepper jelly over the top.",
+    "story": "Most folks hot-smoke their cream cheese till it's soft. Kelly cold-smokes his — the block never gets hot, so it takes on deep smoke flavor and stays firm enough to slice, like a smoked cheese should. The patience is in the rest: wrapped overnight in the fridge, the smoke mellows from harsh to smooth. Slice it for crackers, crumble it into eggs, or just stand at the counter with a knife. Nobody's judging.",
+    "ingredients": [
+      {
+        "group": "The block",
+        "items": [
+          "1 block (8 oz) cream cheese, cold",
+          "1 tsp olive oil or yellow mustard, for a binder",
+          "1–2 Tbsp Ember Sweet Heat Rub (or your favorite rub)"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Pepper jelly, spooned over the top",
+          "Crackers, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Score and rub",
+        "body": "Cold block on foil. Crosshatch the top about 1/4 inch deep, light coat of binder, then rub all over — tops and sides — so the smoke has something to grab."
+      },
+      {
+        "title": "Cold smoke it",
+        "body": "Into smoke under 90°F — a smoke tube, a cold-smoke generator, or the faintest fire you can keep. The block should never get warm. 2–3 hours, apple wood if you've got it: mild and a little sweet."
+      },
+      {
+        "title": "Rest it overnight",
+        "body": "Wrap the block tight and into the fridge overnight, a full day if you can stand it. Cold-smoked cheese tastes harsh right off the smoke; the rest is where it turns smooth."
+      },
+      {
+        "title": "Slice and serve",
+        "body": "Pepper jelly spooned over the top, crackers around. It slices clean — or let it warm on the counter a bit if you want it spreadable after all."
+      }
+    ],
+    "proTips": [
+      "Cold day? Even better — cold smoking is winter work, and the block stays firm without a fight.",
+      "A pan of ice in the smoker helps hold the temperature down on a warm day."
+    ],
+    "image": "/images/cold-smoked-cream-cheese.jpg"
+  },
+  {
+    "slug": "smoked-cream-cheese",
+    "title": "Smoked Cream Cheese (Hot & Soft)",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 2
+    },
+    "servings": "8",
+    "wood": "Apple or cherry",
+    "summary": "The other road: a cream cheese block smoked at 225°F till it's soft, puffed, and spreadable, with pepper jelly over the top.",
+    "story": "Same little block, opposite treatment. At 225°F the cream cheese doesn't melt into a puddle — the stabilizers in it hold the shape — but it goes soft all the way through, puffs a little, and turns into the best warm dip nobody had to stir. Set it out with the pepper jelly running down and a pile of crackers, and watch it vanish. Kelly cold-smokes his (that recipe's here too); this is the hot road, and there's no wrong answer.",
+    "ingredients": [
+      {
+        "group": "The block",
+        "items": [
+          "1 block (8 oz) cream cheese, cold",
+          "1 tsp olive oil or yellow mustard, for a binder",
+          "1–2 Tbsp Ember Sweet Heat Rub (or your favorite rub)"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Pepper jelly, warmed and spooned over",
+          "Crackers, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Score and rub",
+        "body": "Cold block on foil — cold holds the shape better going in. Crosshatch the top 1/4 inch deep, light binder, rub all over."
+      },
+      {
+        "title": "Smoke it low and slow",
+        "body": "225°F, about 2 hours, apple or cherry wood. It'll soften, puff slightly, and go golden on top. Don't run it hotter or longer — past that it starts to weep and spread."
+      },
+      {
+        "title": "Jelly and serve warm",
+        "body": "Spoon warm pepper jelly over the top and take it straight to the people, crackers alongside. Serve it warm, while it's still spreadable-soft."
+      }
+    ],
+    "proTips": [
+      "Hot honey in place of the pepper jelly for the sweet-heat crowd — or pickled jalapeños over the top for the ones who want a kick.",
+      "Leftovers (there won't be) fold into scrambled eggs like they were born there."
+    ],
+    "image": "/images/smoked-cream-cheese.jpg"
   }
 ]
