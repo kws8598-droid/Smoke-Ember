@@ -2170,5 +2170,88 @@
       "Hickory nuts crack hard and pick slow. That labor is the price of the pie, and it's worth it."
     ],
     "image": "/images/hickory-nut-pie.jpg"
+  },
+  {
+    "slug": "great-pumpkin-bundt-cake",
+    "title": "The Great Pumpkin Bundt Cake",
+    "region": "kentucky",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "12",
+    "wood": "None — oven 350°F",
+    "summary": "Two spiced pumpkin bundts sandwiched into one great pumpkin — orange cream-cheese frosting and a sugar-cone stem. The Halloween centerpiece at Bub & Sissy's.",
+    "story": "Kelly spotted this cake rolling through his feed and sent it straight over with orders: we definitely need this for Halloween. He's right. Two pumpkin spice bundts, trimmed level and sandwiched flat-to-flat, turn into one round pumpkin with the ridges already built in — the bundt pan does the carving for you. Orange cream-cheese frosting, a sugar cone for a stem, and it sits in the middle of the table like it grew there. Around this house, Halloween is not done halfway, and neither is this cake.",
+    "ingredients": [
+      {
+        "group": "The cakes (totals for both)",
+        "items": [
+          "6 cups all-purpose flour",
+          "4 tsp baking powder",
+          "2 tsp baking soda",
+          "2 tsp salt",
+          "4 tsp cinnamon",
+          "2 tsp ground ginger",
+          "1 tsp nutmeg",
+          "1 tsp cloves",
+          "2 cans (15 oz each) pumpkin purée — not pie filling",
+          "2 cups vegetable oil",
+          "2 cups sugar",
+          "2 cups brown sugar",
+          "8 eggs",
+          "2 tsp vanilla",
+          "1/2 cup milk"
+        ]
+      },
+      {
+        "group": "The frosting",
+        "items": [
+          "16 oz cream cheese, softened",
+          "1 cup butter, softened",
+          "5–6 cups powdered sugar",
+          "2 tsp vanilla",
+          "Pinch of salt",
+          "Orange gel food coloring"
+        ]
+      },
+      {
+        "group": "The stem",
+        "items": [
+          "1 sugar ice-cream cone, cut short",
+          "Chocolate frosting (or melted chocolate chips), for coating the cone"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix the batter — twice",
+        "body": "Don't double-mix in one giant bowl. Make the batter in two batches using half of everything each time: whisk the dry, whisk the pumpkin, oil, sugars, eggs, vanilla, and milk, then bring them together just till combined."
+      },
+      {
+        "title": "Bake both bundts",
+        "body": "Grease and flour two bundt pans well — every ridge. 350°F for 50–60 minutes, till a toothpick comes out clean. Rest 15 minutes in the pan, turn out, and cool completely. Warm cake and frosting are enemies."
+      },
+      {
+        "title": "Stack the pumpkin",
+        "body": "Trim the flat side of each cake level with a serrated knife. Spread frosting on one flat side, set the second cake on it flat-to-flat — bottom dome down, top dome up — and line the ridges up so they run continuous. There's your pumpkin."
+      },
+      {
+        "title": "Frost it orange",
+        "body": "Beat the frosting, tint it with gel coloring a shade deeper than you want — it lightens as it sits. Thin crumb coat first, chill 20 minutes, then the final coat, following the ridges."
+      },
+      {
+        "title": "Stem and serve",
+        "body": "Coat the sugar cone in chocolate frosting, let it set a few minutes, and press it into the center hole on top. Slice with a serrated knife and watch the table go quiet."
+      }
+    ],
+    "proTips": [
+      "Gel coloring, never the liquid drops — liquid thins the frosting and it slides off the ridges.",
+      "In a pinch, a mini peanut butter cup makes a fine stem too.",
+      "Like most spice cakes, this one's better on day two. Bake it the day before the party and frost it the morning of."
+    ],
+    "image": "/images/great-pumpkin-bundt-cake.jpg"
   }
 ]
