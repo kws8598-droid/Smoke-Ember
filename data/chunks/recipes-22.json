@@ -2319,5 +2319,124 @@
       "Leftovers reheat mean in a skillet for breakfast, next to eggs."
     ],
     "image": "/images/smoked-candied-sweet-potatoes.jpg"
+  },
+  {
+    "slug": "broccoli-salad",
+    "title": "Broccoli Salad",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "8",
+    "wood": "None",
+    "summary": "The sweet-tangy potluck broccoli salad — cheddar, bacon, sunflower seeds, and craisins in a creamy dressing.",
+    "story": "No barbecue table is complete without it: raw broccoli in a sweet-tangy dressing with cheddar, bacon, and crunch. A lot of folks make it with raisins — Kelly and Kristy use craisins, and once you've had it their way the dried cranberries just belong there, tart little pops against the bacon and cheese. Make it ahead; it gets better while it chills.",
+    "ingredients": [
+      {
+        "group": "The salad",
+        "items": [
+          "2 heads broccoli, cut small — about 6 cups florets",
+          "1/2 red onion, diced fine",
+          "1 cup shredded sharp cheddar",
+          "6 slices bacon, cooked crisp and crumbled",
+          "1/2 cup sunflower seeds",
+          "1/2 cup craisins (dried cranberries)"
+        ]
+      },
+      {
+        "group": "The dressing",
+        "items": [
+          "1 cup mayonnaise",
+          "2 Tbsp apple cider vinegar",
+          "3 Tbsp sugar",
+          "Salt and black pepper to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cut the broccoli small",
+        "body": "Bite-size florets, small enough to eat off a fork with everything else. Big chunks make a salad nobody can get a full bite of."
+      },
+      {
+        "title": "Whisk the dressing",
+        "body": "Mayo, vinegar, sugar, salt, and pepper till smooth. It should taste sweet first, tangy second."
+      },
+      {
+        "title": "Toss it together",
+        "body": "Broccoli, onion, cheddar, bacon, and craisins in a big bowl; dressing over; fold till everything's coated."
+      },
+      {
+        "title": "Chill",
+        "body": "Into the fridge at least an hour — overnight is better, the broccoli drinks the dressing in. Scatter the sunflower seeds over at serving so they stay crunchy."
+      }
+    ],
+    "proTips": [
+      "Your own smoked bacon, crumbled, takes this clear over the top.",
+      "Cutting the broccoli small is the whole secret — it eats like a salad, not a chore."
+    ],
+    "image": "/images/broccoli-salad.jpg"
+  },
+  {
+    "slug": "classic-creamy-coleslaw",
+    "title": "Classic Creamy Coleslaw",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1,
+      "max": 1.5
+    },
+    "servings": "8",
+    "wood": "None",
+    "summary": "The classic creamy slaw — finely shredded cabbage in a sweet-tangy mayo dressing. The one that goes on the pulled pork sandwich.",
+    "story": "Every barbecue joint has a slaw, and this is the classic the others get measured by: cabbage cut fine, a creamy dressing that's sweet first and tangy second, and an hour in the fridge to let it settle. It belongs beside the beans, on top of a pulled pork sandwich, and anywhere a plate needs something cool and crunchy to cut the smoke.",
+    "ingredients": [
+      {
+        "group": "The cabbage",
+        "items": [
+          "1 head green cabbage, finely shredded — about 8 cups",
+          "1/4 small head purple cabbage, finely shredded (for color)",
+          "1 carrot, shredded"
+        ]
+      },
+      {
+        "group": "The dressing",
+        "items": [
+          "3/4 cup mayonnaise",
+          "2 Tbsp apple cider vinegar",
+          "1 Tbsp sugar",
+          "1 tsp celery seed",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Shred it fine",
+        "body": "Cabbage cut thin — fine shreds carry the dressing better and eat softer. Knife or the shredding disc, just keep it thin."
+      },
+      {
+        "title": "Whisk the dressing",
+        "body": "Mayo, vinegar, sugar, celery seed, salt, and pepper till smooth. Taste it plain: sweet up front, a little bite behind."
+      },
+      {
+        "title": "Toss and rest",
+        "body": "Dressing over the cabbage and carrot; toss till every shred's coated. Into the fridge at least an hour — the cabbage softens a touch and the flavors marry."
+      },
+      {
+        "title": "Serve it cold",
+        "body": "One more toss before it goes out. Beside the plate or right on the sandwich — both are correct."
+      }
+    ],
+    "proTips": [
+      "Dress it about an hour ahead, no earlier — slaw dressed the night before goes soupy.",
+      "Leftover slaw on a fried bologna sandwich the next day is not a compromise. It's a plan."
+    ],
+    "image": "/images/classic-creamy-coleslaw.jpg"
   }
 ]
