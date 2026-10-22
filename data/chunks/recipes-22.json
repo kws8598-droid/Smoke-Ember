@@ -2332,7 +2332,7 @@
     },
     "servings": "8",
     "wood": "None",
-    "summary": "The sweet-tangy potluck broccoli salad — cheddar, bacon, sunflower seeds, and craisins in a creamy dressing.",
+    "summary": "The sweet-tangy potluck broccoli salad — cheddar, bacon, sunflower seeds, craisins, and cherry tomatoes in a creamy dressing.",
     "story": "No barbecue table is complete without it: raw broccoli in a sweet-tangy dressing with cheddar, bacon, and crunch. A lot of folks make it with raisins — Kelly and Kristy use craisins, and once you've had it their way the dried cranberries just belong there, tart little pops against the bacon and cheese. Make it ahead; it gets better while it chills.",
     "ingredients": [
       {
@@ -2343,7 +2343,8 @@
           "1 cup shredded sharp cheddar",
           "6 slices bacon, cooked crisp and crumbled",
           "1/2 cup sunflower seeds",
-          "1/2 cup craisins (dried cranberries)"
+          "1/2 cup craisins (dried cranberries)",
+          "1 pint cherry tomatoes, halved"
         ]
       },
       {
@@ -2367,7 +2368,7 @@
       },
       {
         "title": "Toss it together",
-        "body": "Broccoli, onion, cheddar, bacon, and craisins in a big bowl; dressing over; fold till everything's coated."
+        "body": "Broccoli, onion, cheddar, bacon, craisins, and the cherry tomatoes in a big bowl; dressing over; fold till everything's coated and creamy."
       },
       {
         "title": "Chill",
