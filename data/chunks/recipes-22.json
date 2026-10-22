@@ -2545,5 +2545,56 @@
       "Leftovers (there won't be) fold into scrambled eggs like they were born there."
     ],
     "image": "/images/smoked-cream-cheese.jpg"
+  },
+  {
+    "slug": "southern-sweet-tea",
+    "title": "Southern Sweet Tea",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 2
+    },
+    "servings": "16",
+    "wood": "None",
+    "summary": "The house wine of the South — five Luzianne bags to the gallon, a pinch of baking soda to keep it clear, poured over a glass packed with ice.",
+    "story": "There's no barbecue plate in the South that doesn't come with a glass of this beside it. Kelly brews his strong — five family-size Luzianne bags to the gallon, steeped a full 15 minutes — because weak tea over melting ice is just brown water by the second refill. The pinch of baking soda is the old-timers' secret: it keeps the tea pouring clear and smooth instead of cloudy and sharp. Make a gallon. It won't last the weekend.",
+    "ingredients": [
+      {
+        "group": "The tea",
+        "items": [
+          "5 family-size Luzianne tea bags",
+          "1 1/2 cups sugar",
+          "1/8 tsp baking soda",
+          "4 cups water, for steeping",
+          "Cold water, to fill to 1 gallon",
+          "Plenty of ice, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Boil and sweeten",
+        "body": "Bring the 4 cups of water to a boil and take it off the heat. Stir in the baking soda and the sugar till the sugar melts clean."
+      },
+      {
+        "title": "Steep 15 minutes",
+        "body": "Tea bags in for a full 15 minutes — off the boil, never boiling with the bags in, that's where bitter comes from. Lift the bags out and let them drain; don't wring them hard."
+      },
+      {
+        "title": "Fill and chill",
+        "body": "Pour the tea into a gallon pitcher, top with cold water to the gallon mark, stir, and into the fridge till it's good and cold."
+      },
+      {
+        "title": "Serve it right",
+        "body": "Over a glass packed full of ice — half-measures on the ice is how good tea goes watery. Lemon wedge if somebody's fancy."
+      }
+    ],
+    "proTips": [
+      "Half tea, half lemonade over ice is the famous half-and-half — worth it on the hottest day of the year.",
+      "Keeps 3–4 days in the fridge, but it has never once lasted that long."
+    ],
+    "image": "/images/southern-sweet-tea.jpg"
   }
 ]
