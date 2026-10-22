@@ -2253,5 +2253,71 @@
       "Like most spice cakes, this one's better on day two. Bake it the day before the party and frost it the morning of."
     ],
     "image": "/images/great-pumpkin-bundt-cake.jpg"
+  },
+  {
+    "slug": "smoked-candied-sweet-potatoes",
+    "title": "Smoked Candied Sweet Potatoes",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "8",
+    "wood": "Pecan",
+    "summary": "The old Southern candied sweet potatoes, smoked in two rounds — the glaze finishes uncovered in the smoke, with toasted pecans over the top.",
+    "story": "Everybody knows the candied sweet potatoes off the holiday table — sliced in a pan, drowned in butter and brown sugar till they shine. This is that dish, moved outside. The potatoes smoke whole first, then get sliced and shingled in cast iron with the sugar and butter, and the pan goes back on the smoker uncovered — so the glaze thickens in the smoke instead of under a lid, and every slice comes out lacquered. Kelly's finishing touch: toasted pecans scattered over the top, because soft and sweet wants a little crunch.",
+    "ingredients": [
+      {
+        "group": "The potatoes",
+        "items": [
+          "4 large sweet potatoes, scrubbed"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "1/2 cup butter, cut in pats",
+          "1 cup brown sugar",
+          "1/2 cup granulated sugar",
+          "1 tsp cinnamon",
+          "1/2 tsp nutmeg",
+          "1/4 tsp salt",
+          "1/4 cup orange juice",
+          "1 tsp vanilla — added at the end"
+        ]
+      },
+      {
+        "group": "The finish",
+        "items": [
+          "1/2 cup pecan pieces, toasted"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Smoke them whole",
+        "body": "Sweet potatoes right on the grate over pecan at 250–275°F, about 1 1/2 hours, till they just give when you squeeze them. Sweet wood for a sweet dish."
+      },
+      {
+        "title": "Slice and shingle",
+        "body": "Cool till you can handle them, peel, and cut into 1/2-inch rounds. Shingle the rounds in a cast-iron skillet, dot the butter over, mix the sugars, cinnamon, nutmeg, and salt and rain it on, then pour the orange juice over all."
+      },
+      {
+        "title": "Back on the smoker, uncovered",
+        "body": "30–45 more minutes till the sugar melts into a syrup and bubbles at the edges. Leave the pan uncovered — that's the whole point. The glaze thickens and drinks the smoke at the same time."
+      },
+      {
+        "title": "Vanilla and pecans",
+        "body": "Off the heat, stir the vanilla through — vanilla cooked hard just disappears; at the end it sings. Scatter the toasted pecans over the top and take the whole skillet to the table."
+      }
+    ],
+    "proTips": [
+      "Turbinado sugar in place of the white gives the tops that crackle — use it if you've got it.",
+      "Toast the pecans in a dry skillet 3–4 minutes till they smell like they mean it, or in a small pan right on the smoker while the potatoes finish.",
+      "Leftovers reheat mean in a skillet for breakfast, next to eggs."
+    ],
+    "image": "/images/smoked-candied-sweet-potatoes.jpg"
   }
 ]
