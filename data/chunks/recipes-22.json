@@ -2905,5 +2905,75 @@
       "Raspberries run tart — if your batch bites too hard, stir in sugar a spoonful at a time while it's still warm."
     ],
     "image": "/images/raspberry-sweet-tea.jpg"
+  },
+  {
+    "title": "Chicken Bacon Ranch Pizza",
+    "slug": "chicken-bacon-ranch-pizza",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "servings": "4",
+    "prepTime": "20 min",
+    "cookTime": "8 min",
+    "wood": "Apple or oak over charcoal",
+    "image": "images/chicken-bacon-ranch-pizza.jpg",
+    "description": "The first pizza ever on Smoke and Ember comes from Kristy's side of the kitchen: smoked chicken and a heavy hand of crumbled bacon over a ranch base — no red sauce — with red onion and fire-roasted tomatoes, mozzarella under a melted Monterey Jack blanket, and a garlic-butter crust.",
+    "ingredients": [
+      {
+        "group": "The Crust",
+        "items": [
+          "1 lb pizza dough ball, at room temperature 30 minutes",
+          "Cornmeal, for dusting"
+        ]
+      },
+      {
+        "group": "The Toppings",
+        "items": [
+          "1/2 cup ranch dressing, plus more for the drizzle",
+          "2 cups shredded mozzarella",
+          "2 cups chopped smoked chicken (leftover is perfect; thighs stay juiciest)",
+          "8 slices bacon, cooked crisp and crumbled",
+          "1 medium red onion, sliced thin",
+          "1 (14.5 oz) can fire-roasted diced tomatoes, drained well",
+          "1 cup shredded Monterey Jack",
+          "1/4 cup grated parmesan",
+          "Sliced green onions, optional finish"
+        ]
+      },
+      {
+        "group": "The Garlic Butter",
+        "items": [
+          "2 Tbsp butter, melted",
+          "1 clove garlic, minced (or 1/4 tsp garlic powder)",
+          "Pinch of dried parsley"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Heat the stone",
+        "body": "Set a pizza stone or steel on the grill or smoker grates, lid down, and run it as hot as it'll go — 550°F or better — for a full 30 to 45 minutes. That stored heat is the whole brick-oven trick."
+      },
+      {
+        "title": "Stretch the dough",
+        "body": "On a cornmeal-dusted surface, stretch the dough to 12 to 14 inches, leaving a fat rim around the edge for the crust."
+      },
+      {
+        "title": "Build it",
+        "body": "Spread the ranch thin inside the rim as the sauce. Mozzarella first, then the chicken, bacon crumbles, red onion, and the drained tomatoes. Monterey Jack and parmesan go over the top of everything."
+      },
+      {
+        "title": "Launch and bake",
+        "body": "Slide the pizza onto the hot stone, lid down, 6 to 9 minutes, turning once, until the crust is blistered and spotted and the cheese bubbles with brown freckles."
+      },
+      {
+        "title": "Rest and finish",
+        "body": "Off the heat, rest 2 to 3 minutes — pizza needs a rest like anything else. Brush the rim with the garlic butter, zigzag a drizzle of ranch over the top, scatter the green onions, then slice and serve."
+      }
+    ],
+    "tips": [
+      "Wet tomatoes make a soggy middle — drain them, then blot with a paper towel if they're stubborn.",
+      "No stone? A cast iron skillet flipped upside down on the grate does the same job.",
+      "Cold leftover smoked chicken is the move here; this pizza was born for leftovers."
+    ]
   }
 ]
