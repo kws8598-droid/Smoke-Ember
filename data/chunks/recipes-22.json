@@ -2793,5 +2793,117 @@
       "Adults doctoring their own cup at their own end is between them and the cup."
     ],
     "image": "/images/sherbet-punch.jpg"
+  },
+  {
+    "slug": "blackberry-sweet-tea",
+    "title": "Blackberry Sweet Tea",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 2
+    },
+    "servings": "16",
+    "wood": "None",
+    "summary": "Kelly's sweet tea — five Luzianne bags, 15-minute steep — with wild-style blackberries simmered into the sugar. Deep purple and fence-row sweet.",
+    "story": "Blackberries grow wild along every fence row and creek bank in Kentucky, free for the picking if you mind the thorns and the snakes. Freddie Wash taught Kelly about dewberries, the blackberry's wild little trailing cousin, and any Kentucky kid who picked berries till his fingers stained purple knows what this tea is about. It's Kelly's sweet tea — five Luzianne bags, a 15-minute steep — with the berries simmered into the sugar first, so the whole gallon pours the color of a blackberry patch at dusk.",
+    "ingredients": [
+      {
+        "group": "The berry syrup",
+        "items": [
+          "2 cups fresh blackberries (about 12 oz), rinsed",
+          "1 1/2 cups sugar",
+          "4 cups water",
+          "1/8 tsp baking soda"
+        ]
+      },
+      {
+        "group": "The tea",
+        "items": [
+          "5 family-size Luzianne tea bags",
+          "Cold water, to fill to 1 gallon",
+          "Ice and fresh blackberries, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the berries",
+        "body": "Blackberries, sugar, and the 4 cups of water; simmer about 15 minutes, mashing the berries well — you want every drop of that purple out of them."
+      },
+      {
+        "title": "Steep the tea in it",
+        "body": "Off the heat, baking soda in, then the bags for 15 minutes. Out, drained, not wrung."
+      },
+      {
+        "title": "Strain it clean",
+        "body": "Through a fine strainer into the gallon pitcher — blackberries carry seeds, and nobody wants them in a glass of tea. Press the pulp, then cold water to the gallon mark."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Cold, over a full glass of ice, a few fresh berries dropped in the glass."
+      }
+    ],
+    "proTips": [
+      "Frozen blackberries work fine out of season — wild ones in July are better and you know it."
+    ],
+    "image": "/images/blackberry-sweet-tea.jpg"
+  },
+  {
+    "slug": "raspberry-sweet-tea",
+    "title": "Raspberry Sweet Tea",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 2
+    },
+    "servings": "16",
+    "wood": "None",
+    "summary": "Kelly's sweet tea with raspberries in the syrup — brighter and tarter than the peach, ruby red in the glass.",
+    "story": "Same Luzianne spine as all of Kelly's teas — five bags, 15 minutes — but raspberries bring a brightness the other fruits don't. They run tart, so the tea pours ruby red and lively, sweet up front with a little zing behind it. The one to make when the ribs are rich and the day is hot.",
+    "ingredients": [
+      {
+        "group": "The berry syrup",
+        "items": [
+          "2 cups fresh raspberries (about 12 oz)",
+          "1 1/2 cups sugar",
+          "4 cups water",
+          "1/8 tsp baking soda"
+        ]
+      },
+      {
+        "group": "The tea",
+        "items": [
+          "5 family-size Luzianne tea bags",
+          "Cold water, to fill to 1 gallon",
+          "Ice and fresh raspberries, for serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Simmer the berries",
+        "body": "Raspberries, sugar, and the 4 cups of water; simmer about 10 minutes, mashing as they soften and fall apart."
+      },
+      {
+        "title": "Steep the tea in it",
+        "body": "Off the heat, soda in, bags in for 15 minutes. Out and drained."
+      },
+      {
+        "title": "Strain and fill",
+        "body": "Strain into the gallon pitcher — raspberry seeds are small and sneaky — press the pulp, cold water to the mark."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Over a full glass of ice with a few fresh raspberries riding on top."
+      }
+    ],
+    "proTips": [
+      "Raspberries run tart — if your batch bites too hard, stir in sugar a spoonful at a time while it's still warm."
+    ],
+    "image": "/images/raspberry-sweet-tea.jpg"
   }
 ]
