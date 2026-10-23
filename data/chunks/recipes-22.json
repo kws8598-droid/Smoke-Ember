@@ -3201,5 +3201,125 @@
    "Stir steady once the roux goes in — a roux-thickened soup will scorch if it sits still.",
    "Even better the next day; thin it with a splash of milk when you reheat."
   ]
+ },
+ {
+  "title": "Smoked Turducken",
+  "slug": "smoked-turducken",
+  "region": "louisiana",
+  "protein": "poultry",
+  "difficulty": "all-day",
+  "hours": {
+   "min": 9,
+   "max": 12
+  },
+  "servings": "20",
+  "wood": "Oak or pecan",
+  "summary": "Three birds in one: a chicken inside a duck inside a turkey, a different dressing inside every bird, smoked low over oak and pecan until the very center reads 165°.",
+  "story": "Three birds, boned and nested — a chicken rolled inside a duck, the duck rolled inside a turkey, a different dressing inside every bird — sewn up, trussed, and smoked low until the very middle is done. It landed on the app by request, ahead of the holidays: the biggest showpiece in American cooking, done the Smoke-Ember way. Kelly hasn't cooked one yet — this build follows the best-rated classic, smoked instead of roasted — and the day he does, his verdict goes right here.",
+  "ingredients": [
+   {
+    "group": "The Birds",
+    "items": [
+     "1 whole turkey, 20-25 lbs, deboned except wing tips and drumstick bones",
+     "1 whole duck, 4-5 lbs, fully deboned",
+     "1 whole chicken, 3-4 lbs, fully deboned",
+     "Smoke & Ember Turkey Brine, enough for all three birds (optional, overnight)"
+    ]
+   },
+   {
+    "group": "Herb Butter & Seasoning",
+    "items": [
+     "1 stick butter, softened",
+     "2 cloves garlic, minced",
+     "1 Tbsp fresh sage, chopped",
+     "1 Tbsp fresh thyme, chopped",
+     "Creole seasoning, salt, and black pepper",
+     "Paprika, for the skin"
+    ]
+   },
+   {
+    "group": "Cornbread Dressing (for the chicken)",
+    "items": [
+     "4 cups crumbled cornbread",
+     "1 cup chicken stock",
+     "1/2 cup diced onion",
+     "1/2 cup diced celery",
+     "2 Tbsp butter",
+     "1 egg, beaten",
+     "1 tsp dried sage",
+     "Salt and black pepper"
+    ]
+   },
+   {
+    "group": "Savory Bread Stuffing (for the turkey)",
+    "items": [
+     "4 cups bread cubes",
+     "1 cup chicken stock",
+     "1/2 cup diced onion",
+     "1/2 cup diced celery",
+     "2 Tbsp butter",
+     "1 egg, beaten",
+     "1 tsp poultry seasoning",
+     "Salt and black pepper"
+    ]
+   },
+   {
+    "group": "Cranberry-Pecan Stuffing (for the duck)",
+    "items": [
+     "1 cup of the savory bread stuffing",
+     "1/2 cup whole-berry cranberry sauce",
+     "1/2 cup chopped pecans"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brine overnight",
+    "body": "All three birds in the brine, fridge, 12 to 24 hours. Out, rinsed, patted dry — and kept COLD from here on."
+   },
+   {
+    "title": "Make the three dressings",
+    "body": "Mix all three dressings and chill them. Cold dressing and cold birds is the rule for the whole build."
+   },
+   {
+    "title": "Debone the birds (or don't)",
+    "body": "Deboning all three is the hardest hour of the recipe; a good butcher will do it if you ask a few days ahead. The turkey keeps its wing tips and drumstick bones so it still looks like a turkey; the duck and chicken come fully boneless."
+   },
+   {
+    "title": "Butter and season",
+    "body": "Herb butter worked under the turkey's skin from the outside; every bird's meat side seasoned well with Creole seasoning, salt, and pepper."
+   },
+   {
+    "title": "Stuff the chicken",
+    "body": "Chicken flat, skin-side down. Cornbread dressing spread over it; roll the chicken up around the dressing and skewer it shut — a plump little stuffed chicken."
+   },
+   {
+    "title": "Stuff the duck",
+    "body": "Duck flat, skin-side down, cranberry-pecan dressing spread over it. The stuffed chicken goes in the middle; fold the duck around it and skewer it shut."
+   },
+   {
+    "title": "Stuff the turkey",
+    "body": "Turkey flat, skin-side down, savory bread stuffing spread over it, and the whole duck bundle in the middle. Cheap insurance: inject the turkey breast with warm butter-broth before you close it. With a helper, fold the turkey up, sew the back seam (or skewer and lace it), truss it firm, and set it breast-up in a big roasting pan on a rack, legs tied to look proper."
+   },
+   {
+    "title": "Smoke it",
+    "body": "250-275°F over oak or pecan, pan and all, until a probe pushed to the very center reads 165°F — plan on 8 to 9 hours. Drain drippings every couple of hours (they'll make a gallon of gravy), and tent with foil if the skin gets ahead of the middle."
+   },
+   {
+    "title": "Rest it a full hour",
+    "body": "No bones means no frame; the rest is what lets it slice clean. Move it with two big spatulas underneath, never by the legs."
+   },
+   {
+    "title": "Carve across",
+    "body": "Slice crosswise so every slice carries all three birds and all three dressings. Serve with the extra dressings — baked at 350°F while the bird rested — and gravy from the drippings."
+   }
+  ],
+  "proTips": [
+   "The 165° reading must come from the dead center — the middle of the chicken. Check it in two spots before you call it done.",
+   "Everything stays cold during assembly. Work steady, and if the build runs long, get it back in the fridge for a spell.",
+   "Ask the butcher a few days ahead — holiday week is not the time to surprise him with three birds to bone.",
+   "Leftover slices fry up in a skillet like the best deli meat you ever had."
+  ],
+  "image": "/images/smoked-turducken.jpg"
  }
 ]
