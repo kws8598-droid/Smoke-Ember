@@ -409,5 +409,26 @@
       "A little smoke on poultry goes a long way.",
       "Too much turns it from kissed to campfire."
     ]
+  },
+  {
+    "slug": "if-it-makes-you-happy",
+    "title": "If It Makes You Happy, It's Good Barbecue",
+    "kicker": "Fire school",
+    "summary": "Post your cook proud. If you're satisfied with the way it tastes and the way it looks, don't pay much attention to what anybody's got to say about your cook — as long as it makes you happy, that's what barbecue is all about.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 2,
+    "body": [
+      {
+        "text": "Post your cook proud. People will post pictures of their food in groups and there's always somebody ready to make fun of how it looks. Here's the rule: if you're satisfied with the way it tastes and the way it looks, don't pay much attention to what anybody's got to say about your cook."
+      },
+      {
+        "text": "As long as it makes you happy, that's what barbecue is all about. If we all cooked the same way with the same flavor profiles, this would be a boring world."
+      }
+    ],
+    "takeaways": [
+      "If you're satisfied with the way it tastes and the way it looks, don't pay much attention to what anybody's got to say about your cook.",
+      "As long as it makes you happy, that's what barbecue is all about.",
+      "If we all cooked the same way with the same flavor profiles, this would be a boring world."
+    ]
   }
 ]
