@@ -367,4 +367,47 @@
       "Blend a mild base with a stronger wood to tune the smoke to the meat"
     ]
   }
+,
+  {
+    "slug": "stalled-wrap-and-bump-the-heat",
+    "title": "Stalled With Company Coming? Wrap It and Bump the Heat",
+    "kicker": "Fire school",
+    "summary": "If the meat is stuck in the stall and your people are eating at a set time, wrap it and bump the heat. It costs you nothing in flavor — the smoke goes in early, and the rest is just getting tender.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 2,
+    "body": [
+      {
+        "text": "The stall is no time to be a purist. If the meat is stuck and your people are eating at a set time, wrap it and bump the heat — the clock dictates whether you eat on time, and feeding your people on time IS barbecue."
+      },
+      {
+        "text": "It costs you nothing in flavor: the meat takes its smoke early — they say up to about 120 degrees — and everything after that is breaking down tissue and getting tender. Sometimes you just have to use a crutch. That's what it's for."
+      }
+    ],
+    "takeaways": [
+      "The clock dictates whether you eat on time.",
+      "Meat takes its smoke early — up to about 120 degrees. After that, it's all tenderness.",
+      "Sometimes you just have to use a crutch. That's what it's for."
+    ]
+  },
+  {
+    "slug": "poultry-takes-smoke-fast",
+    "title": "Poultry Takes Smoke Fast — Like Cheese",
+    "kicker": "Fire school",
+    "summary": "Poultry absorbs smoke quicker than anything, just like cheese. Smoke your birds with a lighter hand — a little smoke on poultry goes a long way.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 2,
+    "body": [
+      {
+        "text": "Poultry absorbs smoke quicker than anything, just like cheese. What beef takes hours to drink in, chicken grabs in no time at all."
+      },
+      {
+        "text": "Smoke your birds with a lighter hand — a little smoke on poultry goes a long way, and too much turns it from kissed to campfire."
+      }
+    ],
+    "takeaways": [
+      "Poultry takes smoke fast — like cheese.",
+      "A little smoke on poultry goes a long way.",
+      "Too much turns it from kissed to campfire."
+    ]
+  }
 ]
