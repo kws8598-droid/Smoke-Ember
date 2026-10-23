@@ -3116,5 +3116,74 @@
     ],
     "title": "Hot German Potato Salad with Smoked Sausage",
     "wood": "Hickory or apple, light"
+  },
+  {
+    "title": "Kristy's Potato Soup",
+    "slug": "kristys-potato-soup",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "servings": "8",
+    "prepTime": "15 min",
+    "cookTime": "35 min",
+    "wood": "None — stovetop",
+    "image": "images/kristys-potato-soup.jpg",
+    "description": "Kristy's potato soup: potatoes boiled in chicken stock, thickened with a bacon-grease roux, then loaded with diced ham, green onions, a full pound of shredded cheese, a cup of sour cream, and the crumbled bacon stirred in. Every bowl finished with cheese and green onion spread over the top.",
+    "ingredients": [
+      {
+        "group": "The Soup",
+        "items": [
+          "3 lbs potatoes, peeled and cut into a 3/4-inch dice",
+          "Water and chicken stock, to cover (about 4 cups stock)",
+          "2 cups diced ham, diced small",
+          "1 lb shredded cheddar, plus more for serving",
+          "1 cup sour cream",
+          "1 bunch green onions, diced — some for the soup, some for serving",
+          "Salt and black pepper, to taste"
+        ]
+      },
+      {
+        "group": "The Bacon & Roux",
+        "items": [
+          "8 slices bacon",
+          "1 onion, diced",
+          "1/3 cup flour",
+          "About 4 cups milk, divided — more as needed for the thickness you want"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Boil the potatoes",
+        "body": "Cut potatoes in a pot, cover with water and chicken stock, and boil until just tender."
+      },
+      {
+        "title": "Fry the bacon",
+        "body": "While the potatoes cook, fry the bacon in a skillet. Crumble it and set it aside — and save the bacon grease for your roux."
+      },
+      {
+        "title": "Onions in the grease",
+        "body": "When the potatoes are just tender, sauté the diced onion in the bacon grease until tender."
+      },
+      {
+        "title": "Make the roux",
+        "body": "Stir the flour into the onion and bacon grease, then add milk a little at a time, stirring until smooth."
+      },
+      {
+        "title": "Thicken the pot",
+        "body": "With the potatoes still boiling, stir the roux into the pot. Pour in more milk until the soup hits the thickness you want. Keep stirring."
+      },
+      {
+        "title": "Load it",
+        "body": "Add the diced ham, diced green onions, the pound of shredded cheese, the cup of sour cream, salt and pepper — then stir the crumbled bacon in. Stir everything together until the cheese melts through."
+      },
+      {
+        "title": "Serve it",
+        "body": "Ladle it up, then sprinkle cheese and green onion over the top of every bowl — spread out, not piled."
+      }
+    ],
+    "tips": [
+      "Stir steady once the roux goes in — a roux-thickened soup will scorch if it sits still.",
+      "Even better the next day; thin it with a splash of milk when you reheat."
+    ]
   }
 ]
