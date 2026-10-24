@@ -1011,5 +1011,62 @@
    "Sugar burns fast over flame: glaze late, not early."
   ],
   "milestones": []
+ },
+ {
+  "slug": "korean-barbecue-sauce",
+  "title": "Korean-Style Barbecue Sauce",
+  "region": "backyard",
+  "protein": "sauces",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1
+  },
+  "servings": "About 1 1/4 cups",
+  "wood": "Pairs with any smoke wood",
+  "pitTemp": "Stovetop — sauce only",
+  "finish": "Sweet-savory, sesame gloss",
+  "summary": "Soy, honey, sesame, and ginger — the sweet-savory glaze for short ribs and skewers, with gochujang on standby for heat.",
+  "story": "The companion to the app's Korean Galbi — soy and honey for the sweet-savory pull, sesame oil and ginger for the aroma, and gochujang only if you want the warm kick. Leave it out for kids and nobody misses it.",
+  "school": "Backyard",
+  "image": "/images/korean-barbecue-sauce.jpg",
+  "ingredients": [
+   {
+    "group": "Sauce",
+    "items": [
+     "1/2 cup soy sauce",
+     "1/4 cup brown sugar",
+     "2 Tbsp honey",
+     "1 Tbsp sesame oil",
+     "4 cloves garlic, minced",
+     "1 tsp grated ginger",
+     "2 Tbsp rice vinegar",
+     "1 Tbsp gochujang (optional)"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Whisk",
+    "body": "Whisk everything together until the honey and sugar dissolve. A few seconds of gentle warmth helps if the honey resists."
+   },
+   {
+    "title": "Rest 10 minutes",
+    "body": "Let it sit 10 minutes so the garlic and ginger bloom into the sauce."
+   },
+   {
+    "title": "Marinate or glaze",
+    "body": "Use it as a marinade for short ribs or skewers, or brush it on near the end of the cook. Save a clean spoonful for the table."
+   },
+   {
+    "title": "Store",
+    "body": "Keeps in a jar in the fridge up to 2 weeks."
+   }
+  ],
+  "proTips": [
+   "Gochujang is the heat dial — in for warmth, out for a kid-friendly batch.",
+   "Sesame oil is a finisher, not a frying oil — don't cook this sauce hard."
+  ],
+  "milestones": []
  }
 ]
