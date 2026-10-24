@@ -1125,5 +1125,65 @@
    "Five-spice is strong — measure it the first time, don't eyeball it."
   ],
   "milestones": []
+ },
+ {
+  "slug": "ember-cherry-injection",
+  "title": "Ember Cherry Injection",
+  "region": "backyard",
+  "protein": "sauces",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1
+  },
+  "servings": "Enough for 1 pork butt or 1 turkey (12–16 lb)",
+  "wood": "Pairs with any smoke wood",
+  "pitTemp": "Warm — never boiling",
+  "finish": "Juicy, cherry-kissed meat",
+  "summary": "The cherry injection the app was missing: tart cherry juice and Cherry Dr Pepper in a warm butter broth, with brown sugar and garlic. Built for pork butt, pork loin, and turkey.",
+  "story": "A man came looking for a cherry injection and the app didn't have one — so here's the answer, built the Ember way: warm butter broth carrying the cherry deep into the meat. Leaner cuts get more of it, same as every injection on this app.",
+  "school": "Backyard",
+  "image": "/images/ember-cherry-injection.jpg",
+  "ingredients": [
+   {
+    "group": "Injection",
+    "items": [
+     "1 cup tart cherry juice",
+     "1/2 cup Cherry Dr Pepper",
+     "1/2 cup butter (1 stick), melted",
+     "2 Tbsp brown sugar",
+     "1 tsp kosher salt",
+     "1/2 tsp black pepper",
+     "1/2 tsp garlic powder"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Warm it up",
+    "body": "Combine everything in a small saucepan over low heat. Warm it just enough to melt the butter and dissolve the sugar and salt — never let it boil."
+   },
+   {
+    "title": "Cool to lukewarm",
+    "body": "Pull it off the heat and let it cool to lukewarm. Hot liquid tightens the meat and the butter separates; lukewarm flows clean."
+   },
+   {
+    "title": "Load the injector",
+    "body": "Stir before every fill — the sugar settles to the bottom if you don't."
+   },
+   {
+    "title": "Inject in a grid",
+    "body": "Inject about an inch apart, deep and slow, pulling back as you push, until the meat just starts to weep back. Leaner cuts get more."
+   },
+   {
+    "title": "Rest, then cook",
+    "body": "Let the meat rest 30 minutes (or overnight in the fridge) so the injection settles, then season and smoke like normal. Go easy on salt in the rub — the injection already handled some of it."
+   }
+  ],
+  "proTips": [
+   "Don't inject an already-enhanced or self-basting bird — it's pre-salted and you'll overdo it.",
+   "Cherry Dr Pepper brings cherry and sugar, but the cherry juice carries the real fruit — use both, don't swap one for the other."
+  ],
+  "milestones": []
  }
 ]
