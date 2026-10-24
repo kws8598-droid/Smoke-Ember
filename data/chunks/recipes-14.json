@@ -1068,5 +1068,62 @@
    "Sesame oil is a finisher, not a frying oil — don't cook this sauce hard."
   ],
   "milestones": []
+ },
+ {
+  "slug": "chinese-barbecue-sauce",
+  "title": "Chinese-Style Barbecue Sauce",
+  "region": "backyard",
+  "protein": "sauces",
+  "difficulty": "easy",
+  "hours": {
+   "min": 1,
+   "max": 1
+  },
+  "servings": "About 1 cup",
+  "wood": "Pairs with any smoke wood",
+  "pitTemp": "Stovetop — sauce only",
+  "finish": "Dark, sweet, five-spice warmth",
+  "summary": "Hoisin and five-spice do the talking — dark, sweet, and warmly spiced. The brush-on glaze for ribs, pork, and skewers.",
+  "story": "Five-spice is the signature here — that warm anise-and-cinnamon hum underneath hoisin's sweetness. It's the glaze for char siu-style pork, ribs, and anything on a skewer that wants a dark shine.",
+  "school": "Backyard",
+  "image": "/images/chinese-barbecue-sauce.jpg",
+  "ingredients": [
+   {
+    "group": "Sauce",
+    "items": [
+     "1/2 cup hoisin sauce",
+     "2 Tbsp soy sauce",
+     "2 Tbsp honey",
+     "2 Tbsp brown sugar",
+     "1 Tbsp rice wine or dry sherry",
+     "1 tsp sesame oil",
+     "2 cloves garlic, minced",
+     "1/2 tsp Chinese five-spice powder"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Whisk",
+    "body": "Whisk everything together in a small saucepan until smooth."
+   },
+   {
+    "title": "Simmer 5 minutes",
+    "body": "Warm over low heat about 5 minutes, stirring, until it thickens just slightly. Don't boil it hard."
+   },
+   {
+    "title": "Cool and glaze",
+    "body": "Let it cool, then brush it on during the last few minutes of grilling — sugar burns if it goes on early."
+   },
+   {
+    "title": "Store",
+    "body": "Keeps in a jar in the fridge up to 2 weeks; thin with a splash of water if it thickens in the cold."
+   }
+  ],
+  "proTips": [
+   "Dry sherry swaps 1:1 for the rice wine.",
+   "Five-spice is strong — measure it the first time, don't eyeball it."
+  ],
+  "milestones": []
  }
 ]
