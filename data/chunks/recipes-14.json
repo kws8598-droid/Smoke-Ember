@@ -1325,5 +1325,73 @@
    "The griddle step warms the chicken through; it doesn't cook it again. Re-cooking dries it out."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoked-mushroom-swiss-burger",
+  "title": "Smoked Mushroom and Swiss Burger",
+  "region": "backyard",
+  "protein": "beef",
+  "difficulty": "medium",
+  "hours": {
+   "min": 1,
+   "max": 2
+  },
+  "servings": "4",
+  "wood": "Hickory or oak",
+  "pitTemp": "225\u00b0F",
+  "finish": "Juicy, smoky, gravy ladled over",
+  "summary": "The way Kelly fixes his: thick patties smoked and seared, then a beef au jus thickened with cornstarch and loaded with portobello mushrooms ladled over the top, Swiss melted down the sides, all on a toasted onion bun.",
+  "story": "A mushroom Swiss burger is only as good as what's poured over it. This one gets the full treatment: a beef au jus, thickened with cornstarch, with portobello mushrooms simmered right in it, ladled over a smoked patty \u2014 Swiss on top, or melted provolone if that's what's on hand, on a toasted onion bun.",
+  "school": "Backyard",
+  "image": "/images/smoked-mushroom-swiss-burger.jpg",
+  "ingredients": [
+   {
+    "group": "Patties",
+    "items": [
+     "2 lbs 80/20 ground beef",
+     "Salt, pepper, and garlic, to taste"
+    ]
+   },
+   {
+    "group": "Mushroom au jus",
+    "items": [
+     "2 cups beef broth (or pan drippings plus broth)",
+     "1 Tbsp cornstarch mixed with 2 Tbsp cold water",
+     "8 oz portobello mushrooms, sliced",
+     "1 Tbsp butter",
+     "1 garlic clove, minced"
+    ]
+   },
+   {
+    "group": "Build",
+    "items": [
+     "4 slices Swiss (or melted provolone)",
+     "4 onion buns, buttered and toasted"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Smoke the patties",
+    "body": "Form the beef into 4 thick patties, season with salt, pepper, and garlic, and smoke at 225\u00b0F to about 130\u00b0F inside."
+   },
+   {
+    "title": "Sear and rest",
+    "body": "Finish the patties in a screaming-hot cast iron skillet and rest them. Don't press them on the sear or you squeeze the juice out."
+   },
+   {
+    "title": "Make the mushroom au jus",
+    "body": "Simmer the beef broth with the butter, garlic, and sliced portobellos until the mushrooms are tender. Whisk in the cornstarch slurry and simmer until the gravy turns glossy and thickened \u2014 a hard boil thins it back out, so keep it at a simmer."
+   },
+   {
+    "title": "Build it",
+    "body": "Set each patty on a toasted onion bun, ladle the mushroom au jus over the top, and finish with Swiss \u2014 or melted provolone. Pour it over the burger and then the cheese, or over the cheese \u2014 either way eats the same."
+   }
+  ],
+  "proTips": [
+   "Don't press the patties on the sear or you squeeze the juice out.",
+   "Whisk the cornstarch slurry in at a simmer \u2014 a hard boil thins it back out."
+  ],
+  "milestones": []
  }
 ]
