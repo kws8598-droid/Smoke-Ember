@@ -430,5 +430,30 @@
       "As long as it makes you happy, that's what barbecue is all about.",
       "If we all cooked the same way with the same flavor profiles, this would be a boring world."
     ]
+  },
+  {
+    "slug": "bbq-commandments",
+    "title": "The 10 BBQ Commandments",
+    "kicker": "Fire school",
+    "summary": "Ten rules for the pit, written in stone and laughed at ever since. Rub thy meat, never boil a rib, and BBQ through rain, snow, sleet, or shine.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 2,
+    "body": [
+      {
+        "text": "Every pit has its rules, and these ten have been passed around cookouts longer than most of us have been cooking. They read like jokes because half of them started as somebody's hard lesson."
+      },
+      {
+        "text": "1. Thou shall rub thy meat. 2. Thou shall not boil ribs. 3. Thou shall not use liquid smoke. 4. Thou shall not use lighter fluid. 5. Thou shall not cut meat open to inspect. 6. Thou shall not open another man's BBQ. 7. Thou shall not bad mouth fellow pitmasters. 8. Thou shall not BBQ without a drink. 9. Thou shall not open the BBQ every 5 minutes. 10. Thou shall BBQ during rain, snow, sleet or shine."
+      },
+      {
+        "text": "Kelly's note on number 3, in his own words from the pit: he's not using liquid smoke — it goes on the smoker. Real smoke, not a bottle."
+      }
+    ],
+    "takeaways": [
+      "Rub thy meat.",
+      "Never boil a rib.",
+      "Real smoke, not a bottle.",
+      "BBQ through rain, snow, sleet, or shine."
+    ]
   }
 ]
