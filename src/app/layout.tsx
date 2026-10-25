@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import PlayerBar from "@/components/PlayerBar";
 import PwaRegister from "@/components/PwaRegister";
 import { LiveCatalogProvider } from "@/components/LiveCatalog";
 import { Analytics } from "@vercel/analytics/next";
@@ -61,11 +62,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="theme-color" content="#1f160d" />
         <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" /> 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1197692196854903" crossOrigin="anonymous" /> </head>
-      <body className="min-h-screen font-sans antialiased">
+      <body className="min-h-screen pb-20 font-sans antialiased print:pb-0">
         <PwaRegister />
         <Header />
         <LiveCatalogProvider>{children}</LiveCatalogProvider>
         <Footer />
+        <PlayerBar />
         <Analytics />
       </body>
     </html>
