@@ -366,8 +366,7 @@
       "Heavy woods for beef and long cooks; fruitwoods for poultry, pork, and color",
       "Blend a mild base with a stronger wood to tune the smoke to the meat"
     ]
-  }
-,
+  },
   {
     "slug": "stalled-wrap-and-bump-the-heat",
     "title": "Stalled With Company Coming? Wrap It and Bump the Heat",
@@ -454,6 +453,34 @@
       "Never boil a rib.",
       "Real smoke, not a bottle.",
       "BBQ through rain, snow, sleet, or shine."
+    ]
+  },
+  {
+    "slug": "snake-method-weber-kettle",
+    "title": "The Snake Method for a Weber Kettle",
+    "kicker": "Fire school",
+    "summary": "No fancy smoker needed. A ring of charcoal, a few wood chunks, and your Weber kettle will hold low and slow for hours — with the vents run Kelly's way.",
+    "image": "/images/embers.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "You don't need a fancy smoker. A plain Weber kettle and a ring of charcoal will hold low and slow for hours, and the kettle you already own makes beautiful barbecue."
+      },
+      {
+        "text": "Line unlit briquettes around the outer edge of the charcoal grate in a C-shape, two wide and two high, and leave a gap at the end — the snake must never meet itself. Lay 3 to 5 wood chunks on top of the first third of the snake, spaced out, because the smoke goes in early. Set a water pan in the middle of the ring if you like one. Light 8 to 12 briquettes in a chimney — never lighter fluid — and set them at the head of the snake."
+      },
+      {
+        "text": "Kelly's vent way: bottom dampers all the way open, always. You adjust your heat with the top vent — close it down a touch to cool it off, open it up to let it run hotter. Air comes in through the bottom dampers, feeds the lit end of the snake, and leaves out the top vent. That's why the top vent sits over the meat, away from the fire: the draft pulls the heat and smoke across the food on its way out."
+      },
+      {
+        "text": "The meat goes on the grate opposite the lit end, indirect, and the fire eats its way around the ring on its own. Hold 225 to 250°F, and a full ring on a 22-inch kettle will run you 8 to 12 hours."
+      }
+    ],
+    "takeaways": [
+      "Two wide, two high, and never let the snake meet itself.",
+      "Bottom dampers wide open; adjust heat with the top vent.",
+      "Top vent over the meat, so smoke pulls across it.",
+      "A plain Weber kettle holds low and slow for hours."
     ]
   }
 ]
