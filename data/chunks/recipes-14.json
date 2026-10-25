@@ -1257,5 +1257,73 @@
    "Chill the roast before shaving \u2014 cold slices thinner."
   ],
   "milestones": []
+ },
+ {
+  "slug": "smoked-chicken-philly",
+  "title": "Smoked Chicken Philly",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "medium",
+  "hours": {
+   "min": 2,
+   "max": 3
+  },
+  "servings": "4\u20136",
+  "wood": "Apple or cherry \u2014 light hand",
+  "pitTemp": "225\u00b0F",
+  "finish": "Juicy, smoky, cheese melted through",
+  "summary": "The Philly build with chicken: breasts smoked light, sliced thin, griddled with mushrooms, peppers, and onions, and buried in smoked provolone.",
+  "story": "Same sandwich, lighter bird \u2014 and poultry takes smoke fast, so a light hand is everything. Smoke the breasts, slice them thin, and finish them the same Philly way: mushrooms, peppers, onions, and smoked provolone melted right into the pile.",
+  "school": "Backyard",
+  "image": "/images/smoked-chicken-philly.jpg",
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "2 lbs boneless skinless chicken breasts",
+     "Poultry rub, or salt, pepper, and garlic, to taste"
+    ]
+   },
+   {
+    "group": "Griddle pile",
+    "items": [
+     "8 oz mushrooms, sliced",
+     "2 bell peppers, sliced",
+     "2 onions, sliced",
+     "2 Tbsp butter",
+     "Splash of chicken broth"
+    ]
+   },
+   {
+    "group": "Build",
+    "items": [
+     "8 slices smoked provolone",
+     "4\u20136 hoagie rolls, toasted"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "title": "Smoke light",
+    "body": "Season the chicken breasts and smoke at 225\u00b0F over apple or cherry with a light hand \u2014 poultry takes smoke fast, like cheese \u2014 until they hit 165\u00b0F inside."
+   },
+   {
+    "title": "Rest and slice thin",
+    "body": "Rest the breasts, then slice them thin against the grain."
+   },
+   {
+    "title": "Work the griddle",
+    "body": "In a hot cast iron skillet, brown the mushrooms first, then soften the peppers and onions. Add the sliced chicken with the butter and a splash of chicken broth just to warm it through \u2014 the griddle warms it, it doesn't cook it again, or the chicken dries out."
+   },
+   {
+    "title": "Cheese it in the pan",
+    "body": "Lay the smoked provolone over the pile right in the pan so it melts into everything, then load it into toasted hoagie rolls. Toast the rolls or they'll fall apart under that juicy pile."
+   }
+  ],
+  "proTips": [
+   "Poultry takes smoke fast \u2014 a light hand, like cheese.",
+   "The griddle step warms the chicken through; it doesn't cook it again. Re-cooking dries it out."
+  ],
+  "milestones": []
  }
 ]
