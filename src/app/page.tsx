@@ -72,6 +72,26 @@ export default function HomePage() {
           </div>
         </section>
       )}
+      <section className="mx-auto max-w-6xl px-4 py-2">
+        <p className="text-xs uppercase tracking-[0.22em] text-subtle">Something to listen to</p>
+        <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Listen at the pit</h2>
+        <p className="mt-2 max-w-xl text-parchment/85">Press play and let it run while you browse — the music and the show stream from the stations themselves, so it costs the site nothing.</p>
+        <div className="mt-3 grid gap-4 md:grid-cols-2">
+          <div className="overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
+            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Live radio</p>
+            <h3 className="mt-1 font-display text-2xl text-cream">Halloween Radio</h3>
+            <p className="mt-2 text-sm text-parchment/80">Spooky-season hits — classic anthems and modern spooky pop, streaming live all October.</p>
+            <audio controls preload="none" src="https://stream.halloweenradio.net/listen/halloween_radio_main/aac?src=website" className="mt-4 w-full" />
+            <p className="mt-3 text-sm text-subtle">Stream by <a href="https://halloweenradio.net/stations" className="text-ember hover:text-ember-hot">Halloweenradio.net</a> — if it will not play here, listen on their site.</p>
+          </div>
+          <div className="overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
+            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Podcast</p>
+            <h3 className="mt-1 font-display text-2xl text-cream">HowToBBQRight Podcast</h3>
+            <p className="mt-2 text-sm text-parchment/80">Malcom &amp; Rachelle Reed talk weekly recipes, what they are grilling at home, and competition BBQ.</p>
+            <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameBorder="0" height="450" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504" className="mt-4 w-full rounded-xl" title="HowToBBQRight Podcast" />
+          </div>
+        </div>
+      </section>
       <section className="relative bg-bark/85 py-4">
         <div className="mx-auto max-w-6xl px-4">
           <p className="text-xs uppercase tracking-[0.22em] text-subtle">The map</p>
