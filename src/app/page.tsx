@@ -3,6 +3,7 @@ import Link from "next/link";
 import TonightPicker from "@/components/TonightPicker";
 import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
+import { PodcastShowButton, RadioPlayButton } from "@/components/ListenButtons";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
 
 const featured = ["memphis-dry-ribs", "santa-maria-tri-tip", "alabama-white-chicken", "central-texas-brisket"];
@@ -81,14 +82,14 @@ export default function HomePage() {
             <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Live radio</p>
             <h3 className="mt-1 font-display text-2xl text-cream">Halloween Radio</h3>
             <p className="mt-2 text-sm text-parchment/80">Spooky-season hits — classic anthems and modern spooky pop, streaming live all October.</p>
-            <audio controls preload="none" src="https://stream.halloweenradio.net/listen/halloween_radio_main/aac?src=website" className="mt-4 w-full" />
+            <RadioPlayButton />
             <p className="mt-3 text-sm text-subtle">Stream by <a href="https://halloweenradio.net/stations" className="text-ember hover:text-ember-hot">Halloweenradio.net</a> — if it will not play here, listen on their site.</p>
           </div>
           <div className="overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
             <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Podcast</p>
             <h3 className="mt-1 font-display text-2xl text-cream">HowToBBQRight Podcast</h3>
             <p className="mt-2 text-sm text-parchment/80">Malcom &amp; Rachelle Reed talk weekly recipes, what they are grilling at home, and competition BBQ.</p>
-            <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameBorder="0" height="450" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504" className="mt-4 w-full rounded-xl" title="HowToBBQRight Podcast" />
+            <PodcastShowButton />
           </div>
         </div>
       </section>
