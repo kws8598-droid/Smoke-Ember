@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import CookTimer from "@/components/CookTimer";
 import SaveButton from "@/components/SaveButton";
 import ShareButton from "@/components/ShareButton";
@@ -12,6 +13,22 @@ import RecipeCard from "@/components/RecipeCard";
 import { difficultyLabel, formatHours, img, regionLabel, related } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 import type { Recipe } from "@/lib/types";
+
+function BackButton({ fallback }: { fallback: string }) {
+  const router = useRouter();
+  return (
+    <button
+      type="button"
+      onClick={() => {
+        if (window.history.length > 1) router.back();
+        else router.push(fallback);
+      }}
+      className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70 print:hidden"
+    >
+      ← Back
+    </button>
+  );
+}
 
 export default function RecipeView({ recipe }: { recipe: Recipe }) {
   const { bySlug } = useLiveCatalog();
@@ -25,9 +42,12 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
         <Image src={img(r.image)} alt={r.title} fill priority sizes="100vw" className="object-cover print:hidden" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20 print:hidden" />
         <div className="relative mx-auto max-w-6xl px-4 pb-10 pt-28 print:pb-2 print:pt-2">
-          <Link href={dessert ? "/desserts" : "/recipes"} className="text-sm text-parchment/80 hover:text-cream print:hidden">
-            ← {dessert ? "All desserts" : "All recipes"}
-          </Link>
+          <div className="flex flex-wrap items-center gap-4 print:hidden">
+            <BackButton fallback={dessert ? "/desserts" : "/recipes"} />
+            <Link href={dessert ? "/desserts" : "/recipes"} className="text-sm text-parchment/80 hover:text-cream">
+              ← {dessert ? "All desserts" : "All recipes"}
+            </Link>
+          </div>
           <div className="mt-4 flex flex-wrap gap-2 text-[11px] uppercase tracking-[0.16em] text-parchment">
             <span className="rounded-full bg-black/40 px-2 py-1">{regionLabel(r.region)}</span>
             <span className="rounded-full bg-black/40 px-2 py-1 capitalize">{r.protein}</span>
@@ -132,6 +152,9 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
           </div>
         </section>
       )}
+      <div className="mx-auto max-w-6xl px-4 pb-16 print:hidden">
+        <BackButton fallback={dessert ? "/desserts" : "/recipes"} />
+      </div>
     </main>
   );
 }
