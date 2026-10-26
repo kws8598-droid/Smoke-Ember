@@ -3594,5 +3594,121 @@
         "label": "Serve"
       }
     ]
+  },
+  {
+    "slug": "ember-pumpkin-pecan-cobbler",
+    "title": "Ember Pumpkin Pecan Cobbler",
+    "region": "southern",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "max": 1,
+      "min": 0.75
+    },
+    "servings": "Serves 8",
+    "wood": "Pecan",
+    "pitTemp": "350\u00b0F indirect",
+    "finish": "Top set and golden; sauce bubbling at the edges",
+    "summary": "A Thanksgiving dessert that makes its own sauce. Pumpkin-spice cake on top, gooey caramel underneath \u2014 and you don't stir it, you just trust the hot water to do its job.",
+    "story": "This one came off a Facebook post that stopped me mid-scroll \u2014 pumpkin, pecans, and a caramel sauce the cobbler makes all by itself. I took it to the pit and made it mine: a little pecan smoke, real butter, and the same rule \u2014 once the hot water goes on, you do NOT stir.",
+    "school": null,
+    "image": "/images/ember-pumpkin-pecan-cobbler.jpg",
+    "ingredients": [
+      {
+        "group": "Batter",
+        "items": [
+          "1 cup + 3 Tbsp all-purpose flour",
+          "2 tsp baking powder",
+          "1/2 tsp salt",
+          "1 tsp cinnamon",
+          "1/2 tsp nutmeg",
+          "1/2 tsp cloves",
+          "3/4 cup sugar",
+          "1/2 cup pumpkin puree",
+          "1/4 cup milk",
+          "1/4 cup butter, melted",
+          "1 1/2 tsp vanilla"
+        ]
+      },
+      {
+        "group": "Topping",
+        "items": [
+          "1/2 cup sugar",
+          "1/2 cup brown sugar",
+          "1/4 cup pecans, toasted and chopped",
+          "1 1/2 cups very hot water"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "body": "Heat the pit or oven to 350\u00b0F indirect, light pecan smoke. Grease an 8x8 dish or a 10-inch cast-iron skillet.",
+        "title": "Heat the pit (or oven)"
+      },
+      {
+        "body": "Stir together the flour, baking powder, salt, cinnamon, nutmeg, cloves, and 3/4 cup sugar.",
+        "title": "Mix the dry"
+      },
+      {
+        "body": "Whisk the pumpkin puree, milk, melted butter, and vanilla, then stir the wet into the dry just until combined \u2014 don't overwork it. Spread in the dish.",
+        "title": "Mix the wet"
+      },
+      {
+        "body": "Sprinkle the remaining 1/2 cup sugar and the brown sugar over the batter, then the toasted pecans.",
+        "title": "Top it"
+      },
+      {
+        "body": "Pour the hot water evenly over everything. Do NOT stir. It'll look wrong. It's right.",
+        "title": "The magic pour"
+      },
+      {
+        "body": "Bake 40\u201345 minutes, until the top is set and golden and the sauce bubbles up around the edges.",
+        "title": "Bake"
+      },
+      {
+        "body": "Rest 15 minutes so the sauce thickens up. Serve warm, with a scoop of vanilla ice cream if you've got it.",
+        "title": "Rest and serve"
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Do not stir after the water goes on \u2014 stirring kills the sauce layer. That's the whole trick.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Dessert takes smoke fast, like cheese \u2014 keep the smoke light so the pumpkin and caramel stay in front.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "The sauce thickens as it rests \u2014 cut into it too soon and it's soup; give it the 15 minutes.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Oven works the same at 350\u00b0F if the pit's busy with the turkey.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Hot water over the top \u2014 do NOT stir.",
+        "id": "pour",
+        "label": "Pour"
+      },
+      {
+        "hint": "40\u201345 minutes until set and golden.",
+        "id": "bake",
+        "label": "Bake"
+      },
+      {
+        "hint": "15 minutes so the sauce thickens.",
+        "id": "rest",
+        "label": "Rest"
+      },
+      {
+        "hint": "Warm, with vanilla ice cream if you've got it.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ]
   }
 ]
