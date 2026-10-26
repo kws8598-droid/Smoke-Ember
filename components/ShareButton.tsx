@@ -2,7 +2,8 @@
 import { useState } from "react";
 
 type Props = {
-  title: string;
+  /** Defaults to the current page title. */
+  title?: string;
   text?: string;
   /** Full URL to share. Defaults to the current page. */
   url?: string;
@@ -17,10 +18,11 @@ export default function ShareButton({ title, text, url }: Props) {
 
   async function onShare() {
     const shareUrl = url ?? window.location.href;
+    const shareTitle = title ?? document.title;
     const nav = navigator as Navigator & { share?: (data: ShareData) => Promise<void> };
     if (nav.share) {
       try {
-        await nav.share({ title, text: text ?? title, url: shareUrl });
+        await nav.share({ title: shareTitle, text: text ?? shareTitle, url: shareUrl });
       } catch {
         /* user dismissed the share sheet — nothing to do */
       }
