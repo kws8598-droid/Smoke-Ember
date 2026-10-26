@@ -4,7 +4,6 @@ import InstallAppButton from "@/components/InstallAppButton";
 import ShareButton from "@/components/ShareButton";
 
 export default function Header() {
-  const homeUrl = typeof window === "undefined" ? undefined : window.location.origin + "/";
   return (
     <header className="sticky top-0 z-40 border-b border-white/5 bg-ink/95 backdrop-blur-md">
       <div className="mx-auto flex h-[72px] max-w-6xl items-center justify-between gap-3 px-7 sm:h-20 sm:px-4">
@@ -12,11 +11,7 @@ export default function Header() {
           Smoke <img src="/ember.svg" alt="" className="mx-2 inline h-8 w-6 object-contain" /> Ember
         </Link>
         <div className="flex items-center gap-2">
-          <ShareButton
-            title="Smoke and Ember"
-            text="Pull up a chair. Regional BBQ, pitmaster sides, and the tricks the fire actually teaches."
-            url={homeUrl}
-          />
+          <ShareButton />
           <InstallAppButton />
         </div>
       </div>
