@@ -3473,5 +3473,125 @@
       "It reheats fine, but put fresh marshmallows on for the reheat so the top looks alive."
     ],
     "image": "/images/smoked-sweet-potato-casserole.jpg"
+  },
+  {
+    "slug": "ember-navy-beans-ham",
+    "title": "Ember Navy Beans and Ham",
+    "region": "southern",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "max": 3,
+      "min": 2
+    },
+    "servings": "6–8",
+    "wood": "Hickory",
+    "pitTemp": "Gentle simmer, lid cracked",
+    "finish": "Beans tender throughout; broth coats a spoon",
+    "summary": "Navy beans, country ham, and a thick broth with no flour and no cream — mash some of the beans right in the pot and let them do the thickening.",
+    "story": "This is my take on the old Southern pot of beans and ham. The ham is country ham, browned right in the pot you are going to cook in, and you save the grease that comes off it and cook the onion in that grease. No bay leaves, no garlic powder, no onion powder, and no bacon drippings unless you happen to have them. The beans simmer low until they are tender all the way through, then you mash a cup of them back into the pot and let the beans thicken their own broth. Salt last and taste first, because the ham is salty enough to season the whole pot. Serve it hot with a wedge of cast-iron cornbread for sopping.",
+    "school": "Southern pot",
+    "image": "/images/ember-navy-beans-ham.jpg",
+    "ingredients": [
+      {
+        "group": "Beans",
+        "items": [
+          "1 lb dried navy beans, picked over and rinsed",
+          "Water for soaking"
+        ]
+      },
+      {
+        "group": "The pot",
+        "items": [
+          "1 lb country ham pieces, or a smoked ham hock, or leftover smoked ham, diced",
+          "1 medium onion, diced",
+          "2–3 cloves garlic, minced",
+          "8 cups water, or chicken broth if you have it",
+          "Black pepper to taste",
+          "Salt only at the end — the ham brings plenty"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Cast-iron cornbread"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "body": "Cover the navy beans with water by a couple inches and soak overnight. Drain and rinse before cooking.",
+        "title": "Soak overnight"
+      },
+      {
+        "body": "Brown the diced country ham in the pot you are going to cook in — if you have bacon grease on hand, brown it in that instead. Set the ham aside and save the grease that came off it, then cook the onion in that grease until softened and stir in the garlic for 30 seconds. A ham hock goes straight in the pot, no browning needed.",
+        "title": "Brown the ham, save the grease"
+      },
+      {
+        "body": "Add the drained beans, the ham, the onion and garlic, and the water or broth. No bay leaves, no garlic powder, no onion powder, no bacon drippings in this pot.",
+        "title": "Build the pot"
+      },
+      {
+        "body": "Bring it up to a gentle boil, then cut it back to a simmer, lid cracked. Let it go 2–3 hours, stirring now and then, until the beans are tender all the way through.",
+        "title": "Simmer low"
+      },
+      {
+        "body": "Fish out the hock, pull the meat off the bone, chop it, and stir it back in. Toss the bone.",
+        "title": "Pull the meat"
+      },
+      {
+        "body": "Scoop out about a cup of beans, mash them against the side of the pot with a spoon, and stir them back in. No flour, no cream — the beans thicken their own broth. Let it simmer another 15 minutes until it coats a spoon.",
+        "title": "Thicken it the old way"
+      },
+      {
+        "body": "Pepper to taste, then salt only if it needs it. Taste first — the ham is salty.",
+        "title": "Season last"
+      },
+      {
+        "body": "Ladle it up hot with a wedge of cast-iron cornbread for sopping.",
+        "title": "Serve it hot"
+      }
+    ],
+    "proTips": [
+      {
+        "text": "If the hock isn't smoked, smoke it first over hickory — real smoke from the smoker, never liquid smoke.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Leftovers are better the next day. Add a splash of water when you reheat — the broth keeps thickening as it sits.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Salt last and taste first. The ham is salty enough to season the whole pot.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Overnight, covered by a couple inches.",
+        "id": "soak",
+        "label": "Soak"
+      },
+      {
+        "hint": "Country ham browned in the pot; save the grease.",
+        "id": "brown",
+        "label": "Brown the ham"
+      },
+      {
+        "hint": "Gentle simmer, lid cracked, 2–3 hours until tender.",
+        "id": "simmer",
+        "label": "Simmer"
+      },
+      {
+        "hint": "A cup of beans mashed back in; simmer 15 minutes.",
+        "id": "mash",
+        "label": "Mash to thicken"
+      },
+      {
+        "hint": "Salt last, taste first. Cornbread for sopping.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ]
   }
 ]
