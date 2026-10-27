@@ -57,8 +57,94 @@ function Estimator() {
   );
 }
 
+type Meat = { key: string; label: string; yield?: number; per?: number; unit: "lbs" | "racks" | "links" };
+
+const MEATS: Meat[] = [
+  { key: "brisket", label: "Brisket", yield: 0.55, unit: "lbs" },
+  { key: "pork", label: "Pork butt", yield: 0.6, unit: "lbs" },
+  { key: "turkey", label: "Turkey", yield: 0.5, unit: "lbs" },
+  { key: "chicken", label: "Chicken", yield: 0.65, unit: "lbs" },
+  { key: "ribs", label: "Pork ribs", per: 1.75, unit: "racks" },
+  { key: "sausage", label: "Sausage links", per: 0.25, unit: "links" },
+];
+
+function Portions() {
+  const [adults, setAdults] = useState("10");
+  const [kids, setKids] = useState("0");
+  const [hungry, setHungry] = useState(false);
+  const [picked, setPicked] = useState<string[]>(["brisket", "pork"]);
+  const a = parseFloat(adults) || 0;
+  const k = parseFloat(kids) || 0;
+  const folks = a + k * 0.5;
+  const portion = hungry ? 0.5 : 1 / 3;
+  const toggle = (key: string) =>
+    setPicked((p) => (p.includes(key) ? p.filter((x) => x !== key) : [...p, key]));
+  const result = useMemo(() => {
+    if (folks <= 0 || picked.length === 0) return null;
+    const finished = folks * portion;
+    const share = finished / picked.length;
+    const lines = MEATS.filter((m) => picked.includes(m.key)).map((m) => {
+      if (m.unit === "lbs") return { label: m.label, unit: m.unit, buy: Math.ceil((share / (m.yield ?? 0.6)) * 2) / 2, finished: share };
+      return { label: m.label, unit: m.unit, buy: Math.ceil(share / (m.per ?? 1)), finished: share };
+    });
+    const rawTotal = lines.filter((l) => l.unit === "lbs").reduce((s, l) => s + l.buy, 0);
+    return { finished, lines, rawTotal };
+  }, [folks, portion, picked]);
+  return (
+    <div className="mt-8 rounded-2xl border border-white/10 bg-bark p-5">
+      <div className="grid gap-4 sm:grid-cols-3">
+        <label className="block">
+          <span className="text-xs uppercase tracking-[0.18em] text-subtle">Adults</span>
+          <input value={adults} onChange={(ev) => setAdults(ev.target.value)} inputMode="decimal"
+            className="mt-2 w-full rounded-xl border border-white/15 bg-ink px-4 py-2.5 text-cream" />
+        </label>
+        <label className="block">
+          <span className="text-xs uppercase tracking-[0.18em] text-subtle">Kids (count half)</span>
+          <input value={kids} onChange={(ev) => setKids(ev.target.value)} inputMode="decimal"
+            className="mt-2 w-full rounded-xl border border-white/15 bg-ink px-4 py-2.5 text-cream" />
+        </label>
+        <div>
+          <span className="text-xs uppercase tracking-[0.18em] text-subtle">Appetite</span>
+          <div className="mt-2 flex gap-2">
+            <button onClick={() => setHungry(false)}
+              className={`rounded-full px-4 py-2.5 text-sm ${!hungry ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}>Standard</button>
+            <button onClick={() => setHungry(true)}
+              className={`rounded-full px-4 py-2.5 text-sm ${hungry ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}>Hungry</button>
+          </div>
+        </div>
+      </div>
+      <p className="mt-5 text-xs uppercase tracking-[0.18em] text-subtle">Meats</p>
+      <div className="mt-2 flex flex-wrap gap-2">
+        {MEATS.map((m) => (
+          <button key={m.key} onClick={() => toggle(m.key)}
+            className={`rounded-full px-4 py-2 text-sm ${picked.includes(m.key) ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}>{m.label}</button>
+        ))}
+      </div>
+      {result ? (<>
+        <div className="mt-6 grid grid-cols-3 gap-3 text-center">
+          <div className="rounded-xl bg-ink/60 p-4"><p className="text-[11px] uppercase tracking-[0.18em] text-subtle">Finished meat</p><p className="mt-1 text-xl font-semibold text-cream">{result.finished.toFixed(1)} lbs</p></div>
+          <div className="rounded-xl bg-ink/60 p-4"><p className="text-[11px] uppercase tracking-[0.18em] text-subtle">Raw to buy</p><p className="mt-1 text-xl font-semibold text-ember">{result.rawTotal > 0 ? `${result.rawTotal} lbs` : "—"}</p></div>
+          <div className="rounded-xl bg-ink/60 p-4"><p className="text-[11px] uppercase tracking-[0.18em] text-subtle">Per person</p><p className="mt-1 text-xl font-semibold text-cream">{hungry ? "½ lb" : "⅓ lb"}</p></div>
+        </div>
+        <div className="mt-4 overflow-hidden rounded-2xl border border-white/10">
+          {result.lines.map((l) => (
+            <div key={l.label} className="grid grid-cols-[1fr_auto] gap-3 bg-bark px-4 py-3">
+              <p className="font-semibold text-cream">{l.label}</p>
+              <p className="text-right text-parchment/90">Buy {l.buy} {l.unit} <span className="text-subtle">(~{l.finished.toFixed(1)} lb finished)</span></p>
+            </div>
+          ))}
+        </div>
+        <p className="mt-4 text-sm text-parchment/80">When in doubt, cook extra. Leftover barbecue is a gift, not a problem.</p>
+      </>) : (
+        <p className="mt-6 text-sm text-subtle">{folks <= 0 ? "Tell me how many folks are coming." : "Pick at least one meat."}</p>
+      )}
+      <p className="mt-2 text-sm italic text-subtle">Planning figures: brisket keeps about 55% of its raw weight, pork butt about 60%, turkey about half, chicken about 65%. A rack of ribs eats out to about 1¾ lb, a link to about ¼ lb. Sides are extra — figure about a half-cup per person per side. Estimate only.</p>
+    </div>
+  );
+}
+
 export default function TempChartPage() {
-  const [tab, setTab] = useState<"temps" | "time">("temps");
+  const [tab, setTab] = useState<"temps" | "time" | "portions">("temps");
   const [q, setQ] = useState("");
   const groups = useMemo(() => {
     const query = q.trim().toLowerCase();
@@ -72,17 +158,17 @@ export default function TempChartPage() {
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Pit tools</h1>
       <p className="mt-3 max-w-xl text-parchment/80">
-        Temps, rest times, and cook-time estimates. When in doubt, trust the probe — not the clock.
+        Temps, rest times, cook-time estimates, and how much to cook for a crowd. When in doubt, trust the probe — not the clock.
       </p>
       <div className="mt-6 flex gap-2">
-        {(["temps", "time"] as const).map((t) => (
+        {(["temps", "time", "portions"] as const).map((t) => (
           <button key={t} onClick={() => setTab(t)}
             className={`rounded-full px-4 py-2 text-sm ${tab === t ? "bg-ember font-semibold text-ink" : "border border-white/15 text-parchment hover:border-ember"}`}>
-            {t === "temps" ? "Temp cheat sheet" : "Time estimator"}
+            {t === "temps" ? "Temp cheat sheet" : t === "time" ? "Time estimator" : "Portion calculator"}
           </button>
         ))}
       </div>
-      {tab === "time" ? <Estimator /> : (<>
+      {tab === "time" ? <Estimator /> : tab === "portions" ? <Portions /> : (<>
         <input
           value={q}
           onChange={(e) => setQ(e.target.value)}
