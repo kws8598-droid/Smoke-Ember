@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import { wisdom } from "@/lib/data";
 export const metadata = { title: "Fire school" };
 export default function WisdomPage() {
@@ -11,7 +12,7 @@ export default function WisdomPage() {
         <div className="absolute inset-0 bg-ink/60" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
-      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      <BackButton fallback="/" />
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Cooking tips</h1>
       <p className="mt-3 max-w-xl text-parchment/80">The stall, the bark, the fire, the rest. Notes the pit actually teaches.</p>
@@ -30,7 +31,7 @@ export default function WisdomPage() {
         </Link>
       ))}</div>
       <div className="mt-10">
-        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+        <BackButton fallback="/" />
       </div>
       </div>
     </main>
