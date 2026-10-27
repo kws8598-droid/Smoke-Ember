@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useState } from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 
@@ -46,6 +47,7 @@ export default function ResetPasswordPage() {
 
   return (
     <main className="mx-auto max-w-md px-4 py-16">
+      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.22em] text-white/40">Pit office</p>
       <h1 className="mt-2 font-display text-4xl italic">Set password</h1>
       <p className="mt-3 text-sm text-white/70">Choose a password for the admin account. It is not stored in the app.</p>
