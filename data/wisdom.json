@@ -482,8 +482,7 @@
       "Top vent over the meat, so smoke pulls across it.",
       "A plain Weber kettle holds low and slow for hours."
     ]
-  }
-,
+  },
   {
     "slug": "keeping-a-kettle-where-you-want-it",
     "title": "Keeping a Kettle Where You Want It",
@@ -581,22 +580,41 @@
         "text": "The best first smoker is the one you'll actually use. Before you shop, ask three things: how much fire-tending do you want to do, how deep do you want the smoke, and what do you want to spend — in money and in upkeep. There is no wrong answer, only the one that fits how you cook right now."
       },
       {
-        "text": "Electric is the easiest way in. Plug it in, set the temperature, and let it run — steady heat, almost no babysitting, and it works where charcoal or open flames are restricted. The smoke runs light, and it can feel more like an oven with smoke. If easy is what gets you cooking, that's a good trade."
+        "text": "Electric is the easiest way in. Plug it in, set the temperature, and let it run — steady heat, almost no babysitting, and it works where charcoal or open flames are restricted. The smoke runs light, and it can feel more like an oven with smoke. If easy is what gets you cooking, that's a good trade.",
+        "images": [
+          "/images/smoker-electric.jpg"
+        ]
       },
       {
-        "text": "Gas is fast and familiar. It runs about like a gas grill, heats up quick, and keeps things simple. The smoke runs light to medium, it needs propane, and the cooking space is often smaller."
+        "text": "Gas is fast and familiar. It runs about like a gas grill, heats up quick, and keeps things simple. The smoke runs light to medium, it needs propane, and the cooking space is often smaller.",
+        "images": [
+          "/images/smoker-gas.jpg"
+        ]
       },
       {
-        "text": "Pellet splits the difference. Push-button start, a digital controller holds the temperature, and real hardwood pellets give real — if milder — smoke. It costs more up front, and pellets keep costing. A lot of folks land here for the balance of ease and flavor."
+        "text": "Pellet splits the difference. Push-button start, a digital controller holds the temperature, and real hardwood pellets give real — if milder — smoke. It costs more up front, and pellets keep costing. A lot of folks land here for the balance of ease and flavor.",
+        "images": [
+          "/images/smoker-pellet.jpg"
+        ]
       },
       {
-        "text": "Charcoal is the best teacher. Kettles and charcoal cabinets give you bold smoke, the cheapest way in, and they teach airflow, vent control, and fire management — skills that carry to any cooker you touch later. It takes practice, and there's ash to clean. Kelly started on a Weber kettle, and he'll tell you it makes beautiful, tasty barbecue. No fancy equipment needed."
+        "text": "Charcoal is the best teacher. Kettles and charcoal cabinets give you bold smoke, the cheapest way in, and they teach airflow, vent control, and fire management — skills that carry to any cooker you touch later. It takes practice, and there's ash to clean. Kelly started on a Weber kettle, and he'll tell you it makes beautiful, tasty barbecue. No fancy equipment needed.",
+        "images": [
+          "/images/smoker-kettle.jpg",
+          "/images/smoker-barrel.jpg"
+        ]
       },
       {
-        "text": "An offset — a stick burner — is the deepest smoke and the biggest capacity, and the most work. It wants constant fire-tending and wood splits, and it has the steepest learning curve. That's the long-term path if tradition is what you're chasing, not the easiest first step."
+        "text": "An offset — a stick burner — is the deepest smoke and the biggest capacity, and the most work. It wants constant fire-tending and wood splits, and it has the steepest learning curve. That's the long-term path if tradition is what you're chasing, not the easiest first step.",
+        "images": [
+          "/images/smoker-offset.jpg"
+        ]
       },
       {
-        "text": "No cooker gatekeeping here. Pellet grills and gravity-fed charcoal smokers are fine if the cook's happy — charcoal and wood carry a lot of the flavor, but nobody should be bashed for their cooker. And starting simple doesn't lock you in. Plenty of good cooks end up with more than one pit as their skills and curiosity grow."
+        "text": "No cooker gatekeeping here. Pellet grills and gravity-fed charcoal smokers are fine if the cook's happy — charcoal and wood carry a lot of the flavor, but nobody should be bashed for their cooker. And starting simple doesn't lock you in. Plenty of good cooks end up with more than one pit as their skills and curiosity grow.",
+        "images": [
+          "/images/smoker-gravity-fed.jpg"
+        ]
       },
       {
         "text": "On money and upkeep, think in rough ranges: entry rigs around $150 to $350, mid-range pellet or bigger charcoal around $400 to $800, quality offsets and high-end pellet rigs $800 and up — but prices move, so shop the cooker, not the number. Electric and pellet rigs want routine cleaning and part checks; charcoal and offset rigs want ash and firebox care; gas rigs want burners and propane watched."
