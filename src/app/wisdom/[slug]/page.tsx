@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import { notFound } from "next/navigation";
 import { getWisdom, wisdom } from "@/lib/data";
 export function generateStaticParams() { return wisdom.map((w) => ({ slug: w.slug })); }
@@ -13,7 +13,7 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
         <Image src={w.image} alt="" fill priority sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/25" />
         <div className="relative mx-auto max-w-3xl px-4 pb-10 pt-28">
-          <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+          <BackButton fallback="/wisdom" />
           <p className="mt-4 text-xs uppercase tracking-[0.18em] text-ember">{w.kicker}</p>
           <h1 className="mt-2 font-display text-5xl italic text-cream">{w.title}</h1>
           <p className="mt-4 text-lg text-parchment/90">{w.summary}</p>
@@ -42,7 +42,7 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
           </div>
         )}
         <div className="mt-10">
-          <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+          <BackButton fallback="/wisdom" />
         </div>
       </article>
     </main>
