@@ -1,7 +1,7 @@
 "use client";
 
 import { FormEvent, Suspense, useState } from "react";
-import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 import { PRODUCTION_RESET_REDIRECT } from "@/lib/supabase/redirect";
@@ -61,7 +61,7 @@ function LoginInner() {
 
   return (
     <main className="mx-auto max-w-md px-4 py-16">
-      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      <BackButton fallback="/" />
       <p className="text-xs uppercase tracking-[0.22em] text-white/40">Pit office</p>
       <h1 className="mt-2 font-display text-4xl italic">Admin login</h1>
       <p className="mt-3 text-sm text-white/70">Email and password. Allowed admins only.</p>
