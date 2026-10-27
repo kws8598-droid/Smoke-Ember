@@ -2,7 +2,7 @@ export type IngredientGroup = { group: string; items: string[] };
 export type Step = { title: string; body: string };
 export type ProTip = { voice: string; text: string };
 export type Milestone = { id: string; label: string; hint: string };
-export type BodyBlock = { heading?: string; text: string; bullets?: string[] };
+export type BodyBlock = { heading?: string; text: string; bullets?: string[]; images?: string[] };
 
 export type Recipe = {
   slug: string;
