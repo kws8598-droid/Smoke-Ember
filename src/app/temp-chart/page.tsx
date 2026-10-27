@@ -1,5 +1,6 @@
 "use client";
 import { useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 import chart from "@/data/temp-chart.json";
 import estimator from "@/data/time-estimator.json";
 
@@ -144,6 +145,11 @@ function Portions() {
 }
 
 export default function TempChartPage() {
+  const router = useRouter();
+  const goBack = () => {
+    if (typeof window !== "undefined" && window.history.length > 1) router.back();
+    else router.push("/");
+  };
   const [tab, setTab] = useState<"temps" | "time" | "portions">("temps");
   const [q, setQ] = useState("");
   const groups = useMemo(() => {
@@ -155,7 +161,8 @@ export default function TempChartPage() {
   }, [q]);
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
-      <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
+      <button onClick={goBack} className="rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:border-ember">← Back</button>
+      <p className="mt-4 text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Pit tools</h1>
       <p className="mt-3 max-w-xl text-parchment/80">
         Temps, rest times, cook-time estimates, and how much to cook for a crowd. When in doubt, trust the probe — not the clock.
@@ -192,6 +199,7 @@ export default function TempChartPage() {
         {groups.length === 0 && <p className="mt-10 text-subtle">Nothing matches. Try a shorter search.</p>}
         <p className="mt-10 text-sm text-subtle italic">Temps are pull temps — carryover finishes the job during the rest. Probe-tender beats a number every time on brisket, butts, and ribs.</p>
       </>)}
+      <button onClick={goBack} className="mt-10 rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:border-ember">← Back</button>
     </main>
   );
 }
