@@ -34,11 +34,22 @@
     "readMinutes": 5,
     "body": [
       {
-        "text": "Good bark looks like dark leather. Wait until the rub feels dry and stuck on before you wrap. Wrap too early and you'll unwrap soggy seasoning instead of bark."
+        "heading": "What bark actually is",
+        "text": "Rub dries on the surface, salt and spices toast, fat renders up through it, and smoke sticks to all of it. That dries down into a dark crust, and it takes time. It can't be rushed."
+      },
+      {
+        "heading": "How to get it",
+        "text": "Put the meat on with a dry surface, leave the lid shut, and don't wrap or spritz until the rub feels dry and stuck on and looks like dark leather. Wrap too early and you'll unwrap soggy seasoning instead of bark."
+      },
+      {
+        "heading": "If it won't set",
+        "text": "Leave it unwrapped and let it ride. Check your pit temp is really where you think it is, and quit peeking. Every look lets heat and smoke out."
       }
     ],
     "takeaways": [
-      "Don't wrap until the bark is dark and set. Ever."
+      "Don't wrap until the bark is dark and set. Ever.",
+      "Dry surface going on, lid shut, patience.",
+      "If it wipes off, it wasn't done yet."
     ]
   },
   {
@@ -50,11 +61,22 @@
     "readMinutes": 6,
     "body": [
       {
-        "text": "Bad smoke comes from a bad fire, not bad wood. Use small splits, add them often, and always keep a flame you can see."
+        "heading": "Why it goes thick",
+        "text": "Wood smoldering instead of burning. Too big a chunk, wood that isn't dry, or the fire choked down for air."
+      },
+      {
+        "heading": "How to fix it",
+        "text": "Bottom dampers wide open, work the heat with the top vent. Small dry splits, added often, with a flame you can see. If the smoke goes thick mid-cook, open it up and let it burn clean again before you worry about anything else."
+      },
+      {
+        "heading": "When to put the meat on",
+        "text": "Wait till the smoke turns thin and blue, so thin you can barely see it. That's the fire telling you it's ready."
       }
     ],
     "takeaways": [
-      "If folks down the street can see your smoke, it's too thick."
+      "If folks down the street can see your smoke, it's too thick.",
+      "Small dry splits, often, with a flame showing.",
+      "Wait for thin blue smoke before the meat goes on."
     ]
   },
   {
@@ -130,11 +152,22 @@
     "readMinutes": 3,
     "body": [
       {
-        "text": "Once the bark is set, a light mist every 45 to 60 minutes is plenty. And leave it completely alone for the first 3 to 4 hours."
+        "heading": "What spritzing is for",
+        "text": "A light mist keeps the surface damp so smoke sticks and color builds, and it cools any hot spots. It's a help, not a bath."
+      },
+      {
+        "heading": "Mop is the heavier cousin",
+        "text": "A mop lays on more liquid, old school style. It can wash the bark right off if you mop too soon or too heavy."
+      },
+      {
+        "heading": "The rule",
+        "text": "Leave it completely alone the first 3 to 4 hours until the bark sets. After that, a light mist every 20 to 30 minutes is plenty, especially when you're spraying cherry Dr Pepper and brown sugar. And leaving it alone the whole cook is a fine choice too."
       }
     ],
     "takeaways": [
-      "Don't spray so much you wash the crust off."
+      "Don't spray so much you wash the crust off.",
+      "Nothing for the first 3 to 4 hours, until the bark sets.",
+      "A light mist every 20 to 30 minutes, especially with cherry Dr Pepper and brown sugar."
     ]
   },
   {
