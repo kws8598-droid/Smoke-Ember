@@ -76,6 +76,7 @@ export default function SavedPage() {
   const list = recipes.filter((r) => slugs.includes(r.slug));
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
+      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">This device</p>
       <h1 className="mt-2 font-display text-5xl italic">Saved</h1>
       <p className="mt-3 text-parchment/80">Cooks you marked and your grocery list. Lives in the browser, not the cloud.</p>
@@ -106,6 +107,9 @@ export default function SavedPage() {
           </Link>
         </div>
       )}
+      <div className="mt-10">
+        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      </div>
     </main>
   );
 }
