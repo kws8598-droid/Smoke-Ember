@@ -1,6 +1,9 @@
+import Link from "next/link";
+
 export default function PrivacyPage() {
   return (
     <main className="mx-auto max-w-3xl px-4 py-10">
+      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.2em] text-ember">Privacy</p>
       <h1 className="mt-2 font-display text-4xl italic text-cream">Privacy Policy</h1>
       <p className="mt-2 text-sm text-subtle">Last updated October 3, 2026</p>
