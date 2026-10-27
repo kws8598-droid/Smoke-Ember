@@ -4502,4 +4502,100 @@
   "title": "Georgia Brunswick Stew",
   "wood": "None \u2014 stovetop pot"
 }
+,
+  {
+    "difficulty": "easy",
+    "finish": "Glossy rings in a slightly thickened syrup",
+    "hours": {
+      "max": 0.5,
+      "min": 0.5
+    },
+    "image": "/images/ember-candied-jalapenos.jpg",
+    "ingredients": [
+      {
+        "group": "Peppers and syrup",
+        "items": [
+          "1 lb fresh jalape\u00f1os, sliced into 1/4-inch rings, seeds left in for heat",
+          "2 cups granulated sugar",
+          "1 cup apple cider vinegar",
+          "1 tsp turmeric",
+          "1 tsp celery seed",
+          "1/2 tsp garlic powder",
+          "1/4 tsp cayenne, optional"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Jalape\u00f1os sliced into 1/4-inch rings, gloves on.",
+        "id": "sliced",
+        "label": "Peppers sliced"
+      },
+      {
+        "hint": "Sugar, vinegar, and spices simmered 5 minutes.",
+        "id": "syrup",
+        "label": "Syrup ready"
+      },
+      {
+        "hint": "Rings simmered 4 to 5 minutes, still a little firm.",
+        "id": "candied",
+        "label": "Peppers candied"
+      },
+      {
+        "hint": "Syrup thickened and poured over, jar cooling.",
+        "id": "jarred",
+        "label": "Jarred and cooling"
+      }
+    ],
+    "pitTemp": "Simmer on the stovetop",
+    "proTips": [
+      {
+        "text": "Wear gloves. Jalape\u00f1o hands burn, and washing alone doesn't always fix it.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Don't overcook them. Mushy peppers have no bite \u2014 pull them while still a little firm.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "The leftover syrup is gold. Splash it in beans, brush it on pork, or stir it into barbecue sauce.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "protein": "sauces",
+    "region": "southern",
+    "school": null,
+    "servings": "About 2 cups",
+    "slug": "ember-candied-jalapenos",
+    "steps": [
+      {
+        "body": "Wash, stem, and slice into 1/4-inch rings. Wear gloves.",
+        "title": "Slice the peppers"
+      },
+      {
+        "body": "Sugar, vinegar, turmeric, celery seed, garlic powder, and cayenne in a pot. Bring to a boil, then simmer 5 minutes.",
+        "title": "Make the syrup"
+      },
+      {
+        "body": "Add the rings, simmer 4 to 5 minutes, stirring gently. They turn olive and soften but should keep a little bite.",
+        "title": "Candy the peppers"
+      },
+      {
+        "body": "Lift them out with a slotted spoon into a clean jar.",
+        "title": "Jar the peppers"
+      },
+      {
+        "body": "Boil the syrup 5 to 6 minutes more until slightly thick, then pour over the peppers to cover.",
+        "title": "Thicken the syrup"
+      },
+      {
+        "body": "Cool, lid on, and refrigerate. Keeps 2 to 3 weeks in the fridge.",
+        "title": "Cool and keep"
+      }
+    ],
+    "story": "Sweet heat in a jar \u2014 jalape\u00f1os simmered in sugar and vinegar until glossy and candied, with a little bite left. Folks call these cowboy candy. Inspired by seeing candied jalape\u00f1os on Melissa Cookston's Memphis BBQ Co. menu \u2014 this is our Ember version, not her recipe. Put them on pulled pork, burgers, nachos, or next to cream cheese and crackers.",
+    "summary": "Sweet heat in a jar \u2014 jalape\u00f1o rings candied in sugar and vinegar, also called cowboy candy.",
+    "title": "Ember Candied Jalape\u00f1os",
+    "wood": "None \u2014 stovetop pot"
+  }
 ]
