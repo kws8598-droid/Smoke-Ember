@@ -4197,4 +4197,101 @@
     "title": "Overnight Smoked Breakfast Casserole",
     "wood": "Hickory or apple"
   }
+,
+  {
+    "difficulty": "weeknight",
+    "finish": "Top browned, cheese bubbling through the crust",
+    "hours": {
+      "max": 2,
+      "min": 1
+    },
+    "image": "/images/kellys-broccoli-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "The casserole",
+        "items": [
+          "3 to 4 lb frozen broccoli florets, thawed and drained well",
+          "1 can (10.5 oz) condensed cheddar cheese soup, white cheddar or regular",
+          "1 cup sour cream",
+          "2 large eggs, beaten",
+          "About 1/3 block Velveeta (about 5 oz), cubed",
+          "2 cups shredded sharp cheddar, divided",
+          "1 large onion, sliced and caramelized",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "group": "The topping",
+        "items": [
+          "1 sleeve Ritz crackers, crushed coarse (Cheez-Its cheese crackers work in their place too)",
+          "1/2 stick butter, melted",
+          "1 can (6 oz) crispy french fried onions"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Onions golden and sweet.",
+        "id": "onions",
+        "label": "Onions caramelized"
+      },
+      {
+        "hint": "Broccoli very tender, drained.",
+        "id": "broccoli",
+        "label": "Broccoli tender"
+      },
+      {
+        "hint": "Cheeses melted, eggs in last.",
+        "id": "mix",
+        "label": "Mixed in one pot"
+      },
+      {
+        "hint": "Top browned, watch the onions \u2014 they darken first.",
+        "id": "brown",
+        "label": "Top browned"
+      }
+    ],
+    "pitTemp": "350\u00b0F oven or smoker indirect",
+    "proTips": [
+      {
+        "text": "Watch it close \u2014 the fried onions turn dark faster than the crackers.",
+        "voice": "Pit cook"
+      },
+      {
+        "text": "Cheez-Its cheese crackers work in place of the Ritz if that's what you've got.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "The sauce is plenty wet as written \u2014 soup, sour cream, and Velveeta carry 3 to 4 pounds of broccoli without scaling up.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": "Thanksgiving table",
+    "servings": "12\u201316",
+    "slug": "kellys-broccoli-casserole",
+    "steps": [
+      {
+        "body": "Slice the onion and cook it low and slow in a little butter until golden and sweet.",
+        "title": "Caramelize the onions"
+      },
+      {
+        "body": "Cook the broccoli on the stove until it's very tender, then drain it. Right in that same pot, throw in the cheddar soup, the cubed Velveeta, the sour cream, 1 cup of the shredded cheddar, and the caramelized onions. Stir until the cheeses melt and it's all mixed together. Stir in the beaten eggs last, just before it goes in the pan.",
+        "title": "One pot, everything in"
+      },
+      {
+        "body": "Pour it into a greased 9x13 pan. Top with the rest of the shredded cheddar, then the crushed Ritz tossed with the melted butter and the fried onions, all mixed together at once.",
+        "title": "Pan it and top it"
+      },
+      {
+        "body": "Bake at 350\u00b0F just until the top is browned, 15 to 20 minutes. Watch it close \u2014 the fried onions turn dark faster than the crackers. It's practically done going in, the oven just finishes the top. Or finish it in the smoker instead of the oven, indirect heat, same idea: just until the top is browned.",
+        "title": "Just brown the top"
+      }
+    ],
+    "story": "This is a Thanksgiving dish at Kelly's house, cooked for a bunch \u2014 3 to 4 pounds of broccoli, pretty cheesy, with caramelized onions and a crunchy Ritz and fried-onion top. Kelly calls this casserole magic, and he means it. People will say onions don't belong in there. Try it first, then you'll be adding onions to yours. His son don't even like broccoli, but he eats the hell out of this. Kelly never put eggs in it before, but it only makes sense in a casserole, so they go in last.",
+    "summary": "Pretty cheesy, the way a Thanksgiving side ought to be \u2014 caramelized onions, a crunchy Ritz and fried-onion top, and enough to feed a crowd.",
+    "title": "Kelly's Broccoli Casserole",
+    "wood": "None \u2014 oven 350\u00b0F"
+  }
 ]
