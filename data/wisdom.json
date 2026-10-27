@@ -626,5 +626,101 @@
       "No cooker gatekeeping — if the cook's happy, it's good barbecue.",
       "Start simple. You can always add a second pit later."
     ]
+  },
+  {
+    "slug": "searing-doesnt-seal-juices",
+    "title": "Searing doesn't seal in the juices",
+    "kicker": "Fire school",
+    "summary": "A good sear makes flavor, not a seal. Judge the cook by temperature, and rest it.",
+    "image": "/images/wisdom-searing.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "Plenty of folks swear a hard sear locks the juices in. It doesn't. Juices are water, and water doesn't stay put because the outside got brown. What a sear does is make flavor — that browned crust is where a lot of the taste lives."
+      },
+      {
+        "text": "That's why the reverse sear works so well. Cook it slow first, bring it up gentle to where you want it, then sear it hot at the end for the crust. You get the even cook and the crust both, instead of a gray band under a seared outside."
+      },
+      {
+        "text": "What actually keeps a cook juicy is pulling it at the right temperature and resting it. Resting is still cooking, and it's the biggest tip of all — give the juices time to settle back through the meat before you cut."
+      }
+    ],
+    "takeaways": [
+      "Sear for flavor and crust, not for sealing.",
+      "Slow first, sear last — the reverse sear gets both.",
+      "Pull by temperature, then rest."
+    ]
+  },
+  {
+    "slug": "dont-soak-your-wood",
+    "title": "Don't soak your wood",
+    "kicker": "Fire school",
+    "summary": "Wet chips don't make more smoke. They steam first, and the real smoke shows up late.",
+    "image": "/images/wisdom-dont-soak-wood.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "Soaking chips feels like it ought to help — more water, more smoke, right? It runs the other way. Wet wood has to boil its water off before it can smolder, so what you get first is steam, not smoke, and the real smoke shows up late."
+      },
+      {
+        "text": "Kelly doesn't soak chips in water at all. Dry wood makes clean smoke sooner, and chunks beat chips for a long cook anyway — chips flare and die fast, chunks smolder along."
+      },
+      {
+        "text": "Don't mix this up with the water pan. A water pan sits in the cooker to steady the heat; soaking chips just wets the fuel. Dry fuel, clean smoke, thin and blue."
+      }
+    ],
+    "takeaways": [
+      "Wet wood steams before it smokes.",
+      "Dry chunks beat soaked chips for a long cook.",
+      "The water pan is not the same as soaking."
+    ]
+  },
+  {
+    "slug": "cold-meat-takes-smoke-better",
+    "title": "Cold meat takes the smoke better",
+    "kicker": "Fire school",
+    "summary": "Straight from the fridge to the pit. The smoke works while the meat is still cool.",
+    "image": "/images/wisdom-cold-meat.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "A lot of folks say meat needs to come to room temperature first. Kelly always likes his meat cold on the pit. Cold meat takes smoke better, because the smoke ring and the smoke flavor get to work while the meat is still cool — once the outside heats up past a point, that window closes."
+      },
+      {
+        "text": "An hour sitting on the counter doesn't change the cook much anyway. The middle of a brisket or a butt barely moves in that time, and you're just giving bacteria a head start. Fridge to pit is simpler and safer."
+      },
+      {
+        "text": "Judge it the way you always do: by temperature and by feel, not by the clock. Probe-tender beats a number, and rest is still the biggest tip."
+      }
+    ],
+    "takeaways": [
+      "Fridge to pit — cold meat takes smoke better.",
+      "Room temperature is a wait that buys you nothing.",
+      "Pull by temperature and feel, then rest."
+    ]
+  },
+  {
+    "slug": "bone-doesnt-flavor-meat",
+    "title": "The bone doesn't flavor the meat",
+    "kicker": "Fire school",
+    "summary": "Plenty of folks swear the bone seasons the meat. Meathead says it doesn't — and the argument is worth hearing out.",
+    "image": "/images/wisdom-bone.jpg",
+    "readMinutes": 3,
+    "body": [
+      {
+        "text": "Ask around and plenty of good cooks will swear bone-in tastes better because the bone flavors the meat. Meathead's science says the bone itself doesn't season anything — flavor comes from the meat, the fat, the rub, and the smoke."
+      },
+      {
+        "text": "Bone-in cuts often do taste great, but that's usually because they get cooked gentler, trimmed less, and pulled at the right time — not because flavor leaked out of the bone. The bone can even slow the cook right next to it, since it shields that meat from the heat."
+      },
+      {
+        "text": "Kelly's rule covers the argument either way: if you're satisfied with your cook's taste and look, the comment section gets no vote. Cook bone-in or boneless, whichever makes you happy — that's what barbecue is all about."
+      }
+    ],
+    "takeaways": [
+      "The bone doesn't season the meat — meat, fat, rub, and smoke do.",
+      "Bone-in tastes great for other reasons: gentler cooks, less trimming.",
+      "If you're happy with your cook, the argument is over."
+    ]
   }
 ]
