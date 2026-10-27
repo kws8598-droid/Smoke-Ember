@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import Image from "next/image";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 import type { Milestone } from "@/lib/types";
@@ -488,7 +489,7 @@ export default function CooksPage() {
   const [tab, setTab] = useState<"cooks" | "cookers">("cooks");
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
-      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      <BackButton fallback="/" />
       <div className="relative mb-8 h-48 overflow-hidden rounded-2xl border border-white/5 sm:h-64">
         <Image src="/images/my-cooks-header.jpg" alt="Smoker with barbecue and a cook journal" fill sizes="100vw" className="object-cover" priority />
         <div className="absolute inset-0 bg-gradient-to-t from-ink/70 to-transparent" />
@@ -523,7 +524,7 @@ export default function CooksPage() {
       </div>
       <div className="mt-6">{tab === "cooks" ? <CooksTab /> : <CookersTab />}</div>
       <div className="mt-10">
-        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+        <BackButton fallback="/" />
       </div>
     </main>
   );
