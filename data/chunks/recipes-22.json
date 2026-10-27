@@ -3908,4 +3908,92 @@
     "title": "Smoked Sausage Gravy",
     "wood": "None"
   }
+,
+  {
+    "difficulty": "weeknight",
+    "finish": "Cheese melted, yolk your way",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
+    },
+    "image": "/images/ember-breakfast-sandwich.jpg",
+    "ingredients": [
+      {
+        "group": "Sandwich",
+        "items": [
+          "8 slices Canadian bacon (his recipe)",
+          "4 eggs",
+          "4 slices cheddar or American",
+          "4 English muffins or buns",
+          "Butter for toasting"
+        ]
+      },
+      {
+        "group": "Optional",
+        "items": [
+          "Hot sauce"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Edges curled.",
+        "id": "bacon",
+        "label": "Bacon"
+      },
+      {
+        "hint": "Yolk your way.",
+        "id": "eggs",
+        "label": "Eggs"
+      },
+      {
+        "hint": "Golden muffins.",
+        "id": "toast",
+        "label": "Toast"
+      },
+      {
+        "hint": "Cheese melted.",
+        "id": "build",
+        "label": "Build"
+      }
+    ],
+    "pitTemp": "Medium skillet",
+    "proTips": [
+      {
+        "text": "Cheese goes on the hot egg, not the cold muffin, or it never melts.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "A foil wrap steams it all together for the road.",
+        "voice": "Pit cook"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "4",
+    "slug": "ember-breakfast-sandwich",
+    "steps": [
+      {
+        "body": "Skillet, Canadian bacon 1\u20132 minutes per side until the edges curl.",
+        "title": "Crisp the bacon"
+      },
+      {
+        "body": "Same skillet, yolk your way. Salt and pepper while they cook.",
+        "title": "Fry the eggs"
+      },
+      {
+        "body": "Butter, cut-side down, golden. Don't walk away \u2014 muffins go from golden to gone fast.",
+        "title": "Toast the muffins"
+      },
+      {
+        "body": "Bacon, egg, cheese right on the hot egg so it melts, muffin top. Wrap in foil 1 minute if it's going down the road.",
+        "title": "Build"
+      }
+    ],
+    "story": "This is a build, not a cook. The Canadian bacon is already smoked, so the whole thing comes together in one skillet while the muffins toast. Make a batch of Canadian bacon and breakfast is handled for days.",
+    "summary": "His Canadian bacon, a fried egg, and melted cheese on a toasted muffin \u2014 the reason to keep a batch of Canadian bacon around.",
+    "title": "Ember Breakfast Sandwich",
+    "wood": "None"
+  }
 ]
