@@ -23,7 +23,16 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
         {w.body.map((b, i) => (
           <section key={i} className="mb-8">
             {b.heading && <h2 className="font-display text-2xl italic text-cream">{b.heading}</h2>}
-            <p className="mt-2 leading-relaxed text-parchment/90">{b.text}</p>
+            <div className={b.images ? "mt-2 flex flex-col gap-4 md:flex-row md:items-start" : "mt-2"}>
+              {b.images && (
+                <div className="flex shrink-0 flex-col gap-4 md:w-64">
+                  {b.images.map((src) => (
+                    <Image key={src} src={src} alt="" width={512} height={384} sizes="(max-width: 768px) 100vw, 256px" className="rounded-xl object-cover" />
+                  ))}
+                </div>
+              )}
+              <p className="leading-relaxed text-parchment/90">{b.text}</p>
+            </div>
           </section>
         ))}
         {w.takeaways && w.takeaways.length > 0 && (
