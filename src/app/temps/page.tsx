@@ -41,6 +41,7 @@ const measures: [string, string][] = [
 export default function TempsPage() {
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">
+      <Link href="/guide" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Pit reference</p>
       <h1 className="mt-2 font-display text-4xl italic text-cream glow-ember">Smoking Chart</h1>
       <p className="mt-2 max-w-xl text-parchment/85">
@@ -94,6 +95,9 @@ export default function TempsPage() {
           butts and brisket run higher for tenderness. Stuck around 160°F for hours? That&apos;s
           the stall — <Link href="/wisdom/the-stall" className="text-ember hover:text-ember-hot">wait it out or wrap</Link>.
         </p>
+      </div>
+      <div className="mt-10">
+        <Link href="/guide" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       </div>
     </main>
   );
