@@ -3711,4 +3711,106 @@
       }
     ]
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "Eggs just set, potatoes crisp at the edges",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/pitmaster-breakfast-skillet.jpg",
+    "ingredients": [
+      {
+        "group": "Potatoes",
+        "items": [
+          "2 lb potatoes, diced \u00bd-inch",
+          "2 Tbsp oil or butter",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "group": "Sausage and veg",
+        "items": [
+          "1 lb smoked breakfast sausage (his recipe), crumbled or sliced",
+          "1 onion, diced",
+          "1 bell pepper, diced",
+          "2 cloves garlic, minced"
+        ]
+      },
+      {
+        "group": "Eggs and top",
+        "items": [
+          "6 eggs",
+          "1 cup shredded cheddar",
+          "Sliced green onions",
+          "Hot sauce (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Pit 350\u00b0F indirect, iron hot.",
+        "id": "on",
+        "label": "On the pit"
+      },
+      {
+        "hint": "Crisp edges.",
+        "id": "potatoes",
+        "label": "Potatoes"
+      },
+      {
+        "hint": "Whites set.",
+        "id": "eggs",
+        "label": "Eggs"
+      },
+      {
+        "hint": "Cheese melted, rested 5 minutes.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "350\u00b0F indirect",
+    "proTips": [
+      {
+        "text": "Cast iron holds heat \u2014 let the potatoes sit or they steam instead of crisping.",
+        "voice": "Pit cook"
+      },
+      {
+        "text": "Yolks your way. Runny for dipping, firm if it's going in a sandwich.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "The lid is what sets the tops without flipping an egg.",
+        "voice": "Pit cook"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "4\u20136",
+    "slug": "pitmaster-breakfast-skillet",
+    "steps": [
+      {
+        "body": "Cast iron, oil hot, potatoes in a single layer. Let them sit 10\u201312 minutes so the edges crisp; stir only when they release.",
+        "title": "Crisp the potatoes"
+      },
+      {
+        "body": "Sausage, onion, and pepper in with the potatoes, 5 minutes. Garlic last, 1 minute, so it doesn't burn.",
+        "title": "Sausage and veg"
+      },
+      {
+        "body": "Make little wells, crack an egg into each, lid on. 5\u20138 minutes until the whites are set and the yolks are your way.",
+        "title": "Eggs on top"
+      },
+      {
+        "body": "Cheddar over the top, lid back on 1 minute to melt. Rest 5 minutes. Green onions and hot sauce at the table.",
+        "title": "Cheese and rest"
+      }
+    ],
+    "story": "A morning cook in one pan. If the pit is already going, the skillet rides it; if it isn't, the stovetop does the same job. The sausage is his smoked breakfast sausage, so the smoke is already in the pan before the eggs ever land.",
+    "summary": "Cast iron, smoked sausage, potatoes, peppers, and eggs cracked right on top \u2014 breakfast off the pit.",
+    "title": "Pitmaster Breakfast Skillet",
+    "wood": "Hickory or oak"
+  }
 ]
