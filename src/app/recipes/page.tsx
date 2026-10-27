@@ -68,6 +68,7 @@ function RecipesInner() {
         <div className="absolute inset-0 bg-ink/60" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
+      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">The book</p>
       <h1 className="mt-2 font-display text-5xl italic">Recipes</h1>
       <p className="mt-3 max-w-xl text-parchment/80">Regional cooks, pantry bottles, and the sides that make a plate.</p>
@@ -134,6 +135,9 @@ function RecipesInner() {
       </div>
       <p className="mt-6 text-sm text-subtle">{list.length} cooks</p>
       <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{list.map((r) => <RecipeCard key={r.slug} recipe={r} />)}</div>
+      <div className="mt-10">
+        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      </div>
       </div>
     </main>
   );
