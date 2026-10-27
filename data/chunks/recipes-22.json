@@ -4088,4 +4088,113 @@
     "title": "Brisket Breakfast Hash",
     "wood": "None"
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "Puffed, golden, center set",
+    "hours": {
+      "max": 1.25,
+      "min": 1
+    },
+    "image": "/images/overnight-smoked-breakfast-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "Base",
+        "items": [
+          "1 lb smoked breakfast sausage (his recipe), browned and drained",
+          "8 cups day-old bread cubes",
+          "2 cups shredded cheddar"
+        ]
+      },
+      {
+        "group": "Custard",
+        "items": [
+          "10 eggs",
+          "2 cups milk",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1 tsp dry mustard"
+        ]
+      },
+      {
+        "group": "Veg",
+        "items": [
+          "1 bell pepper, diced",
+          "4 green onions, sliced (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Dish filled, cheese through it.",
+        "id": "layer",
+        "label": "Layer"
+      },
+      {
+        "hint": "Overnight in the fridge.",
+        "id": "soak",
+        "label": "Soak"
+      },
+      {
+        "hint": "Puffed, golden, center set.",
+        "id": "smoke",
+        "label": "Smoke"
+      },
+      {
+        "hint": "10 minutes, then slice.",
+        "id": "rest",
+        "label": "Rest"
+      }
+    ],
+    "pitTemp": "350\u00b0F indirect",
+    "proTips": [
+      {
+        "text": "Day-old bread soaks without going to mush. Fresh bread turns to paste.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Rest before slicing or it falls apart. Ten minutes is the difference.",
+        "voice": "Pit cook"
+      },
+      {
+        "text": "Oven works the same at 350\u00b0F if the pit isn't lit.",
+        "voice": "Pit cook"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "8\u201310",
+    "slug": "overnight-smoked-breakfast-casserole",
+    "steps": [
+      {
+        "body": "Skillet, break it up, drain the grease. It finishes in the casserole, so don't cook it twice.",
+        "title": "Brown the sausage"
+      },
+      {
+        "body": "Greased dish. Bread, sausage, pepper, cheese. Repeat if the dish is deep.",
+        "title": "Layer"
+      },
+      {
+        "body": "Eggs, milk, salt, pepper, mustard whisked smooth. Pour over everything, press down so the bread drinks.",
+        "title": "Whisk and pour"
+      },
+      {
+        "body": "Cover, fridge, 8 hours or overnight. This is the step that makes it work.",
+        "title": "Rest overnight"
+      },
+      {
+        "body": "350\u00b0F indirect, 60\u201375 minutes, until puffed, golden, and the center is set, not jiggly.",
+        "title": "Smoke and set"
+      },
+      {
+        "body": "10 minutes before cutting, or it falls apart on the spatula.",
+        "title": "Rest and slice"
+      }
+    ],
+    "story": "The work happens the night before and the pit does the rest. Bread soaks overnight, sausage and cheese all through it, and in the morning it goes on at 350\u00b0F while everybody wakes up. Oven works the same at 350\u00b0F if the pit isn't lit.",
+    "summary": "Built the night before, into the smoker in the morning \u2014 eggs, bread, smoked sausage, and cheese for a crowd.",
+    "title": "Overnight Smoked Breakfast Casserole",
+    "wood": "Hickory or apple"
+  }
 ]
