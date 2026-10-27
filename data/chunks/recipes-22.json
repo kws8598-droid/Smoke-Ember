@@ -3996,4 +3996,96 @@
     "title": "Ember Breakfast Sandwich",
     "wood": "None"
   }
+,
+  {
+    "difficulty": "weeknight",
+    "finish": "Potatoes crisp, eggs set your way",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/brisket-breakfast-hash.jpg",
+    "ingredients": [
+      {
+        "group": "Hash",
+        "items": [
+          "2 cups leftover brisket, chopped",
+          "2 lb potatoes, diced \u00bd-inch",
+          "1 onion, diced",
+          "1 bell pepper, diced",
+          "2 cloves garlic, minced",
+          "2 Tbsp oil or beef drippings"
+        ]
+      },
+      {
+        "group": "Eggs and top",
+        "items": [
+          "4\u20136 eggs",
+          "Salt and pepper",
+          "Sliced green onions",
+          "Hot sauce (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Brown bottom, released.",
+        "id": "potatoes",
+        "label": "Potatoes"
+      },
+      {
+        "hint": "Brisket and veg crusted.",
+        "id": "crust",
+        "label": "Crust"
+      },
+      {
+        "hint": "Whites set.",
+        "id": "eggs",
+        "label": "Eggs"
+      },
+      {
+        "hint": "Straight from the iron.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "Medium-high skillet",
+    "proTips": [
+      {
+        "text": "Don't stir once it's crusting. Crust is the whole point of hash.",
+        "voice": "Pit cook"
+      },
+      {
+        "text": "Bark crisps back up in the iron. Yesterday's brisket is not a compromise.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "protein": "beef",
+    "region": "texas",
+    "school": null,
+    "servings": "4\u20136",
+    "slug": "brisket-breakfast-hash",
+    "steps": [
+      {
+        "body": "Oil hot, potatoes in a single layer, press them down. 10\u201312 minutes. Don't stir until they release and the bottom is brown.",
+        "title": "Crisp the potatoes"
+      },
+      {
+        "body": "Brisket, onion, and pepper in, 5 minutes. Garlic last, 1 minute. Let it all crust \u2014 that's the whole point.",
+        "title": "Brisket and veg"
+      },
+      {
+        "body": "Wells in the hash, crack an egg into each, lid on. 5\u20138 minutes until the whites are set.",
+        "title": "Eggs on top"
+      },
+      {
+        "body": "Green onions and hot sauce, straight from the iron. No plating ceremony.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Brisket the second day is a different cook, not a leftover. The bark crisps back up in the iron, the fat renders again, and the potatoes drink all of it. This is the morning-after cook that makes the first cook worth it.",
+    "summary": "Yesterday's brisket earns its keep again \u2014 chopped into a skillet hash with potatoes, peppers, and eggs on top.",
+    "title": "Brisket Breakfast Hash",
+    "wood": "None"
+  }
 ]
