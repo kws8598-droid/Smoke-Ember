@@ -4391,5 +4391,115 @@
     "summary": "A store-bought smoked ham, smoked a second time at home over cherry wood, with a cherry Dr Pepper and brown sugar glaze that sets up like candy.",
     "title": "Bruno's Double Smoked Ham",
     "wood": "Cherry"
-  }
+  },
+{
+  "difficulty": "weeknight",
+  "finish": "Thick enough to stand a spoon in",
+  "hours": {
+    "max": 2,
+    "min": 1.5
+  },
+  "image": "/images/georgia-brunswick-stew.jpg",
+  "ingredients": [
+    {
+      "group": "The pot",
+      "items": [
+        "2 lb smoked pulled pork, leftovers work perfect",
+        "1 lb smoked or cooked chicken, shredded",
+        "1 onion, diced",
+        "4 cups chicken stock",
+        "1 can (28 oz) crushed tomatoes",
+        "2 cups diced potatoes, about 3 medium",
+        "2 cups frozen Lima beans (butterbeans)",
+        "2 cups corn, frozen or cut off the cob"
+      ]
+    },
+    {
+      "group": "To finish",
+      "items": [
+        "1/2 cup tomato-based barbecue sauce",
+        "1 Tbsp apple cider vinegar",
+        "1 tsp black pepper",
+        "Salt to taste at the end",
+        "Hot sauce, optional, for the table"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Onion soft in a little oil or bacon grease.",
+      "id": "onions",
+      "label": "Onions soft"
+    },
+    {
+      "hint": "Stock, tomatoes, pork, and chicken at a simmer.",
+      "id": "simmer",
+      "label": "Pot simmering"
+    },
+    {
+      "hint": "Potatoes, Lima beans, and corn simmering low.",
+      "id": "vegetables",
+      "label": "Vegetables in"
+    },
+    {
+      "hint": "Thick enough to stand a spoon in, rested 15 minutes.",
+      "id": "thick",
+      "label": "Thick and rested"
+    }
+  ],
+  "pitTemp": "Low simmer on the stovetop",
+  "proTips": [
+    {
+      "text": "Stir often. Thick stew scorches on the bottom if you walk away.",
+      "voice": "Kelly's kitchen"
+    },
+    {
+      "text": "Too thick, splash in stock. Too thin, simmer uncovered a little longer.",
+      "voice": "Kelly's kitchen"
+    },
+    {
+      "text": "The smoke is already in the meat from the pit. That's where the flavor comes from.",
+      "voice": "Kelly's kitchen"
+    }
+  ],
+  "protein": "pork",
+  "region": "georgia",
+  "school": null,
+  "servings": "8\u201310",
+  "slug": "georgia-brunswick-stew",
+  "steps": [
+    {
+      "body": "Cook the diced onion in a little oil or bacon grease until soft, about 5 minutes.",
+      "title": "Sweat the onion"
+    },
+    {
+      "body": "Add the chicken stock, crushed tomatoes, pulled pork, and chicken, and bring it to a simmer.",
+      "title": "Build the pot"
+    },
+    {
+      "body": "Potatoes go in first since they take longest. Simmer 20 minutes.",
+      "title": "Potatoes first"
+    },
+    {
+      "body": "Add the Lima beans and corn, then simmer low 45 to 60 minutes, stirring often so it doesn't scorch on the bottom.",
+      "title": "Beans, corn, and a low simmer"
+    },
+    {
+      "body": "Stir in the barbecue sauce and apple cider vinegar in the last 15 minutes.",
+      "title": "Sauce it"
+    },
+    {
+      "body": "Salt and pepper to taste at the end. Hot sauce stays at the table, not in the pot.",
+      "title": "Season last"
+    },
+    {
+      "body": "Let it sit off the heat 15 minutes. Better the next day, and it freezes well.",
+      "title": "Rest it, or wait a day"
+    }
+  ],
+  "story": "Georgia's thick pot, kin to Kentucky burgoo \u2014 leftover smoked pork and chicken, Lima beans, corn, and potatoes, simmered low until it's thick enough to stand a spoon in, and always better the second day.",
+  "summary": "Georgia's thick, spoon-standing pot \u2014 smoked pork and chicken, Lima beans, corn, and potatoes, built on leftovers and better the second day.",
+  "title": "Georgia Brunswick Stew",
+  "wood": "None \u2014 stovetop pot"
+}
 ]
