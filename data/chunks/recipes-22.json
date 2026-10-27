@@ -4293,5 +4293,103 @@
     "summary": "Pretty cheesy, the way a Thanksgiving side ought to be \u2014 caramelized onions, a crunchy Ritz and fried-onion top, and enough to feed a crowd.",
     "title": "Kelly's Broccoli Casserole",
     "wood": "None \u2014 oven 350\u00b0F"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Glaze set and tacky, ham warmed to 140\u00b0F",
+    "hours": {
+      "max": 4,
+      "min": 3
+    },
+    "image": "/images/brunos-double-smoked-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "1 fully cooked bone-in ham, 8 to 10 lb, spiral sliced or not"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "1 cup packed brown sugar",
+          "1/2 cup cherry Dr Pepper",
+          "2 Tbsp Dijon mustard",
+          "2 Tbsp honey"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Pit at 250\u00b0F indirect, cherry wood.",
+        "id": "pit",
+        "label": "Pit ready"
+      },
+      {
+        "hint": "Ham at about 120\u00b0F, ready for glaze.",
+        "id": "glaze",
+        "label": "Ready to glaze"
+      },
+      {
+        "hint": "Glaze tacky and caramelized, ham at 140\u00b0F.",
+        "id": "pull",
+        "label": "Pulled at 140\u00b0F"
+      },
+      {
+        "hint": "Rested 15 to 20 minutes.",
+        "id": "rest",
+        "label": "Rested and sliced"
+      }
+    ],
+    "pitTemp": "250\u00b0F indirect",
+    "proTips": [
+      {
+        "text": "Don't glaze early. Sugar burns long before the ham is warm through.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Let each coat tack up before the next one. That's how the glaze builds instead of running off.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Save the pan juices. Spooned over the slices, that's the best part.",
+        "voice": "Bruno"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "10\u201312",
+    "slug": "brunos-double-smoked-ham",
+    "steps": [
+      {
+        "body": "Set the pit up for indirect cooking at 250\u00b0F with cherry wood, and put a drip pan under the grate.",
+        "title": "Get the pit ready"
+      },
+      {
+        "body": "If the ham isn't spiral sliced, score the fat in a diamond pattern about 1/4 inch deep, so the glaze has somewhere to go.",
+        "title": "Score it if it needs it"
+      },
+      {
+        "body": "Put the ham on the grate, cut side down if it's spiral sliced. Smoke at 250\u00b0F until it reaches about 120\u00b0F inside, roughly 2 to 2 and a half hours.",
+        "title": "Smoke it once more"
+      },
+      {
+        "body": "Stir the brown sugar, cherry Dr Pepper, mustard, and honey together in a small pot over medium heat until the sugar melts and it thickens just a little, 5 to 8 minutes. Don't boil it hard.",
+        "title": "Make the glaze"
+      },
+      {
+        "body": "Once the ham hits about 120\u00b0F, brush on a thin coat, close the lid, and repeat every 15 minutes for 2 to 3 coats in the last 30 to 45 minutes, until the glaze is tacky and caramelized. Watch it close, sugar burns fast.",
+        "title": "Glaze it in coats"
+      },
+      {
+        "body": "Pull the ham at 140\u00b0F, tent it loosely with foil, and rest it 15 to 20 minutes. Then slice and spoon any pan juices over.",
+        "title": "Rest and slice"
+      }
+    ],
+    "story": "Kelly saw a lady's double-smoked ham with a good glaze and asked Bruno what he would do with it. This is Bruno's answer, and Kelly named it after him.",
+    "summary": "A store-bought smoked ham, smoked a second time at home over cherry wood, with a cherry Dr Pepper and brown sugar glaze that sets up like candy.",
+    "title": "Bruno's Double Smoked Ham",
+    "wood": "Cherry"
   }
 ]
