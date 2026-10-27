@@ -1,6 +1,7 @@
 "use client";
 
 import RecipeCard from "@/components/RecipeCard";
+import Link from "next/link";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 
 const venisonSlugs = [
@@ -41,6 +42,7 @@ export default function GamePage() {
   return (
     <main className="relative">
       <div className="relative mx-auto max-w-6xl px-4 py-12">
+        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p>
         <h1 className="mt-2 font-display text-5xl italic">From the Woods to the Pit</h1>
         <p className="mt-3 max-w-xl text-parchment/80">
@@ -93,6 +95,9 @@ export default function GamePage() {
             chicken — added one at a time as Kelly cooks them and gives the verdict.
             Nothing goes on this page he has not put over his own fire.
           </p>
+        </div>
+        <div className="mt-10">
+          <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
         </div>
       </div>
     </main>
