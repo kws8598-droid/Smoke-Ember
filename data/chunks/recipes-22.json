@@ -3813,4 +3813,99 @@
     "title": "Pitmaster Breakfast Skillet",
     "wood": "Hickory or oak"
   }
+,
+  {
+    "difficulty": "weeknight",
+    "finish": "Coats a spoon, pepper-forward",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
+    },
+    "image": "/images/smoked-sausage-gravy.jpg",
+    "ingredients": [
+      {
+        "group": "Sausage",
+        "items": [
+          "1 lb smoked breakfast sausage (his recipe), crumbled"
+        ]
+      },
+      {
+        "group": "Roux",
+        "items": [
+          "3 Tbsp butter",
+          "1/3 cup flour"
+        ]
+      },
+      {
+        "group": "Gravy",
+        "items": [
+          "3 cups whole milk",
+          "1 tsp black pepper, plus more",
+          "1/2 tsp salt",
+          "Pinch of cayenne (optional)",
+          "Pinch of rubbed sage (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Sausage crumbled, fat kept.",
+        "id": "brown",
+        "label": "Brown"
+      },
+      {
+        "hint": "Blonde, biscuit smell.",
+        "id": "roux",
+        "label": "Roux"
+      },
+      {
+        "hint": "Coats a spoon.",
+        "id": "simmer",
+        "label": "Simmer"
+      },
+      {
+        "hint": "Over split biscuits.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "Simmer",
+    "proTips": [
+      {
+        "text": "Pepper is the point. Be braver than you think.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "If it gets too thick, splash in more milk. Gravy tightens as it sits.",
+        "voice": "Pit cook"
+      }
+    ],
+    "protein": "pork",
+    "region": "kentucky",
+    "school": null,
+    "servings": "6\u20138",
+    "slug": "smoked-sausage-gravy",
+    "steps": [
+      {
+        "body": "Skillet, break it up, 5 minutes. Don't drain \u2014 the fat is flavor.",
+        "title": "Brown the sausage"
+      },
+      {
+        "body": "Butter in, flour over the sausage, stir 1\u20132 minutes until blonde and smelling like biscuits.",
+        "title": "Make the roux"
+      },
+      {
+        "body": "A splash at a time, stirring smooth before the next. Dump it all at once and you get lumps.",
+        "title": "Milk in stages"
+      },
+      {
+        "body": "Low heat 5\u20138 minutes until it coats a spoon. Pepper heavy, salt to taste. It tightens as it sits, so leave it a touch loose.",
+        "title": "Simmer and season"
+      }
+    ],
+    "story": "Plain sausage gravy is fine. Gravy made from his smoked breakfast sausage is better \u2014 the smoke does what plain pork can't. Spoon it over split biscuits.",
+    "summary": "Sausage gravy with smoke already in it, thanks to his smoked breakfast sausage.",
+    "title": "Smoked Sausage Gravy",
+    "wood": "None"
+  }
 ]
