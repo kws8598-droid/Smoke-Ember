@@ -1,5 +1,6 @@
 "use client";
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import profiles from "@/data/flavor-profiles.json";
 
 interface Profile { name: string; category: string; flavor: string; heat: number; bbq: string; pairs: string; }
@@ -35,6 +36,7 @@ export default function FlavorProfilesPage() {
   }, [q, cat]);
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
+      <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Flavor profiles</h1>
       <p className="mt-3 max-w-xl text-parchment/80">
@@ -73,6 +75,9 @@ export default function FlavorProfilesPage() {
         ))}
       </div>
       {list.length === 0 && <p className="mt-10 text-subtle">Nothing matches. Try a shorter search.</p>}
+      <div className="mt-10">
+        <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      </div>
     </main>
   );
 }
