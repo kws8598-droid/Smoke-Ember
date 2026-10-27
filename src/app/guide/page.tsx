@@ -1,4 +1,5 @@
 import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import Image from "next/image";
 import { regionCopy, recipes } from "@/lib/data";
 export const metadata = { title: "Guide" };
@@ -18,7 +19,7 @@ export default function GuidePage() {
         <div className="absolute inset-0 bg-ink/65" />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
-      <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+      <BackButton fallback="/" />
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">How to use the book</p>
       <h1 className="mt-2 font-display text-5xl italic">Guide</h1>
       <p className="mt-3 max-w-2xl text-parchment/80">Pick a time, pick a protein, cook the original recipe — not a generic template. Fire school sits next to the plate.</p>
@@ -50,7 +51,7 @@ export default function GuidePage() {
         </Link>
       ))}</div>
       <div className="mt-10">
-        <Link href="/" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+        <BackButton fallback="/" />
       </div>
       </div>
     </main>
