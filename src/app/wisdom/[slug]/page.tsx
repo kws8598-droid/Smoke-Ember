@@ -13,7 +13,7 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
         <Image src={w.image} alt="" fill priority sizes="100vw" className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/25" />
         <div className="relative mx-auto max-w-3xl px-4 pb-10 pt-28">
-          <Link href="/wisdom" className="text-sm text-parchment/80 hover:text-cream">← Fire school</Link>
+          <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
           <p className="mt-4 text-xs uppercase tracking-[0.18em] text-ember">{w.kicker}</p>
           <h1 className="mt-2 font-display text-5xl italic text-cream">{w.title}</h1>
           <p className="mt-4 text-lg text-parchment/90">{w.summary}</p>
@@ -41,6 +41,9 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
             <ul className="mt-3 space-y-2 text-parchment/90">{w.takeaways.map((t) => <li key={t}>• {t}</li>)}</ul>
           </div>
         )}
+        <div className="mt-10">
+          <Link href="/wisdom" className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70">← Back</Link>
+        </div>
       </article>
     </main>
   );
