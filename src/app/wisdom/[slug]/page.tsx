@@ -10,7 +10,7 @@ export default function WisdomArticle({ params }: { params: { slug: string } }) 
   return (
     <main>
       <section className="relative min-h-[40vh] overflow-hidden">
-        <Image src={w.image} alt="" fill priority sizes="100vw" className="object-cover" />
+        <Image src={w.image} alt="" fill priority sizes="100vw" className="object-cover" unoptimized />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-ink/25" />
         <div className="relative mx-auto max-w-3xl px-4 pb-10 pt-28">
           <BackButton fallback="/wisdom" />
