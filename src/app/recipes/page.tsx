@@ -15,9 +15,13 @@ function RecipesInner() {
   const [q, setQ] = useState("");
   const [time, setTime] = useState("all");
   useEffect(() => {
+    if (params.get("protein") === "desserts") {
+      router.push("/desserts");
+      return;
+    }
     setProtein(params.get("protein") || "all");
     setRegion(params.get("region") || "all");
-  }, [params]);
+  }, [params, router]);
   useEffect(() => {
     document.body.classList.toggle("theme-venison", protein === "venison");
     document.body.classList.toggle("theme-fish", protein === "fish");
@@ -47,6 +51,10 @@ function RecipesInner() {
     router.replace(qs ? `/recipes?${qs}` : "/recipes", { scroll: false });
   }
   function selectProtein(nextProtein: string) {
+    if (nextProtein === "desserts") {
+      router.push("/desserts");
+      return;
+    }
     setProtein(nextProtein);
     replaceFilters(nextProtein, region);
   }
