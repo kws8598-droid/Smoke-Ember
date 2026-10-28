@@ -1,6 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    // TEMPORARY BYPASS (Oct 28, 2026 — remove after the Image Optimization
+    // allowance resets ~Nov 5): fresh transforms are refused with a billing
+    // block (402), so pictures needing a new size go dark. Serving every
+    // picture raw until the reset keeps all cards, heroes, and wisdom
+    // pictures loading. Revert this flag (and the per-picture unoptimized
+    // props in RecipeCard/RecipeView/wisdom pages) after the reset.
+    unoptimized: true,
     // Trimmed sizes: fewer variants per photo = fewer Image Optimization
     // transformations (Hobby cap is 5K/mo). Covers phones through desktops.
     deviceSizes: [640, 1080, 1920],
