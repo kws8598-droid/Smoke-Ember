@@ -14,6 +14,17 @@ import { difficultyLabel, formatHours, img, regionLabel, related } from "@/lib/d
 import { useLiveCatalog } from "@/components/LiveCatalog";
 import type { Recipe } from "@/lib/types";
 
+// Temporary bypass until the resizer allowance resets (~Nov 5): these
+// pictures are refused fresh resizes, so load the raw file directly.
+const rawSlugs = new Set([
+  "country-apple-dumplings",
+  "ember-pumpkin-pecan-cobbler",
+  "brunos-double-smoked-ham",
+  "ember-candied-jalapenos",
+  "georgia-brunswick-stew",
+  "kellys-stuffed-pork-loin-fatty",
+]);
+
 function BackButton({ fallback }: { fallback: string }) {
   const router = useRouter();
   return (
@@ -39,7 +50,7 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
   return (
     <main>
       <section className="relative min-h-[52vh] overflow-hidden print:min-h-0">
-        <Image src={img(r.image)} alt={r.title} fill priority sizes="100vw" className="object-cover print:hidden" />
+        <Image src={img(r.image)} alt={r.title} fill priority sizes="100vw" className="object-cover print:hidden" unoptimized={rawSlugs.has(r.slug)} />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/20 print:hidden" />
         <div className="relative mx-auto max-w-6xl px-4 pb-10 pt-28 print:pb-2 print:pt-2">
           <div className="flex flex-wrap items-center gap-4 print:hidden">
