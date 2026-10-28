@@ -4598,4 +4598,109 @@
     "title": "Ember Candied Jalape\u00f1os",
     "wood": "None \u2014 stovetop pot"
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "145\u00b0F in the center, rested and sliced into pinwheel rounds",
+    "hours": {
+      "max": 2.5,
+      "min": 1.5
+    },
+    "image": "/images/kellys-stuffed-pork-loin-fatty.jpg",
+    "ingredients": [
+      {
+        "group": "The loin",
+        "items": [
+          "1 whole pork loin, 3\u20134 lb",
+          "Your favorite pork seasoning for the outside",
+          "Butcher's twine"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "8 oz onion cream cheese, softened \u2014 or cream cheese mixed with diced yellow onion or sliced green onions, your choice",
+          "8 slices bacon, cooked first \u2014 crumble it or leave the strips in, your choice",
+          "1/2 cup shredded cheddar, optional",
+          "1 cup sliced mushrooms, optional"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Continuous slice, loin unrolled almost flat like cookie dough.",
+        "id": "unrolled",
+        "label": "Loin unrolled"
+      },
+      {
+        "hint": "Cream cheese, bacon, and cheddar spread over the flat loin.",
+        "id": "filled",
+        "label": "Filling on"
+      },
+      {
+        "hint": "Rolled back up like a newspaper and tied with twine.",
+        "id": "rolled",
+        "label": "Rolled and tied"
+      },
+      {
+        "hint": "250\u00b0F to 145\u00b0F in the center, rested and sliced into pinwheel rounds.",
+        "id": "smoked",
+        "label": "Smoked and sliced"
+      }
+    ],
+    "pitTemp": "250\u00b0F indirect",
+    "proTips": [
+      {
+        "text": "Cook the bacon before it goes inside \u2014 crumbled or strips, your choice.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Don't overstuff it or the filling squeezes out the ends.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Tie it snug \u2014 that's what keeps the filling inside while it cooks.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Let it rest before slicing so the cheese doesn't all run out \u2014 and each round shows a pinwheel of filling in the middle.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "8\u201310",
+    "slug": "kellys-stuffed-pork-loin-fatty",
+    "steps": [
+      {
+        "body": "Make a continuous slice, unrolling the loin as you go, until it opens out almost flat like cookie dough.",
+        "title": "Unroll it flat"
+      },
+      {
+        "body": "Spread the onion cream cheese over the inside, scatter the cooked bacon over it (crumbled or strips), and add the cheddar and mushrooms if you're using them.",
+        "title": "Fill it"
+      },
+      {
+        "body": "Put your ingredients on, then roll it back up like a newspaper and tie with twine every couple of inches so the filling stays put.",
+        "title": "Roll and tie it"
+      },
+      {
+        "body": "Season it the way you like.",
+        "title": "Season the outside"
+      },
+      {
+        "body": "Indirect at 250\u00b0F over cherry, pecan, apple, hickory, or oak until the center hits 145\u00b0F.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Rest 15\u201320 minutes so the cheese sets a bit, then slice into rounds \u2014 each round should show a pinwheel of filling swirled in the middle.",
+        "title": "Rest and slice"
+      }
+    ],
+    "story": "This ain't the sausage-log fatty you see everywhere. Mine's a pork loin cut open and stuffed \u2014 onion cream cheese and bacon inside, a little cheddar if you want it \u2014 then seasoned outside the way you like and smoked till it's done. Slice it into rounds and the filling stays right where it belongs.",
+    "summary": "A pork loin unrolled flat, stuffed with onion cream cheese and bacon, rolled back up like a newspaper and smoked \u2014 every slice shows a pinwheel.",
+    "title": "Kelly's Stuffed Pork Loin Fatty",
+    "wood": "Cherry, pecan, apple, hickory, or oak"
+  }
 ]
