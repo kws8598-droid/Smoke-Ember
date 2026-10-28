@@ -11,6 +11,17 @@ const diffStyles: Record<string, string> = {
   hard: "bg-[#8a2b1d]/95 text-[#ffd9c7]",
 };
 
+// Temporary bypass until the resizer allowance resets (~Nov 5): these
+// pictures are refused fresh resizes, so load the raw file directly.
+const rawSlugs = new Set([
+  "country-apple-dumplings",
+  "ember-pumpkin-pecan-cobbler",
+  "brunos-double-smoked-ham",
+  "ember-candied-jalapenos",
+  "georgia-brunswick-stew",
+  "kellys-stuffed-pork-loin-fatty",
+]);
+
 export default function RecipeCard({ recipe, large = false }: { recipe: Recipe; large?: boolean }) {
   const live = useLiveRecipe(recipe);
   const href = live.protein === "desserts" ? `/desserts/${live.slug}` : `/recipes/${live.slug}`;
@@ -19,7 +30,7 @@ export default function RecipeCard({ recipe, large = false }: { recipe: Recipe; 
   return (
     <Link href={href} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark transition duration-300 hover:-translate-y-1 hover:border-ember/40 hover:shadow-[0_10px_36px_rgba(196,92,38,0.22)]">
       <div className={`relative overflow-hidden ${large ? "h-64" : "h-44"}`}>
-        <Image src={img(live.image)} alt={live.title} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover transition duration-500 group-hover:scale-105" />
+        <Image src={img(live.image)} alt={live.title} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-cover transition duration-500 group-hover:scale-105" unoptimized={rawSlugs.has(live.slug)} />
         <div className="absolute inset-0 bg-gradient-to-t from-ink/80 to-transparent" />
         <span className="absolute bottom-3 left-3 text-[11px] uppercase tracking-[0.18em] text-parchment">{regionLabel(live.region)}</span>
         {diff ? (
