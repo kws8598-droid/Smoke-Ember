@@ -141,7 +141,7 @@ export default function HomePage() {
         <div className="mt-3 grid gap-0 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
           <Link key={w.slug} href={`/wisdom/${w.slug}`} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark hover:border-ember/40">
             <div className="relative h-36">
-              <Image src={w.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
+              <Image src={w.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" unoptimized />
               <div className="absolute inset-0 bg-gradient-to-t from-ink/80 to-transparent" />
             </div>
             <div className="p-5">
