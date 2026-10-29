@@ -99,8 +99,8 @@ export function filterRecipes(
   if (opts.q) {
     const q = opts.q.toLowerCase();
     list = list.filter((r) =>
-      r.title.toLowerCase().includes(q) || r.summary.toLowerCase().includes(q) || r.story.toLowerCase().includes(q) ||
-      r.region.includes(q) || r.protein.includes(q) || r.wood.toLowerCase().includes(q)
+      (r.title ?? "").toLowerCase().includes(q) || (r.summary ?? "").toLowerCase().includes(q) || (r.story ?? "").toLowerCase().includes(q) ||
+      (r.region ?? "").includes(q) || (r.protein ?? "").includes(q) || (r.wood ?? "").toLowerCase().includes(q)
     );
   }
   return list;
