@@ -4883,5 +4883,103 @@
     "summary": "Soft homemade cinnamon rolls with diced apples and cinnamon in the filling, baked till golden, and warm caramel sauce poured over the top.",
     "title": "Caramel-Apple Cinnamon Rolls",
     "wood": "None"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Soft in the middle, chocolate on top, rainbow chips pressed in.",
+    "hours": {
+      "max": 1,
+      "min": 0.5
+    },
+    "image": "/images/olivers-cosmic-brownie-cookies.jpg",
+    "ingredients": [
+      {
+        "group": "Cookies",
+        "items": [
+          "1/2 cup (1 stick) unsalted butter",
+          "8 oz semisweet chocolate, chopped (or 1 1/3 cups semisweet chips)",
+          "1 cup granulated sugar",
+          "1/2 cup packed brown sugar",
+          "2 large eggs, room temperature",
+          "1 tsp vanilla extract",
+          "1 cup + 2 Tbsp all-purpose flour",
+          "1/4 cup cocoa powder",
+          "1 tsp baking powder",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "group": "Frosting + top",
+        "items": [
+          "1/2 cup unsalted butter, softened",
+          "8 oz semisweet chocolate, melted and cooled slightly",
+          "2 cups powdered sugar",
+          "3\u20134 Tbsp milk or cream (as needed)",
+          "1 tsp vanilla extract",
+          "Pinch of salt",
+          "1 cup rainbow candy-coated chocolate chips"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Batter mixed.",
+        "id": "batter",
+        "label": "Batter made"
+      },
+      {
+        "hint": "Scooped and baked.",
+        "id": "bake",
+        "label": "Baked"
+      },
+      {
+        "hint": "Cooled fully.",
+        "id": "cool",
+        "label": "Cooled"
+      },
+      {
+        "hint": "Frosted and topped with chips.",
+        "id": "top",
+        "label": "Frosted and topped"
+      }
+    ],
+    "pitTemp": "350\u00b0F oven",
+    "proTips": [
+      {
+        "text": "Cool the cookies all the way before frosting or it slides off. Frost one cookie at a time and add the chips right away, or they won't stick.",
+        "voice": "Sweet Shop note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "southern",
+    "school": null,
+    "servings": "12",
+    "slug": "olivers-cosmic-brownie-cookies",
+    "steps": [
+      {
+        "body": "Oven 350\u00b0F. Line baking sheets with parchment.",
+        "title": "Oven + pans"
+      },
+      {
+        "body": "Melt butter and chopped chocolate together, stir smooth. Whisk in both sugars, then eggs one at a time, then vanilla. Fold in flour, cocoa, baking powder, and salt just until combined \u2014 don't overmix.",
+        "title": "Batter"
+      },
+      {
+        "body": "Scoop large balls (about 4 Tbsp each) onto the sheets, 2 inches apart. Bake 11\u201313 minutes until the edges are set but the middles are still soft. Do NOT overbake \u2014 they firm up as they cool. Cool fully on the sheets.",
+        "title": "Scoop + bake"
+      },
+      {
+        "body": "Beat butter smooth, beat in melted chocolate, then powdered sugar, milk, vanilla, and salt until thick and spreadable. Spread on the cooled cookies, one at a time.",
+        "title": "Frost"
+      },
+      {
+        "body": "Scatter rainbow chips over each cookie and press in gently before the frosting sets, then move to the next cookie. Let the frosting firm before stacking.",
+        "title": "Cosmic top"
+      }
+    ],
+    "story": "Oliver loves cosmic brownies, so these are his in cookie form \u2014 a fudgy brownie baked round, chocolate frosting spread on top once they're cool, and rainbow chips pressed in before the frosting sets. Don't overbake them; the middles stay soft and set up as they cool.",
+    "summary": "Brownie batter baked into cookies, thick chocolate frosting, rainbow chips on top \u2014 the lunchbox favorite, made at home for Oliver.",
+    "title": "Oliver's Cosmic Brownie Cookies",
+    "wood": "None"
   }
 ]
