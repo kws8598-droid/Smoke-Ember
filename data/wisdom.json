@@ -105,10 +105,14 @@
     "body": [
       {
         "text": "Leave it whole, don't slice yet. Put it in a dry cooler or a 150°F oven for at least an hour. Two to four hours is even better."
+      },
+      {
+        "text": "And the rest is still cooking, not just waiting. Pull a turkey at 175 and it will keep climbing to 180 while it sits. That's why you pull before the number you want and let the rest carry it the rest of the way."
       }
     ],
     "takeaways": [
-      "Rest it longer than you think you need to."
+      "Rest it longer than you think you need to.",
+      "Pull before your target number — the rest carries it the rest of the way."
     ]
   },
   {
@@ -117,10 +121,50 @@
     "kicker": "Fire school",
     "summary": "Post oak for beef, hickory for pork, fruitwood for chicken and turkey. Go easy on mesquite. A little goes a long way.",
     "image": "/images/woods.jpg",
-    "readMinutes": 4,
+    "readMinutes": 5,
     "body": [
       {
         "text": "A chunk of mesquite on a quick steak cook tastes great. But twelve hours of mesquite will overpower everything on the pit."
+      },
+      {
+        "heading": "The chart — wood, flavor, best match",
+        "text": "Strongest to lightest. Match the wood's weight to the meat."
+      },
+      {
+        "heading": "Mesquite — earthy, intense, sharp",
+        "text": "Best with: beef, short cooks and steaks. Go easy — long and low turns bitter."
+      },
+      {
+        "heading": "Hickory — savory, hearty, tastes the way bacon smells",
+        "text": "Best with: pork (butts, ribs, hams), chicken, beef."
+      },
+      {
+        "heading": "Oak — mellow, clean, burns long and steady",
+        "text": "Best with: brisket, beef, pork. Post oak for beef."
+      },
+      {
+        "heading": "Pecan — hickory's gentler cousin, sweeter and nuttier",
+        "text": "Best with: pork, poultry, brisket."
+      },
+      {
+        "heading": "Maple — mild with a light sweetness",
+        "text": "Best with: ham, poultry, cheese, vegetables."
+      },
+      {
+        "heading": "Cherry — sweet, fruity, paints a deep red mahogany color",
+        "text": "Best with: poultry, pork, ham."
+      },
+      {
+        "heading": "Apple — sweet, delicate, the gentlest of the fruitwoods",
+        "text": "Best with: pork, poultry, ribs, fish."
+      },
+      {
+        "heading": "Peach — light, sweet fruit smoke",
+        "text": "Best with: poultry, pork."
+      },
+      {
+        "heading": "Alder — the most delicate smoke, barely there",
+        "text": "Best with: salmon, fish."
       }
     ],
     "takeaways": [
