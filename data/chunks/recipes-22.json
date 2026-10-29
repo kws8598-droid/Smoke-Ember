@@ -4981,5 +4981,94 @@
     "summary": "Brownie batter baked into cookies, thick chocolate frosting, rainbow chips on top \u2014 the lunchbox favorite, made at home for Oliver.",
     "title": "Oliver's Cosmic Brownie Cookies",
     "wood": "None"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Firm, sweet, and packed with Nutter Butter chunks.",
+    "hours": {
+      "max": 4,
+      "min": 3
+    },
+    "image": "/images/prestons-nutter-butter-fudge.jpg",
+    "ingredients": [
+      {
+        "group": "Fudge",
+        "items": [
+          "3 cups sugar",
+          "3/4 cup butter",
+          "2/3 cup evaporated milk (not sweetened condensed milk)",
+          "1 1/2 cups creamy peanut butter (real peanut butter, no chips or morsels)",
+          "1 (7 oz) jar marshmallow creme",
+          "1 tsp vanilla"
+        ]
+      },
+      {
+        "group": "Nutter Butters",
+        "items": [
+          "About 1 1/2 cups Nutter Butter cookies, broken into chunks (folded in)",
+          "A handful more broken cookies, pressed on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Sugar, butter, and milk at a rolling boil.",
+        "id": "boil",
+        "label": "Boiled"
+      },
+      {
+        "hint": "Peanut butter and marshmallow creme stirred smooth.",
+        "id": "stir",
+        "label": "Stirred smooth"
+      },
+      {
+        "hint": "Cookies folded in, poured into the pan.",
+        "id": "pour",
+        "label": "Poured"
+      },
+      {
+        "hint": "Cooled until firm, then cut.",
+        "id": "set",
+        "label": "Set and cut"
+      }
+    ],
+    "pitTemp": "Stovetop, 234\u00b0F",
+    "proTips": [
+      {
+        "text": "Have the peanut butter measured and the marshmallow creme jar open before the boil \u2014 once it comes off the heat you have to move fast before it starts to set.",
+        "voice": "Sweet Shop note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "southern",
+    "school": null,
+    "servings": "24",
+    "slug": "prestons-nutter-butter-fudge",
+    "steps": [
+      {
+        "body": "Line a 9x9 pan with foil or parchment, overhang on the sides.",
+        "title": "Line the pan"
+      },
+      {
+        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil 4 minutes, or until a candy thermometer reads 234\u00b0F. Take it off the heat right away.",
+        "title": "Boil"
+      },
+      {
+        "body": "Stir in the peanut butter and marshmallow creme until both are melted and smooth, then the vanilla.",
+        "title": "Stir in"
+      },
+      {
+        "body": "Fold in the broken Nutter Butters, pour into the pan, and press more cookie chunks on top.",
+        "title": "Fold and pour"
+      },
+      {
+        "body": "Cool a few hours until firm, lift out, and cut into squares.",
+        "title": "Cool and cut"
+      }
+    ],
+    "story": "Preston's fudge starts with real peanut butter and marshmallow creme \u2014 no chips, no morsels \u2014 boiled to soft-ball, then broken Nutter Butter cookies folded right in and pressed on top. The peanut-shaped cookies are the whole point: crunchy, peanut-buttery chunks in every square.",
+    "summary": "Peanut butter marshmallow fudge with broken Nutter Butter cookies folded in and pressed on top \u2014 real peanut butter, no chips.",
+    "title": "Preston's Nutter Butter Fudge",
+    "wood": "None"
   }
 ]
