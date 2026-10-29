@@ -4780,5 +4780,108 @@
     "summary": "One of Brooklyn\u2019s smoked skillet brownies under vanilla bean ice cream, hot fudge, toasted coconut and almonds, whipped cream, and a cherry.",
     "title": "Brooklyn\u2019s Brownie Sundae",
     "wood": "None"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Warm, soft, and sticky \u2014 caramel running down into every swirl.",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/caramel-apple-cinnamon-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "Dough",
+        "items": [
+          "1 cup warm whole milk (about 110\u00b0F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/2 cup granulated sugar",
+          "1/3 cup unsalted butter, melted",
+          "2 large eggs",
+          "1 tsp salt",
+          "4 cups all-purpose flour (plus more as needed)"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "2 medium apples, peeled and diced small",
+          "1/2 cup packed brown sugar",
+          "2 tsp ground cinnamon",
+          "1/4 cup unsalted butter, softened",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "group": "Caramel sauce",
+        "items": [
+          "1/2 cup unsalted butter",
+          "1 cup packed brown sugar",
+          "1/2 cup heavy cream",
+          "1 tsp vanilla extract",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Dough mixed and kneaded.",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "Rolled out, filled, and cut.",
+        "id": "roll",
+        "label": "Rolled and cut"
+      },
+      {
+        "hint": "Golden on top, cooked through.",
+        "id": "bake",
+        "label": "Baked"
+      },
+      {
+        "hint": "Warm caramel poured over.",
+        "id": "caramel",
+        "label": "Caramel on top"
+      }
+    ],
+    "pitTemp": "350\u00b0F oven",
+    "proTips": [
+      {
+        "text": "Dice the apples small so the rolls roll up tight and slice clean. Pour the caramel on while the rolls are warm, not hot, so it soaks in instead of sliding off.",
+        "voice": "Sweet Shop note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "southern",
+    "school": null,
+    "servings": "12",
+    "slug": "caramel-apple-cinnamon-rolls",
+    "steps": [
+      {
+        "body": "Stir warm milk, yeast, and a spoonful of the sugar; let it foam, about 5\u201310 minutes. Mix in the rest of the sugar, melted butter, eggs, and salt, then the flour until a soft dough forms. Knead 6\u20138 minutes until smooth. Cover and let rise until doubled, about 1 hour.",
+        "title": "Dough"
+      },
+      {
+        "body": "Stir brown sugar, cinnamon, and salt. Roll the dough out to about 16x12 inches. Spread with softened butter, sprinkle the sugar-cinnamon mix, and scatter the diced apples over it.",
+        "title": "Filling"
+      },
+      {
+        "body": "Roll up tight from the long side. Cut into 12 even rolls. Set in a greased 9x13 pan, cover, and let rise until puffy, about 30\u201345 minutes.",
+        "title": "Roll and cut"
+      },
+      {
+        "body": "Oven 350\u00b0F. Bake 25\u201330 minutes until golden on top and cooked through in the middle.",
+        "title": "Bake"
+      },
+      {
+        "body": "While the rolls bake, melt butter and brown sugar in a saucepan, stir in the cream, simmer 2\u20133 minutes, then vanilla and salt. Pour warm caramel over the warm rolls so it runs down into the swirls. Serve warm.",
+        "title": "Caramel"
+      }
+    ],
+    "story": "Fall in a pan \u2014 soft yeast rolls, apples cooked down with brown sugar and cinnamon inside, and caramel poured over while they're still warm so it runs down into every swirl. Made for National Caramel Apple Day, good any fall weekend after.",
+    "summary": "Soft homemade cinnamon rolls with diced apples and cinnamon in the filling, baked till golden, and warm caramel sauce poured over the top.",
+    "title": "Caramel-Apple Cinnamon Rolls",
+    "wood": "None"
   }
 ]
