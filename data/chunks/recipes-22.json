@@ -4702,5 +4702,83 @@
     "summary": "A pork loin unrolled flat, stuffed with onion cream cheese and bacon, rolled back up like a newspaper and smoked \u2014 every slice shows a pinwheel.",
     "title": "Kelly's Stuffed Pork Loin Fatty",
     "wood": "Cherry, pecan, apple, hickory, or oak"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Cold, sweet, and stacked \u2014 brownie on the bottom, cherry on top.",
+    "hours": {
+      "max": 0.25,
+      "min": 0.1
+    },
+    "image": "/images/brooklyns-brownie-sundae.jpg",
+    "ingredients": [
+      {
+        "group": "The sundae",
+        "items": [
+          "1 Brooklyn\u2019s Brownie (from Bub & Sissy\u2019s Sweet Shop)",
+          "1 scoop vanilla bean ice cream",
+          "1/4 cup hot fudge, warmed",
+          "2 Tbsp toasted coconut",
+          "1 Tbsp sliced almonds",
+          "Whipped cream",
+          "1 maraschino cherry"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Brownie down first.",
+        "id": "brownie",
+        "label": "Brownie down"
+      },
+      {
+        "hint": "Scoop, then warm fudge over.",
+        "id": "scoop",
+        "label": "Scoop and fudge"
+      },
+      {
+        "hint": "Coconut, almonds, cream, cherry, more fudge.",
+        "id": "top",
+        "label": "Topped"
+      }
+    ],
+    "pitTemp": "No cooking \u2014 assembly",
+    "proTips": [
+      {
+        "text": "Warm the fudge so it pours easy, and make it yours \u2014 more fudge, less coconut, whatever your crowd likes. It\u2019s not set in stone.",
+        "voice": "Sweet Shop note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "kentucky",
+    "school": null,
+    "servings": "1",
+    "slug": "brooklyns-brownie-sundae",
+    "steps": [
+      {
+        "body": "Set one of Brooklyn\u2019s brownies on a plate or in a bowl.",
+        "title": "Start with the brownie"
+      },
+      {
+        "body": "One good scoop of vanilla bean ice cream right on top.",
+        "title": "Scoop"
+      },
+      {
+        "body": "Warm the hot fudge so it pours, and pour it over the ice cream.",
+        "title": "Fudge first pour"
+      },
+      {
+        "body": "Scatter toasted coconut and sliced almonds over the fudge. Coconut and almonds go together.",
+        "title": "Coconut and almonds"
+      },
+      {
+        "body": "Whipped cream on top, a cherry on top of that, and a little more hot fudge drizzled over everything to finish.",
+        "title": "Crown it"
+      }
+    ],
+    "story": "Brooklyn\u2019s brownies are good straight out of the skillet, but every now and then one deserves the full treatment. Set a brownie down, scoop vanilla bean ice cream on top, pour the hot fudge over, scatter toasted coconut and sliced almonds, crown it with whipped cream and a cherry, and finish with a little more hot fudge. That\u2019s the sundae \u2014 built on a Sweet Shop brownie, dressed up the way Sissy would want it.",
+    "summary": "One of Brooklyn\u2019s smoked skillet brownies under vanilla bean ice cream, hot fudge, toasted coconut and almonds, whipped cream, and a cherry.",
+    "title": "Brooklyn\u2019s Brownie Sundae",
+    "wood": "None"
   }
 ]
