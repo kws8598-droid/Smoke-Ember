@@ -5170,4 +5170,117 @@
     "title": "Cured Smoked Deer Ham",
     "wood": "Hickory or oak"
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "140\u2013145\u00b0F in the thickest part",
+    "hours": {
+      "max": 7,
+      "min": 5
+    },
+    "image": "/images/smoked-deer-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The leg",
+        "items": [
+          "1 bone-in deer hindquarter (ham), 8\u201312 lb, trimmed"
+        ]
+      },
+      {
+        "group": "The seasoning",
+        "items": [
+          "2 Tbsp kosher salt",
+          "2 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp paprika",
+          "1 tsp dried rosemary, crushed"
+        ]
+      },
+      {
+        "group": "The injection (optional)",
+        "items": [
+          "1 cup warm beef broth",
+          "1/2 stick butter, melted"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Trimmed, ragged edges and dried-out spots off.",
+        "id": "trim",
+        "label": "Trim"
+      },
+      {
+        "hint": "Warm beef broth and butter, worked through the thickest parts \u2014 or skip it.",
+        "id": "inject",
+        "label": "Inject (optional)"
+      },
+      {
+        "hint": "Salt, pepper, garlic, paprika, and a little rosemary, rubbed all over.",
+        "id": "season",
+        "label": "Season"
+      },
+      {
+        "hint": "225\u2013250\u00b0F over hickory or oak.",
+        "id": "on",
+        "label": "On the pit"
+      },
+      {
+        "hint": "140\u2013145\u00b0F in the thickest part.",
+        "id": "temp",
+        "label": "Finish temp"
+      },
+      {
+        "hint": "Rest 20\u201330 minutes, slice thin across the grain.",
+        "id": "rest",
+        "label": "Rest and slice"
+      }
+    ],
+    "pitTemp": "225\u2013250\u00b0F",
+    "proTips": [
+      {
+        "text": "Don't overcook it \u2014 past medium, a deer leg turns to shoe leather.",
+        "voice": "Pitmaster's note"
+      },
+      {
+        "text": "Slice it thin, across the grain. That's half the recipe.",
+        "voice": "Pitmaster's note"
+      },
+      {
+        "text": "Leftovers: dice into beans, soup, or greens. That's where a deer ham pays twice.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "venison",
+    "region": "southern",
+    "school": null,
+    "servings": "10\u201312",
+    "slug": "smoked-deer-ham",
+    "steps": [
+      {
+        "body": "Take off ragged edges and any dried-out spots. There's not much fat on a deer leg to begin with, so the moisture has to come from somewhere else \u2014 that's what the injection is for, if you use it.",
+        "title": "Trim the leg"
+      },
+      {
+        "body": "Leaner cuts get more injection: warm beef broth and butter, worked through the thickest parts. Skip it if you'd rather go straight seasoning \u2014 your call.",
+        "title": "Inject if you want (optional)"
+      },
+      {
+        "body": "Salt, pepper, garlic, paprika, and a little crushed rosemary, rubbed into every side. Let it sit while the pit comes up to temp.",
+        "title": "Season all over"
+      },
+      {
+        "body": "On the pit at 225\u2013250\u00b0F over hickory or oak. No wrap, steady fire, don't rush it. Smoke to 140\u2013145\u00b0F in the thickest part \u2014 venison dries out fast past medium, so pull it on time, not on looks.",
+        "title": "Smoke low and steady"
+      },
+      {
+        "body": "Rest 20\u201330 minutes, then slice thin across the grain. Thick slices of deer ham chew tough; thin slices eat tender.",
+        "title": "Rest and slice thin"
+      }
+    ],
+    "story": "No cure, no waiting a week \u2014 this is the hindquarter straight to the pit. Venison runs lean, so you don't push the fire and you don't push the temp. What comes off eats like a roast ham from the deer woods, and the leftovers go straight into beans or soup.",
+    "summary": "A deer hindquarter, treated like a ham but never cured \u2014 just seasoned and smoked low till it's sliceable and juicy. Salt, pepper, garlic, fire, and time. Slice it thin across the grain.",
+    "title": "Smoked Deer Ham",
+    "wood": "Hickory or oak"
+  }
 ]
