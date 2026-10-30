@@ -5173,7 +5173,7 @@
 ,
   {
     "difficulty": "weekend",
-    "finish": "155\u2013160\u00b0F in the thickest part",
+    "finish": "180\u2013200\u00b0F in the thickest part",
     "hours": {
       "max": 7,
       "min": 5
@@ -5226,7 +5226,7 @@
         "label": "On the pit"
       },
       {
-        "hint": "155\u2013160\u00b0F in the thickest part.",
+        "hint": "180\u2013200\u00b0F in the thickest part.",
         "id": "temp",
         "label": "Finish temp"
       },
@@ -5239,7 +5239,7 @@
     "pitTemp": "225\u2013250\u00b0F",
     "proTips": [
       {
-        "text": "Pull it at 155\u2013160 \u2014 the injection keeps it juicy to there, but past that, a deer leg dries out fast.",
+        "text": "Run it to 180\u2013200 for real tender \u2014 the injection is what keeps a lean deer leg juicy all the way up there.",
         "voice": "Pitmaster's note"
       },
       {
@@ -5262,7 +5262,7 @@
         "title": "Trim the leg"
       },
       {
-        "body": "Leaner cuts get more injection: warm beef broth and butter, worked through the thickest parts. A deer leg has so little fat that the injection is what keeps it juicy \u2014 don't skip it.",
+        "body": "Treat it like beef: warm beef broth and butter, worked through the thickest parts. A deer leg has so little fat that the injection is what keeps it juicy \u2014 don't skip it.",
         "title": "Inject it"
       },
       {
@@ -5270,7 +5270,7 @@
         "title": "Season all over"
       },
       {
-        "body": "On the pit at 225\u2013250\u00b0F over hickory or oak. No wrap, steady fire, don't rush it. Smoke to 155\u2013160\u00b0F in the thickest part. A ham could go higher, all the way to 203 for pulling apart, but for a sliceable ham, 155\u2013160 with the injection keeping it juicy is the call. Pull it on temp, not on looks.",
+        "body": "On the pit at 225\u2013250\u00b0F over hickory or oak. No wrap, steady fire, don't rush it. Smoke to 180\u2013200\u00b0F in the thickest part. That's past sliceable and into real tender \u2014 the injection is what keeps a lean deer leg juicy all the way up there. Pull it on temp, not on looks.",
         "title": "Smoke low and steady"
       },
       {
