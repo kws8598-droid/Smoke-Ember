@@ -5283,4 +5283,94 @@
     "title": "Smoked Deer Ham",
     "wood": "Hickory or oak"
   }
+,
+  {
+    "difficulty": "easy",
+    "finish": "Tender with a bite left",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/glazed-honey-butter-carrots.jpg",
+    "ingredients": [
+      {
+        "group": "The carrots",
+        "items": [
+          "2 lb whole baby carrots"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "4 Tbsp butter",
+          "1/4 cup honey",
+          "1/2 tsp cinnamon",
+          "1/4 tsp nutmeg",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "Chopped fresh parsley, if you have it"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Whole baby carrots, rinsed and patted dry.",
+        "id": "prep",
+        "label": "Prep"
+      },
+      {
+        "hint": "250\u00b0F over apple or pecan, 45\u201360 minutes.",
+        "id": "on",
+        "label": "On the smoker"
+      },
+      {
+        "hint": "Butter, honey, cinnamon, and nutmeg, 10\u201315 more minutes.",
+        "id": "glaze",
+        "label": "Glaze late"
+      },
+      {
+        "hint": "Into a warm dish, parsley over the top.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "250\u00b0F",
+    "proTips": [
+      {
+        "text": "Glaze late, always \u2014 sugar burns, shine comes from thin layers at the end, not a puddle from the start.",
+        "voice": "Pitmaster's note"
+      },
+      {
+        "text": "Pull them while they still have a bite. Mushy carrots are nobody's side dish.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "6",
+    "slug": "glazed-honey-butter-carrots",
+    "steps": [
+      {
+        "body": "Whole baby carrots are already even-sized, so no slicing. Just rinse and pat them dry.",
+        "title": "Keep them whole"
+      },
+      {
+        "body": "Toss the carrots with half the butter (melted), the salt, and the pepper. On the smoker at 250\u00b0F over apple or pecan, 45\u201360 minutes, till they're tender with a little bite left. Carrots take smoke easy, so a light wood and no more time than they need.",
+        "title": "Butter and smoke"
+      },
+      {
+        "body": "Warm the rest of the butter with the honey, cinnamon, and nutmeg till it loosens. Pour it over the carrots and give them 10\u201315 more minutes, till the glaze thickens and shines. Honey scorches if it goes on too early \u2014 late is the whole trick.",
+        "title": "Glaze late"
+      },
+      {
+        "body": "Into a warm dish, parsley over the top if you're using it. Don't let them sit in the pan or the glaze goes dull.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Nothing fancy here. Carrots, butter, honey, fire. The smoke gets in early while they're still firm, and the glaze goes on late so the honey shines instead of scorching. It's the side that disappears first off the holiday table.",
+    "summary": "Carrots are the side everybody walks past. Butter, honey, and a little smoke fix that \u2014 tender with a bite left in them, and a glaze that shines instead of a puddle that runs.",
+    "title": "Glazed Honey Butter Carrots",
+    "wood": "Apple or pecan"
+  }
 ]
