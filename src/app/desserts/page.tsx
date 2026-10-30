@@ -29,6 +29,20 @@ export default function DessertsPage() {
       <p className="mt-4 text-center font-display text-lg italic text-[#ff8a3d]">
         Bub &amp; Sissy&apos;s Sweet Shop &mdash; featuring Oliver&apos;s Oreos
       </p>
+      <div className="mt-8 grid grid-cols-3 gap-4">
+        <div className="text-center">
+          <Image src="/images/oliver-portrait.jpg" alt="Oliver" width={800} height={1067} className="aspect-[3/4] w-full rounded-2xl border border-white/10 object-cover" />
+          <p className="mt-2 font-display text-lg italic text-cream">Oliver</p>
+        </div>
+        <div className="text-center">
+          <Image src="/images/brooklyn-portrait.jpg" alt="Brooklyn" width={800} height={1067} className="aspect-[3/4] w-full rounded-2xl border border-white/10 object-cover" />
+          <p className="mt-2 font-display text-lg italic text-cream">Brooklyn</p>
+        </div>
+        <div className="text-center">
+          <Image src="/images/preston-portrait.jpg" alt="Preston" width={800} height={1067} className="aspect-[3/4] w-full rounded-2xl border border-white/10 object-cover" />
+          <p className="mt-2 font-display text-lg italic text-cream">Preston</p>
+        </div>
+      </div>
       <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
         {rest.map((r) => (
           <RecipeCard key={r.slug} recipe={r} />
