@@ -798,5 +798,32 @@
       "Bone-in tastes great for other reasons: gentler cooks, less trimming.",
       "If you're happy with your cook, the argument is over."
     ]
+  },
+  {
+    "body": [
+      {
+        "text": "Lump charcoal is just wood, charred and broken into chunks. Nothing added, so the smoke is pure wood smoke. It burns hotter than briquettes, which makes it good for searing and grilling. The trade-off is the pieces are all different sizes, so the fire is less even, and it burns through faster \u2014 on a long cook you may need to refuel."
+      },
+      {
+        "text": "Briquettes are ground charcoal pressed into uniform pillows, usually with a binder to hold the shape. Same size every time means a steady, even burn that lasts longer, which is why they're the pick for slow cooking \u2014 and for the snake method, where an even line of fuel is the whole trick. The trade-offs are more ash to clean up, and some brands use fillers that soften the smoke flavor."
+      },
+      {
+        "text": "Price is simple: lump costs more per bag, briquettes are the budget-friendly bag. Low ash on the lump side, easy clean-up; more ash on the briquette side, more cleaning."
+      },
+      {
+        "text": "Use what suits the cook. Hot and fast, reach for lump. Low and slow, reach for briquettes. Nobody's fire is wrong because of the bag they bought."
+      }
+    ],
+    "image": "/images/lump-or-briquettes.jpg",
+    "kicker": "Fire school",
+    "readMinutes": 3,
+    "slug": "lump-or-briquettes",
+    "summary": "Lump burns hotter and faster with pure wood smoke. Briquettes burn longer and steadier. Neither bag is wrong \u2014 pick the one that fits the cook.",
+    "takeaways": [
+      "Lump: hotter, faster, pure wood smoke, pricier, low ash.",
+      "Briquettes: steadier, longer, budget-friendly, more ash.",
+      "Snake method wants uniform briquettes \u2014 an even line burns even."
+    ],
+    "title": "Lump or briquettes? Both have a job"
   }
 ]
