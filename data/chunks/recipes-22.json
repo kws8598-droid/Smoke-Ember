@@ -5716,5 +5716,102 @@
     "summary": "Smoked pork cubes simmered in a soupy roasted-tomatillo and Hatch green chile broth with white beans and lime.",
     "title": "Smoked Pork Verde Chili Soup",
     "wood": "Oak or hickory"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Toothpick slides in easy, glaze tacked up sticky",
+    "hours": {
+      "max": 3.5,
+      "min": 2.5
+    },
+    "image": "/images/country-style-party-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Country-style ribs",
+        "items": [
+          "3\u20134 lb country-style ribs (pork butt cut into strips)",
+          "Ember rub, enough to coat each piece generously"
+        ]
+      },
+      {
+        "group": "Pan braise",
+        "items": [
+          "4 Tbsp butter, cut into pats",
+          "1/4 cup brown sugar",
+          "1/4 cup honey",
+          "1 cup barbecue sauce",
+          "1/4 cup cherry Dr Pepper"
+        ]
+      },
+      {
+        "group": "Finish",
+        "items": [
+          "A little more barbecue sauce for glazing, if you like"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Pieces seasoned and on the pit at 275\u00b0F.",
+        "id": "smoke",
+        "label": "Smoked"
+      },
+      {
+        "hint": "Pieces in the pan with butter, sugar, honey, sauce, and cherry Dr Pepper.",
+        "id": "pan",
+        "label": "Pan braised"
+      },
+      {
+        "hint": "Glaze tacked up sticky and shining.",
+        "id": "finish",
+        "label": "Glaze set"
+      }
+    ],
+    "pitTemp": "275\u00b0F",
+    "proTips": [
+      {
+        "text": "Country-style ribs are pork butt, so they carry more fat than spare ribs \u2014 that's what keeps them juicy through a hot, fast cook.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't crowd the pan \u2014 if the pieces are packed tight they steam instead of braising, and you lose the bark you just built.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Tender means a bite pulls clean, not mushy and falling apart. If they shred when you pick them up, you went too far.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "country-style-party-ribs",
+    "steps": [
+      {
+        "body": "Trim any big loose flaps of fat. Season every country-style rib individually with Ember rub, all sides \u2014 that's the whole point, bark on every piece. Let them sit while the pit comes to 275\u00b0F.",
+        "title": "Season each one"
+      },
+      {
+        "body": "Pit at 275\u00b0F over hickory + apple. Lay the pieces out with a little space between them. Smoke about 1.5\u20132 hours, until the color is deep red mahogany and the rub is set.",
+        "title": "Smoke them"
+      },
+      {
+        "body": "Lay the pieces in a foil pan, meat-side up. Dot with the butter, sprinkle on the brown sugar, drizzle the honey, pour over the barbecue sauce and the cherry Dr Pepper. Cover tight with foil and put the pan back on the pit for about 1 hour, until a toothpick slides in easy and the meat is tender.",
+        "title": "Pan them"
+      },
+      {
+        "body": "Uncover, brush the pieces lightly with a little more sauce, and leave them on the pit 15\u201330 minutes so the glaze tacks up and gets sticky.",
+        "title": "Set the sauce"
+      },
+      {
+        "body": "Rest 10 minutes, then pile them on a platter. Finger food \u2014 everybody grabs their own.",
+        "title": "Rest and serve"
+      }
+    ],
+    "story": "This is the party-rib thing everybody's doing right now, done Kelly's way: country-style ribs \u2014 basically pork butt cut up \u2014 every piece seasoned on its own with Ember rub, smoked, then finished in a pan with butter, brown sugar, honey, sauce, and a splash of cherry Dr Pepper until the glaze shines. Finger food. Everybody grabs their own.",
+    "summary": "Thick country-style ribs, seasoned piece by piece with Ember rub, smoked and pan-braised until the glaze shines.",
+    "title": "Country-Style Party Ribs",
+    "wood": "Hickory + apple"
   }
 ]
