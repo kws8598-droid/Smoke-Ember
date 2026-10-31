@@ -2,7 +2,6 @@
 import { useEffect, useMemo, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Image from "next/image";
-import Link from "next/link";
 import BackButton from "@/components/BackButton";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
@@ -122,9 +121,14 @@ function RecipesInner() {
           </div>
       )}
       {protein === "game" && (
-        <div className="mt-8 rounded-2xl border border-ember/30 bg-bark p-5">
+        <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+            <Image src="/images/game-banner.jpg" alt="Deer, rabbit, squirrel, and a flying mallard duck in a misty forest clearing at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
+          </div>
+      )}
+      {protein === "game" && (
+        <div className="mt-6 rounded-2xl border border-ember/30 bg-bark p-5">
           <p className="font-display text-xl italic text-cream">From the woods to the pit.</p>
-          <p className="mt-2 text-sm text-parchment/80">Deer, duck, gator, and frog legs, all in one place. Most game is so lean you have to inject it — that is the rule here. <Link href="/game" className="text-ember hover:text-ember-hot">Visit the Wild Game page →</Link></p>
+          <p className="mt-2 text-sm text-parchment/80">Deer, duck, gator, and frog legs, all in one place. Most game is so lean you have to inject it — that is the rule here.</p>
         </div>
       )}
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
