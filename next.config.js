@@ -22,6 +22,11 @@ const nextConfig = {
       { protocol: "https", hostname: "plum-honey-silver-wave.grok.me" },
     ],
   },
+  async redirects() {
+    return [
+      { source: "/game", destination: "/recipes?protein=game", permanent: true },
+    ];
+  },
   async headers() {
     return [
       {
