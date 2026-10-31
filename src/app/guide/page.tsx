@@ -26,7 +26,7 @@ export default function GuidePage() {
       <div className="mt-10 grid gap-4 md:grid-cols-2">{schools.map((s) => (
         <Link key={s.href} href={s.href} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark hover:border-ember/40"><div className="relative h-40"><Image src={s.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" /></div><div className="p-5"><h2 className="font-display text-2xl italic group-hover:text-ember-hot">{s.title}</h2><p className="mt-2 text-sm text-parchment/80">{s.line}</p></div></Link>
       ))}</div>
-      <Link href="/temps" className="group mt-4 overflow-hidden rounded-2xl border border-ember/30 bg-bark hover:border-ember">
+      <Link href="/temp-chart" className="group mt-4 overflow-hidden rounded-2xl border border-ember/30 bg-bark hover:border-ember">
         <div className="relative h-40">
           <Image src="/images/embers.jpg" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink to-transparent" />
