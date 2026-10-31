@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import RecipeCard from "@/components/RecipeCard";
 import BackButton from "@/components/BackButton";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -50,6 +51,9 @@ export default function GamePage() {
           Smoke &amp; Ember way. Kelly has eaten buffalo, elk, rabbit, deer, and squirrel.
           Folks call him redneck for it. He does not care.
         </p>
+      <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
+        <Image src="/images/game-banner.jpg" alt="Deer, rabbit, squirrel, and a flying mallard duck in a misty forest clearing at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
+      </div>
         <div className="mt-6 rounded-2xl border border-ember/30 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">The lean rule</p>
           <p className="mt-2 font-display text-xl italic text-cream">
