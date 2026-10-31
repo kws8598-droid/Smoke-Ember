@@ -1,6 +1,7 @@
 "use client";
 import { useMemo, useState } from "react";
-import { useRouter } from "next/navigation";
+import Link from "next/link";
+import BackButton from "@/components/BackButton";
 import chart from "@/data/temp-chart.json";
 import estimator from "@/data/time-estimator.json";
 
@@ -67,6 +68,22 @@ const MEATS: Meat[] = [
   { key: "chicken", label: "Chicken", yield: 0.65, unit: "lbs" },
   { key: "ribs", label: "Pork ribs", per: 1.75, unit: "racks" },
   { key: "sausage", label: "Sausage links", per: 0.25, unit: "links" },
+];
+
+const measures: [string, string][] = [
+  ["1 tablespoon", "3 teaspoons"],
+  ["1 fluid ounce", "2 tablespoons"],
+  ["1/4 cup", "4 tablespoons"],
+  ["1/3 cup", "5 tablespoons + 1 teaspoon"],
+  ["1/2 cup", "8 tablespoons"],
+  ["2/3 cup", "10 tablespoons + 2 teaspoons"],
+  ["3/4 cup", "12 tablespoons"],
+  ["1 cup", "16 tablespoons = 48 teaspoons"],
+  ["1 cup", "8 fluid ounces"],
+  ["1 pint", "2 cups"],
+  ["1 quart", "4 cups (2 pints)"],
+  ["1 gallon", "4 quarts (16 cups)"],
+  ["1 stick butter", "1/2 cup = 8 tablespoons"],
 ];
 
 function Portions() {
@@ -145,11 +162,6 @@ function Portions() {
 }
 
 export default function TempChartPage() {
-  const router = useRouter();
-  const goBack = () => {
-    if (typeof window !== "undefined" && window.history.length > 1) router.back();
-    else router.push("/");
-  };
   const [tab, setTab] = useState<"temps" | "time" | "portions">("temps");
   const [q, setQ] = useState("");
   const groups = useMemo(() => {
@@ -161,7 +173,7 @@ export default function TempChartPage() {
   }, [q]);
   return (
     <main className="mx-auto max-w-6xl px-4 py-12">
-      <button onClick={goBack} className="rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:border-ember">← Back</button>
+      <BackButton fallback="/guide" />
       <p className="mt-4 text-xs uppercase tracking-[0.22em] text-subtle">Fire school</p>
       <h1 className="mt-2 font-display text-5xl italic">Pit tools</h1>
       <p className="mt-3 max-w-xl text-parchment/80">
@@ -198,8 +210,35 @@ export default function TempChartPage() {
         ))}
         {groups.length === 0 && <p className="mt-10 text-subtle">Nothing matches. Try a shorter search.</p>}
         <p className="mt-10 text-sm text-subtle italic">Temps are pull temps — carryover finishes the job during the rest. Probe-tender beats a number every time on brisket, butts, and ribs.</p>
+        <h2 className="mt-10 font-display text-3xl italic text-cream">Measurements</h2>
+        <div className="mt-4 overflow-x-auto rounded-2xl border border-white/5">
+          <table className="w-full min-w-[400px] text-left text-sm">
+            <thead>
+              <tr className="bg-bark text-cream">
+                <th className="px-4 py-3 font-semibold">If the recipe says</th>
+                <th className="px-4 py-3 font-semibold">That&apos;s</th>
+              </tr>
+            </thead>
+            <tbody>
+              {measures.map(([from, to], i) => (
+                <tr key={from + i} className={i % 2 ? "bg-white/[0.02]" : ""}>
+                  <td className="border-t border-white/5 px-4 py-3 font-medium text-cream">{from}</td>
+                  <td className="border-t border-white/5 px-4 py-3 text-ember">{to}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div className="mt-6 rounded-2xl border border-white/5 bg-bark p-5">
+          <p className="text-sm text-parchment/85">
+            <span className="font-semibold text-cream">USDA safe mins:</span> Poultry 165°F,
+            pork/beef steaks &amp; roasts 145°F (rest 3 min), ground meat 160°F. Pull temps for
+            butts and brisket run higher for tenderness. Stuck around 160°F for hours? That&apos;s
+            the stall — <Link href="/wisdom/the-stall" className="text-ember hover:text-ember-hot">wait it out or wrap</Link>.
+          </p>
+        </div>
       </>)}
-      <button onClick={goBack} className="mt-10 rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:border-ember">← Back</button>
+      <div className="mt-10"><BackButton fallback="/guide" /></div>
     </main>
   );
 }
