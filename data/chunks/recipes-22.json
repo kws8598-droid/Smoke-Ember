@@ -5372,5 +5372,93 @@
     "summary": "Carrots are the side everybody walks past. Butter, honey, and a little smoke fix that \u2014 tender with a bite left in them, and a glaze that shines instead of a puddle that runs.",
     "title": "Glazed Honey Butter Carrots",
     "wood": "Apple or pecan"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Firm, chocolatey, with smoky pecan crunch.",
+    "hours": {
+      "max": 4,
+      "min": 3
+    },
+    "image": "/images/finns-fantasy-fudge.jpg",
+    "ingredients": [
+      {
+        "group": "Fudge",
+        "items": [
+          "3 cups sugar",
+          "3/4 cup butter",
+          "2/3 cup evaporated milk (not sweetened condensed milk)",
+          "1 (12 oz) bag semi-sweet chocolate chips",
+          "1 (7 oz) jar marshmallow creme",
+          "1 tsp vanilla"
+        ]
+      },
+      {
+        "group": "Smoked pecans",
+        "items": [
+          "1 cup chopped smoked pecans"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Sugar, butter, and milk at a rolling boil.",
+        "id": "boil",
+        "label": "Boiled"
+      },
+      {
+        "hint": "Chocolate chips and marshmallow creme stirred smooth.",
+        "id": "stir",
+        "label": "Stirred smooth"
+      },
+      {
+        "hint": "Smoked pecans folded in, poured into the pan.",
+        "id": "pour",
+        "label": "Poured"
+      },
+      {
+        "hint": "Cooled until firm, then cut.",
+        "id": "set",
+        "label": "Set and cut"
+      }
+    ],
+    "pitTemp": "Stovetop",
+    "proTips": [
+      {
+        "text": "Have the chocolate chips measured and the marshmallow creme jar open before the boil \u2014 once it comes off the heat you have to move fast before it starts to set.",
+        "voice": "Sweet Shop note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "southern",
+    "school": null,
+    "servings": "36",
+    "slug": "finns-fantasy-fudge",
+    "steps": [
+      {
+        "body": "Line a 9x13 pan with foil or parchment, overhang on the sides.",
+        "title": "Line the pan"
+      },
+      {
+        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil exactly 5 minutes. Take it off the heat right away \u2014 no thermometer needed for this one.",
+        "title": "Boil"
+      },
+      {
+        "body": "Stir in the chocolate chips and marshmallow creme until both are melted and smooth, then the vanilla.",
+        "title": "Stir in"
+      },
+      {
+        "body": "Fold in the chopped smoked pecans, pour into the pan, and spread even.",
+        "title": "Fold and pour"
+      },
+      {
+        "body": "Cool a few hours until firm, lift out, and cut into squares.",
+        "title": "Cool and cut"
+      }
+    ],
+    "story": "The Christmas fudge everybody looks up every year, named for Finn. It's the old marshmallow creme jar recipe \u2014 sugar, butter, and evaporated milk boiled, then chocolate chips and marshmallow creme stirred smooth \u2014 with Kelly's twist: chopped smoked pecans folded in, so the holiday tray still tastes like the pit.",
+    "summary": "Classic marshmallow creme fantasy fudge with chopped smoked pecans folded in \u2014 the Christmas fudge everybody looks up, named for Finn.",
+    "title": "Finn's Fantasy Fudge",
+    "wood": "None"
   }
 ]
