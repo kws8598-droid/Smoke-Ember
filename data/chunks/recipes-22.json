@@ -5585,5 +5585,135 @@
     "summary": "Smoked chicken shredded into a creamy white chili with Hatch green chiles, white beans, and a lime finish.",
     "title": "Smoked White Chicken Chili",
     "wood": "Apple or cherry"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Soupy and brothy, pork fork-tender, green chile all through it.",
+    "hours": {
+      "max": 3,
+      "min": 2.5
+    },
+    "image": "/images/smoked-pork-verde-chili-soup.jpg",
+    "ingredients": [
+      {
+        "group": "Pork",
+        "items": [
+          "3 lb boneless pork shoulder, cut into 2-inch cubes",
+          "1 tsp kosher salt",
+          "1 tsp black pepper",
+          "1 tsp ground cumin",
+          "1 tsp garlic powder",
+          "1 tsp onion powder"
+        ]
+      },
+      {
+        "group": "Verde sauce",
+        "items": [
+          "1 lb tomatillos, husked, rinsed, and halved",
+          "1 yellow onion, quartered",
+          "4 cloves garlic",
+          "1 Tbsp olive oil",
+          "2 cans (4 oz each) diced Hatch green chiles",
+          "1 jalape\u00f1o, seeded and diced"
+        ]
+      },
+      {
+        "group": "Soup",
+        "items": [
+          "6 cups chicken broth",
+          "2 cans (15 oz each) Great Northern or cannellini beans, drained and rinsed",
+          "2 tsp ground cumin",
+          "1 tsp dried oregano",
+          "1/2 tsp white pepper",
+          "Juice of 1 lime"
+        ]
+      },
+      {
+        "group": "Toppings",
+        "items": [
+          "Shredded Monterey Jack",
+          "Sour cream",
+          "Fresh cilantro",
+          "Lime wedges",
+          "Crushed tortilla chips"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Pork cubes seasoned and on the pit at 250\u00b0F.",
+        "id": "smoke",
+        "label": "Smoked"
+      },
+      {
+        "hint": "Tomatillos, onion, and garlic blistered and blended with Hatch chiles.",
+        "id": "sauce",
+        "label": "Verde sauce"
+      },
+      {
+        "hint": "Pork simmering covered in the verde broth with beans.",
+        "id": "simmer",
+        "label": "Simmered tender"
+      },
+      {
+        "hint": "Lime squeezed in, kept soupy and brothy.",
+        "id": "finish",
+        "label": "Finished soupy"
+      }
+    ],
+    "pitTemp": "250\u00b0F",
+    "proTips": [
+      {
+        "text": "The pork doesn't need to be tender off the pit \u2014 the pot does that work. Smoke is for flavor here.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "This one's a soup, not a stew \u2014 if it cooks down thick, splash in more broth until it's soupy again.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "southwest",
+    "school": null,
+    "servings": "8",
+    "slug": "smoked-pork-verde-chili-soup",
+    "steps": [
+      {
+        "body": "Mix the salt, pepper, 1 tsp cumin, garlic powder, and onion powder. Toss the pork cubes in it.",
+        "title": "Season the pork"
+      },
+      {
+        "body": "Pit at 250\u00b0F over oak or hickory. Smoke the cubes until they pick up good color, about 1.5 hours. They finish in the pot \u2014 they don't need to be tender yet.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Toss the tomatillos, onion, and garlic with the olive oil on a sheet pan. Roast under the broiler 5\u20138 minutes until blistered and soft.",
+        "title": "Roast the verde base"
+      },
+      {
+        "body": "Blend the roasted tomatillos, onion, and garlic with the Hatch green chiles and jalape\u00f1o until mostly smooth, with a little texture left.",
+        "title": "Blend the sauce"
+      },
+      {
+        "body": "Pour the sauce and the broth into a Dutch oven or big pot. Stir in the beans, 2 tsp cumin, oregano, and white pepper. Add the smoked pork cubes. Bring to a simmer.",
+        "title": "Build the pot"
+      },
+      {
+        "body": "Simmer covered 1\u20131.5 hours, stirring now and then, until the pork is fork-tender. Keep the lid on so it stays soupy.",
+        "title": "Simmer tender"
+      },
+      {
+        "body": "Squeeze in the lime juice. Taste and salt as you like. Keep it soupy \u2014 thin and brothy, not thick.",
+        "title": "Finish it"
+      },
+      {
+        "body": "Ladle into bowls and top with Monterey Jack, a spoon of sour cream, cilantro, and tortilla chips, with lime wedges on the side.",
+        "title": "Serve it"
+      }
+    ],
+    "story": "A pork verde built like the white chicken chili, but as a soup, not a braise: smoked pork cubes go into a brothy pot of roasted tomatillos and Hatch green chiles, with white beans and a lime squeeze at the end. Keep it soupy \u2014 thin and brothy is the point.",
+    "summary": "Smoked pork cubes simmered in a soupy roasted-tomatillo and Hatch green chile broth with white beans and lime.",
+    "title": "Smoked Pork Verde Chili Soup",
+    "wood": "Oak or hickory"
   }
 ]
