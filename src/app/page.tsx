@@ -120,7 +120,7 @@ export default function HomePage() {
         <div className="mt-3 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
-        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
+        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/recipes?protein=game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{gameCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
