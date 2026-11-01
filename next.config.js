@@ -32,9 +32,16 @@ const nextConfig = {
     return [
       {
         source: "/sw.js",
+        headers: [{ key: "Service-Worker-Allowed", value: "/" }],
+      },
+      {
+        // Seasonal flips (Thanksgiving -> Christmas -> ...) must reach
+        // visitors without a manual cache clear: every page revalidates
+        // with the server on each visit, so a new section shows up on
+        // the next open. Unchanged pages still answer 304, so loads stay fast.
+        source: "/:path*",
         headers: [
           { key: "Cache-Control", value: "public, max-age=0, must-revalidate" },
-          { key: "Service-Worker-Allowed", value: "/" },
         ],
       },
     ];
