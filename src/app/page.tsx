@@ -3,7 +3,7 @@ import Link from "next/link";
 import TonightPicker from "@/components/TonightPicker";
 import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
-import { PodcastShowButton, RadioPlayButton } from "@/components/ListenButtons";
+import { PodcastShowButton } from "@/components/ListenButtons";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
 
 const featured = ["memphis-dry-ribs", "santa-maria-tri-tip", "alabama-white-chicken", "central-texas-brisket"];
@@ -13,7 +13,7 @@ const quotes = [
   { text: "Bark is a crust you earn.", slug: "building-bark" },
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
-const spookySlugs = ["jack-o-lantern-stuffed-peppers", "halloween-mummy-poppers", "halloween-smoked-pumpkin-pie", "candy-apple-pork-belly", "halloween-mummy-meatloaf", "halloween-bat-wings", "halloween-stuffed-mini-pumpkins", "halloween-smoked-cider", "halloween-pumpkin-spice-rub", "halloween-pumpkin-spice-sauce", "halloween-pumpkin-spice-sweet-potatoes", "halloween-snack-mix", "candy-apple-bbq-chicken", "popcorn-balls", "ember-halloween-punch"];
+const thanksgivingSlugs = ["smoked-turducken", "holiday-smoked-ham", "brunos-double-smoked-ham", "smoked-turkey", "smoked-stuffed-thanksgiving-turkey", "honey-glazed-smoked-turkey", "cherry-dr-pepper-turkey", "smoked-cornbread-dressing", "kellys-broccoli-casserole", "smoked-sweet-potato-casserole", "smoked-baked-sweet-potatoes", "smoked-candied-sweet-potatoes", "cast-iron-green-beans", "smoked-mac", "skillet-cornbread", "smoked-deviled-eggs", "smoked-turkey-gravy", "fresh-cranberry-orange-relish", "ember-cranberry-bbq-sauce", "turkey-brine", "sweet-potato-pie", "kentucky-chocolate-pecan-pie", "smoked-pumpkin-pie", "ember-pumpkin-pecan-cobbler"];
 const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
 
 export default function HomePage() {
@@ -21,7 +21,7 @@ export default function HomePage() {
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
-  const spooky = spookySlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const thanksgiving = thanksgivingSlugs.map((s) => getRecipe(s)).filter(Boolean);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
@@ -61,36 +61,27 @@ export default function HomePage() {
         </div>
       </section>
       <InstallBanner />
-      {spooky.length > 0 && (
+      {thanksgiving.length > 0 && (
         <section className="relative overflow-hidden">
-          <Image src="/images/halloween-banner.jpg" alt="Halloween barbecue at night with glowing jack-o'-lanterns" fill sizes="100vw" className="object-cover" />
+          <Image src="/images/thanksgiving-banner.jpg" alt="Thanksgiving barbecue spread with a smoked turkey" fill sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/25 to-transparent" />
           <div className="relative mx-auto max-w-6xl px-4 py-14">
-            <p className="text-xs uppercase tracking-[0.22em] text-ember">October at the pit</p>
-            <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Halloween smokes</h2>
-            <p className="mt-2 max-w-xl text-parchment/85">Spooky-season cooks for the Halloween table — carve, wrap, smoke, repeat.</p>
-            <div className="mt-4 grid gap-0 md:grid-cols-2">{spooky.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+            <p className="text-xs uppercase tracking-[0.22em] text-ember">November at the pit</p>
+            <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Thanksgiving at the Pit</h2>
+            <p className="mt-2 max-w-xl text-parchment/85">Turkey, turducken, and every side the table needs — all with a little smoke on it.</p>
+            <div className="mt-4 grid gap-0 md:grid-cols-2">{thanksgiving.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
           </div>
         </section>
       )}
       <section className="mx-auto max-w-6xl px-4 py-2">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Something to listen to</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Listen at the pit</h2>
-        <p className="mt-2 max-w-xl text-parchment/85">Press play and let it run while you browse — the music and the show stream from the stations themselves, so it costs the site nothing.</p>
-        <div className="mt-3 grid gap-4 md:grid-cols-2">
-          <div className="overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
-            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Live radio</p>
-            <h3 className="mt-1 font-display text-2xl text-cream">Halloween Radio</h3>
-            <p className="mt-2 text-sm text-parchment/80">Spooky-season hits — classic anthems and modern spooky pop, streaming live all October.</p>
-            <RadioPlayButton />
-            <p className="mt-3 text-sm text-subtle">Stream by <a href="https://halloweenradio.net/stations" className="text-ember hover:text-ember-hot">Halloweenradio.net</a> — if it will not play here, listen on their site.</p>
-          </div>
-          <div className="overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
-            <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Podcast</p>
-            <h3 className="mt-1 font-display text-2xl text-cream">HowToBBQRight Podcast</h3>
-            <p className="mt-2 text-sm text-parchment/80">Malcom &amp; Rachelle Reed talk weekly recipes, what they are grilling at home, and competition BBQ.</p>
-            <PodcastShowButton />
-          </div>
+        <p className="mt-2 max-w-xl text-parchment/85">Press play and let it run while you browse — the show streams from the podcast folks themselves, so it costs the site nothing.</p>
+        <div className="mt-3 overflow-hidden rounded-2xl border border-white/5 bg-bark p-5">
+          <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Podcast</p>
+          <h3 className="mt-1 font-display text-2xl text-cream">HowToBBQRight Podcast</h3>
+          <p className="mt-2 text-sm text-parchment/80">Malcom &amp; Rachelle Reed talk weekly recipes, what they are grilling at home, and competition BBQ.</p>
+          <PodcastShowButton />
         </div>
       </section>
       <section className="relative bg-bark/85 py-4">
@@ -120,7 +111,7 @@ export default function HomePage() {
         <div className="mt-3 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
-        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/recipes?protein=game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
+        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{gameCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
@@ -141,7 +132,7 @@ export default function HomePage() {
         <div className="mt-3 grid gap-0 md:grid-cols-2">{wisdom.slice(0, 6).map((w) => (
           <Link key={w.slug} href={`/wisdom/${w.slug}`} className="group overflow-hidden rounded-2xl border border-white/5 bg-bark hover:border-ember/40">
             <div className="relative h-36">
-              <Image src={w.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" unoptimized />
+              <Image src={w.image} alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-ink/80 to-transparent" />
             </div>
             <div className="p-5">
