@@ -5915,5 +5915,187 @@
     "summary": "Cheddar and jalape\u00f1o turn a plain potato salad into the one folks ask about \u2014 creamy, sharp, with just enough heat and bacon crunch.",
     "title": "Cheddar Jalape\u00f1o Potato Salad",
     "wood": "None"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Cold, fizzy, and fruity, with orange and cranberry on top.",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
+    },
+    "image": "/images/thanksgiving-punch.jpg",
+    "ingredients": [
+      {
+        "group": "The punch",
+        "items": [
+          "4 cups apple cider, chilled",
+          "4 cups cranberry juice cocktail, chilled",
+          "2 cups orange juice, chilled",
+          "2 liters ginger ale, chilled"
+        ]
+      },
+      {
+        "group": "Floating in it",
+        "items": [
+          "1 orange, sliced into rounds",
+          "1 cup fresh cranberries",
+          "4 cinnamon sticks",
+          "Ice, for serving"
+        ]
+      },
+      {
+        "group": "For the adults (optional, per glass, not in the bowl)",
+        "items": [
+          "Bourbon, or whatever they like"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything chilled cold first.",
+        "id": "chill",
+        "label": "Chilled"
+      },
+      {
+        "hint": "Cider, cranberry, and orange juice stirred together.",
+        "id": "mix",
+        "label": "Mixed"
+      },
+      {
+        "hint": "Orange rounds, cranberries, and cinnamon sticks on top.",
+        "id": "float",
+        "label": "Floating"
+      },
+      {
+        "hint": "Ginger ale in last, right before serving.",
+        "id": "fizz",
+        "label": "Fizz last"
+      }
+    ],
+    "pitTemp": "\u2014",
+    "proTips": [
+      {
+        "text": "Ginger ale goes in last. Stir it in early and you've got sweet juice, not punch.",
+        "voice": "Kitchen note"
+      },
+      {
+        "text": "Freeze some of the juice mix into ice cubes the night before, so the bowl doesn't water down as the ice melts.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "20",
+    "slug": "thanksgiving-punch",
+    "steps": [
+      {
+        "body": "Chill the cider, cranberry juice, orange juice, and ginger ale cold. A warm punch bowl is a flat punch bowl.",
+        "title": "Chill everything"
+      },
+      {
+        "body": "Pour the cider, cranberry juice, and orange juice into the punch bowl and stir them together.",
+        "title": "Mix the juices"
+      },
+      {
+        "body": "Float the orange rounds, cranberries, and cinnamon sticks on top.",
+        "title": "Float the trimmings"
+      },
+      {
+        "body": "Pour the ginger ale in last, right before serving, so it keeps its fizz. Ladle over ice.",
+        "title": "Fizz last"
+      }
+    ],
+    "story": "A punch bowl is the Thanksgiving table's answer to everybody wanting something different. Cider, cranberry, and orange, chilled and mixed, ginger ale poured in last so it stays fizzy, orange slices and cranberries and cinnamon sticks floating on top. Kids drink it as-is; the adults can add whatever they like to their own glass.",
+    "summary": "A Thanksgiving punch bowl \u2014 apple cider, cranberry, and orange under ginger ale fizz, with orange slices, cranberries, and cinnamon sticks floating in it. Family-friendly as poured; adults can add their own.",
+    "title": "Thanksgiving Punch",
+    "wood": "\u2014"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Cold, sweet, and cranberry-bright.",
+    "hours": {
+      "max": 2,
+      "min": 0.5
+    },
+    "image": "/images/cranberry-orange-sweet-tea.jpg",
+    "ingredients": [
+      {
+        "group": "The tea",
+        "items": [
+          "6 Luzianne family-size tea bags",
+          "1 gallon water",
+          "1 to 1 1/2 cups sugar, usually 1 1/2"
+        ]
+      },
+      {
+        "group": "For Thanksgiving",
+        "items": [
+          "2 cups cranberry juice cocktail",
+          "1 orange, sliced into rounds",
+          "Ice, for serving"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "6 family-size bags, exactly 15 minutes.",
+        "id": "steep",
+        "label": "Steeped"
+      },
+      {
+        "hint": "Sugar stirred in till dissolved.",
+        "id": "sweeten",
+        "label": "Sweetened"
+      },
+      {
+        "hint": "Cranberry juice in, orange rounds dropped in.",
+        "id": "cranberry",
+        "label": "Cranberry and orange"
+      },
+      {
+        "hint": "Chilled cold, poured over ice.",
+        "id": "chill",
+        "label": "Chilled"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "15 minutes means 15 minutes. His tea, his clock.",
+        "voice": "Kitchen note"
+      },
+      {
+        "text": "Don't squeeze the bags \u2014 that's where the bitter comes from.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "1 gallon",
+    "slug": "cranberry-orange-sweet-tea",
+    "steps": [
+      {
+        "body": "Bring the water to a boil, pull it off the heat, and steep the 6 family-size bags exactly 15 minutes. No longer \u2014 longer makes it bitter.",
+        "title": "Steep it exactly 15"
+      },
+      {
+        "body": "Pull the bags out without squeezing them and stir the sugar in till it dissolves.",
+        "title": "Sweeten it"
+      },
+      {
+        "body": "Stir in the cranberry juice and drop the orange rounds in. Chill it cold.",
+        "title": "Cranberry and orange"
+      },
+      {
+        "body": "Pour over ice.",
+        "title": "Serve it"
+      }
+    ],
+    "story": "Sweet tea is already the table's drink at Kelly's house, so the Thanksgiving version starts there and doesn't mess with what works: 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes, then cranberry juice and orange slices for the holiday table. Same tea, dressed for Thanksgiving.",
+    "summary": "Kelly's sweet tea \u2014 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes \u2014 with cranberry juice and orange slices for the Thanksgiving table.",
+    "title": "Cranberry Orange Sweet Tea",
+    "wood": "None"
   }
 ]
