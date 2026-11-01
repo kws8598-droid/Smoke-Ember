@@ -5813,5 +5813,107 @@
     "summary": "Thick country-style ribs, seasoned piece by piece with Ember rub, smoked and pan-braised until the glaze shines.",
     "title": "Country-Style Party Ribs",
     "wood": "Hickory + apple"
+  },
+  {
+    "difficulty": "easy",
+    "finish": "Creamy and cool, with bacon crunch and a little heat.",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/cheddar-jalapeno-potato-salad.jpg",
+    "ingredients": [
+      {
+        "group": "The potatoes",
+        "items": [
+          "3 lbs red potatoes, scrubbed, cut into bite-size chunks, skin on",
+          "Salted water, for boiling"
+        ]
+      },
+      {
+        "group": "The dressing",
+        "items": [
+          "1 cup ranch dressing",
+          "1/2 cup sour cream, to thicken the ranch",
+          "1 Tbsp dill pickle juice",
+          "1/2 tsp garlic powder",
+          "1 tsp kosher salt",
+          "1/2 tsp black pepper"
+        ]
+      },
+      {
+        "group": "Fold in",
+        "items": [
+          "1 1/2 cups shredded sharp cheddar cheese",
+          "2 jalape\u00f1os, seeded and diced",
+          "4 green onions, sliced",
+          "6 slices bacon, cooked crisp and crumbled"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Potatoes scrubbed, cut into chunks, skin on.",
+        "id": "prep",
+        "label": "Prep"
+      },
+      {
+        "hint": "Boiled 12\u201315 minutes, fork-tender but not falling apart.",
+        "id": "boil",
+        "label": "Boiled"
+      },
+      {
+        "hint": "Dressed warm, folded gently so the chunks stay whole.",
+        "id": "dress",
+        "label": "Dressed"
+      },
+      {
+        "hint": "Chilled at least 1 hour before serving.",
+        "id": "chill",
+        "label": "Chilled"
+      }
+    ],
+    "pitTemp": "Stovetop",
+    "proTips": [
+      {
+        "text": "Dress the potatoes while they're still warm \u2014 they drink the dressing in better than cold ones do.",
+        "voice": "Kitchen note"
+      },
+      {
+        "text": "Don't overboil. Mushy potatoes make mushy salad.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "8",
+    "slug": "cheddar-jalapeno-potato-salad",
+    "steps": [
+      {
+        "body": "Put the potato chunks in a large pot, cover with salted water, and boil 12\u201315 minutes until fork-tender but not falling apart. Drain and let them cool enough to handle.",
+        "title": "Boil the potatoes"
+      },
+      {
+        "body": "In a small bowl, stir together the ranch dressing, sour cream, pickle juice, garlic powder, salt, and pepper.",
+        "title": "Mix the dressing"
+      },
+      {
+        "body": "Put the warm potatoes in a large bowl and pour the dressing over. Fold gently so the chunks stay in one piece.",
+        "title": "Dress them warm"
+      },
+      {
+        "body": "Fold in the cheddar, diced jalape\u00f1os, green onions, and bacon.",
+        "title": "Fold in the good stuff"
+      },
+      {
+        "body": "Cover and chill at least 1 hour before serving; overnight is better, the flavors settle in.",
+        "title": "Chill it"
+      }
+    ],
+    "story": "Cheddar and jalape\u00f1o turn a plain potato salad into the one folks ask about. Ranch instead of mayonnaise, thickened with sour cream, bacon crumbled in, and just enough jalape\u00f1o heat that everybody at the table can enjoy it \u2014 leave some seeds in if you want it hotter.",
+    "summary": "Cheddar and jalape\u00f1o turn a plain potato salad into the one folks ask about \u2014 creamy, sharp, with just enough heat and bacon crunch.",
+    "title": "Cheddar Jalape\u00f1o Potato Salad",
+    "wood": "None"
   }
 ]
