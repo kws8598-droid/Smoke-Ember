@@ -6417,5 +6417,175 @@
   "summary": "Beef chuck gets a real smoke first, then a slow braise in a dried-chile broth until it shreds. Corn tortillas take a dip in the consom\u00e9 fat, get loaded with beef and melting cheese, and crisp up on the griddle. The broth goes in a cup on the side for dipping \u2014 that's the whole point of the taco.",
   "title": "Smoked Birria Tacos",
   "wood": "Oak"
+},
+{
+  "difficulty": "easy",
+  "finish": "Melted smooth, held warm",
+  "hours": {
+    "max": 3,
+    "min": 2
+  },
+  "image": "/images/christmas-hot-chocolate-classic.jpg",
+  "ingredients": [
+    {
+      "group": "The pot",
+      "items": [
+        "6 cups whole milk",
+        "1 1/2 cups heavy cream",
+        "1 can (14 oz) sweetened condensed milk",
+        "2 cups milk chocolate chips",
+        "1 tsp vanilla"
+      ]
+    },
+    {
+      "group": "To serve",
+      "items": [
+        "Marshmallows",
+        "Candy canes, to stir with"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Slow cooker, LOW, stir every 30 minutes.",
+      "id": "on",
+      "label": "On low"
+    },
+    {
+      "hint": "Melted smooth, vanilla whisked in.",
+      "id": "smooth",
+      "label": "Smooth"
+    },
+    {
+      "hint": "Held on WARM, stir before every mug.",
+      "id": "warm",
+      "label": "Hold warm"
+    }
+  ],
+  "pitTemp": "Slow cooker, LOW",
+  "proTips": [
+    {
+      "text": "Whole milk matters here \u2014 skim milk comes out thin, and this is supposed to drink rich.",
+      "voice": "Cook's honesty"
+    },
+    {
+      "text": "For the adults, a splash of peppermint schnapps or dark rum goes in their own mug, never in the pot \u2014 the base stays family-friendly.",
+      "voice": "Pit note"
+    }
+  ],
+  "protein": "desserts",
+  "region": "backyard",
+  "school": null,
+  "servings": "About 10\u201312 mugs",
+  "slug": "christmas-eve-crockpot-hot-chocolate",
+  "steps": [
+    {
+      "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips.",
+      "title": "Load the cooker"
+    },
+    {
+      "body": "Cook on LOW 2\u20133 hours, stirring every 30 minutes. The chocolate sinks as it melts \u2014 whisk it up from the bottom each time you stir.",
+      "title": "Cook low and stir"
+    },
+    {
+      "body": "When it's all melted and smooth, whisk in the vanilla. Taste it \u2014 if you want it sweeter, that's the time to say so, not after it's in the mugs.",
+      "title": "Finish with vanilla"
+    },
+    {
+      "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate stays mixed in. Top with marshmallows and hand out a candy cane to stir with.",
+      "title": "Hold and serve"
+    }
+  ],
+  "story": "Some nights the cooker does the work and everybody just gathers around it. This one sits on LOW all evening, chocolate melting down into the milk, and you stir it before every mug so it stays smooth. Put the marshmallows out, put the candy canes in a jar, and let folks fix their own.",
+  "summary": "The slow-cooker hot chocolate for Christmas Eve: whole milk, heavy cream, sweetened condensed milk, and milk chocolate chips, cooked low and held warm so every mug pours rich. Marshmallows and a candy cane to stir with.",
+  "title": "Christmas Eve Crockpot Hot Chocolate",
+  "wood": "None"
+},
+{
+  "difficulty": "easy",
+  "finish": "Melted smooth, held warm",
+  "hours": {
+    "max": 3,
+    "min": 2
+  },
+  "image": "/images/christmas-hot-chocolate-mexican.jpg",
+  "ingredients": [
+    {
+      "group": "The pot",
+      "items": [
+        "6 cups whole milk",
+        "1 1/2 cups heavy cream",
+        "1 can (14 oz) sweetened condensed milk",
+        "2 cups milk chocolate chips",
+        "1 tsp vanilla",
+        "1 tsp ground cinnamon",
+        "1/2 tsp ground nutmeg",
+        "1/4 tsp chile powder"
+      ]
+    },
+    {
+      "group": "To serve",
+      "items": [
+        "Marshmallows",
+        "Ground cinnamon, for sprinkling",
+        "Cinnamon sticks, one per mug"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Slow cooker, LOW, stir every 30 minutes.",
+      "id": "on",
+      "label": "On low"
+    },
+    {
+      "hint": "Melted smooth, vanilla whisked in.",
+      "id": "smooth",
+      "label": "Smooth"
+    },
+    {
+      "hint": "Held on WARM, stir before every mug.",
+      "id": "warm",
+      "label": "Hold warm"
+    }
+  ],
+  "pitTemp": "Slow cooker, LOW",
+  "proTips": [
+    {
+      "text": "Start with the 1/4 tsp chile powder and taste before adding more \u2014 cayenne sneaks up on you in a sweet drink.",
+      "voice": "Cook's honesty"
+    },
+    {
+      "text": "Same rule as the classic: the pot stays family-friendly. Adults spice their own mug if they want to.",
+      "voice": "Pit note"
+    }
+  ],
+  "protein": "desserts",
+  "region": "backyard",
+  "school": null,
+  "servings": "About 10\u201312 mugs",
+  "slug": "mexican-hot-chocolate",
+  "steps": [
+    {
+      "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips, cinnamon, nutmeg, and chile powder.",
+      "title": "Load the cooker"
+    },
+    {
+      "body": "Cook on LOW 2\u20133 hours, stirring every 30 minutes. The chocolate sinks as it melts \u2014 whisk it up from the bottom each time you stir.",
+      "title": "Cook low and stir"
+    },
+    {
+      "body": "When it's all melted and smooth, whisk in the vanilla. Taste it \u2014 the heat should sit warm in the back, not burn. Add another pinch of chile powder only if you want it hotter.",
+      "title": "Finish with vanilla"
+    },
+    {
+      "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate and spice stay mixed in. Top with marshmallows, a sprinkle of cinnamon, and a cinnamon stick in each mug.",
+      "title": "Hold and serve"
+    }
+  ],
+  "story": "Mexican hot chocolate is cinnamon and a little chile heat riding on top of a rich chocolate base. The slow cooker keeps it simple: everything goes in the pot, it melts down low and slow, and the heat stays gentle the way Kelly called it \u2014 just a little bit. Cinnamon stick in the mug, marshmallows on top, and let the evening slow down.",
+  "summary": "The classic crockpot base with cinnamon, nutmeg, and just a little bit of chili heat \u2014 warmth in the back, not a burn. Marshmallows, a cinnamon sprinkle, and a cinnamon stick in every mug.",
+  "title": "Mexican Hot Chocolate",
+  "wood": "None"
 }
 ]
