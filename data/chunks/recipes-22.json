@@ -6301,5 +6301,121 @@
   "summary": "A German beef soup with spoon-shaped bread dumplings \u2014 Carla's family kind of cooking, named for her.",
   "title": "Carla's Kn\u00f6delsuppe (Dumpling Soup)",
   "wood": "None"
+},
+{
+  "difficulty": "weekend",
+  "finish": "Beef shred-tender, ~203\u00b0F; tortillas crisped",
+  "hours": {
+    "max": 6,
+    "min": 5
+  },
+  "image": "/images/smoked-birria-tacos.jpg",
+  "ingredients": [
+    {
+      "group": "The beef",
+      "items": [
+        "4 lb beef chuck roast, cut into big chunks",
+        "1 Tbsp kosher salt",
+        "2 tsp coarse black pepper",
+        "1 tsp ground cumin"
+      ]
+    },
+    {
+      "group": "The chile broth (consom\u00e9)",
+      "items": [
+        "4 dried guajillo chiles, stems and seeds out",
+        "2 dried ancho chiles, stems and seeds out",
+        "2 dried chiles de \u00e1rbol (leave out or cut to 1 for milder)",
+        "1 white onion, quartered",
+        "6 cloves garlic",
+        "2 Roma tomatoes, halved",
+        "4 cups beef broth",
+        "1 Tbsp apple cider vinegar",
+        "1 tsp dried Mexican oregano",
+        "1/2 tsp ground cumin",
+        "1/4 tsp ground cloves",
+        "1 small cinnamon stick",
+        "2 bay leaves",
+        "Salt to taste"
+      ]
+    },
+    {
+      "group": "To build the tacos",
+      "items": [
+        "Corn tortillas (not flour \u2014 they hold the dip and crisp better)",
+        "2 cups shredded Oaxaca cheese (mozzarella works)",
+        "1 white onion, diced fine",
+        "1 bunch cilantro, chopped",
+        "Lime wedges"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "250\u2013275\u00b0F, oak, beef to ~165\u00b0F.",
+      "id": "on",
+      "label": "On the pit"
+    },
+    {
+      "hint": "Covered, 2\u20133 hours, shred-tender.",
+      "id": "braise",
+      "label": "Braise"
+    },
+    {
+      "hint": "Dip in fat, crisp both sides, cheese melted.",
+      "id": "griddle",
+      "label": "Griddle"
+    }
+  ],
+  "pitTemp": "250\u2013275\u00b0F",
+  "proTips": [
+    {
+      "text": "That skimmed red fat is the whole trick \u2014 it's what crisps the tortilla and carries the color. Don't throw it out.",
+      "voice": "Pit note"
+    },
+    {
+      "text": "Corn tortillas only here. Flour ones go soggy in the dip and never crisp the same.",
+      "voice": "Cook's honesty"
+    },
+    {
+      "text": "If the consom\u00e9 tastes flat, it usually needs salt first, then a squeeze of lime \u2014 not more chile.",
+      "voice": "Pit note"
+    }
+  ],
+  "protein": "beef",
+  "region": "backyard",
+  "school": null,
+  "servings": "About 12 tacos",
+  "slug": "smoked-birria-tacos",
+  "steps": [
+    {
+      "body": "Season the chuck chunks with salt, pepper, and cumin. Smoke at 250\u2013275\u00b0F over oak for 2 1/2 to 3 hours, until the outside is dark and the meat reads around 165\u00b0F inside. It does not need to be tender yet \u2014 the braise finishes that job.",
+      "title": "Season and smoke"
+    },
+    {
+      "body": "Toast the dried chiles in a dry skillet, 30 seconds a side, until they smell fragrant \u2014 not burnt, burnt chiles turn the whole pot bitter. Soak them in hot water 20 minutes. Meanwhile soften the onion, garlic, and tomatoes in a little oil. Blend the drained chiles with the onion, garlic, tomatoes, vinegar, oregano, cumin, and cloves until smooth, adding splashes of the soaking water to get it moving.",
+      "title": "Build the chile sauce"
+    },
+    {
+      "body": "Put the smoked beef in a big covered pot or foil pan with the chile sauce, beef broth, cinnamon stick, and bay leaves. Back on the pit (or in a 275\u00b0F oven) covered, 2 to 3 hours, until the beef shreds with a fork, around 203\u00b0F.",
+      "title": "Braise it down"
+    },
+    {
+      "body": "Lift the beef out and shred it. Strain the broth if you want it smooth. Skim the red fat off the top of the broth into a skillet \u2014 that fat is what the tortillas dip in. Taste the consom\u00e9 for salt before it goes in cups.",
+      "title": "Shred and skim"
+    },
+    {
+      "body": "Heat the skimmed fat in a skillet or on the griddle. Dip a corn tortilla in the fat, lay it flat, pile on shredded beef and a handful of cheese, fold it over, and griddle until both sides are crisp and the cheese is melted. Work in batches, adding fat as needed.",
+      "title": "Dip, fill, and griddle"
+    },
+    {
+      "body": "Serve the tacos hot with a cup of warm consom\u00e9 per person for dipping, plus diced onion, cilantro, and lime wedges on the side.",
+      "title": "Serve for dunking"
+    }
+  ],
+  "story": "Birria comes out of Jalisco, where the meat braises low and slow in a chile broth until it falls apart. The Ember twist is simple: give the beef a few hours of oak smoke before it ever sees the pot, so the consom\u00e9 carries smoke in it, not just chile. Dip, griddle, dunk. Eat them hot, over the plate, because the good ones drip.",
+  "summary": "Beef chuck gets a real smoke first, then a slow braise in a dried-chile broth until it shreds. Corn tortillas take a dip in the consom\u00e9 fat, get loaded with beef and melting cheese, and crisp up on the griddle. The broth goes in a cup on the side for dipping \u2014 that's the whole point of the taco.",
+  "title": "Smoked Birria Tacos",
+  "wood": "Oak"
 }
 ]
