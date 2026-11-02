@@ -6097,5 +6097,209 @@
     "summary": "Kelly's sweet tea \u2014 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes \u2014 with cranberry juice and orange slices for the Thanksgiving table.",
     "title": "Cranberry Orange Sweet Tea",
     "wood": "None"
-  }
+  },
+{
+  "difficulty": "easy",
+  "finish": "Creamy, cheesy, and bubbly, straight out of the skillet.",
+  "hours": {
+    "max": 1,
+    "min": 0.75
+  },
+  "image": "/images/smoked-cheesy-corn.jpg",
+  "ingredients": [
+    {
+      "group": "The corn",
+      "items": [
+        "4 cups corn kernels (about 6 ears, cut off the cob, or frozen corn, thawed)",
+        "4 Tbsp butter, cut into pieces"
+      ]
+    },
+    {
+      "group": "The cheese",
+      "items": [
+        "4 oz cream cheese, cubed",
+        "1 cup shredded sharp cheddar cheese, plus a handful more for the top",
+        "1/2 cup heavy cream"
+      ]
+    },
+    {
+      "group": "Seasoning and the top",
+      "items": [
+        "1/2 tsp garlic powder",
+        "1 tsp kosher salt",
+        "1/2 tsp black pepper",
+        "2 green onions, sliced, for the top"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "250\u00b0F, apple or cherry, 30-45 minutes",
+      "id": "smoke",
+      "label": "Smoked"
+    },
+    {
+      "hint": "Cream cheese, cream, and cheddar stirred in creamy",
+      "id": "stir",
+      "label": "Stirred cheesy"
+    },
+    {
+      "hint": "Extra cheddar on top, 10-15 minutes till bubbly",
+      "id": "finish",
+      "label": "Finished"
+    },
+    {
+      "hint": "Green onions over the top, straight out of the skillet",
+      "id": "serve",
+      "label": "Served"
+    }
+  ],
+  "pitTemp": "250\u00b0F",
+  "proTips": [
+    {
+      "text": "Corn takes smoke fast, like poultry \u2014 light wood and no more time than it needs, or it turns bitter.",
+      "voice": "Pitmaster's note"
+    },
+    {
+      "text": "Stir once halfway through the smoke so it smokes even and doesn't dry out on top.",
+      "voice": "Kitchen note"
+    }
+  ],
+  "protein": "sides",
+  "region": "southern",
+  "school": null,
+  "servings": "6",
+  "slug": "smoked-cheesy-corn",
+  "steps": [
+    {
+      "body": "Put the corn and butter in a cast-iron skillet. On the smoker at 250\u00b0F over apple or cherry, 30-45 minutes, stirring once halfway, till the corn is tender and has some smoke on it.",
+      "title": "Smoke the corn"
+    },
+    {
+      "body": "Stir in the cream cheese, heavy cream, garlic powder, salt, and pepper. Keep stirring till the cream cheese melts in and it turns creamy. Fold in the cup of cheddar.",
+      "title": "Stir in the cheese"
+    },
+    {
+      "body": "Scatter the extra cheddar over the top and give it 10-15 more minutes on the smoker, till the cheese is melted and bubbly.",
+      "title": "Top and finish"
+    },
+    {
+      "body": "Green onions over the top, straight out of the skillet.",
+      "title": "Serve it"
+    }
+  ],
+  "story": "A cast-iron skillet is the whole trick here. The corn smokes first so it picks up flavor without drying out, then the cream cheese and cheddar go in and it turns into the side everybody reaches for. Light wood, short smoke \u2014 corn takes smoke fast, so no more time than it needs.",
+  "summary": "Corn off the cob, smoked in a cast-iron skillet, then stirred with cream cheese and cheddar till it's creamy and bubbly \u2014 the side that goes with everything on the pit.",
+  "title": "Smoked Cheesy Corn",
+  "wood": "Apple or cherry"
+},
+{
+  "difficulty": "easy",
+  "finish": "Hearty, old-country soup \u2014 bread dumplings swimming in rich beef broth.",
+  "hours": {
+    "max": 3.5,
+    "min": 3
+  },
+  "image": "/images/carlas-knodelsuppe.jpg",
+  "ingredients": [
+    {
+      "group": "The soup",
+      "items": [
+        "Beef bones with meat",
+        "3 quarts water",
+        "2 tsp salt"
+      ]
+    },
+    {
+      "group": "The vegetables",
+      "items": [
+        "4 carrots, sliced",
+        "2 stalks celery, chopped",
+        "1 onion, chopped",
+        "2 Tbsp dried parsley flakes",
+        "1 bay leaf"
+      ]
+    },
+    {
+      "group": "The dumplings",
+      "items": [
+        "3 slices bread (stale if you have it)",
+        "1/4 cup warm milk",
+        "1 Tbsp butter",
+        "1 egg",
+        "1/2 tsp salt",
+        "A dash of nutmeg",
+        "1/2 cup flour"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Beef bones, water, and salt \u2014 boil and skim, 2 hours or longer",
+      "id": "simmer",
+      "label": "Simmered"
+    },
+    {
+      "hint": "Carrots, celery, onion, parsley, and bay leaf \u2014 1 hour longer",
+      "id": "vegetables",
+      "label": "Vegetables in"
+    },
+    {
+      "hint": "Bread mashed with milk and butter, egg and flour stirred in",
+      "id": "dumplings",
+      "label": "Dumplings made"
+    },
+    {
+      "hint": "Spoonfuls dropped in, lid on, 20 minutes \u2014 don't lift the lid",
+      "id": "cook",
+      "label": "Dumplings cooked"
+    }
+  ],
+  "pitTemp": "Stovetop",
+  "proTips": [
+    {
+      "text": "Stale bread is the best bread for these dumplings \u2014 it soaks up the milk without falling apart.",
+      "voice": "Kitchen note"
+    },
+    {
+      "text": "Once the dumplings go in, the lid stays on for the whole 20 minutes. Lifting it lets the steam out and the dumplings fall.",
+      "voice": "Pitmaster's note"
+    }
+  ],
+  "protein": "beef",
+  "region": "backyard",
+  "school": null,
+  "servings": "12-14 dumplings",
+  "slug": "carlas-knodelsuppe",
+  "steps": [
+    {
+      "body": "Put the beef bones with meat, water, and salt in the pot. Bring it to a boil, skim the top, and let it simmer 2 hours or longer, till the meat is ready to give up.",
+      "title": "Simmer the beef"
+    },
+    {
+      "body": "Add the carrots, celery, onion, parsley flakes, and bay leaf, and simmer 1 hour longer.",
+      "title": "Add the vegetables"
+    },
+    {
+      "body": "Lift the meat out and the bay leaf out. The bay leaf goes. Shred the meat off the bone and put it back in the pot.",
+      "title": "Shred the meat back in"
+    },
+    {
+      "body": "Mash the bread with the warm milk and butter. Add the egg, salt, and nutmeg, then stir in the flour till you have a soft dough.",
+      "title": "Make the dumplings"
+    },
+    {
+      "body": "Drop the dough by tablespoon into the simmering soup. Put the lid on and cook 20 minutes \u2014 don't lift the lid.",
+      "title": "Drop and cover"
+    },
+    {
+      "body": "Season to taste and serve it up hot.",
+      "title": "Taste and serve"
+    }
+  ],
+  "story": "Named for Carla, whose family is German. This is her family's kind of soup \u2014 a rich beef broth with spoon-shaped bread dumplings dropped right in. These are bread dumplings, not flat chicken-and-dumplings, and the lid stays on while they cook, or they fall.",
+  "summary": "A German beef soup with spoon-shaped bread dumplings \u2014 Carla's family kind of cooking, named for her.",
+  "title": "Carla's Kn\u00f6delsuppe (Dumpling Soup)",
+  "wood": "None"
+}
 ]
