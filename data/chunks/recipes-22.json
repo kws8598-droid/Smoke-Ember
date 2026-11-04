@@ -6587,5 +6587,143 @@
   "summary": "The classic crockpot base with cinnamon, nutmeg, and just a little bit of chili heat \u2014 warmth in the back, not a burn. Marshmallows, a cinnamon sprinkle, and a cinnamon stick in every mug.",
   "title": "Mexican Hot Chocolate",
   "wood": "None"
-}
+},
+  {
+    "difficulty": "all-day",
+    "finish": "Probe tender, 200\u2013205\u00b0F",
+    "hours": {
+      "max": 14,
+      "min": 10
+    },
+    "image": "/images/smoked-pulled-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "1 bone-in ham, 8\u201310 lb, NOT spiral-sliced (shank or butt portion)",
+          "Yellow mustard, as a binder",
+          "\u00bd cup Ember rub (brown sugar, paprika, salt, pepper, garlic, onion, cayenne, dry mustard, celery seed, thyme, plus 2 tsp MSG per batch)"
+        ]
+      },
+      {
+        "group": "The wrap",
+        "items": [
+          "4 Tbsp butter, sliced",
+          "\u00bc cup brown sugar",
+          "1 can (20 oz) pineapple rings in juice",
+          "\u00bd cup cherry Dr Pepper (or cherry Coke)"
+        ]
+      },
+      {
+        "group": "The spritz",
+        "items": [
+          "Cherry Dr Pepper + brown sugar spritz (cherry Coke works if cherry Dr Pepper isn't on the shelf)"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "\u00bd cup pineapple juice",
+          "\u00bc cup brown sugar",
+          "\u00bc cup cherry Dr Pepper (or cherry Coke)"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "Extra Ember rub, to taste",
+          "Toasted buns, for sandwiches"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "250\u00b0F over cherry wood, cut-side down if it has one.",
+        "id": "on",
+        "label": "On the pit"
+      },
+      {
+        "hint": "Nothing on it for the first 3\u20134 hours; spritz only once the bark sets.",
+        "id": "bark",
+        "label": "Bark set"
+      },
+      {
+        "hint": "Foil pan, butter, brown sugar, pineapple rings, juice and cherry Dr Pepper. Seal tight.",
+        "id": "wrap",
+        "label": "Wrap at 165\u00b0F"
+      },
+      {
+        "hint": "275\u2013300\u00b0F until a probe slides in with almost no resistance, around 200\u2013205\u00b0F.",
+        "id": "probe",
+        "label": "Probe tender"
+      },
+      {
+        "hint": "Foil, towels, cooler, at least 45\u201360 minutes before pulling.",
+        "id": "rest",
+        "label": "Rest"
+      }
+    ],
+    "pitTemp": "250\u2013300\u00b0F",
+    "proTips": [
+      {
+        "text": "Not spiral-sliced is the whole ballgame \u2014 spiral ham dries out long before it pulls.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't pull by temperature alone; probe-tender is the real finish line.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Save every drop of the pan juice \u2014 that's what keeps pulled ham juicy instead of dry.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Can't find cherry Dr Pepper? Cherry Coke works in the spritz and the wrap \u2014 Kelly proved it on ribs.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "10\u201312",
+    "slug": "smoked-pulled-ham",
+    "steps": [
+      {
+        "body": "Pat the ham dry. Score the outside in a diamond pattern, about 1 inch apart and \u00bc inch deep \u2014 opens the meat up so the smoke and rub get in.",
+        "title": "Score it"
+      },
+      {
+        "body": "Coat all over with a thin layer of mustard, then a generous coat of Ember rub on every side.",
+        "title": "Rub it"
+      },
+      {
+        "body": "Pit at 250\u00b0F over cherry wood, ham cut-side down if it has one. Cold meat on the pit, no soaking chips. Nothing on it for the first 3\u20134 hours until the bark sets, then a light mist of cherry Dr Pepper + brown sugar spritz every 20\u201330 minutes.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Move the ham to a foil pan, lay the butter slices over the top, sprinkle on the brown sugar, lay the pineapple rings over the ham, and pour the pineapple juice from the can plus the cherry Dr Pepper around it. Seal tight with heavy foil.",
+        "title": "Wrap it at 165\u00b0F"
+      },
+      {
+        "body": "Back on the pit at 275\u2013300\u00b0F until a probe slides in with almost no resistance, around 200\u2013205\u00b0F.",
+        "title": "Finish it probe-tender"
+      },
+      {
+        "body": "This is the biggest tip of all \u2014 foil, towels, cooler, at least 45\u201360 minutes. Juice settles back through the meat.",
+        "title": "Rest it"
+      },
+      {
+        "body": "Pull the bone out (it should come clean), shred the meat with two forks, chop the soft pineapple rings and fold them in, and toss it all with the pan juices and a little more rub to taste.",
+        "title": "Pull it"
+      },
+      {
+        "body": "While the ham rests, simmer the pineapple juice, brown sugar, and cherry Dr Pepper until it just coats a spoon \u2014 light, not thick. Drizzle over the pulled meat and toss so every strand gets a light shine. Pile it on toasted buns.",
+        "title": "Glaze it"
+      }
+    ],
+    "story": "Ham usually gets sliced, but take a bone-in ham past slicing temp and it gives up and shreds like pulled pork. Pineapple in the wrap keeps it juicy and adds a sweet-tart note against the smoke, and a light pineapple-cherry glaze tossed through at the end ties the whole thing together.",
+    "summary": "Bone-in ham smoked low, wrapped with pineapple and butter, pulled tender and tossed with a light pineapple-cherry glaze.",
+    "title": "Smoked Pulled Ham",
+    "wood": "Cherry"
+  }
 ]
