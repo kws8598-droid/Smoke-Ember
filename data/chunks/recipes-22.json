@@ -6725,5 +6725,233 @@
     "summary": "Bone-in ham smoked low, wrapped with pineapple and butter, pulled tender and tossed with a light pineapple-cherry glaze.",
     "title": "Smoked Pulled Ham",
     "wood": "Cherry"
-  }
+  },
+    {
+      "difficulty": "weekend",
+      "finish": "145\u00b0F",
+      "hours": {
+        "max": 1.5,
+        "min": 1.0
+      },
+      "image": "/images/smoked-pork-chops-bacon-bread-stuffing.jpg",
+      "ingredients": [
+        {
+          "group": "The chops",
+          "items": [
+            "4 bone-in pork chops, 1\u00bd\u20132 inches thick",
+            "Ember rub, to season all over"
+          ]
+        },
+        {
+          "group": "The bread stuffing",
+          "items": [
+            "\u00bd cup butter",
+            "4 slices bacon, diced",
+            "1 small white onion, diced",
+            "2 ribs celery, diced",
+            "2 cloves garlic, minced",
+            "4 cups toasted bread cubes (sourdough or plain white)",
+            "Warm chicken stock, as needed",
+            "Fresh parsley, chopped, a small handful",
+            "Fresh thyme, chopped, about 1 tablespoon"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "Butter, for the skillet sear"
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "hint": "Meaty edge opposite the bone, about 3/4 of the way in \u2014 not through.",
+          "id": "pocket",
+          "label": "Cut the pocket"
+        },
+        {
+          "hint": "Bacon, onion, celery, and garlic in butter; bread cubes folded in, stock a little at a time.",
+          "id": "stuffing",
+          "label": "Make the stuffing"
+        },
+        {
+          "hint": "Generous but not packed full; toothpick the opening shut.",
+          "id": "stuff",
+          "label": "Stuff them"
+        },
+        {
+          "hint": "250\u00b0F over apple wood until the meat reads about 130\u00b0F.",
+          "id": "smoke",
+          "label": "On the smoker"
+        },
+        {
+          "hint": "Sear 2\u20133 minutes per side in a buttered skillet or on the hot grill to 145\u00b0F, then rest 5\u201310 minutes.",
+          "id": "sear",
+          "label": "Sear and rest"
+        }
+      ],
+      "pitTemp": "250\u00b0F",
+      "proTips": [
+        {
+          "text": "Don't overstuff \u2014 a pocket packed too full blows open and dumps the stuffing in the fire.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Don't over-saturate the stuffing. Moist, not soggy \u2014 soggy stuffing never recovers.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Chops are lean and take smoke fast, like cheese \u2014 a light hand with the wood. Apple or cherry, not mesquite.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Rest matters here like everywhere else \u2014 juice settles back through the meat.",
+          "voice": "Pit note"
+        }
+      ],
+      "protein": "pork",
+      "region": "southern",
+      "school": null,
+      "servings": "4",
+      "slug": "smoked-pork-chops-bacon-bread-stuffing",
+      "steps": [
+        {
+          "body": "Lay each chop flat. Cut a deep pocket in from the meaty edge opposite the bone, working toward the bone about 3/4 of the way in \u2014 do NOT cut all the way through. The pocket has to hold stuffing and stay shut.",
+          "title": "Cut the pocket"
+        },
+        {
+          "body": "Melt the butter over low heat. Cook the bacon, onion, celery, and garlic until the vegetables are translucent and the bacon has rendered. Fold in the bread cubes so the fat coats them. Add warm chicken stock a little at a time until the stuffing is moist but NOT soggy. Fold in the parsley and thyme. Lid on, let it stand 6\u20138 minutes.",
+          "title": "Make the stuffing"
+        },
+        {
+          "body": "Spoon the stuffing into each pocket \u2014 generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with Ember rub. Pin the opening shut with a toothpick or two.",
+          "title": "Stuff them"
+        },
+        {
+          "body": "Pit at 250\u00b0F over apple wood, chops on the grate. Smoke until the meat reads about 130\u00b0F in the thickest part (not the stuffing).",
+          "title": "Start them on the smoker"
+        },
+        {
+          "body": "Sear 2\u20133 minutes per side until browned and the meat reads 145\u00b0F \u2014 either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
+          "title": "Sear to finish"
+        },
+        {
+          "body": "Rest 5\u201310 minutes before serving. Pull the toothpicks before they go to the table.",
+          "title": "Rest them"
+        }
+      ],
+      "story": "A thick chop with a pocket cut in it on the meaty side, stuffed like Thanksgiving dressing with bacon, onion, celery, herbs, and a little garlic, started on the smoker so the meat picks up smoke before it ever sees a skillet. The stuffing keeps the chop juicy from the inside out, and the sear at the end gives it the crust.",
+      "summary": "Thick bone-in pork chops stuffed with bacon bread stuffing, smoked low and seared to 145\u00b0F.",
+      "title": "Smoked Stuffed Pork Chops with Bacon Bread Stuffing",
+      "wood": "Apple"
+    },
+    {
+      "difficulty": "weekend",
+      "finish": "145\u00b0F",
+      "hours": {
+        "max": 1.5,
+        "min": 1.0
+      },
+      "image": "/images/smoked-pork-chops-spinach-cheese.jpg",
+      "ingredients": [
+        {
+          "group": "The chops",
+          "items": [
+            "4 bone-in pork chops, 1\u00bc\u20131\u00bd inches thick",
+            "Salt, black pepper, and garlic powder, to season all over"
+          ]
+        },
+        {
+          "group": "The spinach and cheese stuffing",
+          "items": [
+            "8 oz cream cheese, softened",
+            "\u00bd cup shredded mozzarella",
+            "\u00bd cup feta cheese, crumbled",
+            "12 oz frozen spinach, thawed and squeezed dry (or fresh spinach, saut\u00e9ed first and drained)",
+            "\u00bd tsp each salt, black pepper, and garlic powder"
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "hint": "Meaty side up, in from the edge opposite the bone \u2014 stop about \u00bd inch from the far edge.",
+          "id": "pocket",
+          "label": "Cut the pocket"
+        },
+        {
+          "hint": "Cream cheese, mozzarella, feta, and squeezed-dry spinach mixed smooth.",
+          "id": "stuffing",
+          "label": "Mix the stuffing"
+        },
+        {
+          "hint": "Generous but not packed full; toothpick the opening shut.",
+          "id": "stuff",
+          "label": "Stuff them"
+        },
+        {
+          "hint": "250\u00b0F over apple wood until the meat reads about 130\u00b0F.",
+          "id": "smoke",
+          "label": "On the smoker"
+        },
+        {
+          "hint": "Sear 2\u20133 minutes per side in a buttered skillet or on the hot grill to 145\u00b0F, then rest 5\u201310 minutes.",
+          "id": "sear",
+          "label": "Sear and rest"
+        }
+      ],
+      "pitTemp": "250\u00b0F",
+      "proTips": [
+        {
+          "text": "Squeeze the spinach dry. Any extra water makes the filling soggy, and soggy filling never recovers.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Don't overstuff \u2014 a pocket packed too full blows open and dumps the cheese in the fire.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Chops are lean and take smoke fast, like cheese \u2014 a light hand with the wood. Apple or cherry, not mesquite.",
+          "voice": "Pit note"
+        },
+        {
+          "text": "Rest matters here like everywhere else \u2014 juice settles back through the meat.",
+          "voice": "Pit note"
+        }
+      ],
+      "protein": "pork",
+      "region": "southern",
+      "school": null,
+      "servings": "4",
+      "slug": "smoked-pork-chops-spinach-cheese",
+      "steps": [
+        {
+          "body": "Lay each chop flat, meaty side up. Cut a pocket in from the meaty edge opposite the bone, working toward the bone but NOT through it \u2014 stop about \u00bd inch from the far edge. The pocket has to hold stuffing and stay shut.",
+          "title": "Cut the pocket"
+        },
+        {
+          "body": "In a bowl, mix the softened cream cheese, mozzarella, feta, squeezed-dry spinach, and \u00bd teaspoon each of salt, black pepper, and garlic powder until smooth and even.",
+          "title": "Mix the stuffing"
+        },
+        {
+          "body": "Spoon the filling into each pocket \u2014 generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with salt, black pepper, and garlic powder. Pin the opening shut with a toothpick or two.",
+          "title": "Stuff them"
+        },
+        {
+          "body": "Pit at 250\u00b0F over apple wood, chops on the grate. Smoke until the meat reads about 130\u00b0F in the thickest part (not the stuffing).",
+          "title": "Start them on the smoker"
+        },
+        {
+          "body": "Sear 2\u20133 minutes per side until browned and the meat reads 145\u00b0F \u2014 either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
+          "title": "Sear to finish"
+        },
+        {
+          "body": "Rest 5\u201310 minutes before serving. Pull the toothpicks before they go to the table.",
+          "title": "Rest them"
+        }
+      ],
+      "story": "A thick chop with a pocket cut in it on the meaty side, filled with creamy spinach, mozzarella, and stout feta, started on the smoker and seared to finish. The cheese melts into the spinach and keeps the chop juicy from the inside out.",
+      "summary": "Thick bone-in pork chops stuffed with spinach, mozzarella, and feta, smoked low and seared to 145\u00b0F.",
+      "title": "Smoked Stuffed Pork Chops with Spinach and Cheese",
+      "wood": "Apple"
+    }
 ]
