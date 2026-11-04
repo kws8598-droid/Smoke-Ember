@@ -7064,5 +7064,99 @@
     "summary": "Honey barbecue sauce on the crust first, then ground beef, bacon, smoked chicken, purple onions, jalapeños, and a mozzarella-cheddar mix.",
     "title": "Honey Barbecue Pizza",
     "wood": "Hickory"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Charred grill marks, sauce tacky",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/fast-easy-smoked-pork-chop.jpg",
+    "ingredients": [
+      {
+        "group": "The chops",
+        "items": [
+          "4 pork chops, about 1 inch thick",
+          "Ember rub",
+          "Kelly's honey mustard and onion sauce"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Smoking on the indirect side",
+        "id": "smoke",
+        "label": "Smoke indirect"
+      },
+      {
+        "hint": "Direct side sear, charred grill marks, rub sears too",
+        "id": "sear",
+        "label": "Sear direct"
+      },
+      {
+        "hint": "Back to indirect, sauce until tacky",
+        "id": "sauce",
+        "label": "Sauce until tacky"
+      }
+    ],
+    "pitTemp": "Direct + indirect heat",
+    "proTips": [
+      {
+        "text": "Direct and indirect heat zones are the whole trick — indirect side for smoking, direct side for the sear, indirect side again for saucing.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Keep the rub light — it's going to sear right along with the chop.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Ember barbecue sauce or Ember mustard sauce work just as well here if that's what you've got — the honey mustard and onion is the featured one.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Sauce goes on AFTER the sear, not before — sauce sugar burns over the hot side.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Resting is still the biggest tip of all, even on a quick cook.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "fast-easy-smoked-pork-chop",
+    "steps": [
+      {
+        "body": "Set your grill up with direct and indirect heat zones.",
+        "title": "Set it up"
+      },
+      {
+        "body": "Cover the chops with a light coating of Ember rub.",
+        "title": "Rub it"
+      },
+      {
+        "body": "Start them off on the grill over the indirect side, smoking, until they near done.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Move them over the direct side at the end and sear them — the rub's going to sear right along with the chop, and you'll get charred grill marks.",
+        "title": "Sear it"
+      },
+      {
+        "body": "Flip them back over to the indirect side and brush on Kelly's honey mustard and onion sauce. Let them sit there until the sauce gets tacky.",
+        "title": "Sauce it"
+      },
+      {
+        "body": "Rest a few minutes so the juices settle, then serve.",
+        "title": "Rest and serve"
+      }
+    ],
+    "story": "No stuffing, no fuss — Ember rub, smoke it on the indirect side, sear it over direct heat at the end, sauce it with Kelly's honey mustard and onion sauce. That's for when you're real quick and in a hurry and you want barbecue. The rub and the sauce are what carry it — simple on purpose.",
+    "summary": "A fast grilled pork chop: Ember rub, smoked on the indirect side, seared direct for charred grill marks, sauced with honey mustard and onion until tacky.",
+    "title": "Fast and Easy Smoked Pork Chop",
+    "wood": "Apple"
   }
 ]
