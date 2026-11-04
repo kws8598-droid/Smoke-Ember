@@ -6953,5 +6953,116 @@
       "summary": "Thick bone-in pork chops stuffed with spinach, mozzarella, and feta, smoked low and seared to 145\u00b0F.",
       "title": "Smoked Stuffed Pork Chops with Spinach and Cheese",
       "wood": "Apple"
-    }
+    },
+  {
+    "difficulty": "weeknight",
+    "finish": "Cheese bubbly and browned, crust golden",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/honey-barbecue-pizza.jpg",
+    "ingredients": [
+      {
+        "group": "The crust",
+        "items": [
+          "1 pizza dough, store-bought or homemade",
+          "Cornmeal, for dusting the peel"
+        ]
+      },
+      {
+        "group": "The sauce",
+        "items": [
+          "1 cup honey barbecue sauce"
+        ]
+      },
+      {
+        "group": "The toppings",
+        "items": [
+          "1/2 lb ground beef, browned and drained",
+          "4 slices bacon, cooked and crumbled",
+          "1 cup diced smoked chicken",
+          "1 purple onion, sliced thin",
+          "1 cup shredded mozzarella + 1 cup shredded cheddar, mixed",
+          "2 cloves garlic, minced",
+          "1 jalapeño, sliced thin"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Stone or steel preheating at 450°F",
+        "id": "heat",
+        "label": "Heat the stone"
+      },
+      {
+        "hint": "Sauce on the crust, toppings over it",
+        "id": "top",
+        "label": "Sauce and top"
+      },
+      {
+        "hint": "Cheese bubbly and browned, crust golden",
+        "id": "bake",
+        "label": "Bake golden"
+      }
+    ],
+    "pitTemp": "450°F",
+    "proTips": [
+      {
+        "text": "Cook the ground beef and bacon before they go on — a quick pizza bake won't cook raw meat through.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't overload it — too many toppings makes a soggy middle.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Sauce first, toppings second — that's the build order; the sauce under the toppings keeps the cheese from sliding off.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "A preheated stone or steel is what makes the bottom crust crisp.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Make it yours — add whatever toppings you like. Green bell peppers would fit right in on this one too.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "beef",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "honey-barbecue-pizza",
+    "steps": [
+      {
+        "body": "Smoker or oven to 450°F with a pizza stone or steel inside, preheating.",
+        "title": "Heat it"
+      },
+      {
+        "body": "Stretch the dough out on a cornmeal-dusted peel.",
+        "title": "Shape it"
+      },
+      {
+        "body": "Spread the honey barbecue sauce over the crust, leaving a bare rim around the edge. Sauce first, then toppings.",
+        "title": "Sauce it"
+      },
+      {
+        "body": "Scatter the ground beef, bacon, smoked chicken, and purple onions over the sauce, then the minced garlic and jalapeño slices, then the mozzarella and cheddar mix over all.",
+        "title": "Top it"
+      },
+      {
+        "body": "Slide onto the hot stone or steel and bake 12–15 minutes until the cheese is bubbly and browned in spots and the crust is golden.",
+        "title": "Bake it"
+      },
+      {
+        "body": "Rest a couple of minutes so the cheese sets, then slice and serve.",
+        "title": "Rest and slice"
+      }
+    ],
+    "story": "This one starts the way a barbecue pizza should — sauce on the crust first, then everything piled on top. The honey barbecue sauce goes down before a single topping, so it bakes into the crust instead of sliding around under the cheese. Ground beef and bacon go on already cooked, because a quick pizza bake won't cook raw meat through. Diced smoked chicken, purple onions, a little minced garlic, and jalapeño slices round it out under a mozzarella and cheddar mix.",
+    "summary": "Honey barbecue sauce on the crust first, then ground beef, bacon, smoked chicken, purple onions, jalapeños, and a mozzarella-cheddar mix.",
+    "title": "Honey Barbecue Pizza",
+    "wood": "Hickory"
+  }
 ]
