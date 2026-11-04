@@ -7121,6 +7121,10 @@
       {
         "text": "Resting is still the biggest tip of all, even on a quick cook.",
         "voice": "Pit note"
+      },
+      {
+        "text": "Half-inch chops work too — just shorten your times, since thinner chops cook faster.",
+        "voice": "Pit note"
       }
     ],
     "protein": "pork",
@@ -7158,5 +7162,125 @@
     "summary": "A fast grilled pork chop: Ember rub, smoked on the indirect side, seared direct for charred grill marks, sauced with honey mustard and onion until tacky.",
     "title": "Fast and Easy Smoked Pork Chop",
     "wood": "Apple"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Tender, caramelized, glossy glaze",
+    "hours": {
+      "max": 1.5,
+      "min": 1.0
+    },
+    "image": "/images/smoked-maple-carrots-whipped-ricotta.jpg",
+    "ingredients": [
+      {
+        "group": "Carrots",
+        "items": [
+          "1 lb carrots, about 7–8 medium, peeled and cut into 1/2-inch rounds",
+          "2 Tbsp olive oil",
+          "4 Tbsp pure maple syrup",
+          "1/2 cup orange juice",
+          "1 Tbsp orange zest",
+          "1 tsp kosher salt",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp dried oregano",
+          "1 tsp dried thyme",
+          "1/4 tsp smoked paprika",
+          "1/4 tsp black pepper",
+          "1/8 tsp red pepper flakes (optional)"
+        ]
+      },
+      {
+        "group": "Orange maple reduction",
+        "items": [
+          "3/4 cup orange juice",
+          "6 Tbsp pure maple syrup"
+        ]
+      },
+      {
+        "group": "Whipped ricotta",
+        "items": [
+          "2 cups whole milk ricotta cheese",
+          "3 Tbsp cooled orange maple reduction (reserved)",
+          "1 Tbsp orange zest",
+          "1/2 tsp kosher salt",
+          "1/8 tsp black pepper",
+          "1/8 tsp dried oregano",
+          "1/8 tsp dried thyme",
+          "1/8 tsp red pepper flakes (optional)"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Remaining orange maple reduction",
+          "2 Tbsp chopped fresh parsley",
+          "1/8 tsp black pepper"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Juice and syrup simmered down to about 1/2 cup",
+        "id": "reduce",
+        "label": "Make the reduction"
+      },
+      {
+        "hint": "250°F, tender and caramelized, glaze glossy",
+        "id": "smoke",
+        "label": "Smoke the carrots"
+      },
+      {
+        "hint": "Ricotta bed, carrots over, drizzle and parsley",
+        "id": "plate",
+        "label": "Plate it"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Don't crowd the pan — if the carrots pile up they steam instead of caramelizing.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Taste the ricotta before you plate it. It should taste bright, not flat.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Apple or cherry are the picks here, but whatever wood you like works — it's up to the cook.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "smoked-maple-carrots-whipped-ricotta",
+    "steps": [
+      {
+        "body": "In a small saucepan, combine the orange juice and maple syrup. Bring to a boil over medium-high heat, then drop to a gentle simmer. Cook 10–15 minutes, stirring now and then, until it reduces by about a third to roughly 1/2 cup. Set aside to cool.",
+        "title": "Make the reduction"
+      },
+      {
+        "body": "In a small container, whisk together the olive oil, maple syrup, orange juice, orange zest, smoked paprika, kosher salt, black pepper, garlic powder, onion powder, dried oregano, dried thyme, and red pepper flakes. Pour over the carrots in a large bowl and toss until every round is coated.",
+        "title": "Season the carrots"
+      },
+      {
+        "body": "Get the pit to 250°F over apple or cherry wood, or whatever wood you like. Arrange the carrots in a single layer in a pan. Smoke 1–1.5 hours, until tender and caramelized and the liquid has cooked down to a glossy glaze.",
+        "title": "Smoke the carrots"
+      },
+      {
+        "body": "While the carrots smoke, run the ricotta, 3 tablespoons of the cooled reduction, orange zest, kosher salt, black pepper, dried oregano, dried thyme, and red pepper flakes through a food processor for 1–2 minutes until smooth and creamy. Taste and adjust the seasoning.",
+        "title": "Whip the ricotta"
+      },
+      {
+        "body": "Spread the whipped ricotta in a shallow serving dish or platter. Arrange the carrots over the top. Drizzle with the pan juices and the remaining reduction. Garnish with parsley and black pepper. Serve while the carrots are warm.",
+        "title": "Plate it"
+      }
+    ],
+    "story": "An Ember take on a Florida Citrus idea — carrots on the smoker instead of the oven, over the same cool whipped ricotta. Maple and orange do the sweetening, the smoke stays light, and the ricotta underneath stays cool against the warm carrots.",
+    "summary": "Sweet maple, bright orange, and a little smoke over cool whipped ricotta — a side that eats fancy but belongs right next to a pork cook.",
+    "title": "Smoked Maple Carrots with Whipped Ricotta",
+    "wood": "Apple or cherry"
   }
 ]
