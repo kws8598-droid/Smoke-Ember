@@ -7282,5 +7282,78 @@
     "summary": "Sweet maple, bright orange, and a little smoke over cool whipped ricotta — a side that eats fancy but belongs right next to a pork cook.",
     "title": "Smoked Maple Carrots with Whipped Ricotta",
     "wood": "Cherry, apple, or peach"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Thin, tangy, slow heat",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
+    },
+    "image": "/images/ember-hot-vinegar-sauce.jpg",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "1 can (15 oz) tomato sauce",
+          "1 cup apple cider vinegar",
+          "2 Tbsp brown sugar",
+          "1 Tbsp red pepper flakes",
+          "1 Tbsp Worcestershire sauce",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp kosher salt",
+          "1/2 tsp black pepper",
+          "1/2 tsp dried thyme"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything whisked, sugar and salt dissolved",
+        "id": "combine",
+        "label": "Combine"
+      },
+      {
+        "hint": "Bare simmer 20 minutes, still thin",
+        "id": "simmer",
+        "label": "Simmer"
+      },
+      {
+        "hint": "Cooled, bottled, shake before you pour",
+        "id": "bottle",
+        "label": "Bottle it"
+      }
+    ],
+    "pitTemp": "Simmer",
+    "proTips": [
+      {
+        "text": "Heat is yours — 1 Tbsp of flakes gives a medium heat with a slow build. Add more red pepper flakes if you want it hotter. It's up to the person making it.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sauces",
+    "region": "carolina",
+    "school": null,
+    "servings": "About 3 cups",
+    "slug": "ember-hot-vinegar-sauce",
+    "steps": [
+      {
+        "body": "Everything in a saucepan. Whisk until the sugar and salt disappear.",
+        "title": "Combine"
+      },
+      {
+        "body": "Medium heat to a bare simmer, 20 minutes, stir now and then. Don't boil it hard and don't cook it down — it stays thin. If it thickens on you, splash in more vinegar or water.",
+        "title": "Simmer"
+      },
+      {
+        "body": "Cool it and bottle it. Shake before you pour — the flakes settle. Pour it on, dip, or mop it on pork shoulder or ribs while they smoke, or splash it over pulled pork. Fridge keeps it 2–3 weeks.",
+        "title": "Use it"
+      }
+    ],
+    "story": "Some sauces sit on the meat. This one soaks in. Tomato for body, apple cider vinegar for the bite, red pepper flakes for a slow heat that builds instead of burning. Thin by design — pour it on, dip, or mop it, and let it disappear into the pork.",
+    "summary": "Thin vinegar-tomato heat — apple cider vinegar bite, red pepper flakes that build slow, made to pour on, dip, or mop.",
+    "title": "Ember Hot Vinegar Sauce",
+    "wood": "Pantry"
   }
 ]
