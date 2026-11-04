@@ -7355,5 +7355,82 @@
     "summary": "Thin vinegar-tomato heat — apple cider vinegar bite, red pepper flakes that build slow, made to pour on, dip, or mop.",
     "title": "Ember Hot Vinegar Sauce",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Deep red, glossy, ready to marinate",
+    "hours": {
+      "max": 0.25,
+      "min": 0.15
+    },
+    "image": "/images/ember-chinese-five-spice-marinade.jpg",
+    "ingredients": [
+      {
+        "group": "Marinade",
+        "items": [
+          "1/4 cup hoisin sauce",
+          "1/4 cup soy sauce",
+          "2 Tbsp honey (maltose if you can get it)",
+          "2 Tbsp Shaoxing rice wine (dry sherry works)",
+          "1 Tbsp Chinese five-spice powder",
+          "1 Tbsp fermented red bean curd, mashed smooth (or a few drops red food coloring)",
+          "3 cloves garlic, minced",
+          "1 Tbsp fresh ginger, grated",
+          "1 Tbsp brown sugar",
+          "1 tsp sesame oil"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Bean curd smooth, sugar dissolved",
+        "id": "whisk",
+        "label": "Whisk it"
+      },
+      {
+        "hint": "Ribs in overnight, turned once",
+        "id": "marinate",
+        "label": "Marinate"
+      },
+      {
+        "hint": "Reserved marinade boiled, honey in, brushed thin",
+        "id": "glaze",
+        "label": "Glaze with it"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "The red: fermented red bean curd is the authentic color. A few drops of red food coloring gets you the same look — that's what most restaurants do.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Maltose is the authentic sweetener for the glaze; honey is the pantry swap and works fine.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sauces",
+    "region": "backyard",
+    "school": null,
+    "servings": "About 1 cup",
+    "slug": "ember-chinese-five-spice-marinade",
+    "steps": [
+      {
+        "body": "Mash the bean curd smooth, then whisk everything together until the sugar disappears.",
+        "title": "Whisk it"
+      },
+      {
+        "body": "Pour it over the ribs and fridge them overnight, turning once if you think of it. Save the leftover marinade — that's your glaze base.",
+        "title": "Marinate"
+      },
+      {
+        "body": "Boil the reserved marinade hard for a full minute — it's touched raw pork, it's got to boil — stir in 2 Tbsp honey, and brush it on thin in the last 30–45 minutes of the cook. Let it set shiny, brush once more.",
+        "title": "Glaze with it"
+      }
+    ],
+    "story": "This is the marinade behind the red ribs from the Chinese restaurant — hoisin for body, soy for salt, five-spice for warmth, rice wine for brightness, and bean curd for the red. Whisk it, soak the ribs overnight, and save what's left for the glaze.",
+    "summary": "The red soak for the ribs — hoisin, soy, five-spice, garlic, and ginger, whisked together and ready for an overnight marinade.",
+    "title": "Ember Chinese Five-Spice Marinade",
+    "wood": "Pantry"
   }
 ]
