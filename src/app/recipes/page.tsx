@@ -63,7 +63,7 @@ function RecipesInner() {
   }
   const { recipes: liveRecipes } = useLiveCatalog();
   const list = useMemo(() => {
-    let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: protein === "all" ? false : protein === "desserts" }, liveRecipes);
+    let rows = filterRecipes({ protein, q, time: time === "all" ? undefined : time, includeDesserts: q.trim() && region === "all" ? true : protein === "all" ? false : protein === "desserts" }, liveRecipes);
     if (region !== "all") rows = rows.filter((r) => r.region === region);
     rows.sort((a, b) => a.title.localeCompare(b.title));
     return rows;
