@@ -7432,5 +7432,107 @@
     "summary": "The red soak for the ribs — hoisin, soy, five-spice, garlic, and ginger, whisked together and ready for an overnight marinade.",
     "title": "Ember Chinese Five-Spice Marinade",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Tender, lacquered red, thin shiny glaze",
+    "hours": {
+      "max": 5,
+      "min": 4
+    },
+    "image": "/images/ember-chinese-five-spice-spare-ribs.jpg",
+    "ingredients": [
+      {
+        "group": "Ribs",
+        "items": [
+          "1 rack St. Louis-cut spare ribs, about 3 lb, membrane pulled"
+        ]
+      },
+      {
+        "group": "Chinese five-spice marinade",
+        "items": [
+          "1/4 cup hoisin sauce",
+          "1/4 cup soy sauce",
+          "2 Tbsp honey (maltose if you can get it)",
+          "2 Tbsp Shaoxing rice wine (dry sherry works)",
+          "1 Tbsp Chinese five-spice powder",
+          "1 Tbsp fermented red bean curd, mashed smooth (or a few drops red food coloring)",
+          "3 cloves garlic, minced",
+          "1 Tbsp fresh ginger, grated",
+          "1 Tbsp brown sugar",
+          "1 tsp sesame oil"
+        ]
+      },
+      {
+        "group": "Glaze",
+        "items": [
+          "Reserved marinade, boiled",
+          "2 Tbsp honey"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Ribs in overnight, turned once",
+        "id": "marinate",
+        "label": "Marinate overnight"
+      },
+      {
+        "hint": "250°F, bone-side down, left alone until the last hour",
+        "id": "smoke",
+        "label": "Smoke"
+      },
+      {
+        "hint": "Reserved marinade boiled, honey in, brushed thin",
+        "id": "glaze",
+        "label": "Glaze"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "The red: fermented red bean curd is the authentic color. A few drops of red food coloring gets you the same look — that's what most restaurants do.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Maltose is the authentic sweetener for the glaze; honey is the pantry swap and works fine.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Membrane always pulled, same as any other rib cook.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "4",
+    "slug": "ember-chinese-five-spice-spare-ribs",
+    "steps": [
+      {
+        "body": "Whisk everything together until the bean curd is smooth and the sugar disappears.",
+        "title": "Mix the marinade"
+      },
+      {
+        "body": "Ribs in a bag or pan, marinade all over, fridge overnight, turn once if you think of it. Save the leftover marinade — that's your glaze base. Cold meat goes straight on the pit, no room-temp wait.",
+        "title": "Marinate overnight"
+      },
+      {
+        "body": "250°F over cherry or apple, bone-side down. Leave them alone until the last hour — no spritz, no peeking, let the smoke do its work. About 4–5 hours, until tender.",
+        "title": "Smoke"
+      },
+      {
+        "body": "Last 30–45 minutes: boil the reserved marinade hard for a full minute (it's touched raw pork — it has to boil), stir in the honey, and brush it on thin. Let it set shiny, brush once more. Thin glaze, not a thick sauce coat.",
+        "title": "Glaze"
+      },
+      {
+        "body": "Rest 10–15 minutes, then cut between the bones.",
+        "title": "Rest and cut"
+      }
+    ],
+    "story": "This is the red rib from the Chinese restaurant, rebuilt on the smoker. The marinade underneath is the real char siu way — hoisin, soy, five-spice, rice wine, bean curd for the red — and the finish is the sweet, sticky, thin glaze American Chinese food made famous. Smoke does what the oven can't, and the glaze sets right onto the meat instead of sitting on top of it.",
+    "summary": "The red rib from the Chinese restaurant, rebuilt on the smoker — five-spice marinade, overnight rest, and a thin lacquered glaze.",
+    "title": "Ember Chinese Five-Spice Spare Ribs",
+    "wood": "Cherry or apple"
   }
 ]
