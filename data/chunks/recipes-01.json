@@ -330,22 +330,12 @@
     ]
   },
   {
-    "slug": "smoked-pork-loin",
-    "title": "Applewood Pork Loin",
-    "region": "kansas-city",
-    "protein": "pork",
     "difficulty": "weeknight",
-    "hours": {
-      "min": 2,
-      "max": 3
-    },
-    "servings": "8",
-    "wood": "Apple or cherry",
-    "pitTemp": "250°F",
     "finish": "140–145°F, then rest (it is not a shoulder)",
-    "summary": "A lean roast that dries if you treat it like pulled pork. Pull it like a pork chop and let the rest finish it.",
-    "story": "Loin is the cut people ruin on a smoker because the internet said 203°F. That number is for collagens. Loin is a big chop. Brine it, rub it, kiss it with apple wood, and get it off at 140. Sliced, it should be blushing and juicy. Sauce on the side — mustard or a thin KC.",
-    "school": "Backyard fruitwood",
+    "hours": {
+      "max": 3,
+      "min": 2
+    },
     "image": "/images/pork-loin.jpg",
     "ingredients": [
       {
@@ -355,49 +345,99 @@
           "2 Tbsp kosher salt (or overnight brine: ¼ cup salt + ¼ cup brown sugar per quart water)",
           "2 Tbsp pork rub"
         ]
-      }
-    ],
-    "steps": [
-      {
-        "title": "Brine or dry-brine",
-        "body": "Overnight wet brine or a heavy salt the night before. Loin has no fat to hide dryness. Pat dry. Rub."
       },
       {
-        "title": "Gentle fruitwood",
-        "body": "250°F, apple or cherry. A 3–4 lb loin is often done in 90–150 minutes. Start probing at 75 minutes."
+        "group": "Honey butter injection",
+        "items": [
+          "½ cup butter, melted",
+          "¼ cup honey",
+          "1 Tbsp kosher salt"
+        ]
       },
       {
-        "title": "Pull at 140",
-        "body": "Carryover will take it to 145. Rest 15 minutes. Slice ½-inch medallions. If you wait for 160 it will taste like a cafeteria."
-      }
-    ],
-    "proTips": [
-      {
-        "voice": "Pit note",
-        "text": "A mustard-honey glaze in the last 15 minutes is allowed. A 3-hour wrap in foil is how you make pork-flavored sawdust."
-      },
-      {
-        "voice": "Butcher's note",
-        "text": "Loin, not tenderloin. Tenderloin is smaller and even faster — 30–40 minutes. Don't mix them up."
+        "group": "Glaze and sauce",
+        "items": [
+          "Kelly's honey mustard and onion sauce, for brushing and on the side"
+        ]
       }
     ],
     "milestones": [
       {
+        "hint": "Overnight if you can. Pat dry.",
         "id": "brine",
-        "label": "Brine",
-        "hint": "Overnight if you can. Pat dry, rub."
+        "label": "Brine"
       },
       {
+        "hint": "Honey butter, dissolved, cooled, gridded. Then the rub.",
+        "id": "inject",
+        "label": "Inject"
+      },
+      {
+        "hint": "250°F, apple or cherry.",
         "id": "smoke",
-        "label": "On the pit",
-        "hint": "250°F, apple or cherry."
+        "label": "On the pit"
       },
       {
+        "hint": "Honey mustard and onion sauce, last 15 minutes.",
+        "id": "glaze",
+        "label": "Glaze"
+      },
+      {
+        "hint": "15 minutes, then slice.",
         "id": "pull",
-        "label": "140°F and rest",
-        "hint": "15 minutes, then slice."
+        "label": "140°F and rest"
       }
-    ]
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "A 3-hour wrap in foil is how you make pork-flavored sawdust. No wrap on this one.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Dissolve the salt fully and cool to the touch. Warm and thin goes through the needle; cooled and thick won't.",
+        "voice": "Needle note"
+      },
+      {
+        "text": "Loin, not tenderloin. Tenderloin is smaller and even faster — 30–40 minutes. Don't mix them up.",
+        "voice": "Butcher's note"
+      }
+    ],
+    "protein": "pork",
+    "region": "kansas-city",
+    "school": "Backyard fruitwood",
+    "servings": "8",
+    "slug": "smoked-pork-loin",
+    "steps": [
+      {
+        "body": "Overnight wet brine or a heavy salt the night before. Loin has no fat to hide dryness. Pat dry.",
+        "title": "Brine or dry-brine"
+      },
+      {
+        "body": "Melt the butter, stir in the honey and salt until dissolved. Warm, not hot — hot injection cooks the meat from the inside. Cool until you can touch it. Grid the loin in 1-inch squares, top and sides.",
+        "title": "Inject the honey butter"
+      },
+      {
+        "body": "Rub it all over with pork rub.",
+        "title": "Rub"
+      },
+      {
+        "body": "250°F, apple or cherry. A 3–4 lb loin is often done in 90–150 minutes. Start probing at 75 minutes.",
+        "title": "Smoke"
+      },
+      {
+        "body": "Brush with honey mustard and onion sauce in the last 15 minutes, thin coats.",
+        "title": "Glaze"
+      },
+      {
+        "body": "Carryover will take it to 145. Rest 15 minutes. Slice ½-inch medallions. Put extra sauce on the side. If you wait for 160 it will taste like a cafeteria.",
+        "title": "Pull at 140"
+      }
+    ],
+    "story": "Loin is the cut people ruin on a smoker because the internet said 203°F. That number is for collagens. Loin is a big chop. A honey butter injection keeps it rich and juicy from the inside, apple wood kisses the outside, and it comes off at 140. Brush it with honey mustard and onion sauce in the last fifteen minutes and put extra on the side. Sliced, it should be blushing and juicy.",
+    "summary": "A lean roast that dries if you treat it like pulled pork. A honey butter injection keeps it rich and juicy from the inside — pull it like a pork chop and let the rest finish it.",
+    "title": "Applewood Pork Loin",
+    "wood": "Apple or cherry"
   },
   {
     "slug": "cedar-plank-salmon",
