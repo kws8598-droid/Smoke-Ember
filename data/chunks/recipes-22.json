@@ -7534,5 +7534,87 @@
     "summary": "The red rib from the Chinese restaurant, rebuilt on the smoker — five-spice marinade, overnight rest, and a thin lacquered glaze.",
     "title": "Ember Chinese Five-Spice Spare Ribs",
     "wood": "Cherry or apple"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Warm, buttery, rum-kissed glaze",
+    "hours": {
+      "max": 0.25,
+      "min": 0.15
+    },
+    "image": "/images/ember-butter-rum-glaze.jpg",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "1/2 cup (1 stick) unsalted butter",
+          "2/3 cup packed brown sugar",
+          "1 Tbsp yellow mustard",
+          "1/2 tsp kosher salt",
+          "1/4 tsp black pepper",
+          "1/4 cup heavy cream",
+          "3 Tbsp dark rum"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Butter melted, sugar dissolved, mixture smooth",
+        "id": "melt",
+        "label": "Melt and sweeten"
+      },
+      {
+        "hint": "Cream whisked in, gentle simmer, slightly thickened",
+        "id": "simmer",
+        "label": "Simmer the cream"
+      },
+      {
+        "hint": "Rum stirred in off the heat, served warm",
+        "id": "rum",
+        "label": "Rum last"
+      }
+    ],
+    "pitTemp": "Simmer",
+    "proTips": [
+      {
+        "text": "Rum strength is the cook's call — stirred in off the heat it stays bold; simmered 2–3 minutes it mellows out.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "No-alcohol version: swap the rum for 1–2 tsp rum extract.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "For ham: swap half the cream for pineapple juice — it fits the ham world.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "For chicken or turkey: about 1/2 tsp orange zest lifts it and keeps it from sitting too heavy.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sauces",
+    "region": "southern",
+    "school": null,
+    "servings": "About 1 1/4 cups",
+    "slug": "ember-butter-rum-glaze",
+    "steps": [
+      {
+        "body": "Melt the butter in a small saucepan over medium heat. Stir in the brown sugar, mustard, salt, and pepper until the sugar dissolves and the mixture is smooth, 2–3 minutes.",
+        "title": "Melt and sweeten"
+      },
+      {
+        "body": "Whisk in the heavy cream and simmer gently, stirring, until it thickens just slightly, about 3 minutes. Don't let it boil hard.",
+        "title": "Simmer the cream"
+      },
+      {
+        "body": "Pull the pan off the heat and stir in the dark rum. Serve warm, spooned over sliced ham, chicken, or turkey.",
+        "title": "Rum last"
+      }
+    ],
+    "story": "Butter rum sauce usually lands on bread pudding. This one is built for the pit instead: the sugar cut back from dessert level, a spoon of mustard stirred in for backbone, and dark rum added off the heat so the flavor stays. Spoon it warm over sliced ham, chicken, or turkey and let it run.",
+    "summary": "A dessert-sauce classic rebuilt for the pit — butter, brown sugar, and dark rum, with a mustard backbone so it pours over smoked ham, chicken, and turkey.",
+    "title": "Ember Butter Rum Glaze",
+    "wood": "Pantry"
   }
 ]
