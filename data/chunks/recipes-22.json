@@ -7616,5 +7616,86 @@
     "summary": "A dessert-sauce classic rebuilt for the pit — butter, brown sugar, and dark rum, with a mustard backbone so it pours over smoked ham, chicken, and turkey.",
     "title": "Ember Butter Rum Glaze",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Bacon crisped, spears tender-crisp",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/smoked-bacon-wrapped-asparagus.jpg",
+    "ingredients": [
+      {
+        "group": "Asparagus",
+        "items": [
+          "1 lb thick asparagus spears, woody ends snapped off",
+          "8 slices thin-cut bacon",
+          "1 Tbsp olive oil",
+          "Kosher salt and black pepper"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Alabama white sauce, for dipping"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Spears bundled 3–4, bacon wrapped seam-side down",
+        "id": "wrap",
+        "label": "Bundle and wrap"
+      },
+      {
+        "hint": "250°F, apple or cherry, bacon crisped, spears tender-crisp",
+        "id": "smoke",
+        "label": "Smoke"
+      },
+      {
+        "hint": "Cold white sauce for dipping, drizzled if you like",
+        "id": "sauce",
+        "label": "Sauce off the pit"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Asparagus takes smoke fast, like cheese — a light hand on the wood. Apple or cherry, not a heavy wood.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Cold sauce on hot bundles, always. Mayo breaks if it cooks, so the sauce never goes on the pit.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "A light dusting of Ember rub works in place of plain salt and pepper if you want a little more going on.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "alabama",
+    "school": null,
+    "servings": "4",
+    "slug": "smoked-bacon-wrapped-asparagus",
+    "steps": [
+      {
+        "body": "Brush the spears lightly with olive oil and season with salt and pepper. Bundle 3–4 spears together and wrap each bundle in a slice of bacon, seam-side down so it stays put.",
+        "title": "Bundle and wrap"
+      },
+      {
+        "body": "Pit at 250°F over apple or cherry, bundles seam-side down. Smoke until the bacon is crisped and the spears are tender-crisp, about 30–45 minutes. If the bacon needs help, finish a couple minutes over direct heat.",
+        "title": "Smoke"
+      },
+      {
+        "body": "Pull the bundles and serve with cold Alabama white sauce for dipping, plus a drizzle over the top if you like. Never cook the mayo — sauce goes on after the smoke.",
+        "title": "Sauce off the pit"
+      }
+    ],
+    "story": "Bundles are the classic way to do bacon-wrapped asparagus — a few spears grouped together, one slice of bacon around them, easy to pick up and pass. The smoke stays light so the spears don't turn bitter, the bacon crisps, and the cold white sauce on the side cuts the richness.",
+    "summary": "Thick asparagus bundled with bacon and smoked over light fruit wood, served with cold Alabama white sauce for dipping.",
+    "title": "Smoked Bacon-Wrapped Asparagus with Alabama White Sauce",
+    "wood": "Apple or cherry"
   }
 ]
