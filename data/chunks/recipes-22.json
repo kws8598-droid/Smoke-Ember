@@ -7698,4 +7698,106 @@
     "title": "Smoked Bacon-Wrapped Asparagus with Alabama White Sauce",
     "wood": "Apple or cherry"
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "Hot and spiced, served in warm cups.",
+    "hours": {
+      "max": 3.5,
+      "min": 3
+    },
+    "image": "/images/hot-apple-toddy.jpg",
+    "ingredients": [
+      {
+        "group": "The base",
+        "items": [
+          "3 large baking apples",
+          "1/2 cup water (for baking the apples)",
+          "1 quart boiling water",
+          "1/2 cup sugar",
+          "2 quarts apple juice",
+          "3 lemon rinds, cut in long spirals",
+          "50 whole cloves",
+          "1 (4-inch) stick cinnamon",
+          "1 1/2 teaspoons ground nutmeg"
+        ]
+      },
+      {
+        "group": "For the adults (per cup, at serving — not in the pot)",
+        "items": [
+          "1–2 oz Irish whiskey per cup",
+          "1–2 oz Jamaican rum per cup"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Apples baked tender at 350°, about 45 minutes.",
+        "id": "bake",
+        "label": "Baked"
+      },
+      {
+        "hint": "Baked apples, boiling water, and sugar simmering.",
+        "id": "simmer",
+        "label": "Simmering"
+      },
+      {
+        "hint": "Apple juice in, simmering 1 hour.",
+        "id": "juice",
+        "label": "Juice in"
+      },
+      {
+        "hint": "Lemon, cloves, cinnamon, and nutmeg in for 1 more hour.",
+        "id": "spice",
+        "label": "Spiced"
+      },
+      {
+        "hint": "Whole spices out, served hot in warm cups.",
+        "id": "serve",
+        "label": "Served"
+      }
+    ],
+    "pitTemp": "Stovetop simmer",
+    "proTips": [
+      {
+        "text": "No whiskey or rum in the pot — the adults add it to their own cup, so everybody drinks from the same pot.",
+        "voice": "Kitchen note"
+      },
+      {
+        "text": "Bake the apples till they're properly tender — they break down into the pot, and that's where the body of the drink comes from.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "about 3 quarts (~12 cups)",
+    "slug": "hot-apple-toddy",
+    "steps": [
+      {
+        "body": "Core apples; peel top third of each. Place apples in a shallow baking dish; add 1/2 cup water. Cover and bake at 350° for 45 minutes or until tender, basting occasionally.",
+        "title": "Bake the apples"
+      },
+      {
+        "body": "Place baked apples in a large stainless steel stockpot. Add 1 quart boiling water and sugar. Simmer, uncovered, 30 minutes, stirring occasionally.",
+        "title": "Start the pot"
+      },
+      {
+        "body": "Add apple juice — no whiskey or rum in the pot. Stir well, simmer uncovered 1 hour.",
+        "title": "Add the juice"
+      },
+      {
+        "body": "Stir in lemon rind, cloves, cinnamon, and nutmeg; simmer uncovered an additional hour.",
+        "title": "Spice it"
+      },
+      {
+        "body": "Remove whole spices, discard. Serve hot in warm serving cups. Adults add 1–2 oz whiskey and/or rum to their own cup. Yield: about 3 quarts (~12 cups) of base.",
+        "title": "Serve it hot"
+      }
+    ],
+    "story": "A vintage 1941 Hot Apple Toddy from a Thanksgiving collection Kelly found. Not Appalachian — vintage 1941 Americana from the Eatmor cranberry era, so it sits under “and Beyond.” Baked apples simmered with apple juice, lemon, cloves, cinnamon, and nutmeg, and the pot stays family-friendly — the whiskey and rum go in the glass, not the pot. (Date per Kelly, unconfirmed.)",
+    "summary": "A vintage 1941 hot apple toddy — baked apples simmered with apple juice, lemon, cloves, cinnamon, and nutmeg. Family-friendly as poured; adults can add their own whiskey or rum.",
+    "title": "Hot Apple Toddy",
+    "wood": "None"
+  }
 ]
