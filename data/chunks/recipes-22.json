@@ -7799,5 +7799,110 @@
     "summary": "A vintage 1941 hot apple toddy — baked apples simmered with apple juice, lemon, cloves, cinnamon, and nutmeg. Family-friendly as poured; adults can add their own whiskey or rum.",
     "title": "Hot Apple Toddy",
     "wood": "None"
+  },
+ {
+    "difficulty": "weeknight",
+    "finish": "Chilled and set, cinnamon-dusted top",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/sugar-cream-pie.jpg",
+    "ingredients": [
+      {
+        "group": "The crust",
+        "items": [
+          "1 single-crust pie dough, homemade or store-bought, for a 9-inch pie plate"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "1 cup sugar",
+          "1/4 cup cornstarch",
+          "2 cups 2% milk",
+          "1/2 cup butter, cubed",
+          "1 teaspoon vanilla extract"
+        ]
+      },
+      {
+        "group": "The top",
+        "items": [
+          "1/4 teaspoon ground cinnamon"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "450°F, edges light golden, bottom golden.",
+        "id": "crust",
+        "label": "Crust parbaked"
+      },
+      {
+        "hint": "Boiled 2 minutes, thick and bubbly.",
+        "id": "fill",
+        "label": "Filling thickened"
+      },
+      {
+        "hint": "375°F, 15–20 minutes, crust golden.",
+        "id": "bake",
+        "label": "Baked"
+      },
+      {
+        "hint": "Refrigerated until completely set.",
+        "id": "chill",
+        "label": "Chilled"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "Fill the foil-lined crust almost all the way to the top with weights, or the crust bubbles up and shrinks.",
+        "voice": "Test kitchen"
+      },
+      {
+        "text": "Whole milk, buttermilk, or half-and-half make it richer — but don't use skim, fat-free, or almond milk, or the filling won't set.",
+        "voice": "Sweet Shop"
+      },
+      {
+        "text": "Don't freeze it — custard pies don't freeze well. Covered in the fridge, it keeps up to 4 days.",
+        "voice": "Sweet Shop"
+      }
+    ],
+    "protein": "desserts",
+    "region": "amish",
+    "school": null,
+    "servings": "8",
+    "slug": "sugar-cream-pie",
+    "steps": [
+      {
+        "body": "Preheat the oven to 450°F. On a lightly floured surface, roll the dough to a 1/8-inch-thick circle and transfer to a 9-inch pie plate. Trim to 1/2 inch beyond the rim and flute the edge. Refrigerate 30 minutes.",
+        "title": "Roll and chill the crust"
+      },
+      {
+        "body": "Line the unpricked crust with a double thickness of foil and fill with pie weights, dried beans, or uncooked rice. Bake on a lower oven rack until the edge is light golden brown, 15–20 minutes. Remove the foil and weights and bake until the bottom is golden brown, 3–6 minutes longer. Cool on a wire rack. Reduce the oven to 375°F.",
+        "title": "Parbake the shell"
+      },
+      {
+        "body": "Meanwhile, in a large saucepan, whisk together the sugar and cornstarch, then whisk in the milk until smooth. Bring to a boil, reduce the heat, and cook and stir for 2 minutes or until thickened and bubbly.",
+        "title": "Cook the filling"
+      },
+      {
+        "body": "Remove from the heat and stir in the butter and vanilla until the butter is fully melted and incorporated.",
+        "title": "Butter and vanilla in"
+      },
+      {
+        "body": "Pour the filling into the crust and sprinkle the cinnamon all over the top. Bake at 375°F until the crust is golden brown, 15–20 minutes.",
+        "title": "Fill, spice, and bake"
+      },
+      {
+        "body": "Cool to room temperature on a wire rack, then refrigerate until completely chilled before slicing.",
+        "title": "Cool and chill"
+      }
+    ],
+    "story": "Sugar cream pie is Indiana's official state pie — the Hoosier pie — going back to the 1800s Amish and Shaker communities, made from pantry staples. This version follows Taste of Home's classic: sugar, cornstarch, milk, butter, and vanilla, no eggs at all.",
+    "summary": "Indiana's official state pie — a rich, custardy sugar-and-cream filling in a flaky crust, cinnamon on top.",
+    "title": "Sugar Cream Pie",
+    "wood": "Pantry"
   }
 ]
