@@ -7905,4 +7905,100 @@
     "title": "Sugar Cream Pie",
     "wood": "Pantry"
   }
+,
+  {
+    "difficulty": "weekend",
+    "finish": "165°F in the breast, rested 20–30 minutes",
+    "hours": {
+      "max": 5,
+      "min": 4
+    },
+    "image": "/images/ember-herb-dry-brine-turkey.jpg",
+    "ingredients": [
+      {
+        "group": "Dry brine mix",
+        "items": [
+          "1 Tbsp kosher salt",
+          "1 Tbsp dried sage",
+          "1 Tbsp dried rosemary, crushed",
+          "2 tsp garlic powder",
+          "2 tsp coarse black pepper"
+        ]
+      },
+      {
+        "group": "Bird",
+        "items": [
+          "1 store-bought turkey (12–14 lb), fully thawed, patted very dry"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Rubbed all over, uncovered in the fridge 24–48 hours.",
+        "id": "brine",
+        "label": "Dry brined"
+      },
+      {
+        "hint": "275–300°F cherry wood, breast to 150°F.",
+        "id": "smoke",
+        "label": "Smoked"
+      },
+      {
+        "hint": "375–400°F to 165°F in the breast.",
+        "id": "finish",
+        "label": "Hot finish"
+      },
+      {
+        "hint": "Rest 20–30 minutes before carving.",
+        "id": "rest",
+        "label": "Rested"
+      }
+    ],
+    "pitTemp": "275–300°F, finish 375–400°F",
+    "proTips": [
+      {
+        "text": "No extra salt anywhere else in the cook — the bird's already brined and the rub carries the salt.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Poultry takes smoke fast — light hand on the wood.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Uncovered in the fridge is the point — it dries the skin so it crisps.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Spatchcock or leave it whole? Flat cooks faster and more even — the breast and legs finish closer together, and the skin crisps all over because nothing's tucked underneath. On a 12–14 lb bird at these temps, spatchcocking cuts about 1½–2 hours — roughly 4–5 hours whole, about 2½ hours flat. Same temps either way, just watch the thermometer closer on a flat bird, it moves faster.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "poultry",
+    "region": "backyard",
+    "school": null,
+    "servings": "10–12",
+    "slug": "ember-herb-dry-brine-turkey",
+    "steps": [
+      {
+        "body": "Mix the brine. Rub it all over the skin and inside the cavity. Set the bird on a rack over a sheet pan, uncovered, in the fridge 24–48 hours (24 minimum). Do not rinse — brush off any loose excess before cooking.",
+        "title": "Dry brine"
+      },
+      {
+        "body": "Cold meat straight on the pit. Smoke at 275–300°F over cherry wood to 150°F in the breast.",
+        "title": "Smoke"
+      },
+      {
+        "body": "Turn the heat up to 375–400°F and finish to 165°F in the breast.",
+        "title": "Hot finish"
+      },
+      {
+        "body": "Rest 20–30 minutes before carving.",
+        "title": "Rest"
+      }
+    ],
+    "story": "This one is for the folks in the wet-brine versus dry-brine versus injecting argument who don't want to inject. A store-bought bird is already brined, so the salt stays light — sage, rosemary, garlic, and black pepper rubbed on, uncovered in the fridge so the skin dries and crisps, then smoked over cherry and finished hot.",
+    "summary": "A savory herb dry brine for the folks who don't want to inject — sage, rosemary, garlic, and black pepper rubbed over a store-bought bird, smoked low over cherry and finished hot for crisp skin.",
+    "title": "Ember Herb Dry Brine Turkey",
+    "wood": "cherry"
+  }
 ]
