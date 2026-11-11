@@ -9577,5 +9577,156 @@
     "summary": "A soft yeasted loaf stacked with sugar cookie filling and Christmas sprinkles, pulled apart warm under vanilla buttercream. Cinnamon in the filling, almond in the dough.",
     "title": "Ember Sugar Cookie Pull-Apart Bread",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Deep golden, thick powdered sugar coat, marzipan ribbon inside",
+    "hours": {
+      "max": 4.5,
+      "min": 4
+    },
+    "image": "/images/ember-christmas-stollen.jpg",
+    "ingredients": [
+      {
+        "group": "The fruit soak",
+        "items": [
+          "3/4 cup raisins",
+          "1/2 cup candied orange peel, chopped",
+          "1/4 cup candied lemon peel or dried cranberries",
+          "1/3 cup dark rum or orange juice"
+        ]
+      },
+      {
+        "group": "The dough",
+        "items": [
+          "1/2 cup whole milk, warmed to 110°F",
+          "2 1/4 teaspoons active dry yeast (1 packet)",
+          "1/4 cup granulated sugar",
+          "3 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon ground cardamom",
+          "1/2 teaspoon ground cinnamon",
+          "1/4 teaspoon ground nutmeg",
+          "1 teaspoon lemon zest",
+          "1 large egg, room temperature",
+          "1 teaspoon vanilla extract",
+          "1/2 cup unsalted butter, softened",
+          "1/2 cup slivered almonds, toasted"
+        ]
+      },
+      {
+        "group": "The filling and coating",
+        "items": [
+          "7 ounces marzipan",
+          "1/4 cup unsalted butter, melted",
+          "1 cup powdered sugar"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Fruit soaked at least 1 hour, drained and patted dry.",
+        "id": "soak",
+        "label": "Soak the fruit"
+      },
+      {
+        "hint": "Dough kneaded 6–8 minutes, fruit and almonds kneaded in.",
+        "id": "dough",
+        "label": "Make the dough"
+      },
+      {
+        "hint": "First rise 1½–2 hours, shaped with the marzipan log, second rise 45 minutes.",
+        "id": "rise",
+        "label": "Shape with marzipan"
+      },
+      {
+        "hint": "350°F, 35–40 minutes, deep golden, 190°F inside.",
+        "id": "bake",
+        "label": "Bake"
+      },
+      {
+        "hint": "Brushed with butter and sugared twice — once hot, once cool.",
+        "id": "sugar",
+        "label": "Butter and sugar"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "Tuck in stray fruit — exposed raisins burn, so press them inside before baking.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Coat twice — the double butter and sugar layer seals in moisture.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Let it rest — wrap and rest 1 to 3 days for the best flavor; it improves as it sits.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Use a thermometer — 190°F inside means it is baked through.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "A turned-off oven with the light on is a great proofing spot.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Room temperature 2 to 3 weeks, wrapped in foil and plastic. Fridge not recommended — it dries the bread. Freezer 3 months, wrapped tight; sugar it again after thawing.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Bake up to 2 weeks before Christmas; it improves as it rests. Soak the fruit the night before baking.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "backyard",
+    "school": null,
+    "servings": "16 slices",
+    "slug": "ember-christmas-stollen",
+    "steps": [
+      {
+        "body": "Combine the raisins, candied peels, and rum or orange juice. Let soak at least 1 hour, then drain and pat dry.",
+        "title": "Soak the fruit"
+      },
+      {
+        "body": "Stir the yeast and 1 teaspoon of the sugar into the warm milk. Let stand 5 to 10 minutes until foamy.",
+        "title": "Proof the yeast"
+      },
+      {
+        "body": "In a stand mixer, combine the flour, remaining sugar, salt, spices, and lemon zest. Add the yeast mixture, egg, and vanilla and mix with the dough hook. Add the softened butter a piece at a time and knead 6 to 8 minutes until smooth and soft.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Knead in the drained fruit and almonds on low just until evenly distributed.",
+        "title": "Add the fruit and nuts"
+      },
+      {
+        "body": "Cover and let rise in a warm spot 1½ to 2 hours, until nearly doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Roll the dough into a 10×8-inch oval. Roll the marzipan into a 9-inch log and lay it slightly off center. Fold the larger side over the marzipan, leaving a step at the edge, and press to seal.",
+        "title": "Shape with marzipan"
+      },
+      {
+        "body": "Place on a lined baking sheet, cover, and rise 45 minutes. Heat the oven to 350°F.",
+        "title": "Second rise"
+      },
+      {
+        "body": "Bake 35 to 40 minutes, until deep golden and 190°F inside. Tent with foil if it browns too fast.",
+        "title": "Bake"
+      },
+      {
+        "body": "While hot, brush with half the melted butter and sift on a thick layer of powdered sugar. Repeat once cool.",
+        "title": "Butter and sugar"
+      }
+    ],
+    "story": "A classic Dresden-style stollen — the German Christmas bread baked in Dresden for more than 500 years, its folded shape and white sugar coat said to stand for the Christ child wrapped in swaddling clothes. Written up as found; Kelly hasn't baked it yet.",
+    "summary": "A buttery German Christmas loaf — rum-soaked raisins and candied peel, toasted almonds, warm spice, and a marzipan ribbon through the middle — brushed with butter and buried in powdered sugar like fresh snow.",
+    "title": "Ember Christmas Stollen",
+    "wood": "Pantry"
   }
 ]
