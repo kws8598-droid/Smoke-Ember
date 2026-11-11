@@ -8659,5 +8659,95 @@
     "summary": "The Thanksgiving classic — tender green beans in a creamy, savory chicken sauce, baked under a golden blanket of crispy fried onions.",
     "title": "Classic Green Bean Casserole",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown on top, bubbling at the edges",
+    "hours": {
+      "max": 1.25,
+      "min": 1
+    },
+    "image": "/images/hash-brown-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "The casserole",
+        "items": [
+          "1 bag (30 oz) frozen Potatoes O'Brien, diced, thawed",
+          "1 can (10.5 oz) condensed cream of chicken soup",
+          "2 cups sour cream",
+          "2 1/2 cups shredded sharp cheddar, divided",
+          "1/4 cup finely diced yellow onion, extra",
+          "Cracked black pepper, to taste",
+          "Salt, to taste"
+        ]
+      },
+      {
+        "group": "The topping",
+        "items": [
+          "1 sleeve Ritz crackers, crushed coarse",
+          "1/2 stick butter, melted",
+          "1 can (6 oz) crispy French fried onions"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "O'Brien, soup, sour cream, 2 cups cheddar, extra onion, pepper and salt stirred together",
+        "id": "mix",
+        "label": "Mix it up"
+      },
+      {
+        "hint": "Spread in a greased 9x13, remaining cheddar on top, Ritz and butter over that, fried onions around the top",
+        "id": "top",
+        "label": "Top it"
+      },
+      {
+        "hint": "350°F, 45–55 minutes, golden brown and bubbling at the edges",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "Thaw the O'Brien mix first — frozen potatoes straight from the bag make a watery casserole.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Watch the top near the end — the fried onions turn dark faster than the crackers.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "8–10",
+    "slug": "hash-brown-casserole",
+    "steps": [
+      {
+        "body": "Heat the oven to 350°F. Grease a 9x13-inch baking dish.",
+        "title": "Preheat the oven"
+      },
+      {
+        "body": "In a large bowl, stir together the thawed Potatoes O'Brien, cream of chicken soup, sour cream, 2 cups of the cheddar, the extra diced onion, cracked black pepper, and salt until everything is well coated.",
+        "title": "Mix it up"
+      },
+      {
+        "body": "Spread the mixture evenly in the greased dish. Sprinkle the remaining 1/2 cup cheddar over the top.",
+        "title": "Into the pan"
+      },
+      {
+        "body": "Toss the crushed Ritz crackers with the melted butter and spread over the top. Scatter the French fried onions around the top.",
+        "title": "Top it"
+      },
+      {
+        "body": "Bake uncovered 45–55 minutes, until golden brown on top and bubbling at the edges. Rest 5 minutes before serving.",
+        "title": "Bake"
+      }
+    ],
+    "story": "The Cracker Barrel hash brown casserole, the way Kelly calls it — diced Potatoes O'Brien in a creamy chicken-soup and sour cream sauce, plenty of sharp cheddar, and the same buttery Ritz topping as his broccoli casserole. No sausage, no corn flakes.",
+    "summary": "Creamy, cheesy diced potatoes baked under a buttery Ritz cracker topping with crispy fried onions scattered around the top.",
+    "title": "Hash Brown Casserole",
+    "wood": "Pantry"
   }
 ]
