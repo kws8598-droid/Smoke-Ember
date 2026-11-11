@@ -8578,5 +8578,86 @@
     "summary": "Dried butter beans — big limas — slow-simmered with a smoked ham hock till creamy and tender, finished with a splash of apple cider vinegar and left juicy in their pot liquor.",
     "title": "Southern Butter Beans",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Hot and bubbling, fried onions golden brown",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/classic-green-bean-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "The casserole",
+        "items": [
+          "1 can (10.5 oz) Campbell's condensed cream of chicken soup",
+          "1/2 cup milk",
+          "1 teaspoon soy sauce",
+          "Dash of black pepper",
+          "4 cups frozen or fresh cooked green beans",
+          "1 1/3 cups French's French Fried Onions (2/3 cup in, 2/3 cup on top)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Soup, milk, soy sauce, beans, and 2/3 cup onions mixed in the dish",
+        "id": "mix",
+        "label": "Mix it up"
+      },
+      {
+        "hint": "350°F, 25 minutes, until hot",
+        "id": "bake",
+        "label": "Bake"
+      },
+      {
+        "hint": "Stirred, remaining onions on top, 5 more minutes till golden brown",
+        "id": "top",
+        "label": "Top and finish"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "Stir the beans once before the last 5 minutes so the sauce heats through evenly.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The onions go on in two rounds — the first batch bakes into the sauce, the second stays crisp on top.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Make it a day ahead and bake it when dinner's nearly ready.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "6–8",
+    "slug": "classic-green-bean-casserole",
+    "steps": [
+      {
+        "body": "Heat the oven to 350°F.",
+        "title": "Preheat the oven"
+      },
+      {
+        "body": "In a baking or casserole dish, mix the soup, milk, soy sauce, beans, and 2/3 cup of the onions until combined. Season with salt and pepper.",
+        "title": "Mix it up"
+      },
+      {
+        "body": "Bake for 25 minutes or until hot.",
+        "title": "Bake"
+      },
+      {
+        "body": "Stir the bean mixture. Sprinkle with the remaining 2/3 cup onions. Continue baking for another 5 minutes, or until the onions are golden brown. Serve immediately.",
+        "title": "Top and finish"
+      }
+    ],
+    "story": "Created in 1955 by Dorcas Reilly, a home economist in Campbell's test kitchen in Camden, New Jersey — first printed on soup cans as \"Green Bean Bake,\" built from ingredients most households already had in the pantry. The classic version — the one Kelly's house has made before.",
+    "summary": "The Thanksgiving classic — tender green beans in a creamy, savory chicken sauce, baked under a golden blanket of crispy fried onions.",
+    "title": "Classic Green Bean Casserole",
+    "wood": "Pantry"
   }
 ]
