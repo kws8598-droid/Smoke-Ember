@@ -9320,5 +9320,79 @@
     "summary": "Brown sugar and smoked paprika with garlic, onion, and a little cayenne — the sweet-smoky coat for ribs, pork butt, and chicken.",
     "title": "Ember Sweet & Smoky Rub",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Dark red, pepper-forward, salt-led",
+    "hours": {
+      "max": 0.15,
+      "min": 0.1
+    },
+    "image": "/images/ember-texas-style-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "2 Tbsp smoked paprika",
+          "2 Tbsp black pepper",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 Tbsp salt",
+          "1 tsp chili powder",
+          "1/2 tsp cayenne pepper"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything in the bowl, color even.",
+        "id": "mix",
+        "label": "Mix"
+      },
+      {
+        "hint": "Airtight jar, labeled. Shake before every cook.",
+        "id": "jar",
+        "label": "Jar"
+      },
+      {
+        "hint": "Brisket and beef ribs — pepper does the talking.",
+        "id": "use",
+        "label": "Use"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "Coarse black pepper matters here — fine pepper disappears into the bark.",
+        "voice": "Pantry note"
+      },
+      {
+        "text": "No sugar in this one, so it won't scorch over hotter heat the way a sweet rub will.",
+        "voice": "Pantry note"
+      }
+    ],
+    "protein": "rubs",
+    "region": "texas",
+    "school": null,
+    "servings": "About ½ cup",
+    "slug": "ember-texas-style-rub",
+    "steps": [
+      {
+        "body": "Stir everything together in a bowl until the color is even.",
+        "title": "Mix it"
+      },
+      {
+        "body": "Rub out any clumps with your fingers.",
+        "title": "Break it up"
+      },
+      {
+        "body": "Store in an airtight jar, labeled. Shake before every cook.",
+        "title": "Jar it"
+      }
+    ],
+    "story": "From the Mia's Eats \"8 Homemade BBQ Dry Rubs\" graphic Kelly sent Nov 11 — the Texas one of the set, written up Ember-style. Pepper does the talking here, not sugar: there's none in it.",
+    "summary": "Smoked paprika and a heavy hand of black pepper over garlic, onion, and salt — the Texas coat for brisket and beef ribs.",
+    "title": "Ember Texas-Style Rub",
+    "wood": "Pantry"
   }
 ]
