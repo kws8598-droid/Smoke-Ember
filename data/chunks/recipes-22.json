@@ -8397,5 +8397,100 @@
     "summary": "Tender yellow squash and sweet onion tucked into a creamy cheddar filling, all under a golden, buttery Ritz cracker crust.",
     "title": "Ember Cheesy Ritz Squash Casserole",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Tender greens in rich, smoky pot likker",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/southern-turnip-greens.jpg",
+    "ingredients": [
+      {
+        "group": "The pot",
+        "items": [
+          "2 ham hocks",
+          "64 ounces unsalted chicken stock",
+          "1/4 cup apple cider vinegar",
+          "1 1/2 tablespoons garlic powder",
+          "1 1/2 tablespoons onion powder",
+          "1 tablespoon seasoned salt",
+          "2 teaspoons smoked paprika",
+          "1 teaspoon black pepper"
+        ]
+      },
+      {
+        "group": "The greens",
+        "items": [
+          "2 pounds turnip greens, stems removed and chopped"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Hot sauce, on the side"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Hocks simmered covered 1 hour in the seasoned stock",
+        "id": "simmer",
+        "label": "Simmer the hocks"
+      },
+      {
+        "hint": "Greens wilted in a little at a time, simmered covered 1 hour till tender",
+        "id": "greens",
+        "label": "Add the greens"
+      },
+      {
+        "hint": "Hock meat picked and stirred back in, taste and adjust, hot sauce on the side",
+        "id": "pick",
+        "label": "Pick the hock"
+      }
+    ],
+    "pitTemp": "Stovetop simmer",
+    "proTips": [
+      {
+        "text": "Pot likker is the cooking liquid left behind — smoky, seasoned, and not to be thrown away. Serve it with cornbread for sopping.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Wash the greens thoroughly and cut away the tough stems before chopping.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The longer they cook, the more tender they get and the richer the pot likker.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Hot sauce goes on the side, not in the pot — let each person dose their own bowl.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "6–8",
+    "slug": "southern-turnip-greens",
+    "steps": [
+      {
+        "body": "In a large Dutch oven or stock pot, add the ham hocks, stock, vinegar, garlic powder, onion powder, seasoned salt, paprika, and pepper. Bring to a boil, reduce to a simmer, reduce heat to medium-low and simmer, covered, for 1 hour.",
+        "title": "Simmer the hocks"
+      },
+      {
+        "body": "Add the turnip greens to the pot a little at a time — wilt them in until they all fit. Bring to a boil again, reduce to a simmer, and simmer covered for 1 hour until tender.",
+        "title": "Add the greens"
+      },
+      {
+        "body": "Take the ham hock out of the pot and pick as much meat off the bone as you would like. Add the meat back to the pot, stir to combine, taste, and adjust seasoning if needed. Serve with hot sauce on the side — let folks dose their own bowl.",
+        "title": "Pick the hock"
+      }
+    ],
+    "story": "Southern turnip greens are a staple of Southern cooking — smoky ham hock, plenty of seasoning, and the pot likker left behind is the prize, made for sopping up with cornbread. Written up as found; Kelly hasn't cooked it yet.",
+    "summary": "Fresh turnip greens simmered low and slow with smoky ham hocks in a well-seasoned broth till tender — don't forget the pot likker.",
+    "title": "Southern Turnip Greens",
+    "wood": "Pantry"
   }
 ]
