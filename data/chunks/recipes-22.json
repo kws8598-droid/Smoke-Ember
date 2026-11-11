@@ -9394,5 +9394,80 @@
     "summary": "Smoked paprika and a heavy hand of black pepper over garlic, onion, and salt — the Texas coat for brisket and beef ribs.",
     "title": "Ember Texas-Style Rub",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Sweet, warm, cinnamon in the background",
+    "hours": {
+      "max": 0.15,
+      "min": 0.1
+    },
+    "image": "/images/ember-honey-bbq-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp paprika",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 tsp salt",
+          "1 tsp black pepper",
+          "1 tsp ground mustard",
+          "1/2 tsp cinnamon"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything in the bowl, color even.",
+        "id": "mix",
+        "label": "Mix"
+      },
+      {
+        "hint": "Airtight jar, labeled. Shake before every cook.",
+        "id": "jar",
+        "label": "Jar"
+      },
+      {
+        "hint": "Pork and chicken — sweet with a warm edge.",
+        "id": "use",
+        "label": "Use"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "The cinnamon is light on purpose — more than half a teaspoon and it starts tasting like a pie rub.",
+        "voice": "Pantry note"
+      },
+      {
+        "text": "Sweet rubs burn over high heat — low and slow, or on late.",
+        "voice": "Pantry note"
+      }
+    ],
+    "protein": "rubs",
+    "region": "southern",
+    "school": null,
+    "servings": "About ⅔ cup",
+    "slug": "ember-honey-bbq-rub",
+    "steps": [
+      {
+        "body": "Stir everything together in a bowl until the color is even.",
+        "title": "Mix it"
+      },
+      {
+        "body": "Rub out any brown-sugar clumps with your fingers.",
+        "title": "Break it up"
+      },
+      {
+        "body": "Store in an airtight jar, labeled. Shake before every cook.",
+        "title": "Jar it"
+      }
+    ],
+    "story": "From the Mia's Eats \"8 Homemade BBQ Dry Rubs\" graphic Kelly sent Nov 11 — the honey one of the set, written up Ember-style. The cinnamon is the twist: half a teaspoon, enough to warm it up without turning it into a dessert rub.",
+    "summary": "Brown sugar, paprika, and mustard with a half-teaspoon of cinnamon — a sweet BBQ rub with a warm edge, for pork and chicken.",
+    "title": "Ember Honey BBQ Rub",
+    "wood": "Pantry"
   }
 ]
