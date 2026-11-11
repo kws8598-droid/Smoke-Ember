@@ -8945,5 +8945,116 @@
     "summary": "Chicken breast pounded thin, dredged in seasoned flour, fried crisp in the skillet, and smothered in sawmill gravy — the chicken cousin of the country fried steak.",
     "title": "Chicken Fried Chicken",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown crust, white pepper gravy on top",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/smoked-country-fried-steak.jpg",
+    "ingredients": [
+      {
+        "group": "The steaks",
+        "items": [
+          "4 cube steaks, about 1 1/2 lb total — or 4 deer steaks, pounded to 1/4 inch thick",
+          "Salt and black pepper, for the smoke"
+        ]
+      },
+      {
+        "group": "The dredge",
+        "items": [
+          "1 1/2 cups all-purpose flour",
+          "1 Tbsp Ember rub",
+          "1 tsp salt",
+          "1 tsp black pepper",
+          "1 cup buttermilk, for dipping",
+          "Oil for frying (cast iron, 350°F)"
+        ]
+      },
+      {
+        "group": "The white pepper gravy",
+        "items": [
+          "2 Tbsp butter (or pan drippings)",
+          "2 Tbsp flour",
+          "2 cups milk",
+          "1 tsp white pepper",
+          "Salt to taste"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Salt and pepper, 250°F oak and pecan, 30–45 minutes — light smoke only.",
+        "id": "smoke",
+        "label": "Season and smoke"
+      },
+      {
+        "hint": "Buttermilk, then seasoned flour, pressed on all over.",
+        "id": "dredge",
+        "label": "Dredge"
+      },
+      {
+        "hint": "Cast iron, 350°F oil, 3–4 minutes per side, golden brown and crisp.",
+        "id": "fry",
+        "label": "Fry"
+      },
+      {
+        "hint": "Butter, flour, milk, white pepper — no sausage.",
+        "id": "gravy",
+        "label": "Make the gravy"
+      }
+    ],
+    "pitTemp": "250°F smoke, then cast-iron fry",
+    "proTips": [
+      {
+        "text": "Deer steak cooks faster than beef — watch it in the fry, it can go from golden to dry in a hurry.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The steaks come off the smoke still pink inside on purpose — the fry brings them the rest of the way.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Keep the fried steaks warm in a low oven while the gravy comes together, so the crust stays crisp.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "White pepper is the point of the gravy — taste it before you salt, the pepper does the talking.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "beef",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "smoked-country-fried-steak",
+    "steps": [
+      {
+        "body": "Salt and pepper the steaks. Smoke at 250°F over oak and pecan, 30–45 minutes — just a light smoke, don't cook them through. The fry finishes the job.",
+        "title": "Season and smoke"
+      },
+      {
+        "body": "Mix the flour, Ember rub, salt, and pepper. Dip each steak in buttermilk, then press it into the seasoned flour until it's coated all over.",
+        "title": "Dredge"
+      },
+      {
+        "body": "Cast iron, oil at 350°F, 3–4 minutes per side until golden brown and crisp. Don't crowd the pan — fry two at a time if you have to. Drain on a rack and keep warm.",
+        "title": "Fry"
+      },
+      {
+        "body": "Butter in the pan, flour in, stir a minute. Milk in slow, whisking, until it thickens. White pepper in, salt to taste. No sausage in this one.",
+        "title": "Make the gravy"
+      },
+      {
+        "body": "Gravy over the top of each steak, while the crust is still crisp.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Kelly's call, Nov 11: the country fried steak the app was missing, done his way — smoke first, then fry, oak and pecan over hickory, white pepper gravy with no sausage. Beef cube steak is the classic; deer steak works the same, pounded thin. No claim Kelly cooked this one yet.",
+    "summary": "Cube steak — beef or deer — smoked over oak and pecan, dredged in seasoned flour, fried crisp in cast iron, and covered in white pepper gravy. Country fried or chicken fried, same dish either way.",
+    "title": "Smoked Country Fried Steak",
+    "wood": "Oak + pecan"
   }
 ]
