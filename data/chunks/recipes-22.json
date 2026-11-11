@@ -9728,5 +9728,89 @@
     "summary": "A buttery German Christmas loaf — rum-soaked raisins and candied peel, toasted almonds, warm spice, and a marzipan ribbon through the middle — brushed with butter and buried in powdered sugar like fresh snow.",
     "title": "Ember Christmas Stollen",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Hot in warm mugs, maple-sweet with butter melted in",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/hot-maple-toddy.jpg",
+    "ingredients": [
+      {
+        "group": "The base",
+        "items": [
+          "2 quarts hot apple cider (about 8 cups)",
+          "3/4 cup pure maple syrup",
+          "4 Tbsp butter",
+          "2 cinnamon sticks (4-inch)",
+          "1/2 tsp ground cinnamon",
+          "10 whole cloves",
+          "1/2 tsp ground nutmeg"
+        ]
+      },
+      {
+        "group": "For the adults",
+        "items": [
+          "1–2 oz bourbon per cup, at serving"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Cider warmed, maple and butter stirred in",
+        "id": "base",
+        "label": "Maple and butter in"
+      },
+      {
+        "hint": "Low simmer 20–30 minutes, spices fished out",
+        "id": "simmer",
+        "label": "Spice and simmer"
+      },
+      {
+        "hint": "Hot in warm mugs, bourbon on the side for the adults",
+        "id": "serve",
+        "label": "Strain and serve"
+      }
+    ],
+    "pitTemp": "Stovetop simmer",
+    "proTips": [
+      {
+        "text": "Don't boil it hard — a hard boil drives off the cider's brightness and the maple's top notes.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Fish out the cloves before serving — they keep getting stronger the longer they sit.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "about 8 cups",
+    "slug": "hot-maple-toddy",
+    "steps": [
+      {
+        "body": "Warm the cider in a pot over medium heat — don't boil it hard.",
+        "title": "Warm the cider"
+      },
+      {
+        "body": "Stir in the maple syrup and butter until the butter melts.",
+        "title": "Maple and butter in"
+      },
+      {
+        "body": "Add the cinnamon sticks, ground cinnamon, cloves, and nutmeg. Simmer low 20–30 minutes so the spices get in there.",
+        "title": "Spice and simmer"
+      },
+      {
+        "body": "Fish out the whole spices. Serve hot in warm mugs. Adults add 1–2 oz bourbon to their own cup.",
+        "title": "Strain and serve"
+      }
+    ],
+    "story": "Kelly's maple take on a hot toddy — hot apple cider, pure maple syrup, and butter melted in, simmered with cinnamon and cloves for a cold night. Bourbon stays on the side, for the adults.",
+    "summary": "Hot apple cider with pure maple syrup and butter, simmered with cinnamon and cloves — Kelly's maple take on a hot toddy, with bourbon on the side for the adults.",
+    "title": "Hot Maple Toddy",
+    "wood": "None"
   }
 ]
