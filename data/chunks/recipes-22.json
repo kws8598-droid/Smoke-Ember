@@ -8824,5 +8824,126 @@
     "summary": "Smoked paprika and brown sugar with cumin and chili powder — a smoky rub with a southwest lean, for pork, chicken, and ribs.",
     "title": "Ember Applewood Smoke Rub",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown crust, sawmill gravy on top",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/chicken-fried-chicken.jpg",
+    "ingredients": [
+      {
+        "group": "The chicken",
+        "items": [
+          "4 boneless, skinless chicken breasts (about 1½ lb total), pounded to ¼ inch"
+        ]
+      },
+      {
+        "group": "The dredge",
+        "items": [
+          "1½ cups all-purpose flour",
+          "1 Tbsp Ember rub",
+          "1 tsp salt",
+          "1 tsp black pepper"
+        ]
+      },
+      {
+        "group": "The dip",
+        "items": [
+          "1 cup buttermilk",
+          "Or, if you don't have buttermilk: 2 eggs beaten with 2 Tbsp milk"
+        ]
+      },
+      {
+        "group": "The fry",
+        "items": [
+          "½ cup vegetable oil, for shallow frying"
+        ]
+      },
+      {
+        "group": "The sawmill gravy — no sausage",
+        "items": [
+          "2 Tbsp butter (or pan drippings)",
+          "2 Tbsp all-purpose flour",
+          "2 cups whole milk",
+          "1 tsp black pepper",
+          "Salt, to taste"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Breasts pounded to an even 1/4 inch, seasoned flour mixed",
+        "id": "prep",
+        "label": "Pound it thin"
+      },
+      {
+        "hint": "Buttermilk or egg wash, then seasoned flour, pressed on, rested 5 minutes",
+        "id": "dredge",
+        "label": "Dip and dredge"
+      },
+      {
+        "hint": "350°F oil, 3–4 minutes a side, golden brown, 165°F inside",
+        "id": "fry",
+        "label": "Fry"
+      },
+      {
+        "hint": "Butter and flour in the same skillet, milk whisked in, simmered till it coats a spoon, black pepper and salt",
+        "id": "gravy",
+        "label": "Sawmill gravy"
+      }
+    ],
+    "pitTemp": "Cast-iron fry",
+    "proTips": [
+      {
+        "text": "Pound even — thin spots overcook and thick spots stay pink.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Let the dredged chicken rest 5 minutes before frying — the crust holds instead of sliding off.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Gravy thickens as it sits — a splash of milk loosens it back up.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "poultry",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "chicken-fried-chicken",
+    "steps": [
+      {
+        "body": "Lay each breast between plastic wrap and pound it out to an even ¼ inch — even thickness so it fries even.",
+        "title": "Pound it thin"
+      },
+      {
+        "body": "Stir together the flour, Ember rub, salt, and black pepper in a shallow dish.",
+        "title": "Season the flour"
+      },
+      {
+        "body": "Dip each breast in buttermilk — or the egg wash if you don't have buttermilk — then into the seasoned flour. Press it on so it sticks. Let the dredged chicken rest 5 minutes so the crust sets before it hits the oil.",
+        "title": "Dip and dredge"
+      },
+      {
+        "body": "Heat the oil to 350°F in a cast-iron skillet. Fry 3–4 minutes a side, until golden brown and 165°F inside. Drain on a rack, not paper towels, so the crust stays crisp.",
+        "title": "Fry"
+      },
+      {
+        "body": "In the same skillet, melt the butter, whisk in the flour and cook a minute, then whisk in the milk and simmer till it coats a spoon. Season with black pepper and salt to taste. No sausage.",
+        "title": "Sawmill gravy"
+      },
+      {
+        "body": "Ladle the sawmill gravy over the chicken and serve hot.",
+        "title": "Serve"
+      }
+    ],
+    "story": "The chicken cousin of the smoked country fried steak — same seasoned flour, same fry, sawmill gravy in place of the white pepper gravy. Kelly hasn't cooked this one yet.",
+    "summary": "Chicken breast pounded thin, dredged in seasoned flour, fried crisp in the skillet, and smothered in sawmill gravy — the chicken cousin of the country fried steak.",
+    "title": "Chicken Fried Chicken",
+    "wood": "Pantry"
   }
 ]
