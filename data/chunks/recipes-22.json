@@ -9246,5 +9246,79 @@
     "summary": "A sweet dry brine for the folks who don't want to inject — brown sugar, thyme, garlic, and black pepper rubbed over a store-bought bird, smoked low over cherry and finished hot for crisp skin.",
     "title": "Ember Sweet Dry Brine Turkey",
     "wood": "cherry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Brick-red, sweet up front, smoke in the finish",
+    "hours": {
+      "max": 0.15,
+      "min": 0.1
+    },
+    "image": "/images/ember-sweet-smoky-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "1/4 cup brown sugar",
+          "2 Tbsp smoked paprika",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 tsp salt",
+          "1 tsp black pepper",
+          "1/2 tsp cayenne pepper"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything in the bowl, color even.",
+        "id": "mix",
+        "label": "Mix"
+      },
+      {
+        "hint": "Airtight jar, labeled. Shake before every cook.",
+        "id": "jar",
+        "label": "Jar"
+      },
+      {
+        "hint": "Ribs, pork butt, and chicken — low and slow.",
+        "id": "use",
+        "label": "Use"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "Sweet rubs burn if they go on too early over high heat — this one is for low and slow, or on in the last stretch.",
+        "voice": "Pantry note"
+      },
+      {
+        "text": "Taste it on a small piece first — the cayenne is light, but the sugar reads sweet.",
+        "voice": "Pantry note"
+      }
+    ],
+    "protein": "rubs",
+    "region": "kansas-city",
+    "school": null,
+    "servings": "About ⅔ cup",
+    "slug": "ember-sweet-smoky-rub",
+    "steps": [
+      {
+        "body": "Stir everything together in a bowl until the color is even.",
+        "title": "Mix it"
+      },
+      {
+        "body": "Rub out any brown-sugar clumps with your fingers.",
+        "title": "Break it up"
+      },
+      {
+        "body": "Store in an airtight jar, labeled. Shake before every cook.",
+        "title": "Jar it"
+      }
+    ],
+    "story": "From the Mia's Eats \"8 Homemade BBQ Dry Rubs\" graphic Kelly sent Nov 11 — the sweet and smoky one of the set, written up Ember-style. The smoked paprika is the whole point: it puts smoke in the rub before the meat ever sees the pit.",
+    "summary": "Brown sugar and smoked paprika with garlic, onion, and a little cayenne — the sweet-smoky coat for ribs, pork butt, and chicken.",
+    "title": "Ember Sweet & Smoky Rub",
+    "wood": "Pantry"
   }
 ]
