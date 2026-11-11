@@ -8293,5 +8293,109 @@
     "summary": "Fresh okra sliced into rounds, dusted in seasoned cornmeal, and pan-fried in a cast-iron skillet till golden and crisp — never slimy, never stirred till the bottom browns.",
     "title": "Southern Fried Okra",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown topping, bubbling at the edges",
+    "hours": {
+      "max": 1,
+      "min": 0.75
+    },
+    "image": "/images/ember-cheesy-ritz-squash-casserole.jpg",
+    "ingredients": [
+      {
+        "group": "The squash",
+        "items": [
+          "4 cups yellow squash, sliced",
+          "1/2 cup onion, diced",
+          "About 1 1/2 cups water (for simmering)"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "2 eggs, beaten",
+          "3/4 cup milk",
+          "1/4 cup melted butter",
+          "1 teaspoon salt",
+          "Ground black pepper, to taste"
+        ]
+      },
+      {
+        "group": "The topping",
+        "items": [
+          "35 Ritz crackers (about 1 sleeve)",
+          "1 cup shredded cheddar cheese",
+          "2 tablespoons butter"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Squash and onion simmered 5–10 minutes till tender, drained, butter melted in",
+        "id": "cook",
+        "label": "Cook the squash and onions"
+      },
+      {
+        "hint": "Half the cracker-cheese mix folded in, milk and eggs stirred through, into the dish",
+        "id": "assemble",
+        "label": "Assemble and bake"
+      },
+      {
+        "hint": "350°F, 25–30 minutes, golden brown topping, rest 5 minutes",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "After draining the squash, squeeze out any excess moisture — too much liquid makes the casserole soggy.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Let it rest 5 minutes after baking so everything sets up before scooping.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Make ahead: assemble up to 24 hours early, covered in the fridge; let it sit at room temperature 30 minutes before it goes in the oven. Leftovers keep 4 days in the fridge, 3 months in the freezer (may go soggy once thawed).",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-cheesy-ritz-squash-casserole",
+    "steps": [
+      {
+        "body": "Preheat to 350°F and grease a casserole dish.",
+        "title": "Preheat the oven"
+      },
+      {
+        "body": "Put the squash, onion, and about 1 1/2 cups of water in a large skillet over medium heat. Cook until the squash and onions are tender, about 5–10 minutes. Drain well. Add the 1/4 cup melted butter and let it melt.",
+        "title": "Cook the squash and onions"
+      },
+      {
+        "body": "In a medium bowl, crush the crackers and stir in the shredded cheese. Add salt and pepper, and stir. Then stir half of the cracker mixture into the squash.",
+        "title": "Make the Ritz topping"
+      },
+      {
+        "body": "In a small bowl, whisk together the milk and eggs until well combined. Pour into the squash mixture and stir well. Pour into the casserole dish.",
+        "title": "Add milk and eggs"
+      },
+      {
+        "body": "Top with the remaining cracker topping and dot with the remaining 2 tablespoons butter. Bake for 25–30 minutes, or until the top is golden brown.",
+        "title": "Assemble and bake"
+      },
+      {
+        "body": "Let the casserole sit for at least 5 minutes, then dig in.",
+        "title": "Rest and serve"
+      }
+    ],
+    "story": "Squash casserole is one of those dishes that varies a hundred ways across the South — this one is Southern Plate's favorite: gooey cheese, buttery cracker crumbs for crunch, and garden-fresh squash. Written up as found; Kelly hasn't cooked it yet.",
+    "summary": "Tender yellow squash and sweet onion tucked into a creamy cheddar filling, all under a golden, buttery Ritz cracker crust.",
+    "title": "Ember Cheesy Ritz Squash Casserole",
+    "wood": "Pantry"
   }
 ]
