@@ -8749,5 +8749,80 @@
     "summary": "Creamy, cheesy diced potatoes baked under a buttery Ritz cracker topping with crispy fried onions scattered around the top.",
     "title": "Hash Brown Casserole",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Smoky, earthy, cumin in the background",
+    "hours": {
+      "max": 0.15,
+      "min": 0.1
+    },
+    "image": "/images/ember-applewood-smoke-rub.jpg",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "2 Tbsp smoked paprika",
+          "2 Tbsp brown sugar",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 tsp salt",
+          "1 tsp black pepper",
+          "1 tsp ground cumin",
+          "1/2 tsp chili powder"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Everything in the bowl, color even.",
+        "id": "mix",
+        "label": "Mix"
+      },
+      {
+        "hint": "Airtight jar, labeled. Shake before every cook.",
+        "id": "jar",
+        "label": "Jar"
+      },
+      {
+        "hint": "Pork, chicken, and ribs — smoke without the pit.",
+        "id": "use",
+        "label": "Use"
+      }
+    ],
+    "pitTemp": "None",
+    "proTips": [
+      {
+        "text": "The cumin is the difference from the Sweet & Smoky Rub — earthy instead of just sweet.",
+        "voice": "Pantry note"
+      },
+      {
+        "text": "Sweet rubs burn over high heat — low and slow, or on late.",
+        "voice": "Pantry note"
+      }
+    ],
+    "protein": "rubs",
+    "region": "backyard",
+    "school": null,
+    "servings": "About ½ cup",
+    "slug": "ember-applewood-smoke-rub",
+    "steps": [
+      {
+        "body": "Stir everything together in a bowl until the color is even.",
+        "title": "Mix it"
+      },
+      {
+        "body": "Rub out any brown-sugar clumps with your fingers.",
+        "title": "Break it up"
+      },
+      {
+        "body": "Store in an airtight jar, labeled. Shake before every cook.",
+        "title": "Jar it"
+      }
+    ],
+    "story": "From the Mia's Eats \"8 Homemade BBQ Dry Rubs\" graphic Kelly sent Nov 11 — the applewood one of the set, written up Ember-style. The smoke comes from the smoked paprika, not the pit — it puts a smoke note on meat cooked anywhere.",
+    "summary": "Smoked paprika and brown sugar with cumin and chili powder — a smoky rub with a southwest lean, for pork, chicken, and ribs.",
+    "title": "Ember Applewood Smoke Rub",
+    "wood": "Pantry"
   }
 ]
