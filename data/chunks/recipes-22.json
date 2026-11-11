@@ -8000,5 +8000,217 @@
     "summary": "A savory herb dry brine for the folks who don't want to inject — sage, rosemary, garlic, and black pepper rubbed over a store-bought bird, smoked low over cherry and finished hot for crisp skin.",
     "title": "Ember Herb Dry Brine Turkey",
     "wood": "cherry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Tender with browned edges, glazed and glossy",
+    "hours": {
+      "max": 1,
+      "min": 0.75
+    },
+    "image": "/images/ember-orange-honey-glazed-brussels-sprouts.jpg",
+    "ingredients": [
+      {
+        "group": "The sprouts",
+        "items": [
+          "1 pound Brussels sprouts, trimmed and halved",
+          "2 tablespoons oil",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon freshly ground pepper"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "1/2 cup Florida Orange Juice",
+          "1 tablespoon apple cider vinegar",
+          "2 tablespoons honey",
+          "1 teaspoon chili paste",
+          "2 teaspoons grated lemon zest (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Halved sprouts tossed with oil, salt, and pepper",
+        "id": "season",
+        "label": "Season the sprouts"
+      },
+      {
+        "hint": "250°F, apple or cherry, 35–45 minutes, browned edges",
+        "id": "smoke",
+        "label": "Smoke cut-side down"
+      },
+      {
+        "hint": "Glaze reduced and syrupy, sprouts tossed hot, lemon zest on top",
+        "id": "glaze",
+        "label": "Toss and serve"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Cut-side down is what browns the edges. Piled up, they just steam.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Glaze goes on hot at the end, never at the start — it would just burn off and turn bitter.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Sprouts take smoke fast, like cheese — a light hand on the wood. Apple or cherry, not a heavy wood.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't overcook them — mushy sprouts are the whole bad reputation in one bite. Tender with browned edges is the target.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "ember-orange-honey-glazed-brussels-sprouts",
+    "steps": [
+      {
+        "body": "Add the halved sprouts to a large bowl and toss with the oil, salt, and pepper till they're coated all over.",
+        "title": "Season the sprouts"
+      },
+      {
+        "body": "Single layer in a perforated grill pan or basket, cut-side down. On the smoker at 250°F over apple or cherry, 35–45 minutes, till they're tender with browned edges. Light wood here — sprouts take smoke fast.",
+        "title": "Smoke cut-side down"
+      },
+      {
+        "body": "While the sprouts smoke, combine the orange juice, apple cider vinegar, honey, and chili paste in a small saucepan over medium-high heat.",
+        "title": "Build the glaze"
+      },
+      {
+        "body": "Bring to a boil and cook for 5 to 10 minutes until reduced and syrupy. Remove from heat and allow to cool slightly.",
+        "title": "Reduce it"
+      },
+      {
+        "body": "Place the sauce in a large bowl and add the hot sprouts. Toss to combine. Transfer to a serving plate and top with lemon zest.",
+        "title": "Toss and serve"
+      }
+    ],
+    "story": "From Florida Citrus — their Florida Orange Juice page shared it with 'Don't pass on this one.' Orange juice, honey, and a little chili heat over smoked sprouts. Written up as found; Kelly hasn't cooked it yet.",
+    "summary": "Smoked cut-side down till the edges brown, then tossed in a sticky orange-honey glaze with a little chili heat. Sweet, tart, and just hot enough.",
+    "title": "Ember Orange Honey Glazed Brussels Sprouts",
+    "wood": "Apple or cherry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown top, center 165°F",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/southern-oyster-dressing.jpg",
+    "ingredients": [
+      {
+        "group": "The dressing",
+        "items": [
+          "6 cups day-old bread cubes",
+          "1 pint shucked oysters, drained (liquor reserved)",
+          "1 medium onion, diced",
+          "2 celery stalks, diced",
+          "6 tablespoons butter",
+          "1 teaspoon rubbed sage",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ]
+      },
+      {
+        "group": "The liquid",
+        "items": [
+          "1 1/2 cups chicken broth",
+          "1/2 cup strained oyster liquor",
+          "2 large eggs"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Bread, vegetables, sage, salt, and pepper tossed",
+        "id": "toss",
+        "label": "Toss the bread"
+      },
+      {
+        "hint": "Broth, oyster liquor, and eggs whisked and poured over",
+        "id": "soak",
+        "label": "Soak the bread"
+      },
+      {
+        "hint": "350°F, 35–45 minutes, golden top, center 165°F",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "Dry your bread thoroughly — spread the cubes on a baking sheet the night before, or toast them briefly in a low oven. Wet bread leads to a soggy dressing.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't skip the oyster liquor — that half cup of strained liquid is where a lot of the depth comes from. If your oysters come with less, top it off with a little extra broth.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Taste the liquid before you pour it — oyster liquor varies in saltiness. If it tastes very salty already, hold back a little on the added salt.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "A splash of lemon juice or a few dashes of hot sauce in the liquid lifts the flavor without making it sour or spicy.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Make-ahead: assemble the whole dish up to a day in advance, cover tight, and refrigerate. Add 5–10 minutes to the bake time going straight from the fridge.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "8–10",
+    "slug": "southern-oyster-dressing",
+    "steps": [
+      {
+        "body": "Preheat oven to 350°F and butter a 9×13-inch baking dish.",
+        "title": "Heat the oven"
+      },
+      {
+        "body": "Melt the butter in a skillet over medium heat. Add the diced onion and celery and cook until softened, about 8 minutes — translucent and fragrant, not browned.",
+        "title": "Soften the vegetables"
+      },
+      {
+        "body": "Put the bread cubes in a large bowl. Add the cooked vegetables, sage, salt, and pepper. Toss gently to combine.",
+        "title": "Toss the bread"
+      },
+      {
+        "body": "In a separate bowl, whisk together the chicken broth, strained oyster liquor, and eggs until smooth.",
+        "title": "Whisk the liquid"
+      },
+      {
+        "body": "Pour the liquid over the bread mixture and stir until everything is evenly moistened. The bread should feel damp throughout but not soupy.",
+        "title": "Soak the bread"
+      },
+      {
+        "body": "Gently fold in the drained oysters. Do not stir aggressively or they will break apart. Chop large oysters into bite-sized pieces first so every spoonful gets one.",
+        "title": "Fold in the oysters"
+      },
+      {
+        "body": "Spread the mixture evenly into the prepared baking dish and bake for 35–45 minutes, until the top is golden brown and the center reaches 165°F on an instant-read thermometer.",
+        "title": "Bake"
+      },
+      {
+        "body": "Let it rest for about 5 minutes before serving.",
+        "title": "Rest"
+      }
+    ],
+    "story": "From the Old Fashioned Recipes group — Rime Elb shared it with the line that one pan has oysters and one doesn't, because Thanksgiving always made it clear which side of the family you took after. Written up as found; Kelly hasn't made it yet.",
+    "summary": "Golden-brown bread dressing with tender oysters tucked through it — briny oyster liquor, butter, sage, and a crisp top. One pan with oysters, one without, if that's how your family does it.",
+    "title": "Southern Oyster Dressing",
+    "wood": "Pantry"
   }
 ]
