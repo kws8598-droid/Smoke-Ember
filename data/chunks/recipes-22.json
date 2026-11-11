@@ -8212,5 +8212,86 @@
     "summary": "Golden-brown bread dressing with tender oysters tucked through it — briny oyster liquor, butter, sage, and a crisp top. One pan with oysters, one without, if that's how your family does it.",
     "title": "Southern Oyster Dressing",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Golden brown and crisp",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/southern-fried-okra.jpg",
+    "ingredients": [
+      {
+        "group": "The okra and coating",
+        "items": [
+          "1 pound fresh okra, washed and dried",
+          "1/2 cup yellow cornmeal",
+          "3/4 teaspoon salt",
+          "1/2 teaspoon black pepper",
+          "1/4–1/2 teaspoon garlic powder",
+          "1/2 cup vegetable oil for shallow frying"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Pods dried, sliced 1/4-inch rounds, dusted in seasoned cornmeal",
+        "id": "slice",
+        "label": "Slice the okra"
+      },
+      {
+        "hint": "Cast-iron skillet, shallow oil, 350–375°F, cornmeal sizzles on contact",
+        "id": "heat",
+        "label": "Heat the skillet"
+      },
+      {
+        "hint": "Uncrowded batches, bottom browned before stirring, drained and served hot",
+        "id": "fry",
+        "label": "Fry in batches"
+      }
+    ],
+    "pitTemp": "Stovetop",
+    "proTips": [
+      {
+        "text": "Dry the pods well before slicing — a wet piece steams and goes soft; a dry piece fries.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't crowd the skillet — it drops the oil temperature and the crust goes soggy.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Let the bottom brown before you stir — stirring knocks the crust off, and the crust is the whole point.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "southern-fried-okra",
+    "steps": [
+      {
+        "body": "Dry whole fresh pods, then slice crosswise into rounds about 1/4 inch thick, keeping them as even as possible.",
+        "title": "Slice the okra"
+      },
+      {
+        "body": "In a broad dry bowl, stir together the cornmeal, salt, black pepper, and garlic powder. Add the cut okra and toss gently until the cut faces pick up a thin dusting.",
+        "title": "Season the cornmeal"
+      },
+      {
+        "body": "Put a heavy cast-iron skillet over medium to medium-high heat. Add enough neutral frying oil to make a shallow layer about 1/4 inch deep. Let it heat until a pinch of cornmeal sizzles as soon as it touches the oil, about 350–375°F on a frying thermometer.",
+        "title": "Heat the skillet"
+      },
+      {
+        "body": "Add the okra in uncrowded batches, letting the bottom brown before stirring. Drain well and serve hot, while the edges are still crunchy.",
+        "title": "Fry in batches"
+      }
+    ],
+    "story": "Skillet fried okra is about as Southern as a side gets — a thin cornmeal edge that gives way to tender green okra, cooked in a cast-iron skillet with a shallow layer of hot oil. Written up as found; Kelly hasn't cooked it yet.",
+    "summary": "Fresh okra sliced into rounds, dusted in seasoned cornmeal, and pan-fried in a cast-iron skillet till golden and crisp — never slimy, never stirred till the bottom browns.",
+    "title": "Southern Fried Okra",
+    "wood": "Pantry"
   }
 ]
