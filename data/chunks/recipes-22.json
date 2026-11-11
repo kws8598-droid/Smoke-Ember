@@ -9469,5 +9469,113 @@
     "summary": "Brown sugar, paprika, and mustard with a half-teaspoon of cinnamon — a sweet BBQ rub with a warm edge, for pork and chicken.",
     "title": "Ember Honey BBQ Rub",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden brown, buttercream on top, pulls apart in layers",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-sugar-cookie-pull-apart-bread.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "3 cups all-purpose flour (360 g)",
+          "5 Tbsp melted butter (71 g)",
+          "3 Tbsp granulated sugar (38 g)",
+          "1 tsp salt (6 g)",
+          "2 1/4 tsp active dry yeast (7 g)",
+          "1 large egg (50 g)",
+          "3/4 cup warm milk (180 g)",
+          "1 tsp vanilla extract (5 g)",
+          "1/2 tsp almond extract (2 g)"
+        ]
+      },
+      {
+        "group": "The sugar cookie filling",
+        "items": [
+          "1/2 cup salted butter, softened (113 g)",
+          "3/4 cup granulated sugar (150 g)",
+          "1 large egg (50 g)",
+          "1 tsp vanilla extract (5 g)",
+          "1/2 tsp almond extract (2 g)",
+          "1 1/4 cups all-purpose flour (156 g)",
+          "1 tsp cinnamon (2.5 g)",
+          "1/4 tsp salt (1.5 g)",
+          "Christmas sprinkles, as desired (20 g)"
+        ]
+      },
+      {
+        "group": "The vanilla buttercream",
+        "items": [
+          "1 Tbsp softened butter (14 g)",
+          "1/2 cup powdered sugar (60 g)",
+          "1/2 tsp heavy whipping cream (2.5 g)",
+          "1/4 tsp vanilla extract (1 g)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamy, dough kneaded, risen 1 hour, rolled into a rectangle.",
+        "id": "dough",
+        "label": "Wake the yeast"
+      },
+      {
+        "hint": "Butter and sugar creamed, filling spread, sprinkles on top.",
+        "id": "filling",
+        "label": "Make the filling"
+      },
+      {
+        "hint": "3 strips stacked, cut into 6–8 sections, cut-side up, risen 30 minutes, baked 25–30 minutes.",
+        "id": "bake",
+        "label": "Stack and cut"
+      },
+      {
+        "hint": "Buttercream spread or drizzled over the slightly cooled loaf.",
+        "id": "top",
+        "label": "Buttercream on top"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "Cut-side up in the pan is what makes it pull apart in layers — stacked flat, it just bakes into a plain loaf.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Let it cool slightly before the buttercream goes on, or the frosting melts straight off.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-sugar-cookie-pull-apart-bread",
+    "steps": [
+      {
+        "body": "In a medium bowl, combine the warm milk, granulated sugar, and yeast. Let sit for 8–10 minutes until foamy. Stir in the melted butter, egg, vanilla extract, and almond extract. Add the flour and salt and mix until a soft dough forms. Knead for 5–10 minutes until smooth and elastic. Cover and let rise in a warm place for about 1 hour, or until doubled in size. Roll the dough into a large rectangle.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "In a separate bowl, cream together the softened butter and granulated sugar until fluffy. Mix in the egg, vanilla extract, and almond extract. Add the flour, cinnamon, and salt, mixing until a soft sugar cookie filling forms. Spread the sugar cookie filling evenly over the dough, then sprinkle Christmas sprinkles over the top.",
+        "title": "Make the filling"
+      },
+      {
+        "body": "Cut the dough into 3 long strips, stack the strips on top of each other, and cut into 6–8 sections. Place the stacked pieces cut-side up into a greased loaf pan. Cover and let rise for another 30 minutes in a warm place. Bake at 350°F (175°C) for 25–30 minutes, or until golden brown and cooked through. Let cool slightly.",
+        "title": "Stack and cut"
+      },
+      {
+        "body": "For the vanilla buttercream, beat together the softened butter and powdered sugar. Add the vanilla extract and heavy whipping cream, mixing until smooth and fluffy. Spread or drizzle the buttercream over the slightly cooled bread. Finish with extra Christmas sprinkles if desired.",
+        "title": "Buttercream on top"
+      }
+    ],
+    "story": "From Cheff Omi's Christmas reel — a pull-apart loaf with a sugar cookie filling baked right into the dough. Written up as found; Kelly hasn't made it yet.",
+    "summary": "A soft yeasted loaf stacked with sugar cookie filling and Christmas sprinkles, pulled apart warm under vanilla buttercream. Cinnamon in the filling, almond in the dough.",
+    "title": "Ember Sugar Cookie Pull-Apart Bread",
+    "wood": "Pantry"
   }
 ]
