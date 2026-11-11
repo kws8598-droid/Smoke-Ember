@@ -9056,5 +9056,100 @@
     "summary": "Cube steak — beef or deer — smoked over oak and pecan, dredged in seasoned flour, fried crisp in cast iron, and covered in white pepper gravy. Country fried or chicken fried, same dish either way.",
     "title": "Smoked Country Fried Steak",
     "wood": "Oak + pecan"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Pull at 140°F, rest 10 minutes — pink in the middle, bacon crisped",
+    "hours": {
+      "max": 1.5,
+      "min": 1
+    },
+    "image": "/images/bacon-wrapped-venison-backstrap.jpg",
+    "ingredients": [
+      {
+        "group": "The injection",
+        "items": [
+          "1/2 cup warm beef broth (per backstrap)",
+          "2 Tbsp butter, melted",
+          "1 Tbsp Ember rub"
+        ]
+      },
+      {
+        "group": "The backstrap",
+        "items": [
+          "2 deer backstraps (loins), 1 1/2–2 lb total, silverskin off",
+          "Ember rub, for the outside",
+          "8–10 slices thin-cut bacon"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Ember rub whisked into warm beef broth and melted butter.",
+        "id": "mix",
+        "label": "Mix the injection"
+      },
+      {
+        "hint": "Needle in a grid down each backstrap until the broth is in.",
+        "id": "inject",
+        "label": "Inject it"
+      },
+      {
+        "hint": "Ember rub all over, bacon spiral-wrapped, ends tucked under.",
+        "id": "wrap",
+        "label": "Rub and wrap"
+      },
+      {
+        "hint": "250°F over cherry, pull at 140°F.",
+        "id": "smoke",
+        "label": "Smoke it"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "140°F is Kelly's pull — past that, lean venison dries out fast. Trust the thermometer, not the clock.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "If the deer ate acorns the meat can taste liver-y. A night in a buttermilk soak (rinse and dry before the rub) calms it. Don't drown a clean, grain-fed loin in milk — just salt, smoke, and bacon.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Thin-cut bacon crisps better at smoke temps; regular-cut gives more fat to baste with.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "venison",
+    "region": "kentucky",
+    "school": null,
+    "servings": "4–6",
+    "slug": "bacon-wrapped-venison-backstrap",
+    "steps": [
+      {
+        "body": "Whisk the Ember rub into the warm beef broth and melted butter until it holds together. Strain it if anything looks gritty — a clogged needle seasons three spots and skips the rest.",
+        "title": "Mix the injection"
+      },
+      {
+        "body": "Lean cuts get more injection. Run the needle in a grid down each backstrap, a little at a time, until the broth is in.",
+        "title": "Inject it"
+      },
+      {
+        "body": "Coat the loins all over with Ember rub, then spiral-wrap the bacon around each one, tucking the ends underneath. Toothpicks if a wrap wants to slip.",
+        "title": "Rub and wrap"
+      },
+      {
+        "body": "250°F over cherry — hickory, oak, pecan, or apple all work. Probe the thickest part and pull at 140°F, usually 1–1 1/2 hours depending on thickness.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Rest 10 minutes, then slice into medallions. Cooked whole, cut after — that's the bacon-wrapped loin rule.",
+        "title": "Rest and slice"
+      }
+    ],
+    "story": "Kelly's call, Nov 11: the backstrap we already have on the app is a good steak-style loin, but this one is the deer-camp version — injected so the lean meat stays juicy, wrapped in bacon so it bastes itself, pulled at 140°F. No claim Kelly cooked this one yet.",
+    "summary": "Deer backstrap injected with warm beef broth, butter, and Ember rub, wrapped in bacon and smoked over cherry to 140°F. Cooked whole, sliced into medallions after the rest.",
+    "title": "Bacon-Wrapped Venison Backstrap",
+    "wood": "Cherry"
   }
 ]
