@@ -8492,5 +8492,91 @@
     "summary": "Fresh turnip greens simmered low and slow with smoky ham hocks in a well-seasoned broth till tender — don't forget the pot likker.",
     "title": "Southern Turnip Greens",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Creamy and tender, juicy in their pot liquor",
+    "hours": {
+      "max": 2,
+      "min": 1.5
+    },
+    "image": "/images/southern-butter-beans.jpg",
+    "ingredients": [
+      {
+        "group": "The pot",
+        "items": [
+          "1 pound dried butter beans (large lima beans, about 2 1/2 cups)",
+          "1 meaty smoked ham hock (about 1 pound)",
+          "1 chicken or vegetable bouillon cube",
+          "1 small yellow onion, diced",
+          "2 teaspoons garlic powder",
+          "1 teaspoon black pepper",
+          "1 teaspoon kosher salt",
+          "1 dried bay leaf",
+          "Water to cover by about 1 inch (about 6 cups)"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1 teaspoon apple cider vinegar"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Beans quick-soaked 30 minutes off the heat, drained and rinsed",
+        "id": "soak",
+        "label": "Quick-soak the beans"
+      },
+      {
+        "hint": "Simmered about 1 hour with the hock, onion, and seasonings till tender",
+        "id": "cook",
+        "label": "Cook the beans"
+      },
+      {
+        "hint": "Hock meat shredded back in, vinegar stirred in, left juicy in the pot liquor",
+        "id": "finish",
+        "label": "Finish the beans"
+      }
+    ],
+    "pitTemp": "Stovetop simmer",
+    "proTips": [
+      {
+        "text": "Dried butter beans are the same thing as large lima beans — same bag, different name.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't salt the beans hard early; the hock and bouillon carry the salt. Taste at the end.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The beans go creamy inside when they're truly done — give them the full hour.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "6–8",
+    "slug": "southern-butter-beans",
+    "steps": [
+      {
+        "body": "Place the dried butter beans in a medium Dutch oven or pot and add enough cool water to cover by about 1 inch. Bring to a boil over high heat. Remove from the heat, cover, and let sit for 30 minutes.",
+        "title": "Quick-soak the beans"
+      },
+      {
+        "body": "Drain the soaking liquid and rinse the beans with cold water. Return the beans to the pot and add enough water to cover by about 1 inch (about 6 cups). Crumble the bouillon cube into pieces and add to the pot. Add the ham hock, diced onion, garlic powder, black pepper, salt, and bay leaf. Bring to a boil, then reduce to a simmer, stirring occasionally, until the beans are tender, about 1 hour.",
+        "title": "Cook the beans"
+      },
+      {
+        "body": "Transfer the ham hock to a cutting board. Discard the bay leaf. Remove and discard the bone, skin, and any excess fat. Shred or dice the meat into bite-size pieces and return the meat to the pot. Stir in the apple cider vinegar and leave the beans in plenty of their pot liquor — juicy, not cooked down dry.",
+        "title": "Finish the beans"
+      }
+    ],
+    "story": "Butter beans are what the South calls big lima beans, named for how creamy and buttery they go once cooked. The Kitchn's version lets the ham hock do the work — drop it in the pot and it lends smokiness and little bits of ham to the bowl. Written up as found; Kelly hasn't cooked it yet.",
+    "summary": "Dried butter beans — big limas — slow-simmered with a smoked ham hock till creamy and tender, finished with a splash of apple cider vinegar and left juicy in their pot liquor.",
+    "title": "Southern Butter Beans",
+    "wood": "Pantry"
   }
 ]
