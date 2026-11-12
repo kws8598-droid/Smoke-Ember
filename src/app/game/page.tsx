@@ -25,6 +25,7 @@ const venisonSlugs = [
 ];
 const bigGameSlugs = [
   "smoked-buffalo-chuck-roast",
+  "ember-elk-burger",
 ];
 const smallGameSlugs = [
   "smoked-rabbit",
@@ -86,7 +87,7 @@ export default function GamePage() {
         </div>
         <h2 className="mt-12 font-display text-3xl italic">Big Game</h2>
         <p className="mt-2 max-w-xl text-parchment/80">
-          The big ones — buffalo first, elk when its turn comes. Lean meat, so the
+          The big ones — buffalo and elk. Lean meat, so the
           fat goes back in before it ever sees the fire.
         </p>
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
@@ -111,7 +112,7 @@ export default function GamePage() {
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
-            Elk, grouse, and ring-neck pheasant — added one at a time as Kelly cooks them and gives the verdict.
+            Grouse and ring-neck pheasant — added one at a time as Kelly cooks them and gives the verdict.
             Nothing goes on this page he has not put over his own fire.
           </p>
         </div>
