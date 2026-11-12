@@ -9812,5 +9812,275 @@
     "summary": "Hot apple cider with pure maple syrup and butter, simmered with cinnamon and cloves — Kelly's maple take on a hot toddy, with bourbon on the side for the adults.",
     "title": "Hot Maple Toddy",
     "wood": "None"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden crust, filling bubbling at the edges",
+    "hours": {
+      "max": 1,
+      "min": 0.75
+    },
+    "image": "/images/leftover-turkey-pot-pie.jpg",
+    "ingredients": [
+      {
+        "group": "The filling",
+        "items": [
+          "3 cups leftover smoked turkey, chopped into bite-size pieces",
+          "2 cups turkey or chicken broth",
+          "2 Tbsp butter",
+          "1 small onion, diced",
+          "2 carrots, diced",
+          "2 celery stalks, diced",
+          "1 cup frozen peas",
+          "1/4 cup flour",
+          "1/2 cup milk or cream",
+          "1 tsp dried thyme",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "group": "The top",
+        "items": [
+          "1 store-bought pie crust"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Vegetables soft, filling thickened, turkey stirred in",
+        "id": "filling",
+        "label": "Filling ready"
+      },
+      {
+        "hint": "Pie crust laid over the top, slits cut",
+        "id": "crust",
+        "label": "Crust on top"
+      },
+      {
+        "hint": "Golden top, filling bubbling at the edges",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 400°F",
+    "proTips": [
+      {
+        "text": "Mushrooms are up to the person — a cup of sliced mushrooms cooked in with the vegetables if you like them.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Cut a few slits in the crust so the steam gets out and the top stays crisp.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "poultry",
+    "region": "backyard",
+    "school": null,
+    "servings": "6",
+    "slug": "leftover-turkey-pot-pie",
+    "steps": [
+      {
+        "body": "Melt the butter in a big skillet over medium heat. Cook the onion, carrots, and celery until soft, about 5 minutes.",
+        "title": "Soften the vegetables"
+      },
+      {
+        "body": "Stir in the flour and cook a minute, then pour in the broth and milk a little at a time, stirring so it stays smooth. Let it thicken.",
+        "title": "Build the filling"
+      },
+      {
+        "body": "Stir in the turkey, peas, and thyme. Taste and salt and pepper it.",
+        "title": "Turkey in"
+      },
+      {
+        "body": "Pour the filling into a baking dish. Lay the pie crust over the top and cut a few slits.",
+        "title": "Crust on top"
+      },
+      {
+        "body": "Bake at 400°F until the top is golden and the filling bubbles around the edges, about 30–35 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Let it stand 10 minutes before serving so the filling sets up.",
+        "title": "Let it stand"
+      }
+    ],
+    "story": "Kelly's call: it's gotta have pie crust. Leftover smoked turkey, a creamy filling, and a store-bought crust on top.",
+    "summary": "Leftover smoked turkey in a creamy filling under a golden pie crust — the day-after-Thanksgiving pie.",
+    "title": "Leftover Turkey Pot Pie",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Dumplings cooked through, plenty of broth",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/turkey-and-dumplings.jpg",
+    "ingredients": [
+      {
+        "group": "Broth and turkey",
+        "items": [
+          "6 cups turkey or chicken broth",
+          "3 cups leftover turkey, chopped or shredded",
+          "2 carrots, sliced",
+          "2 celery stalks, sliced",
+          "1 small onion, diced",
+          "1 tsp dried thyme",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "group": "Flat dumplings",
+        "items": [
+          "2 cups flour",
+          "1 tsp salt",
+          "1 egg",
+          "1/2 cup milk"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Broth simmering, vegetables tender, turkey in",
+        "id": "broth",
+        "label": "Broth ready"
+      },
+      {
+        "hint": "Dough rolled thin, cut into strips",
+        "id": "roll",
+        "label": "Roll the dumplings"
+      },
+      {
+        "hint": "Lid on 15–20 minutes, dumplings cooked through",
+        "id": "cook",
+        "label": "Lid on, don't lift it"
+      }
+    ],
+    "pitTemp": "Stovetop simmer",
+    "proTips": [
+      {
+        "text": "Don't lift the lid while the dumplings cook — the steam is what cooks them, and lifting it makes them heavy.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "If the broth tastes thin, a spoonful of butter stirred in at the end helps.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "poultry",
+    "region": "backyard",
+    "school": null,
+    "servings": "6",
+    "slug": "turkey-and-dumplings",
+    "steps": [
+      {
+        "body": "Put the broth, carrots, celery, and onion in a big pot. Bring it to a simmer and cook until the vegetables are tender, about 10 minutes.",
+        "title": "Simmer the broth"
+      },
+      {
+        "body": "Stir in the turkey and thyme. Taste and salt and pepper it. Keep it at a gentle simmer — not a hard boil.",
+        "title": "Turkey in"
+      },
+      {
+        "body": "Make the dumpling dough: flour and salt, then the egg and milk, mixed just until it comes together. Roll it out thin on a floured board and cut it into strips.",
+        "title": "Roll the dumplings"
+      },
+      {
+        "body": "Drop the strips into the simmering broth one at a time — don't dump them in all at once or they stick. Put the lid on and don't lift it — 15–20 minutes.",
+        "title": "Drop them in, lid on"
+      },
+      {
+        "body": "Check a dumpling: it should be cooked all the way through, not doughy in the middle. Serve in bowls with plenty of broth.",
+        "title": "Check and serve"
+      }
+    ],
+    "story": "Flat dumplings, rolled thin like Kristy's chicken and dumplings — Kelly's call. Leftover turkey, broth, and a lid that stays on.",
+    "summary": "Flat dumplings, rolled thin like Kristy's chicken and dumplings, dropped into turkey broth one at a time.",
+    "title": "Turkey and Dumplings",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Top crisped a little, gravy all the way through",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/leftover-turkey-stuffing-bake.jpg",
+    "ingredients": [
+      {
+        "group": "The bake",
+        "items": [
+          "3 cups leftover turkey, shredded",
+          "4 cups leftover stuffing",
+          "2 cups gravy, warmed",
+          "2 Tbsp butter, for the dish"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Turkey spread in the bottom, stuffing over it",
+        "id": "layer",
+        "label": "Layer it up"
+      },
+      {
+        "hint": "Warm gravy poured over the top, all the way across",
+        "id": "gravy",
+        "label": "Gravy on top"
+      },
+      {
+        "hint": "20 minutes covered, 10 uncovered, top crisped a little",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 350°F",
+    "proTips": [
+      {
+        "text": "If the stuffing is dry from the fridge, an extra splash of broth or gravy in the mix before baking helps.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Cranberry sauce on the side is good with it, or a spoonful right on top.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "poultry",
+    "region": "backyard",
+    "school": null,
+    "servings": "6",
+    "slug": "leftover-turkey-stuffing-bake",
+    "steps": [
+      {
+        "body": "Butter a baking dish. Heat the oven to 350°F.",
+        "title": "Butter the dish"
+      },
+      {
+        "body": "Spread the shredded turkey in the bottom of the dish.",
+        "title": "Turkey down"
+      },
+      {
+        "body": "Spoon the stuffing over the turkey and spread it out even.",
+        "title": "Stuffing over"
+      },
+      {
+        "body": "Pour the warm gravy over the top, all the way across.",
+        "title": "Gravy on top"
+      },
+      {
+        "body": "Cover with foil and bake 20 minutes, then take the foil off and bake 10 more minutes so the top crisps a little.",
+        "title": "Bake covered, then open"
+      },
+      {
+        "body": "Let it stand 5 minutes before serving.",
+        "title": "Let it stand"
+      }
+    ],
+    "story": "Kelly added this one to the leftover batch himself — shredded turkey, leftover stuffing, gravy on top, and no cheese.",
+    "summary": "Shredded leftover turkey under leftover stuffing with warm gravy poured over the top — Kelly's own addition to the leftover batch.",
+    "title": "Leftover Turkey and Stuffing Bake",
+    "wood": "Pantry"
   }
 ]
