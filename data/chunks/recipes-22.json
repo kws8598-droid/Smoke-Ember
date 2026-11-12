@@ -10082,5 +10082,101 @@
     "summary": "Shredded leftover turkey under leftover stuffing with warm gravy poured over the top — Kelly's own addition to the leftover batch.",
     "title": "Leftover Turkey and Stuffing Bake",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Glaze sticky and caramelized, ham heated through to 140°F",
+    "hours": {
+      "max": 2.5,
+      "min": 1.5
+    },
+    "image": "/images/ember-honey-mustard-onion-glazed-spiral-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "1 spiral-sliced bone-in ham, 8–10 lb"
+        ]
+      },
+      {
+        "group": "The glaze (Ember honey mustard and onion sauce)",
+        "items": [
+          "3/4 cup yellow mustard",
+          "1/2 cup honey",
+          "1/4 cup cider vinegar",
+          "3 Tbsp dark brown sugar",
+          "1/2 small yellow onion, minced fine",
+          "1 garlic clove, minced",
+          "1 Tbsp Worcestershire sauce",
+          "1 Tbsp butter",
+          "1/2 tsp salt",
+          "1/2 tsp black pepper",
+          "1/4 tsp cayenne"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Ham tented with foil, warming through",
+        "id": "warm",
+        "label": "Warm it through"
+      },
+      {
+        "hint": "Glaze brushed all over and down between the slices",
+        "id": "glaze",
+        "label": "Glaze it"
+      },
+      {
+        "hint": "Sticky and caramelized, ham reads 140°F",
+        "id": "bake",
+        "label": "Bake uncovered"
+      }
+    ],
+    "pitTemp": "Oven 325°F",
+    "proTips": [
+      {
+        "text": "Get the glaze down between the slices — that's where the flavor lives.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't glaze too early — the honey burns before the ham's hot through.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "10–12",
+    "slug": "ember-honey-mustard-onion-glazed-spiral-ham",
+    "steps": [
+      {
+        "body": "Heat the oven to 325°F. Set the ham cut-side down in a roasting pan.",
+        "title": "Heat the oven"
+      },
+      {
+        "body": "Tent the ham loosely with foil and warm it until it's heated through, about 10–12 minutes per pound.",
+        "title": "Warm it through"
+      },
+      {
+        "body": "Warm all the glaze ingredients together in a small saucepan, stirring, just until the butter melts and it comes together.",
+        "title": "Make the glaze"
+      },
+      {
+        "body": "Take the foil off. Brush the glaze all over the ham and work some down between the slices.",
+        "title": "Glaze it"
+      },
+      {
+        "body": "Bake uncovered 20–30 minutes more, brushing again once or twice, until the glaze is sticky and caramelized and the ham reads 140°F.",
+        "title": "Bake uncovered"
+      },
+      {
+        "body": "Rest 10–15 minutes before carving.",
+        "title": "Rest"
+      }
+    ],
+    "story": "Kelly's call: the glaze is his Ember honey mustard and onion sauce — the same one on the app as Ember Smoke Sauce. Spiral ham, glazed in the last stretch so the honey doesn't burn.",
+    "summary": "A spiral-sliced ham glazed with Kelly's own Ember honey mustard and onion sauce — sticky, sweet, and a little sharp.",
+    "title": "Ember Honey Mustard and Onion Glazed Spiral Ham",
+    "wood": "Apple or cherry"
   }
 ]
