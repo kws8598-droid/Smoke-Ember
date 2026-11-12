@@ -168,7 +168,8 @@ function sunTimes(date: Date, lat: number, lon: number): { sunrise: Date; sunset
   const dayMs = 86400000;
   const jd = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate(), 12) / dayMs + 2440587.5;
   const n = jd - 2451545.0 + 0.0008;
-  const jStar = n + lon / 360;
+  // lon is east-positive; NOAA's J* uses west-positive longitude, so subtract
+  const jStar = n - lon / 360;
   const mDeg = (357.5291 + 0.98560028 * jStar) % 360;
   const mRad = mDeg * rad;
   const c =
