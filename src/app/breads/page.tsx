@@ -13,6 +13,11 @@ const yeastRollsSlugs = [
   "ember-honey-butter-rolls",
 ];
 
+const biscuitsSlugs = [
+  "ember-buttermilk-biscuits",
+  "ember-cathead-biscuits",
+];
+
 const cornbreadSlugs = [
   "skillet-cornbread",
   "hush-puppies",
@@ -22,8 +27,9 @@ export default function BreadsPage() {
   const { recipes } = useLiveCatalog();
   const bySlug = (s: string) => recipes.find((r) => r.slug === s);
   const yeastRolls = yeastRollsSlugs.map(bySlug).filter(Boolean);
+  const biscuits = biscuitsSlugs.map(bySlug).filter(Boolean);
   const cornbread = cornbreadSlugs.map(bySlug).filter(Boolean);
-  const total = yeastRolls.length + cornbread.length;
+  const total = yeastRolls.length + biscuits.length + cornbread.length;
   return (
     <main className="relative">
       <div className="relative mx-auto max-w-6xl px-4 py-12">
@@ -45,6 +51,14 @@ export default function BreadsPage() {
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
           {yeastRolls.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
         </div>
+        <h2 className="mt-12 font-display text-3xl italic">Biscuits</h2>
+        <p className="mt-2 max-w-xl text-parchment/80">
+          Buttermilk biscuits and big hand-shaped catheads — baked snug in a
+          cast-iron skillet, split hot for gravy, ham, or butter and honey.
+        </p>
+        <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
+          {biscuits.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
+        </div>
         <h2 className="mt-12 font-display text-3xl italic">Cornbread &amp; Quick Breads</h2>
         <p className="mt-2 max-w-xl text-parchment/80">
           Cast-iron cornbread and hush puppies — the wedges and bites that chase
@@ -52,12 +66,6 @@ export default function BreadsPage() {
         </p>
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
           {cornbread.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
-        </div>
-        <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
-          <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
-          <p className="mt-2 text-sm text-parchment/80">
-            Buttermilk biscuits — added as Kelly posts them.
-          </p>
         </div>
         <div className="mt-10">
           <BackButton fallback="/" />
