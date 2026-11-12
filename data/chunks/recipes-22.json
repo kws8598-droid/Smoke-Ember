@@ -10178,5 +10178,191 @@
     "summary": "A spiral-sliced ham glazed with Kelly's own Ember honey mustard and onion sauce — sticky, sweet, and a little sharp.",
     "title": "Ember Honey Mustard and Onion Glazed Spiral Ham",
     "wood": "Apple or cherry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden, folded, butter-brushed",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-parker-house-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "1 cup warm whole milk (about 110°F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/4 cup granulated sugar",
+          "6 Tbsp unsalted butter, melted",
+          "1 large egg",
+          "1 tsp salt",
+          "3 1/2 cups all-purpose flour"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "2 Tbsp butter, melted, for brushing and the fold",
+          "Flaky salt, if you like it (optional)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamed, dough kneaded smooth",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "Rounds folded, butter in the crease, in the muffin tin",
+        "id": "fold",
+        "label": "Folded into the tin"
+      },
+      {
+        "hint": "Golden, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "Don't roll the dough too thin — a thicker roll folds better and stays soft.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The fold opens up when they bake, so leave a little room between rolls.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "12",
+    "slug": "ember-parker-house-rolls",
+    "steps": [
+      {
+        "body": "Stir the warm milk, yeast, and a spoonful of the sugar; let it foam, about 5–10 minutes.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "Mix in the rest of the sugar, melted butter, egg, and salt, then the flour until a soft dough forms. Knead 5–8 minutes until smooth.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Cover and let rise in a warm place about 1 hour, until doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Roll the dough out about 1/2 inch thick. Cut into rounds, brush each with melted butter, fold in half, and set each one in a greased muffin tin cup. Cover and rise 30–45 minutes more.",
+        "title": "Fold into the tin"
+      },
+      {
+        "body": "Bake at 375°F until golden, 15–18 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "The folded buttery roll from the old hotel dining rooms, written up for the barbecue table. Kelly hasn't made these yet.",
+    "summary": "Buttery folded rolls — soft inside, golden outside, butter in the crease.",
+    "title": "Ember Parker House Rolls",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Deep gold, soft and a little sweet",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-sweet-potato-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "1 cup mashed sweet potato (canned yams mashed, or fresh baked and mashed)",
+          "1 cup warm whole milk (about 110°F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/4 cup packed brown sugar",
+          "1/4 cup unsalted butter, melted",
+          "1 large egg",
+          "1 tsp salt",
+          "4–4 1/2 cups all-purpose flour"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "2 Tbsp butter, melted, for brushing on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamed, sweet potato in, dough kneaded smooth",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "12 balls, snug in a greased 9x13 dish",
+        "id": "shape",
+        "label": "Shaped"
+      },
+      {
+        "hint": "Deep gold, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "If the sweet potato is wet, hold back a little flour at first and add as the dough comes together.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "These brown faster than plain rolls — check them at 15 minutes.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "12",
+    "slug": "ember-sweet-potato-rolls",
+    "steps": [
+      {
+        "body": "Stir the warm milk, yeast, and a spoonful of the brown sugar; let it foam, about 5–10 minutes.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "Mix in the mashed sweet potato, rest of the sugar, melted butter, egg, and salt, then the flour until a soft dough forms. Knead 5–8 minutes until smooth.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Cover and let rise in a warm place about 1 hour, until doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Punch down, divide into 12 pieces, shape into balls, and set snug in a greased 9x13 dish. Cover and rise 30–45 minutes more.",
+        "title": "Shape the rolls"
+      },
+      {
+        "body": "Bake at 375°F until deep gold, 15–20 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "Southern table rolls with sweet potato in the dough. Kelly hasn't made these yet.",
+    "summary": "Soft Southern rolls with mashed sweet potato in the dough — a little sweet, deep gold.",
+    "title": "Ember Sweet Potato Rolls",
+    "wood": "Pantry"
   }
 ]
