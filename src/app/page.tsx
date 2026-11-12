@@ -15,6 +15,7 @@ const quotes = [
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 const thanksgivingSlugs = ["smoked-turducken", "holiday-smoked-ham", "brunos-double-smoked-ham", "smoked-turkey", "smoked-stuffed-thanksgiving-turkey", "honey-glazed-smoked-turkey", "cherry-dr-pepper-turkey", "smoked-cornbread-dressing", "kellys-broccoli-casserole", "smoked-sweet-potato-casserole", "smoked-baked-sweet-potatoes", "smoked-candied-sweet-potatoes", "cast-iron-green-beans", "smoked-mac", "skillet-cornbread", "smoked-deviled-eggs", "smoked-turkey-gravy", "fresh-cranberry-orange-relish", "ember-cranberry-bbq-sauce", "turkey-brine", "sweet-potato-pie", "kentucky-chocolate-pecan-pie", "smoked-pumpkin-pie", "ember-pumpkin-pecan-cobbler", "thanksgiving-punch", "cranberry-orange-sweet-tea"];
 const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
+const breadSlugs = ["ember-parker-house-rolls", "ember-sweet-potato-rolls", "skillet-cornbread", "hush-puppies"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
@@ -23,6 +24,7 @@ export default function HomePage() {
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
   const thanksgiving = thanksgivingSlugs.map((s) => getRecipe(s)).filter(Boolean);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean);
   return (
     <main className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
@@ -117,6 +119,10 @@ export default function HomePage() {
       <section className="mx-auto max-w-6xl px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Pitmaster sides</p><h2 className="mt-2 font-display text-4xl italic glow-ember">The plate around the meat</h2></div><Link href="/recipes?protein=sides" className="text-sm text-ember hover:text-ember-hot">All sides</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSides.length ? extraSides : sides().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+      </section>
+      <section className="mx-auto max-w-6xl px-4 pb-2">
+        <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Breads &amp; biscuits</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Bread for the table</h2></div><Link href="/breads" className="text-sm text-ember hover:text-ember-hot">All breads</Link></div>
+        <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{breadCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
       <section className="mx-auto max-w-6xl px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Southern desserts</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Close the plate</h2></div><Link href="/desserts" className="text-sm text-ember hover:text-ember-hot">All desserts</Link></div>
