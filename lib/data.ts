@@ -88,7 +88,7 @@ export function filterRecipes(
   if (opts.protein && opts.protein !== "all") {
     if (opts.protein === "game") {
       const extraGame = ["smoked-duck", "smoked-frog-legs"];
-      list = list.filter((r) => r.protein === "venison" || r.protein === "gator" || extraGame.includes(r.slug));
+      list = list.filter((r) => r.protein === "venison" || r.protein === "gator" || r.protein === "game" || extraGame.includes(r.slug));
     } else {
       list = list.filter((r) => r.protein === opts.protein);
     }
