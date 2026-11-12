@@ -111,8 +111,7 @@ export default function GamePage() {
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
-            Elk, grouse, ring-neck pheasant, and prairie
-            chicken — added one at a time as Kelly cooks them and gives the verdict.
+            Elk, grouse, and ring-neck pheasant — added one at a time as Kelly cooks them and gives the verdict.
             Nothing goes on this page he has not put over his own fire.
           </p>
         </div>
