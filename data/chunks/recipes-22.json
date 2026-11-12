@@ -10364,5 +10364,283 @@
     "summary": "Soft Southern rolls with mashed sweet potato in the dough — a little sweet, deep gold.",
     "title": "Ember Sweet Potato Rolls",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden tops, soft and pull-apart",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-classic-yeast-dinner-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "1 cup warm whole milk (about 110°F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/4 cup granulated sugar",
+          "1/3 cup unsalted butter, melted",
+          "1 large egg",
+          "1 tsp salt",
+          "3 1/2–4 cups all-purpose flour"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "2 Tbsp butter, melted, for brushing on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamed, dough kneaded smooth",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "12 balls, snug in a greased 9x13 dish",
+        "id": "shape",
+        "label": "Shaped"
+      },
+      {
+        "hint": "Golden tops, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "The dough should be soft and just a little tacky — too much flour makes heavy rolls.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Warm spot for rising: the oven with just the light on works.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "12",
+    "slug": "ember-classic-yeast-dinner-rolls",
+    "steps": [
+      {
+        "body": "Stir the warm milk, yeast, and a spoonful of the sugar; let it foam, about 5–10 minutes.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "Mix in the rest of the sugar, melted butter, egg, and salt, then the flour until a soft dough forms. Knead 5–8 minutes until smooth.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Cover and let rise in a warm place about 1 hour, until doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Punch down, divide into 12 pieces, shape into balls, and set snug in a greased 9x13 dish. Cover and rise 30–45 minutes more.",
+        "title": "Shape the rolls"
+      },
+      {
+        "body": "Bake at 375°F until golden on top, 15–18 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "The everyday table roll, written up for the barbecue plate. Kelly hasn't made these yet.",
+    "summary": "Soft, buttery yeast rolls — the everyday table roll for a barbecue plate.",
+    "title": "Ember Classic Yeast Dinner Rolls",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden tops, soft and pillowy",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-potato-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "1 cup mashed potato (plain — no butter or salt in it)",
+          "3/4 cup warm whole milk (about 110°F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/4 cup granulated sugar",
+          "1/4 cup unsalted butter, melted",
+          "1 large egg",
+          "1 tsp salt",
+          "4 cups all-purpose flour"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "2 Tbsp butter, melted, for brushing on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamed, potato in, dough kneaded smooth",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "12 balls, snug in a greased 9x13 dish",
+        "id": "shape",
+        "label": "Shaped"
+      },
+      {
+        "hint": "Golden tops, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "Leftover mashed potatoes work fine here — just keep them plain, no gravy or extras mixed in.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Potato dough stays softer longer than plain dough, so these keep well to the next day.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "12",
+    "slug": "ember-potato-rolls",
+    "steps": [
+      {
+        "body": "Stir the warm milk, yeast, and a spoonful of the sugar; let it foam, about 5–10 minutes.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "Mix in the mashed potato, rest of the sugar, melted butter, egg, and salt, then the flour until a soft dough forms. Knead 5–8 minutes until smooth.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Cover and let rise in a warm place about 1 hour, until doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Punch down, divide into 12 pieces, shape into balls, and set snug in a greased 9x13 dish. Cover and rise 30–45 minutes more.",
+        "title": "Shape the rolls"
+      },
+      {
+        "body": "Bake at 375°F until golden, 15–18 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "Soft rolls with potato in the dough, written up for pulled pork sandwiches and the table. Kelly hasn't made these yet.",
+    "summary": "Soft, pillowy rolls with mashed potato in the dough — made for pulled pork sandwiches and the barbecue table.",
+    "title": "Ember Potato Rolls",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "Golden tops, honey butter shining",
+    "hours": {
+      "max": 2.5,
+      "min": 2
+    },
+    "image": "/images/ember-honey-butter-rolls.jpg",
+    "ingredients": [
+      {
+        "group": "The dough",
+        "items": [
+          "1 cup warm whole milk (about 110°F)",
+          "2 1/4 tsp active dry yeast (1 packet)",
+          "1/4 cup honey",
+          "1/4 cup unsalted butter, melted",
+          "1 large egg",
+          "1 tsp salt",
+          "3 1/2–4 cups all-purpose flour"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "2 Tbsp butter, melted",
+          "1 Tbsp honey"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Yeast foamed, honey in, dough kneaded smooth",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "12 balls, snug in a greased 9x13 dish",
+        "id": "shape",
+        "label": "Shaped"
+      },
+      {
+        "hint": "Golden tops, honey butter brushed on while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 375°F",
+    "proTips": [
+      {
+        "text": "Honey browns faster than sugar — check them at 15 minutes so the tops don't go too dark.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Warm the honey a little before mixing and it stirs in easier.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "12",
+    "slug": "ember-honey-butter-rolls",
+    "steps": [
+      {
+        "body": "Stir the warm milk, yeast, and a spoonful of the honey; let it foam, about 5–10 minutes.",
+        "title": "Wake the yeast"
+      },
+      {
+        "body": "Mix in the rest of the honey, melted butter, egg, and salt, then the flour until a soft dough forms. Knead 5–8 minutes until smooth.",
+        "title": "Make the dough"
+      },
+      {
+        "body": "Cover and let rise in a warm place about 1 hour, until doubled.",
+        "title": "First rise"
+      },
+      {
+        "body": "Punch down, divide into 12 pieces, shape into balls, and set snug in a greased 9x13 dish. Cover and rise 30–45 minutes more.",
+        "title": "Shape the rolls"
+      },
+      {
+        "body": "Bake at 375°F until golden, 15–18 minutes.",
+        "title": "Bake"
+      },
+      {
+        "body": "Stir the finishing butter and honey together and brush it over the rolls while they're hot.",
+        "title": "Honey butter on top"
+      }
+    ],
+    "story": "Honey in the dough, honey butter on top. Kelly hasn't made these yet.",
+    "summary": "Soft yeast rolls with honey in the dough and honey butter brushed on top while they're hot.",
+    "title": "Ember Honey Butter Rolls",
+    "wood": "Pantry"
   }
 ]
