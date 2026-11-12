@@ -10642,5 +10642,184 @@
     "summary": "Soft yeast rolls with honey in the dough and honey butter brushed on top while they're hot.",
     "title": "Ember Honey Butter Rolls",
     "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Tall and brown, split hot",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/ember-buttermilk-biscuits.jpg",
+    "ingredients": [
+      {
+        "group": "The biscuits",
+        "items": [
+          "2 cups all-purpose flour",
+          "1 Tbsp sugar",
+          "1 Tbsp baking powder",
+          "3/4 tsp kosher salt",
+          "6 Tbsp cold unsalted butter, cubed",
+          "3/4 cup cold buttermilk"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1 Tbsp butter, melted, for brushing on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Butter cut in like peas, dough just together",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "8 biscuits cut, snug in the skillet",
+        "id": "shape",
+        "label": "Cut"
+      },
+      {
+        "hint": "Tall and brown, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 425°F",
+    "proTips": [
+      {
+        "text": "Everything cold — cold butter, cold buttermilk — that's what makes them tall and flaky.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't twist the cutter. Push straight down so the edges don't seal.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-buttermilk-biscuits",
+    "steps": [
+      {
+        "body": "Heat the oven to 425°F.",
+        "title": "Heat the oven"
+      },
+      {
+        "body": "Whisk the flour, sugar, baking powder, and salt. Cut in the cold butter until it looks like peas.",
+        "title": "Cut in the butter"
+      },
+      {
+        "body": "Pour in the cold buttermilk and stir just until it comes together into a shaggy dough — don't overwork it.",
+        "title": "Bring the dough together"
+      },
+      {
+        "body": "Pat out about 1 inch thick on a floured board. Cut 8 biscuits and set them snug in a greased cast-iron skillet or baking dish.",
+        "title": "Cut the biscuits"
+      },
+      {
+        "body": "Bake 14–16 minutes until tall and brown.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot. Split and serve.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "The standalone buttermilk biscuit the app was missing — the one that goes under the smoked sausage gravy. Kelly hasn't made these yet.",
+    "summary": "Tall, flaky buttermilk biscuits — split hot for sausage gravy, ham, or butter and honey.",
+    "title": "Ember Buttermilk Biscuits",
+    "wood": "Pantry"
+  },
+  {
+    "difficulty": "weeknight",
+    "finish": "Tall and brown, split hot",
+    "hours": {
+      "max": 0.75,
+      "min": 0.5
+    },
+    "image": "/images/ember-cathead-biscuits.jpg",
+    "ingredients": [
+      {
+        "group": "The biscuits",
+        "items": [
+          "2 cups self-rising flour",
+          "1/4 cup lard or butter, cold — whatever's on hand",
+          "3/4 cup cold buttermilk, more as needed"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1 Tbsp butter, melted, for brushing on top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Fat cut in like crumbs, dough just together",
+        "id": "dough",
+        "label": "Dough made"
+      },
+      {
+        "hint": "8 hand-shaped rounds, snug in the skillet",
+        "id": "shape",
+        "label": "Shaped"
+      },
+      {
+        "hint": "Tall and brown, butter-brushed while hot",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "Oven 450°F",
+    "proTips": [
+      {
+        "text": "Everything cold — cold fat, cold buttermilk — that's what makes them tall.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't overwork the dough. Shaggy is right.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-cathead-biscuits",
+    "steps": [
+      {
+        "body": "Heat the oven to 450°F. Grease a cast-iron skillet.",
+        "title": "Heat the oven"
+      },
+      {
+        "body": "Put the flour in a bowl. Cut in the cold lard or butter until it looks like coarse crumbs.",
+        "title": "Cut in the fat"
+      },
+      {
+        "body": "Pour in the cold buttermilk and stir just until it comes together into a shaggy dough — don't overwork it.",
+        "title": "Bring the dough together"
+      },
+      {
+        "body": "Flour your hands, pinch off 8 pieces, and pat each one into a round about 3–4 inches across. Set them snug in the skillet, touching.",
+        "title": "Shape the catheads"
+      },
+      {
+        "body": "Bake 12–15 minutes until tall and brown.",
+        "title": "Bake"
+      },
+      {
+        "body": "Brush with melted butter while they're hot. Split and serve.",
+        "title": "Butter them hot"
+      }
+    ],
+    "story": "The big Southern biscuit — a cathead, about the size of a cat's head. Kelly hasn't made these yet.",
+    "summary": "Big hand-shaped buttermilk biscuits, baked snug in a cast-iron skillet — split hot for sausage gravy, ham, or butter and honey.",
+    "title": "Ember Cathead Biscuits",
+    "wood": "Pantry"
   }
 ]
