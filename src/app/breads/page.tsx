@@ -8,6 +8,9 @@ import { useLiveCatalog } from "@/components/LiveCatalog";
 const yeastRollsSlugs = [
   "ember-parker-house-rolls",
   "ember-sweet-potato-rolls",
+  "ember-classic-yeast-dinner-rolls",
+  "ember-potato-rolls",
+  "ember-honey-butter-rolls",
 ];
 
 const cornbreadSlugs = [
@@ -53,8 +56,7 @@ export default function BreadsPage() {
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
-            Classic dinner rolls, potato rolls, honey butter rolls, and buttermilk
-            biscuits — added as Kelly posts them.
+            Buttermilk biscuits — added as Kelly posts them.
           </p>
         </div>
         <div className="mt-10">
