@@ -4,6 +4,7 @@ import Image from "next/image";
 import RecipeCard from "@/components/RecipeCard";
 import BackButton from "@/components/BackButton";
 import { useLiveCatalog } from "@/components/LiveCatalog";
+import DeerForecast from "@/components/DeerForecast";
 import TrophyBucks from "@/components/TrophyBucks";
 
 const venisonSlugs = [
@@ -69,6 +70,7 @@ export default function GamePage() {
             butterfat straight into the leanest cuts.
           </p>
         </div>
+        <DeerForecast />
         <p className="mt-6 text-sm text-subtle">{total} game cooks</p>
         <h2 className="mt-8 font-display text-3xl italic">Venison</h2>
         <p className="mt-2 max-w-xl text-parchment/80">
