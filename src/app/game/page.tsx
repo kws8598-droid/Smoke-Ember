@@ -23,6 +23,9 @@ const venisonSlugs = [
   "venison-snack-sticks",
   "venison-pork-onion-bombs",
 ];
+const bigGameSlugs = [
+  "smoked-buffalo-chuck-roast",
+];
 const smallGameSlugs = [
   "smoked-rabbit",
   "smoked-squirrel",
@@ -41,7 +44,8 @@ export default function GamePage() {
   const venison = venisonSlugs.map(bySlug).filter(Boolean);
   const water = waterSlugs.map(bySlug).filter(Boolean);
   const small = smallGameSlugs.map(bySlug).filter(Boolean);
-  const total = venison.length + water.length + small.length;
+  const bigGame = bigGameSlugs.map(bySlug).filter(Boolean);
+  const total = venison.length + water.length + small.length + bigGame.length;
   return (
     <main className="relative">
       <div className="relative mx-auto max-w-6xl px-4 py-12">
@@ -80,6 +84,14 @@ export default function GamePage() {
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
           {venison.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
         </div>
+        <h2 className="mt-12 font-display text-3xl italic">Big Game</h2>
+        <p className="mt-2 max-w-xl text-parchment/80">
+          The big ones — buffalo first, elk when its turn comes. Lean meat, so the
+          fat goes back in before it ever sees the fire.
+        </p>
+        <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
+          {bigGame.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
+        </div>
         <h2 className="mt-12 font-display text-3xl italic">Water &amp; Swamp</h2>
         <p className="mt-2 max-w-xl text-parchment/80">
           Duck off the water, gator out of the swamp, and frog legs for whoever gigs them.
@@ -99,7 +111,7 @@ export default function GamePage() {
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
-            Elk, buffalo, grouse, ring-neck pheasant, and prairie
+            Elk, grouse, ring-neck pheasant, and prairie
             chicken — added one at a time as Kelly cooks them and gives the verdict.
             Nothing goes on this page he has not put over his own fire.
           </p>
