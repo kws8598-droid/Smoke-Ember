@@ -4,6 +4,7 @@ import Image from "next/image";
 import RecipeCard from "@/components/RecipeCard";
 import BackButton from "@/components/BackButton";
 import { useLiveCatalog } from "@/components/LiveCatalog";
+import TrophyBucks from "@/components/TrophyBucks";
 
 const venisonSlugs = [
   "smoked-venison-backstrap",
@@ -92,6 +93,7 @@ export default function GamePage() {
         <div className="mt-6 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">
           {small.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}
         </div>
+        <TrophyBucks />
         <div className="mt-12 rounded-2xl border border-white/5 bg-bark p-5">
           <p className="text-[11px] uppercase tracking-[0.18em] text-ember">Still to come</p>
           <p className="mt-2 text-sm text-parchment/80">
