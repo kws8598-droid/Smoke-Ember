@@ -10932,5 +10932,96 @@
     "summary": "Buffalo chuck, treated like beef — injected with warm butter-broth and wrapped with tallow, pulled tender at 200°F.",
     "title": "Smoked Buffalo Chuck Roast",
     "wood": "Oak or mesquite"
+  },
+ {
+    "difficulty": "weeknight",
+    "finish": "Pull at 145°F, rest a few minutes — lean meat dries fast past medium",
+    "hours": {
+      "max": 1,
+      "min": 0.5
+    },
+    "image": "/images/ember-elk-burger.jpg",
+    "ingredients": [
+      {
+        "group": "The blend",
+        "items": [
+          "1 lb ground elk",
+          "1/4 lb beef fat (20%)",
+          "2 Tbsp mayonnaise"
+        ]
+      },
+      {
+        "group": "To season and serve",
+        "items": [
+          "Ember House Rub, or salt + black pepper, to season",
+          "4 large burger buns",
+          "Toppings: dress it the way you want — purple onion, lettuce, tomato, cheese"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Four parts elk to one part beef fat, plus the mayonnaise. Gentle hands — don't overwork it.",
+        "id": "mix",
+        "label": "Mix the blend"
+      },
+      {
+        "hint": "Four quarter-pound patties, pressed thin and wide, thumbprint in the middle so they cook flat.",
+        "id": "form",
+        "label": "Form the patties"
+      },
+      {
+        "hint": "Smoke low at 225°F over oak or mesquite to about 130°F inside, then sear hot 1–2 minutes a side to 145°F.",
+        "id": "sear",
+        "label": "Reverse sear it"
+      },
+      {
+        "hint": "Let them rest a few minutes, then dress them the way you want.",
+        "id": "rest",
+        "label": "Rest, then dress it"
+      }
+    ],
+    "pitTemp": "225°F smoke, then a hot sear",
+    "proTips": [
+      {
+        "text": "Elk is lean, same as the buffalo. The 20% fat is what keeps the burger juicy — don't skip it and don't cook it past medium.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Don't press the patties while they cook. Every press squeezes the fat out onto the fire.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Rest them a few minutes before the bun so the juices settle instead of running out on the plate.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "game",
+    "region": "backyard",
+    "school": null,
+    "servings": "4",
+    "slug": "ember-elk-burger",
+    "steps": [
+      {
+        "body": "Four parts elk to one part beef fat, plus the mayonnaise. Work it together with gentle hands — don't overwork it or the burgers go tough.",
+        "title": "Mix the blend"
+      },
+      {
+        "body": "Four quarter-pound patties, pressed out thin and wide, a thumbprint pressed in the middle of each one so they cook flat instead of puffing up.",
+        "title": "Form the patties"
+      },
+      {
+        "body": "Smoke low at 225°F over oak or mesquite until the patties hit about 130°F inside, then sear them hot, 1 to 2 minutes a side. Pull at 145°F — lean meat dries fast past medium.",
+        "title": "Reverse sear it"
+      },
+      {
+        "body": "Let them rest a few minutes, then dress them the way you want.",
+        "title": "Rest, then dress it"
+      }
+    ],
+    "story": "Elk is lean too, same as the buffalo — so the fat goes back in before it ever sees the heat. Four parts elk to one part fat, smoked low and seared hot, and dressed the way you want it.",
+    "summary": "Lean elk mixed 80/20 with beef fat, smoked low over oak or mesquite, then seared hot, dressed the way you want.",
+    "title": "Ember Elk Burger",
+    "wood": "Oak or mesquite"
   }
 ]
