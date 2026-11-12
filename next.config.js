@@ -24,7 +24,6 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      { source: "/game", destination: "/recipes?protein=game", permanent: true },
       { source: "/temps", destination: "/temp-chart", permanent: true },
     ];
   },
