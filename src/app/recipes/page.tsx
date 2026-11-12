@@ -7,6 +7,7 @@ import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 import DeerForecast from "@/components/DeerForecast";
+import FishingForecast from "@/components/FishingForecast";
 function RecipesInner() {
   const router = useRouter();
   const params = useSearchParams();
@@ -121,6 +122,7 @@ function RecipesInner() {
             <Image src="/images/fish-banner.jpg" alt="Old fisherman holding a stringer of catfish by the creek" fill sizes="100vw" className="object-cover" loading="lazy" />
           </div>
       )}
+      {protein === "fish" && <FishingForecast />}
       {protein === "game" && (
         <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
             <Image src="/images/game-banner.jpg" alt="Deer, rabbit, squirrel, and a flying mallard duck in a misty forest clearing at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
