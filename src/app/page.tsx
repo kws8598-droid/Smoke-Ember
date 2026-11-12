@@ -15,7 +15,7 @@ const quotes = [
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
 const thanksgivingSlugs = ["smoked-turducken", "holiday-smoked-ham", "brunos-double-smoked-ham", "smoked-turkey", "smoked-stuffed-thanksgiving-turkey", "honey-glazed-smoked-turkey", "cherry-dr-pepper-turkey", "smoked-cornbread-dressing", "kellys-broccoli-casserole", "smoked-sweet-potato-casserole", "smoked-baked-sweet-potatoes", "smoked-candied-sweet-potatoes", "cast-iron-green-beans", "smoked-mac", "skillet-cornbread", "smoked-deviled-eggs", "smoked-turkey-gravy", "fresh-cranberry-orange-relish", "ember-cranberry-bbq-sauce", "turkey-brine", "sweet-potato-pie", "kentucky-chocolate-pecan-pie", "smoked-pumpkin-pie", "ember-pumpkin-pecan-cobbler", "thanksgiving-punch", "cranberry-orange-sweet-tea"];
 const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
-const breadSlugs = ["ember-parker-house-rolls", "ember-sweet-potato-rolls", "ember-classic-yeast-dinner-rolls", "ember-potato-rolls", "ember-honey-butter-rolls", "skillet-cornbread", "hush-puppies"];
+const breadSlugs = ["ember-parker-house-rolls", "ember-sweet-potato-rolls", "ember-classic-yeast-dinner-rolls", "ember-potato-rolls", "ember-honey-butter-rolls", "ember-buttermilk-biscuits", "ember-cathead-biscuits", "skillet-cornbread", "hush-puppies"];
 
 export default function HomePage() {
   const cards = featured.map((s) => getRecipe(s)).filter(Boolean);
