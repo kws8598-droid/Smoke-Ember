@@ -10821,5 +10821,116 @@
     "summary": "Big hand-shaped buttermilk biscuits, baked snug in a cast-iron skillet — split hot for sausage gravy, ham, or butter and honey.",
     "title": "Ember Cathead Biscuits",
     "wood": "Pantry"
+  },
+ {
+    "difficulty": "weekend",
+    "finish": "Pull at 200–205°F, rest 30–45 minutes — the probe slides in like butter",
+    "hours": {
+      "max": 8,
+      "min": 6
+    },
+    "image": "/images/smoked-buffalo-chuck-roast.jpg",
+    "ingredients": [
+      {
+        "group": "The injection",
+        "items": [
+          "1 cup warm beef broth",
+          "1/2 cup butter, melted",
+          "1 Tbsp kosher salt"
+        ]
+      },
+      {
+        "group": "The roast",
+        "items": [
+          "1 bison chuck roast, 3–4 lb",
+          "Beef tallow, 2–3 Tbsp, if available",
+          "Ember House Rub, about 1/4 cup"
+        ]
+      },
+      {
+        "group": "The wrap",
+        "items": [
+          "Beef broth, a splash"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Warm beef broth, melted butter, and kosher salt whisked together.",
+        "id": "mix",
+        "label": "Mix the injection"
+      },
+      {
+        "hint": "Needle in a grid all over the cold roast until the broth is in.",
+        "id": "inject",
+        "label": "Inject it cold"
+      },
+      {
+        "hint": "Tallow on first if you've got it, then Ember House Rub heavy all over.",
+        "id": "rub",
+        "label": "Tallow and rub"
+      },
+      {
+        "hint": "250°F over oak or mesquite, fat side up, to 160°F.",
+        "id": "smoke",
+        "label": "Smoke to 160°F"
+      },
+      {
+        "hint": "Butcher paper or foil, tallow and a splash of broth, wrapped tight to 200–205°F.",
+        "id": "wrap",
+        "label": "Wrap it"
+      },
+      {
+        "hint": "Rest 30–45 minutes, cooler hold works, then pull and mix the juices back through.",
+        "id": "pull",
+        "label": "Rest, then pull"
+      }
+    ],
+    "pitTemp": "250°F, wrap at 160°F",
+    "proTips": [
+      {
+        "text": "Buffalo is leaner than beef, and lean meat dries fast. Don't skip the wrap — that's where the tallow and broth do their work.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Pull it by temperature, not by the clock. When the probe slides in like butter, it's ready.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Resting is the biggest tip of all. Give it the full 30 minutes and the juices settle back in.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "game",
+    "region": "backyard",
+    "school": null,
+    "servings": "6–8",
+    "slug": "smoked-buffalo-chuck-roast",
+    "steps": [
+      {
+        "body": "Cold meat straight on the pit. Inject the roast all over with the warm beef broth, melted butter, and salt, working in a grid so no part stays dry.",
+        "title": "Inject it cold"
+      },
+      {
+        "body": "If you've got tallow, rub it all over the roast first, then coat it heavy with Ember House Rub. No tallow on hand, the rub goes straight on — the injection still carries it.",
+        "title": "Tallow and rub"
+      },
+      {
+        "body": "On the pit at 250°F over oak or mesquite, fat side up. Let it run till the middle reads 160°F — about 4 hours in.",
+        "title": "Smoke to 160°F"
+      },
+      {
+        "body": "Lay it on butcher paper or foil, add a spoonful or two of tallow if you've got it and a splash of beef broth, and wrap it tight. Back on the pit till it pulls — 200 to 205°F.",
+        "title": "Wrap it with tallow"
+      },
+      {
+        "body": "Rest it 30 to 45 minutes — cooler hold works fine — then pull it apart and mix the wrap juices back through the meat.",
+        "title": "Rest, then pull"
+      }
+    ],
+    "story": "Kelly cooked buffalo the same way he cooks beef, and learned fast how lean it runs. This version puts the fat back in — butter-broth injected inside, tallow on the outside and in the wrap — and pulls it tender like a chuck roast should be.",
+    "summary": "Buffalo chuck, treated like beef — injected with warm butter-broth and wrapped with tallow, pulled tender at 200°F.",
+    "title": "Smoked Buffalo Chuck Roast",
+    "wood": "Oak or mesquite"
   }
 ]
