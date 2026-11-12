@@ -6,6 +6,7 @@ import BackButton from "@/components/BackButton";
 import RecipeCard from "@/components/RecipeCard";
 import { filterRecipes, proteins, regionCopy } from "@/lib/data";
 import { useLiveCatalog } from "@/components/LiveCatalog";
+import DeerForecast from "@/components/DeerForecast";
 function RecipesInner() {
   const router = useRouter();
   const params = useSearchParams();
@@ -131,6 +132,7 @@ function RecipesInner() {
           <p className="mt-2 text-sm text-parchment/80">Deer, duck, gator, and frog legs, all in one place. Most game is so lean you have to inject it — that is the rule here.</p>
         </div>
       )}
+      {protein === "game" && <DeerForecast />}
       <div className="mt-8 flex flex-wrap gap-2">{proteins.map((p) => (
         <button key={p} onClick={() => selectProtein(p)} className={`h-11 rounded-full px-3 text-sm capitalize ${protein === p ? "bg-ember text-cream" : "bg-ash text-parchment"}`}>{p === "all" ? "All" : p === "game" ? "Wild Game" : p}</button>
       ))}<button onClick={() => router.push("/breads")} className="h-11 rounded-full px-3 text-sm capitalize bg-ash text-parchment">Breads &amp; Biscuits</button></div>
