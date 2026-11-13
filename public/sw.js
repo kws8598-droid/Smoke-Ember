@@ -1,4 +1,4 @@
-const CACHE_NAME = "smoke-ember-offline-v3";
+const CACHE_NAME = "smoke-ember-offline-v4";
 const PRECACHE_URLS = ["/", "/manifest.webmanifest", "/ember.svg"];
 
 self.addEventListener("install", (event) => {
@@ -29,8 +29,20 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
 
+  // Pages, photos and the recipe catalog change at the same URL (a swapped
+  // photo, a new section on a page), so the browser's HTTP cache must not
+  // answer those from an old copy. "reload" forces a real network fetch and
+  // the fresh copy is stored in the offline cache. If the network fails,
+  // the cached copy is served instead, so offline still works. Hashed
+  // bundles (_next/static) never change at the same URL, so they keep
+  // normal caching.
+  const bustCache =
+    request.mode === "navigate" ||
+    url.pathname.startsWith("/images/") ||
+    url.pathname.startsWith("/api/");
+
   event.respondWith(
-    fetch(request)
+    fetch(request, bustCache ? { cache: "reload" } : undefined)
       .then((response) => {
         if (response && response.ok) {
           const copy = response.clone();
