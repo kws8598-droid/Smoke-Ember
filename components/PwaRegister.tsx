@@ -18,14 +18,39 @@ export default function PwaRegister() {
     };
     navigator.serviceWorker.addEventListener("controllerchange", onControllerChange);
 
+    let registration: ServiceWorkerRegistration | undefined;
+    let timer: number | undefined;
+
+    // A tab left open (or the installed app left running) never does a full
+    // page load, so the browser never checks for a new service worker on
+    // its own — that is how a copy gets stuck showing old pages for days.
+    // Check whenever the app comes back into view, and once an hour while
+    // it sits open. A new version is then picked up and the page reloads
+    // to it instead of showing stale pages.
+    const checkForUpdate = () => {
+      if (registration) registration.update().catch(() => undefined);
+    };
+    const onVisibilityChange = () => {
+      if (!document.hidden) checkForUpdate();
+    };
+
     const register = () => {
-      navigator.serviceWorker.register("/sw.js", { scope: "/" }).catch(() => undefined);
+      navigator.serviceWorker
+        .register("/sw.js", { scope: "/" })
+        .then((reg) => {
+          registration = reg;
+          document.addEventListener("visibilitychange", onVisibilityChange);
+          timer = window.setInterval(checkForUpdate, 60 * 60 * 1000);
+        })
+        .catch(() => undefined);
     };
 
     if (document.readyState === "complete") register();
     else window.addEventListener("load", register, { once: true });
     return () => {
       navigator.serviceWorker.removeEventListener("controllerchange", onControllerChange);
+      document.removeEventListener("visibilitychange", onVisibilityChange);
+      if (timer !== undefined) window.clearInterval(timer);
     };
   }, []);
 
