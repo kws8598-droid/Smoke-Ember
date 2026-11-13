@@ -25,6 +25,13 @@ const nextConfig = {
   async redirects() {
     return [
       { source: "/temps", destination: "/temp-chart", permanent: true },
+      // WILD GAME MOVE (Nov 12, 2026): /game lived under a permanent (308)
+      // redirect to /recipes?protein=game from Oct 31 to Nov 12, and the
+      // owner's Chrome cached that forward, so /game kept landing on the
+      // recipes list. The page now lives at /wild-game. This is a TEMPORARY
+      // (302) redirect on purpose — never permanent, so no browser can ever
+      // cache it as a forever-forward again.
+      { source: "/game", destination: "/wild-game", permanent: false },
     ];
   },
   async headers() {
