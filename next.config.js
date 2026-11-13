@@ -34,13 +34,20 @@ const nextConfig = {
         headers: [{ key: "Service-Worker-Allowed", value: "/" }],
       },
       {
-        // Seasonal flips (Thanksgiving -> Christmas -> ...) must reach
-        // visitors without a manual cache clear: every page revalidates
-        // with the server on each visit, so a new section shows up on
-        // the next open. Unchanged pages still answer 304, so loads stay fast.
+        // STALE-PAGE FIX (Nov 12, 2026 — Kelly's phone kept showing old
+        // page sections after deploys, even with a fresh link): the old
+        // `public, max-age=0, must-revalidate` was not enough. Chrome
+        // restores pages from its back-forward cache without re-fetching,
+        // so Back (and switching back to an open tab) kept bringing back
+        // the old copy even though the server was sending the new page.
+        // `no-store` opts pages out of that cache entirely, so every open
+        // fetches fresh from the server. It also applies to photos and
+        // bundles on this route, so they re-download instead of
+        // revalidating — traffic is small enough (~140 visitors/week)
+        // that ending stale pages is worth it.
         source: "/:path*",
         headers: [
-          { key: "Cache-Control", value: "public, max-age=0, must-revalidate" },
+          { key: "Cache-Control", value: "no-store" },
         ],
       },
     ];
