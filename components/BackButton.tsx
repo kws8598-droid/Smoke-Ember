@@ -8,10 +8,7 @@ export default function BackButton({ fallback = "/" }: { fallback?: string }) {
     <button
       type="button"
       onClick={() => {
-        const cameFromSite =
-          typeof document !== "undefined" &&
-          document.referrer.startsWith(window.location.origin);
-        if (cameFromSite) router.back();
+        if (typeof window !== "undefined" && window.history.length > 1) router.back();
         else router.push(fallback);
       }}
       className="inline-flex items-center rounded-full bg-black/50 px-4 py-2 text-sm font-semibold text-cream hover:bg-black/70"
