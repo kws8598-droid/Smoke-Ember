@@ -56,7 +56,6 @@ export default function GamePage() {
         <p className="mt-3 max-w-xl text-parchment/80">
           The cooks that start with a hunt — deer, duck, gator, and frog legs, smoked the
           Smoke &amp; Ember way. Kelly has eaten buffalo, elk, rabbit, deer, and squirrel.
-          Folks call him redneck for it. He does not care.
         </p>
       <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
         <Image src="/images/game-banner.jpg" alt="Deer, rabbit, squirrel, and a flying mallard duck in a misty forest clearing at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
