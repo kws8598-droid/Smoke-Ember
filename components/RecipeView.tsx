@@ -64,9 +64,9 @@ export default function RecipeView({ recipe }: { recipe: Recipe }) {
             <span className="rounded-full bg-black/40 px-2 py-1 capitalize">{r.protein}</span>
             <span className="rounded-full bg-black/40 px-2 py-1">{difficultyLabel(r.difficulty)}</span>
           </div>
-          <div className="mt-4 flex items-start justify-between gap-4">
+          <div className="mt-4 flex flex-wrap items-start justify-between gap-4">
             <h1 className="font-display text-4xl italic text-cream glow-ember sm:text-6xl">{r.title}</h1>
-            <div className="flex shrink-0 gap-2 print:hidden">
+            <div className="flex flex-wrap gap-2 print:hidden">
               <ShareButton title={r.title} text={`Smoke and Ember: ${r.title}`} />
               <SaveButton slug={r.slug} />
               <PrintButton />
