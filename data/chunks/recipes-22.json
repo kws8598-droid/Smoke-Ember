@@ -11213,5 +11213,191 @@
     "summary": "A smoked spiral ham with a homemade apple cider and honey mustard glaze — perfectly sweet, basted every 20 minutes till it hits 140°F.",
     "title": "Ember Cider-Glazed Spiral Ham",
     "wood": "Apple"
+  },
+ {
+    "difficulty": "weeknight",
+    "finish": "Bake 15 minutes till the cheese is melty and the tops are lightly toasted, then slice and serve warm",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
+    },
+    "image": "/images/ember-leftover-holiday-ham-sliders.jpg",
+    "ingredients": [
+      {
+        "group": "The glaze",
+        "items": [
+          "1/2 cup Mike's Hot Honey",
+          "2 Tbsp Dijon mustard",
+          "2 Tbsp yellow mustard",
+          "4 Tbsp butter",
+          "1 tsp dried thyme",
+          "1/4 cup brown sugar",
+          "1/2 tsp salt"
+        ]
+      },
+      {
+        "group": "The sliders",
+        "items": [
+          "9 King's Hawaiian Slider Buns",
+          "8–12 oz leftover smoked ham",
+          "9 slices Swiss cheese",
+          "1/4 cup mayonnaise",
+          "2 Tbsp butter, melted, for brushing the tops"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Butter, hot honey, and brown sugar melted together, then the mustards, thyme, and salt whisked in. Let it cool completely.",
+        "id": "glaze",
+        "label": "Make the glaze"
+      },
+      {
+        "hint": "Preheat to 300°F.",
+        "id": "heat",
+        "label": "Heat the pit"
+      },
+      {
+        "hint": "Mayo on the bottom buns, glaze on the tops, ham and Swiss in the middle, tops back on.",
+        "id": "build",
+        "label": "Build them"
+      },
+      {
+        "hint": "Brush the tops of the buns with melted butter and thyme.",
+        "id": "butter",
+        "label": "Butter the tops"
+      },
+      {
+        "hint": "Aluminum pan on the top shelf, 15 minutes, till the cheese is melty and the tops are lightly toasted.",
+        "id": "bake",
+        "label": "Bake"
+      }
+    ],
+    "pitTemp": "300°F",
+    "proTips": [
+      {
+        "text": "Top shelf keeps the bottoms from burning while the cheese melts.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "The glaze does double duty — sandwich spread and the sweet heat on top.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "9",
+    "slug": "ember-leftover-holiday-ham-sliders",
+    "steps": [
+      {
+        "body": "Melt the butter in a small pot over medium heat. Whisk in the hot honey and brown sugar until dissolved. Add the Dijon, yellow mustard, thyme, and salt, and whisk again. Pull off the heat and let it cool completely.",
+        "title": "Make the glaze"
+      },
+      {
+        "body": "Preheat to 300°F.",
+        "title": "Heat the pit"
+      },
+      {
+        "body": "Split the buns into top and bottom sheets. Spread mayonnaise on the bottom buns and a generous layer of the honey mustard glaze on the top buns. Layer the ham on the bottoms, Swiss on each slider, then set the tops back on.",
+        "title": "Build them"
+      },
+      {
+        "body": "Brush the tops of the buns with melted butter and thyme.",
+        "title": "Butter the tops"
+      },
+      {
+        "body": "Set the sliders in an aluminum pan on the top shelf of the smoker. Cook 15 minutes, until the cheese is melty and the tops are lightly toasted. Slice and serve warm.",
+        "title": "Bake"
+      }
+    ],
+    "story": "Pit Boss Kitchen's leftover ham sliders, Ember-style. Built for the morning after the big ham — smoky leftover ham, Swiss, and a hot-honey mustard glaze on Hawaiian rolls.",
+    "summary": "Leftover smoked ham and Swiss on buttery Hawaiian rolls, with a hot-honey mustard glaze, baked on the top shelf till the cheese melts and the tops toast.",
+    "title": "Ember Leftover Holiday Ham Sliders",
+    "wood": "Pantry"
+  },
+ {
+    "difficulty": "weekend",
+    "finish": "Smoke the blocks 2 hours at 225°F till golden, then fold with the browned-butter pecan topping and serve with crackers, bread, and veggies",
+    "hours": {
+      "max": 3,
+      "min": 2
+    },
+    "image": "/images/ember-smoked-holiday-cream-cheese.jpg",
+    "ingredients": [
+      {
+        "group": "The cheese and topping",
+        "items": [
+          "2 (8 oz each) blocks of cream cheese",
+          "3 Tbsp butter",
+          "1/2 cup pecans, chopped",
+          "1 Tbsp garlic, chopped",
+          "4 slices cooked bacon, chopped — optional",
+          "1/2 oz fresh chives, thinly sliced",
+          "1 tsp paprika",
+          "1/2 tsp pepper"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Score the blocks diamond-pattern, upper rack on a butcher-paper tray, 225°F, 2 hours.",
+        "id": "smoke",
+        "label": "Smoke the cheese"
+      },
+      {
+        "hint": "Brown the butter, toast the pecans 2–3 minutes, garlic 1–2 minutes.",
+        "id": "butter",
+        "label": "Brown the butter and nuts"
+      },
+      {
+        "hint": "Fold the smoked cheese with chives, bacon, paprika, pepper, and most of the nut topping, holding back about 1/3 cup.",
+        "id": "fold",
+        "label": "Fold it together"
+      },
+      {
+        "hint": "Top with the reserved nut topping. Serve with crackers, bread, and veggies.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "225°F",
+    "proTips": [
+      {
+        "text": "Cheese takes smoke fast — upper rack, 225°F, and two hours is plenty. Higher heat turns it to soup before it picks up flavor.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Score the tops deep enough for the smoke to get in, not just sit on the surface.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "6",
+    "slug": "ember-smoked-holiday-cream-cheese",
+    "steps": [
+      {
+        "body": "Preheat the smoker to 225°F. Unwrap the cream cheese blocks and score the tops in a diamond criss-cross. Set them on a sheet tray lined with butcher paper, on the upper rack. Smoke for 2 hours.",
+        "title": "Smoke the cheese"
+      },
+      {
+        "body": "Pull the cheese off and let it cool. Melt the butter in a saucepot over medium heat until slightly browned. Add the pecans and toast lightly for 2–3 minutes. Add the garlic and sauté another 1–2 minutes. Pull off the heat.",
+        "title": "Brown the butter and nuts"
+      },
+      {
+        "body": "In a large bowl, add the smoked cream cheese, chives, bacon, paprika, and pepper. Fold in most of the nut topping, holding back about 1/3 cup.",
+        "title": "Fold it together"
+      },
+      {
+        "body": "Top the mixed cream cheese with the reserved nut topping. Serve with crackers, bread, and veggies.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Pit Boss Kitchen's holiday cream cheese, Ember-style. Cream cheese takes smoke fast, so it goes on the upper rack at 225°F and comes off golden in two hours, then gets folded with a browned-butter nut topping.",
+    "summary": "Two blocks of cream cheese, scored and smoked till golden, then folded with browned-butter pecans, bacon, and chives — a holiday dip that disappears fast.",
+    "title": "Ember Smoked Holiday Cream Cheese",
+    "wood": "Apple"
   }
 ]
