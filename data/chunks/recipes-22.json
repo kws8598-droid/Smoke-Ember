@@ -11023,5 +11023,195 @@
     "summary": "Lean elk mixed 80/20 with beef fat, smoked low over oak or mesquite, then seared hot, dressed the way you want.",
     "title": "Ember Elk Burger",
     "wood": "Oak or mesquite"
+  },
+ {
+    "difficulty": "weekend",
+    "finish": "Pull at 145°F for medium-rare, rest tented 5–10 minutes before slicing",
+    "hours": {
+      "max": 2,
+      "min": 1
+    },
+    "image": "/images/ember-prime-rib-roast.jpg",
+    "ingredients": [
+      {
+        "group": "The roast",
+        "items": [
+          "2 lbs prime rib roast",
+          "10 cloves garlic, minced",
+          "2 tsp salt",
+          "2 tsp black pepper",
+          "Ember House Rub, to season"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Preheat the grill, then bring it up to 400°F.",
+        "id": "heat",
+        "label": "Heat the grill"
+      },
+      {
+        "hint": "Rub the roast all over with the garlic, salt, pepper, and Ember House Rub.",
+        "id": "rub",
+        "label": "Rub the roast"
+      },
+      {
+        "hint": "Thermometer in sideways, in the center, out of fat and bone — that's the only reading you can trust.",
+        "id": "thermometer",
+        "label": "Set the thermometer"
+      },
+      {
+        "hint": "Closed grill, steady heat, to 145°F for medium-rare, about 50 minutes.",
+        "id": "roast",
+        "label": "Roast it"
+      },
+      {
+        "hint": "Tent with foil 5–10 minutes, then slice and serve with mashed potatoes and asparagus.",
+        "id": "rest",
+        "label": "Rest and serve"
+      }
+    ],
+    "pitTemp": "400°F",
+    "proTips": [
+      {
+        "text": "Thermometer goes in sideways, in the center, out of fat and bone — that's the only reading you can trust.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Rest it tented. The juice settles and the slices stay juicy — that's the whole point of the rest.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "beef",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-prime-rib-roast",
+    "steps": [
+      {
+        "body": "Preheat the grill, then bring it up to 400°F.",
+        "title": "Heat the grill"
+      },
+      {
+        "body": "Rub the roast all over with the garlic, salt, pepper, and Ember House Rub.",
+        "title": "Rub the roast"
+      },
+      {
+        "body": "Insert a meat thermometer sideways into the center of the roast so the shaft isn't visible, keeping it out of fat and bone.",
+        "title": "Set the thermometer"
+      },
+      {
+        "body": "Cook in a closed grill, holding steady heat, until the thermometer reads 145°F for medium-rare, about 50 minutes — or cook to the doneness you want.",
+        "title": "Roast it"
+      },
+      {
+        "body": "Move the roast to a cutting board and tent with foil for 5–10 minutes. Slice and serve with mashed potatoes and asparagus on the side.",
+        "title": "Rest and serve"
+      }
+    ],
+    "story": "Pit Boss Kitchen's prime rib roast, Ember-style. A small holiday roast, seasoned simply and cooked hot and fast on the grill, served with mashed potatoes and asparagus.",
+    "summary": "A 2 lb prime rib roast rubbed with garlic, salt, pepper, and Ember House Rub, roasted hot on the grill to 145°F medium-rare, rested under foil, sliced for the holiday table.",
+    "title": "Ember Prime Rib Roast",
+    "wood": "Hickory"
+  },
+ {
+    "difficulty": "weekend",
+    "finish": "Baste to 140°F, about 5 hours — the ham is already cooked, so this is hot through with the glaze set",
+    "hours": {
+      "max": 5,
+      "min": 4
+    },
+    "image": "/images/ember-cider-glazed-spiral-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The glaze",
+        "items": [
+          "2 cups brown sugar",
+          "1 cup apple cider",
+          "3 Tbsp apple cider vinegar",
+          "1/2 cup honey mustard",
+          "1/4 cup habanero honey mustard, optional"
+        ]
+      },
+      {
+        "group": "The ham",
+        "items": [
+          "1 pre-cooked spiral cut ham (8–10 lb)"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Brown sugar, cider, and vinegar heated till the sugar dissolves, then the mustards whisked in off the heat.",
+        "id": "glaze",
+        "label": "Make the glaze"
+      },
+      {
+        "hint": "Preheat the pellet grill or smoker to 275°F.",
+        "id": "heat",
+        "label": "Heat the pit"
+      },
+      {
+        "hint": "Ham in a shallow roasting pan, half the glaze over it, pan on an upper rack.",
+        "id": "load",
+        "label": "Glaze and load"
+      },
+      {
+        "hint": "Baste every 20 minutes with the glaze from the pan until it hits 140°F, about 5 hours.",
+        "id": "baste",
+        "label": "Baste to 140°F"
+      },
+      {
+        "hint": "Serve immediately.",
+        "id": "serve",
+        "label": "Serve"
+      }
+    ],
+    "pitTemp": "275°F",
+    "proTips": [
+      {
+        "text": "Baste from the pan — the glaze picks up ham drippings as it goes, and that's the good stuff going back on.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "The ham is already cooked — 140°F is just hot through with the glaze set, not a cook-from-raw target.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Upper rack keeps the ham out of the direct heat while the glaze caramelizes instead of burning.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "8",
+    "slug": "ember-cider-glazed-spiral-ham",
+    "steps": [
+      {
+        "body": "Add the brown sugar, cider, and vinegar to a small pot and heat over medium heat until the sugar is dissolved. Pull it off the heat and whisk in the mustards. Set aside.",
+        "title": "Make the glaze"
+      },
+      {
+        "body": "Preheat the pellet grill or smoker to 275°F.",
+        "title": "Heat the pit"
+      },
+      {
+        "body": "Unwrap the ham and set it in a shallow roasting pan. Pour half the glaze over the ham, covering the whole thing, and set the pan on an upper rack of the grill.",
+        "title": "Glaze and load"
+      },
+      {
+        "body": "Baste the ham every 20 minutes with the glaze from the pan until it reaches an internal temperature of 140°F, about 5 hours.",
+        "title": "Baste to 140°F"
+      },
+      {
+        "body": "Serve immediately.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Pit Boss Kitchen's cider-glazed spiral ham, Ember-style. A pre-cooked spiral ham, glazed with brown sugar, apple cider, and honey mustard, smoked low till the glaze sets and the ham is hot through.",
+    "summary": "A smoked spiral ham with a homemade apple cider and honey mustard glaze — perfectly sweet, basted every 20 minutes till it hits 140°F.",
+    "title": "Ember Cider-Glazed Spiral Ham",
+    "wood": "Apple"
   }
 ]
