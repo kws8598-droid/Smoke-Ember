@@ -11399,5 +11399,120 @@
     "summary": "Two blocks of cream cheese, scored and smoked till golden, then folded with browned-butter pecans, bacon, and chives — a holiday dip that disappears fast.",
     "title": "Ember Smoked Holiday Cream Cheese",
     "wood": "Apple"
-  }
+  },
+{
+  "difficulty": "weekend",
+  "finish": "Glaze at 132°F, pull at 140°F — the ham is already cooked, so this is hot through with the glaze set",
+  "hours": {
+    "max": 4.5,
+    "min": 4
+  },
+  "image": "/images/ember-cherry-dr-pepper-double-smoked-ham.jpg",
+  "ingredients": [
+    {
+      "group": "The ham",
+      "items": [
+        "1 bone-in spiral-cut half ham, pre-smoked (7–9 lb)",
+        "Honey mustard, for a thin coat"
+      ]
+    },
+    {
+      "group": "The spritz",
+      "items": [
+        "1 can (12 oz) cherry Dr Pepper"
+      ]
+    },
+    {
+      "group": "The glaze",
+      "items": [
+        "1 can (12 oz) cherry Dr Pepper",
+        "1/2 cup brown sugar",
+        "1/4 cup honey",
+        "1/2 cup maraschino cherries, chopped, plus a few whole ones for looks"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Flavor packet and plastic disk out; knife cut deep to meet the spiral.",
+      "id": "prep",
+      "label": "Prep the ham"
+    },
+    {
+      "hint": "Thin coat of honey mustard; thermometer kept off the bone.",
+      "id": "binder",
+      "label": "Binder and temp check"
+    },
+    {
+      "hint": "Pit at 275°F over pecan with a little cherry; spritz every 20 minutes once the bark sets up.",
+      "id": "smoke",
+      "label": "On the smoker"
+    },
+    {
+      "hint": "One can cherry Dr Pepper, 1/2 cup brown sugar, 1/4 cup honey, cooked down till syrupy; cherries stirred in.",
+      "id": "glaze",
+      "label": "Build the glaze"
+    },
+    {
+      "hint": "Glaze brushed into every spiral at 132°F; 30 minutes to tack up, pull at 140°F.",
+      "id": "tack",
+      "label": "Glaze and tack up"
+    },
+    {
+      "hint": "Tent loose and rest 20–30 minutes before slicing.",
+      "id": "rest",
+      "label": "Rest"
+    }
+  ],
+  "pitTemp": "275°F",
+  "proTips": [
+    {
+      "text": "The brown sugar is what sets up the pop — more brown sugar than honey in that glaze.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Keep the thermometer off the bone or it'll lie to you.",
+      "voice": "Pit note"
+    },
+    {
+      "text": "Wood's the cook's call — pecan and cherry's my pick, apple if you want it lighter.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "pork",
+  "region": "backyard",
+  "school": null,
+  "servings": "10–12",
+  "slug": "ember-cherry-dr-pepper-double-smoked-ham",
+  "steps": [
+    {
+      "body": "Throw the flavor packet away and pull the plastic piece off the bottom. The spiral cut doesn't go all the way up, so take a knife and cut deep, almost to meet the spiral — it opens up during the cook and takes more flavor.",
+      "title": "Prep the ham"
+    },
+    {
+      "body": "Give the outside a thin coat of honey mustard. Check the temp with whatever thermometer you've got — no fancy leave-in probe needed, most folks don't have one — and keep it out of the bone, or it'll read false.",
+      "title": "Binder and temp check"
+    },
+    {
+      "body": "275°F over pecan with a little cherry — apple if you want it lighter. Spritz with cherry Dr Pepper every 20 minutes once the bark sets up, on all sides. The sugars build the bark and caramelize.",
+      "title": "On the smoker"
+    },
+    {
+      "body": "One can of cherry Dr Pepper, 1/2 cup brown sugar, and 1/4 cup honey in a pot on the stove. Cook it down till it turns syrupy, then stir in about 1/2 cup chopped maraschino cherries.",
+      "title": "Build the glaze"
+    },
+    {
+      "body": "At about 132°F internal, roughly 4 hours in, brush the glaze into every crack, crevice, and spiral, top to bottom, all sides. Tuck a few whole cherries into the spirals for looks. Give it about 30 minutes more to tack up, and pull it at 140°F.",
+      "title": "Glaze and tack up"
+    },
+    {
+      "body": "Tent it loose — don't wrap it tight or the glaze goes soft — and rest 20–30 minutes before you slice.",
+      "title": "Rest"
+    }
+  ],
+  "story": "Kendrick BBQ put up a reel of a double-smoked spiral ham with a Cherry Dr Pepper glaze, and Kelly called it — cherry Dr Pepper on pork is his move, has been for years. Cherry Dr Pepper and brown sugar is how he builds a crackling bark. This is the Ember version, written Kelly's way. Kelly hasn't cooked this one yet.",
+  "summary": "A store-bought spiral ham, smoked a second time over pecan and cherry, spritzed with cherry Dr Pepper while it cooks, and finished with a brown sugar and honey glaze cooked down on the stove. The brown sugar is what sets up the pop.",
+  "title": "Ember Cherry Dr Pepper Double-Smoked Ham",
+  "wood": "Pecan and cherry"
+}
 ]
