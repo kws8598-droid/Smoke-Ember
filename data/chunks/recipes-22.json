@@ -12309,4 +12309,67 @@
   "finish": "Topping set, chilled 1 hour",
   "school": null
 }
+,
+{
+  "title": "Ember Apple Cake",
+  "slug": "ember-apple-cake",
+  "region": "backyard",
+  "protein": "desserts",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.5,
+    "max": 0.75
+  },
+  "servings": "8",
+  "wood": "Pantry",
+  "summary": "Food Wonder Hub's 'best apple pie in the world' — really a quick apple cake: sliced apples under a batter with a tablespoon of baking powder, baked golden in 30 minutes. No crust, no cinnamon.",
+  "story": "From Food Wonder Hub's July 2026 Short, where the narrator calls it the best apple pie in the world and says the baking powder is the secret she learned from a famous bakery owner. Fair warning from the comments: with no crust and no cinnamon, it's really an apple cake — written up here as one. Kelly hasn't cooked it yet.",
+  "ingredients": [
+    {
+      "group": "The apples",
+      "items": [
+        "2 apples, sliced",
+        "Butter and flour, to grease the pan"
+      ]
+    },
+    {
+      "group": "The batter",
+      "items": [
+        "2 eggs",
+        "1/2 cup sugar",
+        "1/2 cup milk",
+        "2 cups flour, sifted",
+        "1 Tbsp baking powder"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pan and apples",
+      "body": "Grease a baking pan with butter and flour. Slice the apples and lay them in the pan."
+    },
+    {
+      "title": "Whisk the batter",
+      "body": "Whisk 2 eggs with 1/2 cup sugar, then mix in 1/2 cup milk. Add 2 cups sifted flour and mix really well, then stir in 1 Tbsp baking powder."
+    },
+    {
+      "title": "Bake",
+      "body": "Pour the batter over the apples and bake at 350°F for 30 minutes, until golden."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "No cinnamon or nutmeg in the video — add some if you want it to taste like pie.",
+      "voice": "bruno"
+    },
+    {
+      "text": "The baking powder is the whole trick here, per the narrator — don't skip it.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-apple-cake.jpg",
+  "pitTemp": "Oven 350°F",
+  "finish": "Golden, baked 30 min",
+  "school": null
+}
 ]
