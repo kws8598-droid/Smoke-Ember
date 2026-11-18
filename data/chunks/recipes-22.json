@@ -11841,5 +11841,76 @@
   "summary": "Roasted poblanos, sweet corn, and cream, thickened and finished with parmesan — Melissa Cookston's signature Memphis BBQ Co. side.",
   "title": "Poblano Creamed Corn",
   "wood": "Pantry"
+},
+{
+  "difficulty": "weeknight",
+  "finish": "Crisp and golden brown on both sides, serve hot",
+  "hours": {
+    "max": 0.5,
+    "min": 0.25
+  },
+  "image": "/images/fried-green-tomatoes.jpg",
+  "ingredients": [
+    {
+      "group": "Tomatoes and breading",
+      "items": [
+        "4 large green tomatoes",
+        "2 large eggs",
+        "1/2 cup milk",
+        "1 cup all-purpose flour",
+        "1/2 cup cornmeal",
+        "1/2 cup bread crumbs",
+        "2 teaspoons coarse kosher salt",
+        "1/4 teaspoon ground black pepper",
+        "1 quart vegetable oil, for frying"
+      ]
+    }
+  ],
+  "pitTemp": "Cast-iron fry",
+  "proTips": [
+    {
+      "text": "Don't crowd the pan — fry in batches or the crust steams instead of crisps.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Drain them on a cooling rack set over paper towels so the bottoms stay crisp instead of going soggy.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Serve them right away while they're hot and crisp — they go soft if they sit.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "sides",
+  "region": "backyard",
+  "school": null,
+  "servings": "4",
+  "slug": "fried-green-tomatoes",
+  "steps": [
+    {
+      "body": "Slice the tomatoes 1/2-inch thick. Discard the ends.",
+      "title": "Slice"
+    },
+    {
+      "body": "Whisk the eggs and milk together in a medium bowl. Scoop the flour onto a plate. Mix the cornmeal, bread crumbs, salt, and pepper on another plate.",
+      "title": "Set up the breading"
+    },
+    {
+      "body": "Dip each tomato slice into the flour to coat, then into the milk and egg mixture, then dredge in the bread crumb mixture to completely coat. Keep the flour coating thin — you want to see a hint of skin underneath for the crispiest crust.",
+      "title": "Dredge"
+    },
+    {
+      "body": "Heat the oil in a large deep skillet to 375°F. Place the tomatoes in the hot oil in batches of 4 or 5 so they don't touch, and fry until crisp and golden brown on one side, then flip and fry the other side.",
+      "title": "Fry"
+    },
+    {
+      "body": "Move the fried tomatoes to a paper towel-lined plate to drain. Serve hot and enjoy — plain, or with a remoulade, honey mustard, or sweet chili sauce for dipping.",
+      "title": "Drain and serve"
+    }
+  ],
+  "story": "Allrecipes' most-loved fried green tomatoes — Diana Swenson-Siegel's classic, tested by the Allrecipes Test Kitchen: flour, egg and milk, then cornmeal and bread crumbs, fried crisp in a skillet. Kelly hasn't cooked this one yet.",
+  "summary": "Sliced unripe tomatoes dredged in flour and cornmeal, then skillet-fried to buttery-brown perfection — crisp outside, tender and juicy inside.",
+  "title": "Fried Green Tomatoes",
+  "wood": "Pantry"
 }
 ]
