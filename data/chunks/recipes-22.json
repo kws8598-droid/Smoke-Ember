@@ -11619,5 +11619,74 @@
   "summary": "Malcolm Reed's sweet tea brine — a whole bird soaked overnight in Milo's sweet tea and his Bird Brine, then smoked at 325°F till the skin goes deep golden and crisp.",
   "title": "Ember Sweet Tea Brined Turkey",
   "wood": "Pecan"
+},
+{
+  "difficulty": "weeknight",
+  "finish": "Fork-tender all the way through, about 200°F in the center",
+  "hours": {
+    "max": 2,
+    "min": 1.5
+  },
+  "image": "/images/ember-whole-smoked-cauliflower.jpg",
+  "ingredients": [
+    {
+      "group": "The head",
+      "items": [
+        "1 medium head cauliflower, about 22 oz, leaves cut away"
+      ]
+    },
+    {
+      "group": "Marinade",
+      "items": [
+        "3 tablespoons olive oil",
+        "1 tablespoon maple syrup or honey",
+        "1 tablespoon smoked paprika",
+        "1 teaspoon cumin",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon ground black pepper",
+        "1/2 teaspoon sea salt",
+        "1 teaspoon yellow mustard",
+        "2 teaspoons tomato paste"
+      ]
+    }
+  ],
+  "pitTemp": "250°F",
+  "proTips": [
+    {
+      "text": "Vegetables take smoke fast — a light hand on the smoke is enough here. Apple or hickory gives it a sweet smoke without overpowering the cauliflower.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "The 5-minute steam first is worth it on a weeknight — it cuts the smoke time nearly in half and the head still comes out tender all the way through.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "sides",
+  "region": "backyard",
+  "school": null,
+  "servings": "6",
+  "slug": "ember-whole-smoked-cauliflower",
+  "steps": [
+    {
+      "body": "Cut the leaves away, keeping the head whole and intact. If you want it done faster, steam, boil, or microwave the whole head for 5 minutes, then cool it in a colander for 10 minutes until the steam is out — this cuts about 45 minutes off the smoke.",
+      "title": "Trim and steam (optional)"
+    },
+    {
+      "body": "Stir all the marinade ingredients together in a bowl until they form a paste. Rub the whole head with it, using a pastry brush or your hands, getting it into every crevice.",
+      "title": "Mix and rub"
+    },
+    {
+      "body": "Preheat the smoker to 250°F for indirect heat. Set the cauliflower on the grate, far from the heat, close the lid, and smoke 60–90 minutes until fork-tender. Don't open the lid often — it drops the temperature.",
+      "title": "On the smoker"
+    },
+    {
+      "body": "Pull it when a fork slides in easy and the center reads about 200°F on whatever thermometer you have. Slice into wedges and serve as a side, with tomato sauce or avocado dressing if you like.",
+      "title": "Serve"
+    }
+  ],
+  "story": "Sweet As Honey's Carine Claudepierre built this one for the smoker — a whole head rubbed with a smoky paprika marinade, slow-smoked till the outside crusts and the inside goes soft, like tandoori off the grill. Kelly hasn't cooked this one yet.",
+  "summary": "A whole cauliflower head rubbed with a smoky paprika marinade and slow-smoked till the outside crusts and the inside goes soft and tender.",
+  "title": "Ember Whole Smoked Cauliflower",
+  "wood": "Apple or hickory"
 }
 ]
