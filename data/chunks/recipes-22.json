@@ -12067,4 +12067,83 @@
     "image": "/images/ember-mango-habanero-sauce.jpg",
     "school": null
   }
+,
+{
+  "title": "Ember Smoked Pig Shots",
+  "slug": "ember-smoked-pig-shots",
+  "region": "backyard",
+  "protein": "sausage",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.75,
+    "max": 1
+  },
+  "servings": "12–16 shots",
+  "wood": "Apple or pecan",
+  "summary": "Bacon-wrapped smoked sausage cups filled with cheddar cream cheese and diced jalapeño, finished with a hot honey drizzle.",
+  "story": "Smoked BBQ Source's top-rated pig shots, done Ember-style with Kelly's picks — smoked sausage, cheddar, jalapeño diced right into the filling, hot honey over the top. Kelly hasn't cooked these yet.",
+  "ingredients": [
+    {
+      "group": "The cups",
+      "items": [
+        "12 oz smoked sausage",
+        "1 lb thick-cut bacon",
+        "2 Tbsp Ember House Rub, divided"
+      ]
+    },
+    {
+      "group": "The filling",
+      "items": [
+        "12 oz cream cheese, softened",
+        "1/4 cup shredded cheddar",
+        "1 jalapeño, finely diced"
+      ]
+    },
+    {
+      "group": "To finish",
+      "items": [
+        "Hot honey, for drizzling"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the cups",
+      "body": "Slice the smoked sausage into pieces about 3/4 to 1 inch thick. Cut each bacon strip in half lengthwise. Wrap one half-strip around each sausage slice to form a cup, and push a toothpick through the bottom seam into the sausage to hold it. Set the cups on a wire rack over a sheet pan and dust them with Ember House Rub."
+    },
+    {
+      "title": "Smoke the cups",
+      "body": "Smoke at 250°F for 30 to 45 minutes, until the bacon is fully rendered and crisp."
+    },
+    {
+      "title": "Make the filling",
+      "body": "While the cups smoke, mix the softened cream cheese, shredded cheddar, diced jalapeño, and the rest of the rub. Spoon it into a piping bag or a zip-top bag with the corner snipped off."
+    },
+    {
+      "title": "Fill and finish",
+      "body": "Pull the cups off and let them cool a little, then pull the toothpicks out — the bacon holds its shape now. Pipe the filling into each cup, just below the top of the bacon so it doesn't bubble over. Put them back on at 300°F for 10 to 15 minutes, just until the filling is warmed through."
+    },
+    {
+      "title": "Drizzle and serve",
+      "body": "Drizzle hot honey over the top, let them rest a few minutes so they set, and serve warm."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Thick-cut bacon is the whole trick — thin bacon falls apart and the cups won't hold.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Pipe the filling just below the top of the bacon. Fill it to the brim and it bubbles over on the finish.",
+      "voice": "bruno"
+    },
+    {
+      "text": "You can build the cups the day before and keep them in the fridge, then smoke them when folks show up.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-smoked-pig-shots.jpg",
+  "pitTemp": "250°F then 300°F",
+  "school": null
+}
 ]
