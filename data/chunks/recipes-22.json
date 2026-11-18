@@ -12146,4 +12146,92 @@
   "pitTemp": "250°F then 300°F",
   "school": null
 }
+,
+{
+  "title": "Ember Smoked Turkey Breast",
+  "slug": "ember-smoked-turkey-breast",
+  "region": "louisiana",
+  "protein": "poultry",
+  "difficulty": "weekend",
+  "hours": {
+    "min": 3,
+    "max": 4.5
+  },
+  "servings": "6–8",
+  "wood": "Apple",
+  "summary": "Grillnation's Creole butter-injected turkey breast, Ember-style with the skin left on — Tony's marinade with honey butter in the injection, mustard binder, Tony's seasoning, smoked over applewood and finished in a honey-butter wrap.",
+  "story": "Grillnation's smoked turkey breast from his November 2026 reel — injected with Tony Chachere's Creole butter marinade, mustard binder, Tony's seasoning, finished in a honey-butter wrap. One change from the reel, Kelly's call: the skin stays on. Kelly hasn't cooked it yet.",
+  "ingredients": [
+    {
+      "group": "The breast",
+      "items": [
+        "1 boneless turkey breast, 5–6 lb, fully thawed"
+      ]
+    },
+    {
+      "group": "The injection",
+      "items": [
+        "3/4 cup Tony Chachere's Creole Style Butter Injectable Marinade",
+        "2 Tbsp honey",
+        "2 Tbsp unsalted butter, melted"
+      ]
+    },
+    {
+      "group": "The rub",
+      "items": [
+        "2 Tbsp yellow mustard",
+        "2 tsp Tony Chachere's Original Creole Seasoning",
+        "2 tsp sweet paprika",
+        "2 tsp garlic powder",
+        "1 tsp onion powder"
+      ]
+    },
+    {
+      "group": "The wrap",
+      "items": [
+        "1/2 cup unsalted butter, sliced",
+        "1/4 cup honey"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Inject and chill",
+      "body": "Stir the honey and melted butter into the Tony's marinade. Pat the breast dry. Inject small amounts of the mixture throughout the breast. Set it on a rack over a tray and refrigerate 12–16 hours."
+    },
+    {
+      "title": "Season",
+      "body": "Leave the skin ON — Kelly's call, the reel takes it off. Pat dry, coat with mustard, mix the seasonings and season all sides."
+    },
+    {
+      "title": "Smoke",
+      "body": "Smoke at 250°F over applewood, breast-side up, until the breast hits 140°F, about 2–3 hours."
+    },
+    {
+      "title": "Butter wrap",
+      "body": "Lay the breast on heavy-duty foil with the butter and honey, wrap it tight, and put it back on at 250°F until the thickest part hits 160°F, about 45–90 minutes."
+    },
+    {
+      "title": "Rest and slice",
+      "body": "Rest loose-tented 20–30 minutes — Kelly's way, so the skin doesn't steam soft. Verify the thickest part reaches 165°F. Slice across the grain and spoon the honey-butter juices over the slices."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Inject small amounts in several spots and pull the needle out slow as you go — one big pocket is the mistake.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Skin stays on in Kelly's version — that's the whole argument in the reel's comments.",
+      "voice": "bruno"
+    },
+    {
+      "text": "The wrap is where the honey-butter juices come from — save every drop for the slices.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-smoked-turkey-breast.jpg",
+  "pitTemp": "250°F",
+  "school": null
+}
 ]
