@@ -12003,5 +12003,68 @@
     "summary": "Double-smoked spiral ham with apple pie seasoning and a salted peach caramel glaze. Sweet apple pie notes, rich peach caramel, and a smoky finish — stupid easy: heat, glaze, smoke, slice.",
     "title": "Ember Apple Pie Peach Ham",
     "wood": "Pecan and cherry"
+  },
+  {
+    "title": "Ember Mango Habanero Sauce",
+    "slug": "ember-mango-habanero-sauce",
+    "region": "backyard",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "2 cups",
+    "wood": "Pantry",
+    "pitTemp": "Simmer",
+    "summary": "Sweet mango, five habaneros, and brown sugar in place of honey — thick enough to coat a wing, hot enough to mean it.",
+    "story": "Built from the highest-rated mango habanero sauce out there — Chili Pepper Madness's Caribbean version, 4.9 stars from 139 ratings. Kelly's picks: all five habaneros for real heat, brown sugar instead of honey, and simmered thicker so it clings to wings instead of running off. Kelly hasn't cooked it yet.",
+    "ingredients": [
+      {
+        "group": "Sauce",
+        "items": [
+          "5 habanero peppers, chopped (about 2 oz / 1/4 cup chopped)",
+          "1 mango, peeled and chopped (about 8 oz / 1 cup chopped)",
+          "1 small white onion, chopped (about 3/4 cup)",
+          "4 cloves garlic, chopped",
+          "1/2 cup apple cider vinegar",
+          "2 tablespoons dark brown sugar (Kelly's swap for the honey)",
+          "1/2 teaspoon allspice",
+          "1/4 teaspoon cumin",
+          "1 teaspoon ginger powder",
+          "1 teaspoon salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend it smooth",
+        "body": "Add everything to a food processor and process until smooth. No water — leaving it out is what keeps this one thick."
+      },
+      {
+        "title": "Simmer it thick",
+        "body": "Pour into a pan, bring to a boil, then drop the heat and simmer 15 minutes so it thickens up and the flavors come together. (The source simmers 10 — the extra 5 is for wing thickness.)"
+      },
+      {
+        "title": "Cool and bottle",
+        "body": "Let it cool, then pour into bottles or jars. Toss hot wings in it right off the pit so it clings. If it's ever thicker than you like, thin it with a splash of water or extra vinegar."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Want it milder? Put in fewer habaneros — 3 for medium, 2 for mild. Same sauce, tamer heat.",
+        "voice": "kelly"
+      },
+      {
+        "text": "Fruit-based sauce, so keep it in the fridge — it holds for several months.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Good on more than wings: grilled chicken, pulled pork, shrimp, fish tacos.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-mango-habanero-sauce.jpg",
+    "school": null
   }
 ]
