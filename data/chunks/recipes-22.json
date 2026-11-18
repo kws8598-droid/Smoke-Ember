@@ -11514,5 +11514,110 @@
   "summary": "A store-bought spiral ham, smoked a second time over pecan and cherry, spritzed with cherry Dr Pepper while it cooks, and finished with a brown sugar and honey glaze cooked down on the stove. The brown sugar is what sets up the pop.",
   "title": "Ember Cherry Dr Pepper Double-Smoked Ham",
   "wood": "Pecan and cherry"
+},
+{
+  "difficulty": "weekend",
+  "finish": "Pull at 160°F and tent loose to finish, rest before carving",
+  "hours": {
+    "max": 4.5,
+    "min": 3
+  },
+  "image": "/images/ember-sweet-tea-brined-turkey.jpg",
+  "ingredients": [
+    {
+      "group": "The brine",
+      "items": [
+        "1 gallon Milo's Sweet Tea",
+        "Malcolm's Bird Brine Turkey & Chicken Brine (amount per the label)",
+        "Ice, to top off"
+      ]
+    },
+    {
+      "group": "The bird",
+      "items": [
+        "1 whole turkey, 12–14 lb",
+        "1 onion, celery stalks, and fresh herbs, for the cavity",
+        "Oil, for the skin",
+        "Ember AP Rub, applied generously"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "hint": "Brining bag in a bucket, turkey in, Bird Brine over it, a full gallon of Milo's sweet tea, ice on top, sealed and refrigerated overnight.",
+      "id": "brine",
+      "label": "Bag and brine"
+    },
+    {
+      "hint": "Out of the brine, patted completely dry inside and out; onion, celery, and herbs in the cavity, legs tied.",
+      "id": "dry",
+      "label": "Dry and stuff"
+    },
+    {
+      "hint": "Skin coated with oil, Ember AP Rub on generous, all over.",
+      "id": "rub",
+      "label": "Oil and rub"
+    },
+    {
+      "hint": "325°F over pecan on a rack over foil, probe in, cook till it reads 160°F.",
+      "id": "smoke",
+      "label": "On the smoker"
+    },
+    {
+      "hint": "Tent loosely with foil to finish, then let it rest before carving.",
+      "id": "rest",
+      "label": "Tent and rest"
+    }
+  ],
+  "pitTemp": "325°F",
+  "proTips": [
+    {
+      "text": "No extra salt in this brine — the Bird Brine is the salt. The tea brings the sweet, the Bird Brine brings the salt and the seasoning.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Malcolm's tip: want the beautiful color of sweet tea without the sweetness? Use unsweetened tea instead.",
+      "voice": "Pit note"
+    },
+    {
+      "text": "The bird comes out of the brine orange-brown from the tea — that's the tea doing its work, not a problem.",
+      "voice": "Pit note"
+    },
+    {
+      "text": "Pat it completely dry or the skin won't crisp.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "poultry",
+  "region": "southern",
+  "school": null,
+  "servings": "10–12",
+  "slug": "ember-sweet-tea-brined-turkey",
+  "steps": [
+    {
+      "body": "Line a bucket with a brining bag and set the turkey inside. Add the Bird Brine, pour in the full gallon of Milo's sweet tea, and top with ice. Seal the bag, lid on the bucket, and refrigerate overnight.",
+      "title": "Bag and brine"
+    },
+    {
+      "body": "Lift the bird out of the brine and pat it completely dry, inside and out. Stuff the cavity with onion, celery, and herbs, and tie the legs together.",
+      "title": "Dry and stuff"
+    },
+    {
+      "body": "Coat the skin with oil, then apply the rub generously, all over.",
+      "title": "Oil and rub"
+    },
+    {
+      "body": "Set the bird on a rack over foil in the smoker at 325°F, probe in, and cook till it reads 160°F.",
+      "title": "On the smoker"
+    },
+    {
+      "body": "Tent loosely with foil to finish, then let it rest before carving.",
+      "title": "Tent and rest"
+    }
+  ],
+  "story": "Malcolm Reed of HowToBBQRight swears by this one, and it's right up Kelly's alley — he loves sweet tea. A whole bird goes into a brining bag with Malcolm's Bird Brine and a full gallon of Milo's sweet tea, ices down overnight, and comes out orange-brown from the tea before it ever sees the smoker. Kelly hasn't cooked this one yet.",
+  "summary": "Malcolm Reed's sweet tea brine — a whole bird soaked overnight in Milo's sweet tea and his Bird Brine, then smoked at 325°F till the skin goes deep golden and crisp.",
+  "title": "Ember Sweet Tea Brined Turkey",
+  "wood": "Pecan"
 }
 ]
