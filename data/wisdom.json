@@ -802,10 +802,10 @@
   {
     "body": [
       {
-        "text": "Lump charcoal is just wood, charred and broken into chunks. Nothing added, so the smoke is pure wood smoke. It burns hotter than briquettes, which makes it good for searing and grilling. The trade-off is the pieces are all different sizes, so the fire is less even, and it burns through faster \u2014 on a long cook you may need to refuel."
+        "text": "Lump charcoal is just wood, charred and broken into chunks. Nothing added, so the smoke is pure wood smoke. It burns hotter than briquettes, which makes it good for searing and grilling. The trade-off is the pieces are all different sizes, so the fire is less even, and it burns through faster — on a long cook you may need to refuel."
       },
       {
-        "text": "Briquettes are ground charcoal pressed into uniform pillows, usually with a binder to hold the shape. Same size every time means a steady, even burn that lasts longer, which is why they're the pick for slow cooking \u2014 and for the snake method, where an even line of fuel is the whole trick. The trade-offs are more ash to clean up, and some brands use fillers that soften the smoke flavor."
+        "text": "Briquettes are ground charcoal pressed into uniform pillows, usually with a binder to hold the shape. Same size every time means a steady, even burn that lasts longer, which is why they're the pick for slow cooking — and for the snake method, where an even line of fuel is the whole trick. The trade-offs are more ash to clean up, and some brands use fillers that soften the smoke flavor."
       },
       {
         "text": "Price is simple: lump costs more per bag, briquettes are the budget-friendly bag. Low ash on the lump side, easy clean-up; more ash on the briquette side, more cleaning."
@@ -818,12 +818,55 @@
     "kicker": "Fire school",
     "readMinutes": 3,
     "slug": "lump-or-briquettes",
-    "summary": "Lump burns hotter and faster with pure wood smoke. Briquettes burn longer and steadier. Neither bag is wrong \u2014 pick the one that fits the cook.",
+    "summary": "Lump burns hotter and faster with pure wood smoke. Briquettes burn longer and steadier. Neither bag is wrong — pick the one that fits the cook.",
     "takeaways": [
       "Lump: hotter, faster, pure wood smoke, pricier, low ash.",
       "Briquettes: steadier, longer, budget-friendly, more ash.",
-      "Snake method wants uniform briquettes \u2014 an even line burns even."
+      "Snake method wants uniform briquettes — an even line burns even."
     ],
     "title": "Lump or briquettes? Both have a job"
+  },
+  {
+    "body": [
+      {
+        "heading": "Trim the silver skin — all of it",
+        "text": "That's where most of that gamey taste lives. Fat and silver skin off, and clean field care matters most. If you leave it on, no rub in the world covers it."
+      },
+      {
+        "heading": "Don't overcook it",
+        "text": "Game meat is lean — there's no fat to save it. A backstrap is a thick steak, not a roast. Pull it at 140°F, or 125–130°F if you're searing after. Gray is overdone."
+      },
+      {
+        "heading": "Lean cuts want injection",
+        "text": "The leaner the cut, the more injection it gets. Warm butter-broth — beef broth for game. A rub alone won't keep it juicy."
+      },
+      {
+        "heading": "A soak helps the gamey flavor",
+        "text": "A milk or brine soak takes the edge off. It won't fix bad field care, but it helps a clean cut taste like itself."
+      },
+      {
+        "heading": "Thaw it in the fridge",
+        "text": "Slow thaw, in the refrigerator. Counter-thawing dries the outside while the middle's still frozen."
+      },
+      {
+        "heading": "Match the method to the cut",
+        "text": "Backstrap gets a quick smoke and a sear. A shoulder wants a low braise or a stew. Cook a shoulder like a backstrap and you'll chew it till Christmas."
+      },
+      {
+        "heading": "Let it rest",
+        "text": "Juice settles, fibers relax. Twenty, thirty minutes. Cut it hot and it runs out on the board."
+      }
+    ],
+    "image": "/images/venison-backstrap.jpg",
+    "kicker": "Fire school",
+    "readMinutes": 4,
+    "slug": "wild-game-mistakes",
+    "summary": "Game meat is lean, so every mistake shows. Trim it clean, don't overcook it, match the method to the cut, and let it rest — the same rules that keep venison tender.",
+    "takeaways": [
+      "Trim every bit of silver skin and fat — that's the gamey taste.",
+      "Pull it before you think it's done. Lean meat has no second chance.",
+      "Rest it 20–30 minutes, or it runs out on the board."
+    ],
+    "title": "Wild game forgives nothing"
   }
 ]
