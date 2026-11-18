@@ -11774,5 +11774,72 @@
   "summary": "Sweet potatoes, carrots, and parsnips roasted first at high heat, Brussels sprouts joining late, finished with a maple-butter glaze and toasted pecans.",
   "title": "Ember Roasted Root Vegetables",
   "wood": "Pantry"
+},
+{
+  "difficulty": "weeknight",
+  "finish": "Cream thickened and clinging, parmesan melted, serve hot",
+  "hours": {
+    "max": 0.5,
+    "min": 0.25
+  },
+  "image": "/images/poblano-creamed-corn.jpg",
+  "ingredients": [
+    {
+      "group": "Creamed corn",
+      "items": [
+        "2 tablespoons butter",
+        "1 poblano, roasted, peeled, seeded and diced",
+        "1 small to medium red onion, diced",
+        "1 tablespoon minced garlic",
+        "2 cups corn kernels",
+        "1 cup heavy cream",
+        "Just a sprinkle of Wondra flour (about 1/4 teaspoon regular all-purpose flour to substitute)",
+        "1/4 cup shredded parmesan, plus some to garnish",
+        "Lightly chopped cilantro, for garnish"
+      ]
+    }
+  ],
+  "pitTemp": "Stovetop",
+  "proTips": [
+    {
+      "text": "Wondra flour works best here for thickening without lumps — about 1/4 teaspoon of regular flour does the job if you don't have it.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Frozen corn kernels work fine — that's the point of this one, it's never more than a few minutes from the dinner table. Fresh corn cut off the cob is good too when it's around.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "sides",
+  "region": "backyard",
+  "school": null,
+  "servings": "4",
+  "slug": "poblano-creamed-corn",
+  "steps": [
+    {
+      "body": "Roast the poblano over a gas flame or on a tray in the oven until the skin is blackened, then put it in a paper bag or a resealable dish for 10–15 minutes. Peel the blackened skin off, take the seeds out, and dice it. Roasting over a flame gives it a better flavor and leaves little flecks of char in the dish.",
+      "title": "Roast the poblano"
+    },
+    {
+      "body": "Sauté the onion, poblanos, and garlic in the butter in a skillet over medium to medium-high heat.",
+      "title": "Sauté"
+    },
+    {
+      "body": "Add in the corn and cook until it starts to brown, about 3–4 minutes.",
+      "title": "Add the corn"
+    },
+    {
+      "body": "Add in the cream, stir, and allow it to come to a boil. Sprinkle in the flour while stirring. After it begins to thicken, add in the parmesan and continue to stir and cook until the parmesan is melted.",
+      "title": "Cream and thicken"
+    },
+    {
+      "body": "Put it into a dish, garnish with more parmesan and cilantro, and serve hot beside the barbecue.",
+      "title": "Serve"
+    }
+  ],
+  "story": "Melissa Cookston's signature side from Memphis BBQ Co. — roasted poblanos, sweet corn, and cream, finished with parmesan. She grew up in Mississippi, where creamed corn graced many a dinner table, and poblanos are the mild chile she reaches for most. Kelly hasn't cooked this one yet.",
+  "summary": "Roasted poblanos, sweet corn, and cream, thickened and finished with parmesan — Melissa Cookston's signature Memphis BBQ Co. side.",
+  "title": "Poblano Creamed Corn",
+  "wood": "Pantry"
 }
 ]
