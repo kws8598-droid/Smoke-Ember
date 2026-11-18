@@ -3607,10 +3607,10 @@
     },
     "servings": "8",
     "wood": "Pecan",
-    "pitTemp": "350\u00b0F indirect",
+    "pitTemp": "350°F indirect",
     "finish": "Top set and golden; sauce bubbling at the edges",
-    "summary": "A Thanksgiving dessert that makes its own sauce. Pumpkin-spice cake on top, gooey caramel underneath \u2014 and you don't stir it, you just trust the hot water to do its job.",
-    "story": "This one came off a Facebook post that stopped me mid-scroll \u2014 pumpkin, pecans, and a caramel sauce the cobbler makes all by itself. I took it to the pit and made it mine: a little pecan smoke, real butter, and the same rule \u2014 once the hot water goes on, you do NOT stir.",
+    "summary": "A Thanksgiving dessert that makes its own sauce. Pumpkin-spice cake on top, gooey caramel underneath — and you don't stir it, you just trust the hot water to do its job.",
+    "story": "This one came off a Facebook post that stopped me mid-scroll — pumpkin, pecans, and a caramel sauce the cobbler makes all by itself. I took it to the pit and made it mine: a little pecan smoke, real butter, and the same rule — once the hot water goes on, you do NOT stir.",
     "school": null,
     "image": "/images/ember-pumpkin-pecan-cobbler.jpg",
     "ingredients": [
@@ -3642,7 +3642,7 @@
     ],
     "steps": [
       {
-        "body": "Heat the pit or oven to 350\u00b0F indirect, light pecan smoke. Grease an 8x8 dish or a 10-inch cast-iron skillet.",
+        "body": "Heat the pit or oven to 350°F indirect, light pecan smoke. Grease an 8x8 dish or a 10-inch cast-iron skillet.",
         "title": "Heat the pit (or oven)"
       },
       {
@@ -3650,7 +3650,7 @@
         "title": "Mix the dry"
       },
       {
-        "body": "Whisk the pumpkin puree, milk, melted butter, and vanilla, then stir the wet into the dry just until combined \u2014 don't overwork it. Spread in the dish.",
+        "body": "Whisk the pumpkin puree, milk, melted butter, and vanilla, then stir the wet into the dry just until combined — don't overwork it. Spread in the dish.",
         "title": "Mix the wet"
       },
       {
@@ -3662,7 +3662,7 @@
         "title": "The magic pour"
       },
       {
-        "body": "Bake 40\u201345 minutes, until the top is set and golden and the sauce bubbles up around the edges.",
+        "body": "Bake 40–45 minutes, until the top is set and golden and the sauce bubbles up around the edges.",
         "title": "Bake"
       },
       {
@@ -3672,30 +3672,30 @@
     ],
     "proTips": [
       {
-        "text": "Do not stir after the water goes on \u2014 stirring kills the sauce layer. That's the whole trick.",
+        "text": "Do not stir after the water goes on — stirring kills the sauce layer. That's the whole trick.",
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "Dessert takes smoke fast, like cheese \u2014 keep the smoke light so the pumpkin and caramel stay in front.",
+        "text": "Dessert takes smoke fast, like cheese — keep the smoke light so the pumpkin and caramel stay in front.",
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "The sauce thickens as it rests \u2014 cut into it too soon and it's soup; give it the 15 minutes.",
+        "text": "The sauce thickens as it rests — cut into it too soon and it's soup; give it the 15 minutes.",
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "Oven works the same at 350\u00b0F if the pit's busy with the turkey.",
+        "text": "Oven works the same at 350°F if the pit's busy with the turkey.",
         "voice": "Kelly's kitchen"
       }
     ],
     "milestones": [
       {
-        "hint": "Hot water over the top \u2014 do NOT stir.",
+        "hint": "Hot water over the top — do NOT stir.",
         "id": "pour",
         "label": "Pour"
       },
       {
-        "hint": "40\u201345 minutes until set and golden.",
+        "hint": "40–45 minutes until set and golden.",
         "id": "bake",
         "label": "Bake"
       },
@@ -3710,8 +3710,7 @@
         "label": "Serve"
       }
     ]
-  }
-,
+  },
   {
     "difficulty": "weekend",
     "finish": "Eggs just set, potatoes crisp at the edges",
@@ -3724,7 +3723,7 @@
       {
         "group": "Potatoes",
         "items": [
-          "2 lb potatoes, diced \u00bd-inch",
+          "2 lb potatoes, diced ½-inch",
           "2 Tbsp oil or butter",
           "Salt and pepper"
         ]
@@ -3750,7 +3749,7 @@
     ],
     "milestones": [
       {
-        "hint": "Pit 350\u00b0F indirect, iron hot.",
+        "hint": "Pit 350°F indirect, iron hot.",
         "id": "on",
         "label": "On the pit"
       },
@@ -3770,10 +3769,10 @@
         "label": "Serve"
       }
     ],
-    "pitTemp": "350\u00b0F indirect",
+    "pitTemp": "350°F indirect",
     "proTips": [
       {
-        "text": "Cast iron holds heat \u2014 let the potatoes sit or they steam instead of crisping.",
+        "text": "Cast iron holds heat — let the potatoes sit or they steam instead of crisping.",
         "voice": "Pit cook"
       },
       {
@@ -3788,11 +3787,11 @@
     "protein": "pork",
     "region": "backyard",
     "school": null,
-    "servings": "4\u20136",
+    "servings": "4–6",
     "slug": "pitmaster-breakfast-skillet",
     "steps": [
       {
-        "body": "Cast iron, oil hot, potatoes in a single layer. Let them sit 10\u201312 minutes so the edges crisp; stir only when they release.",
+        "body": "Cast iron, oil hot, potatoes in a single layer. Let them sit 10–12 minutes so the edges crisp; stir only when they release.",
         "title": "Crisp the potatoes"
       },
       {
@@ -3800,7 +3799,7 @@
         "title": "Sausage and veg"
       },
       {
-        "body": "Make little wells, crack an egg into each, lid on. 5\u20138 minutes until the whites are set and the yolks are your way.",
+        "body": "Make little wells, crack an egg into each, lid on. 5–8 minutes until the whites are set and the yolks are your way.",
         "title": "Eggs on top"
       },
       {
@@ -3809,11 +3808,10 @@
       }
     ],
     "story": "A morning cook in one pan. If the pit is already going, the skillet rides it; if it isn't, the stovetop does the same job. The sausage is his smoked breakfast sausage, so the smoke is already in the pan before the eggs ever land.",
-    "summary": "Cast iron, smoked sausage, potatoes, peppers, and eggs cracked right on top \u2014 breakfast off the pit.",
+    "summary": "Cast iron, smoked sausage, potatoes, peppers, and eggs cracked right on top — breakfast off the pit.",
     "title": "Pitmaster Breakfast Skillet",
     "wood": "Hickory or oak"
-  }
-,
+  },
   {
     "difficulty": "weeknight",
     "finish": "Coats a spoon, pepper-forward",
@@ -3883,15 +3881,15 @@
     "protein": "pork",
     "region": "kentucky",
     "school": null,
-    "servings": "6\u20138",
+    "servings": "6–8",
     "slug": "smoked-sausage-gravy",
     "steps": [
       {
-        "body": "Skillet, break it up, 5 minutes. Don't drain \u2014 the fat is flavor.",
+        "body": "Skillet, break it up, 5 minutes. Don't drain — the fat is flavor.",
         "title": "Brown the sausage"
       },
       {
-        "body": "Butter in, flour over the sausage, stir 1\u20132 minutes until blonde and smelling like biscuits.",
+        "body": "Butter in, flour over the sausage, stir 1–2 minutes until blonde and smelling like biscuits.",
         "title": "Make the roux"
       },
       {
@@ -3899,7 +3897,7 @@
         "title": "Milk in stages"
       },
       {
-        "body": "Low heat 5\u20138 minutes until it coats a spoon. Pepper heavy, salt to taste. It tightens as it sits, so leave it a touch loose.",
+        "body": "Low heat 5–8 minutes until it coats a spoon. Pepper heavy, salt to taste. It tightens as it sits, so leave it a touch loose.",
         "title": "Simmer and season"
       }
     ],
@@ -3907,8 +3905,7 @@
     "summary": "Sausage gravy with smoke already in it, thanks to his smoked breakfast sausage.",
     "title": "Smoked Sausage Gravy",
     "wood": "None"
-  }
-,
+  },
   {
     "difficulty": "weeknight",
     "finish": "Cheese melted, yolk your way",
@@ -3975,7 +3972,7 @@
     "slug": "ember-breakfast-sandwich",
     "steps": [
       {
-        "body": "Skillet, Canadian bacon 1\u20132 minutes per side until the edges curl.",
+        "body": "Skillet, Canadian bacon 1–2 minutes per side until the edges curl.",
         "title": "Crisp the bacon"
       },
       {
@@ -3983,7 +3980,7 @@
         "title": "Fry the eggs"
       },
       {
-        "body": "Butter, cut-side down, golden. Don't walk away \u2014 muffins go from golden to gone fast.",
+        "body": "Butter, cut-side down, golden. Don't walk away — muffins go from golden to gone fast.",
         "title": "Toast the muffins"
       },
       {
@@ -3992,11 +3989,10 @@
       }
     ],
     "story": "This is a build, not a cook. The Canadian bacon is already smoked, so the whole thing comes together in one skillet while the muffins toast. Make a batch of Canadian bacon and breakfast is handled for days.",
-    "summary": "His Canadian bacon, a fried egg, and melted cheese on a toasted muffin \u2014 the reason to keep a batch of Canadian bacon around.",
+    "summary": "His Canadian bacon, a fried egg, and melted cheese on a toasted muffin — the reason to keep a batch of Canadian bacon around.",
     "title": "Ember Breakfast Sandwich",
     "wood": "None"
-  }
-,
+  },
   {
     "difficulty": "weeknight",
     "finish": "Potatoes crisp, eggs set your way",
@@ -4010,7 +4006,7 @@
         "group": "Hash",
         "items": [
           "2 cups leftover brisket, chopped",
-          "2 lb potatoes, diced \u00bd-inch",
+          "2 lb potatoes, diced ½-inch",
           "1 onion, diced",
           "1 bell pepper, diced",
           "2 cloves garlic, minced",
@@ -4020,7 +4016,7 @@
       {
         "group": "Eggs and top",
         "items": [
-          "4\u20136 eggs",
+          "4–6 eggs",
           "Salt and pepper",
           "Sliced green onions",
           "Hot sauce (optional)"
@@ -4063,19 +4059,19 @@
     "protein": "beef",
     "region": "texas",
     "school": null,
-    "servings": "4\u20136",
+    "servings": "4–6",
     "slug": "brisket-breakfast-hash",
     "steps": [
       {
-        "body": "Oil hot, potatoes in a single layer, press them down. 10\u201312 minutes. Don't stir until they release and the bottom is brown.",
+        "body": "Oil hot, potatoes in a single layer, press them down. 10–12 minutes. Don't stir until they release and the bottom is brown.",
         "title": "Crisp the potatoes"
       },
       {
-        "body": "Brisket, onion, and pepper in, 5 minutes. Garlic last, 1 minute. Let it all crust \u2014 that's the whole point.",
+        "body": "Brisket, onion, and pepper in, 5 minutes. Garlic last, 1 minute. Let it all crust — that's the whole point.",
         "title": "Brisket and veg"
       },
       {
-        "body": "Wells in the hash, crack an egg into each, lid on. 5\u20138 minutes until the whites are set.",
+        "body": "Wells in the hash, crack an egg into each, lid on. 5–8 minutes until the whites are set.",
         "title": "Eggs on top"
       },
       {
@@ -4084,11 +4080,10 @@
       }
     ],
     "story": "Brisket the second day is a different cook, not a leftover. The bark crisps back up in the iron, the fat renders again, and the potatoes drink all of it. This is the morning-after cook that makes the first cook worth it.",
-    "summary": "Yesterday's brisket earns its keep again \u2014 chopped into a skillet hash with potatoes, peppers, and eggs on top.",
+    "summary": "Yesterday's brisket earns its keep again — chopped into a skillet hash with potatoes, peppers, and eggs on top.",
     "title": "Brisket Breakfast Hash",
     "wood": "None"
-  }
-,
+  },
   {
     "difficulty": "weekend",
     "finish": "Puffed, golden, center set",
@@ -4146,7 +4141,7 @@
         "label": "Rest"
       }
     ],
-    "pitTemp": "350\u00b0F indirect",
+    "pitTemp": "350°F indirect",
     "proTips": [
       {
         "text": "Day-old bread soaks without going to mush. Fresh bread turns to paste.",
@@ -4157,14 +4152,14 @@
         "voice": "Pit cook"
       },
       {
-        "text": "Oven works the same at 350\u00b0F if the pit isn't lit.",
+        "text": "Oven works the same at 350°F if the pit isn't lit.",
         "voice": "Pit cook"
       }
     ],
     "protein": "pork",
     "region": "backyard",
     "school": null,
-    "servings": "8\u201310",
+    "servings": "8–10",
     "slug": "overnight-smoked-breakfast-casserole",
     "steps": [
       {
@@ -4184,7 +4179,7 @@
         "title": "Rest overnight"
       },
       {
-        "body": "350\u00b0F indirect, 60\u201375 minutes, until puffed, golden, and the center is set, not jiggly.",
+        "body": "350°F indirect, 60–75 minutes, until puffed, golden, and the center is set, not jiggly.",
         "title": "Smoke and set"
       },
       {
@@ -4192,12 +4187,11 @@
         "title": "Rest and slice"
       }
     ],
-    "story": "The work happens the night before and the pit does the rest. Bread soaks overnight, sausage and cheese all through it, and in the morning it goes on at 350\u00b0F while everybody wakes up. Oven works the same at 350\u00b0F if the pit isn't lit.",
-    "summary": "Built the night before, into the smoker in the morning \u2014 eggs, bread, smoked sausage, and cheese for a crowd.",
+    "story": "The work happens the night before and the pit does the rest. Bread soaks overnight, sausage and cheese all through it, and in the morning it goes on at 350°F while everybody wakes up. Oven works the same at 350°F if the pit isn't lit.",
+    "summary": "Built the night before, into the smoker in the morning — eggs, bread, smoked sausage, and cheese for a crowd.",
     "title": "Overnight Smoked Breakfast Casserole",
     "wood": "Hickory or apple"
-  }
-,
+  },
   {
     "difficulty": "weeknight",
     "finish": "Top browned, cheese bubbling through the crust",
@@ -4246,15 +4240,15 @@
         "label": "Mixed in one pot"
       },
       {
-        "hint": "Top browned, watch the onions \u2014 they darken first.",
+        "hint": "Top browned, watch the onions — they darken first.",
         "id": "brown",
         "label": "Top browned"
       }
     ],
-    "pitTemp": "350\u00b0F oven or smoker indirect",
+    "pitTemp": "350°F oven or smoker indirect",
     "proTips": [
       {
-        "text": "Watch it close \u2014 the fried onions turn dark faster than the crackers.",
+        "text": "Watch it close — the fried onions turn dark faster than the crackers.",
         "voice": "Pit cook"
       },
       {
@@ -4262,14 +4256,14 @@
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "The sauce is plenty wet as written \u2014 soup, sour cream, and Velveeta carry 3 to 4 pounds of broccoli without scaling up.",
+        "text": "The sauce is plenty wet as written — soup, sour cream, and Velveeta carry 3 to 4 pounds of broccoli without scaling up.",
         "voice": "Kelly's kitchen"
       }
     ],
     "protein": "sides",
     "region": "southern",
     "school": "Thanksgiving table",
-    "servings": "12\u201316",
+    "servings": "12–16",
     "slug": "kellys-broccoli-casserole",
     "steps": [
       {
@@ -4285,18 +4279,18 @@
         "title": "Pan it and top it"
       },
       {
-        "body": "Bake at 350\u00b0F just until the top is browned, 15 to 20 minutes. Watch it close \u2014 the fried onions turn dark faster than the crackers. It's practically done going in, the oven just finishes the top. Or finish it in the smoker instead of the oven, indirect heat, same idea: just until the top is browned.",
+        "body": "Bake at 350°F just until the top is browned, 15 to 20 minutes. Watch it close — the fried onions turn dark faster than the crackers. It's practically done going in, the oven just finishes the top. Or finish it in the smoker instead of the oven, indirect heat, same idea: just until the top is browned.",
         "title": "Just brown the top"
       }
     ],
-    "story": "This is a Thanksgiving dish at Kelly's house, cooked for a bunch \u2014 3 to 4 pounds of broccoli, pretty cheesy, with caramelized onions and a crunchy Ritz and fried-onion top. Kelly calls this casserole magic, and he means it. People will say onions don't belong in there. Try it first, then you'll be adding onions to yours. His son don't even like broccoli, but he eats the hell out of this. Kelly never put eggs in it before, but it only makes sense in a casserole, so they go in last.",
-    "summary": "Pretty cheesy, the way a Thanksgiving side ought to be \u2014 caramelized onions, a crunchy Ritz and fried-onion top, and enough to feed a crowd.",
+    "story": "This is a Thanksgiving dish at Kelly's house, cooked for a bunch — 3 to 4 pounds of broccoli, pretty cheesy, with caramelized onions and a crunchy Ritz and fried-onion top. Kelly calls this casserole magic, and he means it. People will say onions don't belong in there. Try it first, then you'll be adding onions to yours. His son don't even like broccoli, but he eats the hell out of this. Kelly never put eggs in it before, but it only makes sense in a casserole, so they go in last.",
+    "summary": "Pretty cheesy, the way a Thanksgiving side ought to be — caramelized onions, a crunchy Ritz and fried-onion top, and enough to feed a crowd.",
     "title": "Kelly's Broccoli Casserole",
-    "wood": "None \u2014 oven 350\u00b0F"
+    "wood": "None — oven 350°F"
   },
   {
     "difficulty": "weekend",
-    "finish": "Glaze set and tacky, ham warmed to 140\u00b0F",
+    "finish": "Glaze set and tacky, ham warmed to 140°F",
     "hours": {
       "max": 4,
       "min": 3
@@ -4321,19 +4315,19 @@
     ],
     "milestones": [
       {
-        "hint": "Pit at 250\u00b0F indirect, cherry wood.",
+        "hint": "Pit at 250°F indirect, cherry wood.",
         "id": "pit",
         "label": "Pit ready"
       },
       {
-        "hint": "Ham at about 120\u00b0F, ready for glaze.",
+        "hint": "Ham at about 120°F, ready for glaze.",
         "id": "glaze",
         "label": "Ready to glaze"
       },
       {
-        "hint": "Glaze tacky and caramelized, ham at 140\u00b0F.",
+        "hint": "Glaze tacky and caramelized, ham at 140°F.",
         "id": "pull",
-        "label": "Pulled at 140\u00b0F"
+        "label": "Pulled at 140°F"
       },
       {
         "hint": "Rested 15 to 20 minutes.",
@@ -4341,7 +4335,7 @@
         "label": "Rested and sliced"
       }
     ],
-    "pitTemp": "250\u00b0F indirect",
+    "pitTemp": "250°F indirect",
     "proTips": [
       {
         "text": "Don't glaze early. Sugar burns long before the ham is warm through.",
@@ -4359,11 +4353,11 @@
     "protein": "pork",
     "region": "southern",
     "school": null,
-    "servings": "10\u201312",
+    "servings": "10–12",
     "slug": "brunos-double-smoked-ham",
     "steps": [
       {
-        "body": "Set the pit up for indirect cooking at 250\u00b0F with cherry wood, and put a drip pan under the grate.",
+        "body": "Set the pit up for indirect cooking at 250°F with cherry wood, and put a drip pan under the grate.",
         "title": "Get the pit ready"
       },
       {
@@ -4371,7 +4365,7 @@
         "title": "Score it if it needs it"
       },
       {
-        "body": "Put the ham on the grate, cut side down if it's spiral sliced. Smoke at 250\u00b0F until it reaches about 120\u00b0F inside, roughly 2 to 2 and a half hours.",
+        "body": "Put the ham on the grate, cut side down if it's spiral sliced. Smoke at 250°F until it reaches about 120°F inside, roughly 2 to 2 and a half hours.",
         "title": "Smoke it once more"
       },
       {
@@ -4379,11 +4373,11 @@
         "title": "Make the glaze"
       },
       {
-        "body": "Once the ham hits about 120\u00b0F, brush on a thin coat, close the lid, and repeat every 15 minutes for 2 to 3 coats in the last 30 to 45 minutes, until the glaze is tacky and caramelized. Watch it close, sugar burns fast.",
+        "body": "Once the ham hits about 120°F, brush on a thin coat, close the lid, and repeat every 15 minutes for 2 to 3 coats in the last 30 to 45 minutes, until the glaze is tacky and caramelized. Watch it close, sugar burns fast.",
         "title": "Glaze it in coats"
       },
       {
-        "body": "Pull the ham at 140\u00b0F, tent it loosely with foil, and rest it 15 to 20 minutes. Then slice and spoon any pan juices over.",
+        "body": "Pull the ham at 140°F, tent it loosely with foil, and rest it 15 to 20 minutes. Then slice and spoon any pan juices over.",
         "title": "Rest and slice"
       }
     ],
@@ -4392,117 +4386,116 @@
     "title": "Bruno's Double Smoked Ham",
     "wood": "Cherry"
   },
-{
-  "difficulty": "weeknight",
-  "finish": "Thick enough to stand a spoon in",
-  "hours": {
-    "max": 2,
-    "min": 1.5
+  {
+    "difficulty": "weeknight",
+    "finish": "Thick enough to stand a spoon in",
+    "hours": {
+      "max": 2,
+      "min": 1.5
+    },
+    "image": "/images/georgia-brunswick-stew.jpg",
+    "ingredients": [
+      {
+        "group": "The pot",
+        "items": [
+          "2 lb smoked pulled pork, leftovers work perfect",
+          "1 lb smoked or cooked chicken, shredded",
+          "1 onion, diced",
+          "4 cups chicken stock",
+          "1 can (28 oz) crushed tomatoes",
+          "2 cups diced potatoes, about 3 medium",
+          "2 cups frozen Lima beans (butterbeans)",
+          "2 cups corn, frozen or cut off the cob"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "1/2 cup tomato-based barbecue sauce",
+          "1 Tbsp apple cider vinegar",
+          "1 tsp black pepper",
+          "Salt to taste at the end",
+          "Hot sauce, optional, for the table"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Onion soft in a little oil or bacon grease.",
+        "id": "onions",
+        "label": "Onions soft"
+      },
+      {
+        "hint": "Stock, tomatoes, pork, and chicken at a simmer.",
+        "id": "simmer",
+        "label": "Pot simmering"
+      },
+      {
+        "hint": "Potatoes, Lima beans, and corn simmering low.",
+        "id": "vegetables",
+        "label": "Vegetables in"
+      },
+      {
+        "hint": "Thick enough to stand a spoon in, rested 15 minutes.",
+        "id": "thick",
+        "label": "Thick and rested"
+      }
+    ],
+    "pitTemp": "Low simmer on the stovetop",
+    "proTips": [
+      {
+        "text": "Stir often. Thick stew scorches on the bottom if you walk away.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "Too thick, splash in stock. Too thin, simmer uncovered a little longer.",
+        "voice": "Kelly's kitchen"
+      },
+      {
+        "text": "The smoke is already in the meat from the pit. That's where the flavor comes from.",
+        "voice": "Kelly's kitchen"
+      }
+    ],
+    "protein": "pork",
+    "region": "georgia",
+    "school": null,
+    "servings": "8–10",
+    "slug": "georgia-brunswick-stew",
+    "steps": [
+      {
+        "body": "Cook the diced onion in a little oil or bacon grease until soft, about 5 minutes.",
+        "title": "Sweat the onion"
+      },
+      {
+        "body": "Add the chicken stock, crushed tomatoes, pulled pork, and chicken, and bring it to a simmer.",
+        "title": "Build the pot"
+      },
+      {
+        "body": "Potatoes go in first since they take longest. Simmer 20 minutes.",
+        "title": "Potatoes first"
+      },
+      {
+        "body": "Add the Lima beans and corn, then simmer low 45 to 60 minutes, stirring often so it doesn't scorch on the bottom.",
+        "title": "Beans, corn, and a low simmer"
+      },
+      {
+        "body": "Stir in the barbecue sauce and apple cider vinegar in the last 15 minutes.",
+        "title": "Sauce it"
+      },
+      {
+        "body": "Salt and pepper to taste at the end. Hot sauce stays at the table, not in the pot.",
+        "title": "Season last"
+      },
+      {
+        "body": "Let it sit off the heat 15 minutes. Better the next day, and it freezes well.",
+        "title": "Rest it, or wait a day"
+      }
+    ],
+    "story": "Georgia's thick pot, kin to Kentucky burgoo — leftover smoked pork and chicken, Lima beans, corn, and potatoes, simmered low until it's thick enough to stand a spoon in, and always better the second day.",
+    "summary": "Georgia's thick, spoon-standing pot — smoked pork and chicken, Lima beans, corn, and potatoes, built on leftovers and better the second day.",
+    "title": "Georgia Brunswick Stew",
+    "wood": "None — stovetop pot"
   },
-  "image": "/images/georgia-brunswick-stew.jpg",
-  "ingredients": [
-    {
-      "group": "The pot",
-      "items": [
-        "2 lb smoked pulled pork, leftovers work perfect",
-        "1 lb smoked or cooked chicken, shredded",
-        "1 onion, diced",
-        "4 cups chicken stock",
-        "1 can (28 oz) crushed tomatoes",
-        "2 cups diced potatoes, about 3 medium",
-        "2 cups frozen Lima beans (butterbeans)",
-        "2 cups corn, frozen or cut off the cob"
-      ]
-    },
-    {
-      "group": "To finish",
-      "items": [
-        "1/2 cup tomato-based barbecue sauce",
-        "1 Tbsp apple cider vinegar",
-        "1 tsp black pepper",
-        "Salt to taste at the end",
-        "Hot sauce, optional, for the table"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Onion soft in a little oil or bacon grease.",
-      "id": "onions",
-      "label": "Onions soft"
-    },
-    {
-      "hint": "Stock, tomatoes, pork, and chicken at a simmer.",
-      "id": "simmer",
-      "label": "Pot simmering"
-    },
-    {
-      "hint": "Potatoes, Lima beans, and corn simmering low.",
-      "id": "vegetables",
-      "label": "Vegetables in"
-    },
-    {
-      "hint": "Thick enough to stand a spoon in, rested 15 minutes.",
-      "id": "thick",
-      "label": "Thick and rested"
-    }
-  ],
-  "pitTemp": "Low simmer on the stovetop",
-  "proTips": [
-    {
-      "text": "Stir often. Thick stew scorches on the bottom if you walk away.",
-      "voice": "Kelly's kitchen"
-    },
-    {
-      "text": "Too thick, splash in stock. Too thin, simmer uncovered a little longer.",
-      "voice": "Kelly's kitchen"
-    },
-    {
-      "text": "The smoke is already in the meat from the pit. That's where the flavor comes from.",
-      "voice": "Kelly's kitchen"
-    }
-  ],
-  "protein": "pork",
-  "region": "georgia",
-  "school": null,
-  "servings": "8\u201310",
-  "slug": "georgia-brunswick-stew",
-  "steps": [
-    {
-      "body": "Cook the diced onion in a little oil or bacon grease until soft, about 5 minutes.",
-      "title": "Sweat the onion"
-    },
-    {
-      "body": "Add the chicken stock, crushed tomatoes, pulled pork, and chicken, and bring it to a simmer.",
-      "title": "Build the pot"
-    },
-    {
-      "body": "Potatoes go in first since they take longest. Simmer 20 minutes.",
-      "title": "Potatoes first"
-    },
-    {
-      "body": "Add the Lima beans and corn, then simmer low 45 to 60 minutes, stirring often so it doesn't scorch on the bottom.",
-      "title": "Beans, corn, and a low simmer"
-    },
-    {
-      "body": "Stir in the barbecue sauce and apple cider vinegar in the last 15 minutes.",
-      "title": "Sauce it"
-    },
-    {
-      "body": "Salt and pepper to taste at the end. Hot sauce stays at the table, not in the pot.",
-      "title": "Season last"
-    },
-    {
-      "body": "Let it sit off the heat 15 minutes. Better the next day, and it freezes well.",
-      "title": "Rest it, or wait a day"
-    }
-  ],
-  "story": "Georgia's thick pot, kin to Kentucky burgoo \u2014 leftover smoked pork and chicken, Lima beans, corn, and potatoes, simmered low until it's thick enough to stand a spoon in, and always better the second day.",
-  "summary": "Georgia's thick, spoon-standing pot \u2014 smoked pork and chicken, Lima beans, corn, and potatoes, built on leftovers and better the second day.",
-  "title": "Georgia Brunswick Stew",
-  "wood": "None \u2014 stovetop pot"
-}
-,
   {
     "difficulty": "easy",
     "finish": "Glossy rings in a slightly thickened syrup",
@@ -4515,7 +4508,7 @@
       {
         "group": "Peppers and syrup",
         "items": [
-          "1 lb fresh jalape\u00f1os, sliced into 1/4-inch rings, seeds left in for heat",
+          "1 lb fresh jalapeños, sliced into 1/4-inch rings, seeds left in for heat",
           "2 cups granulated sugar",
           "1 cup apple cider vinegar",
           "1 tsp turmeric",
@@ -4527,7 +4520,7 @@
     ],
     "milestones": [
       {
-        "hint": "Jalape\u00f1os sliced into 1/4-inch rings, gloves on.",
+        "hint": "Jalapeños sliced into 1/4-inch rings, gloves on.",
         "id": "sliced",
         "label": "Peppers sliced"
       },
@@ -4550,11 +4543,11 @@
     "pitTemp": "Simmer on the stovetop",
     "proTips": [
       {
-        "text": "Wear gloves. Jalape\u00f1o hands burn, and washing alone doesn't always fix it.",
+        "text": "Wear gloves. Jalapeño hands burn, and washing alone doesn't always fix it.",
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "Don't overcook them. Mushy peppers have no bite \u2014 pull them while still a little firm.",
+        "text": "Don't overcook them. Mushy peppers have no bite — pull them while still a little firm.",
         "voice": "Kelly's kitchen"
       },
       {
@@ -4593,15 +4586,14 @@
         "title": "Cool and keep"
       }
     ],
-    "story": "Sweet heat in a jar \u2014 jalape\u00f1os simmered in sugar and vinegar until glossy and candied, with a little bite left. Folks call these cowboy candy. Inspired by seeing candied jalape\u00f1os on Melissa Cookston's Memphis BBQ Co. menu \u2014 this is our Ember version, not her recipe. Put them on pulled pork, burgers, nachos, or next to cream cheese and crackers.",
-    "summary": "Sweet heat in a jar \u2014 jalape\u00f1o rings candied in sugar and vinegar, also called cowboy candy.",
-    "title": "Ember Candied Jalape\u00f1os",
-    "wood": "None \u2014 stovetop pot"
-  }
-,
+    "story": "Sweet heat in a jar — jalapeños simmered in sugar and vinegar until glossy and candied, with a little bite left. Folks call these cowboy candy. Inspired by seeing candied jalapeños on Melissa Cookston's Memphis BBQ Co. menu — this is our Ember version, not her recipe. Put them on pulled pork, burgers, nachos, or next to cream cheese and crackers.",
+    "summary": "Sweet heat in a jar — jalapeño rings candied in sugar and vinegar, also called cowboy candy.",
+    "title": "Ember Candied Jalapeños",
+    "wood": "None — stovetop pot"
+  },
   {
     "difficulty": "weekend",
-    "finish": "145\u00b0F in the center, rested and sliced into pinwheel rounds",
+    "finish": "145°F in the center, rested and sliced into pinwheel rounds",
     "hours": {
       "max": 2.5,
       "min": 1.5
@@ -4611,7 +4603,7 @@
       {
         "group": "The loin",
         "items": [
-          "1 whole pork loin, 3\u20134 lb",
+          "1 whole pork loin, 3–4 lb",
           "Your favorite pork seasoning for the outside",
           "Butcher's twine"
         ]
@@ -4619,8 +4611,8 @@
       {
         "group": "The filling",
         "items": [
-          "8 oz onion cream cheese, softened \u2014 or cream cheese mixed with diced yellow onion or sliced green onions, your choice",
-          "8 slices bacon, cooked first \u2014 crumble it or leave the strips in, your choice",
+          "8 oz onion cream cheese, softened — or cream cheese mixed with diced yellow onion or sliced green onions, your choice",
+          "8 slices bacon, cooked first — crumble it or leave the strips in, your choice",
           "1/2 cup shredded cheddar, optional",
           "1 cup sliced mushrooms, optional"
         ]
@@ -4643,15 +4635,15 @@
         "label": "Rolled and tied"
       },
       {
-        "hint": "250\u00b0F to 145\u00b0F in the center, rested and sliced into pinwheel rounds.",
+        "hint": "250°F to 145°F in the center, rested and sliced into pinwheel rounds.",
         "id": "smoked",
         "label": "Smoked and sliced"
       }
     ],
-    "pitTemp": "250\u00b0F indirect",
+    "pitTemp": "250°F indirect",
     "proTips": [
       {
-        "text": "Cook the bacon before it goes inside \u2014 crumbled or strips, your choice.",
+        "text": "Cook the bacon before it goes inside — crumbled or strips, your choice.",
         "voice": "Kelly's kitchen"
       },
       {
@@ -4659,18 +4651,18 @@
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "Tie it snug \u2014 that's what keeps the filling inside while it cooks.",
+        "text": "Tie it snug — that's what keeps the filling inside while it cooks.",
         "voice": "Kelly's kitchen"
       },
       {
-        "text": "Let it rest before slicing so the cheese doesn't all run out \u2014 and each round shows a pinwheel of filling in the middle.",
+        "text": "Let it rest before slicing so the cheese doesn't all run out — and each round shows a pinwheel of filling in the middle.",
         "voice": "Kelly's kitchen"
       }
     ],
     "protein": "pork",
     "region": "southern",
     "school": null,
-    "servings": "8\u201310",
+    "servings": "8–10",
     "slug": "kellys-stuffed-pork-loin-fatty",
     "steps": [
       {
@@ -4690,22 +4682,22 @@
         "title": "Season the outside"
       },
       {
-        "body": "Indirect at 250\u00b0F over cherry, pecan, apple, hickory, or oak until the center hits 145\u00b0F.",
+        "body": "Indirect at 250°F over cherry, pecan, apple, hickory, or oak until the center hits 145°F.",
         "title": "Smoke it"
       },
       {
-        "body": "Rest 15\u201320 minutes so the cheese sets a bit, then slice into rounds \u2014 each round should show a pinwheel of filling swirled in the middle.",
+        "body": "Rest 15–20 minutes so the cheese sets a bit, then slice into rounds — each round should show a pinwheel of filling swirled in the middle.",
         "title": "Rest and slice"
       }
     ],
-    "story": "This ain't the sausage-log fatty you see everywhere. Mine's a pork loin cut open and stuffed \u2014 onion cream cheese and bacon inside, a little cheddar if you want it \u2014 then seasoned outside the way you like and smoked till it's done. Slice it into rounds and the filling stays right where it belongs.",
-    "summary": "A pork loin unrolled flat, stuffed with onion cream cheese and bacon, rolled back up like a newspaper and smoked \u2014 every slice shows a pinwheel.",
+    "story": "This ain't the sausage-log fatty you see everywhere. Mine's a pork loin cut open and stuffed — onion cream cheese and bacon inside, a little cheddar if you want it — then seasoned outside the way you like and smoked till it's done. Slice it into rounds and the filling stays right where it belongs.",
+    "summary": "A pork loin unrolled flat, stuffed with onion cream cheese and bacon, rolled back up like a newspaper and smoked — every slice shows a pinwheel.",
     "title": "Kelly's Stuffed Pork Loin Fatty",
     "wood": "Cherry, pecan, apple, hickory, or oak"
   },
   {
     "difficulty": "easy",
-    "finish": "Cold, sweet, and stacked \u2014 brownie on the bottom, cherry on top.",
+    "finish": "Cold, sweet, and stacked — brownie on the bottom, cherry on top.",
     "hours": {
       "max": 0.25,
       "min": 0.1
@@ -4715,7 +4707,7 @@
       {
         "group": "The sundae",
         "items": [
-          "1 Brooklyn\u2019s Brownie (from Bub & Sissy\u2019s Sweet Shop)",
+          "1 Brooklyn’s Brownie (from Bub & Sissy’s Sweet Shop)",
           "1 scoop vanilla bean ice cream",
           "1/4 cup hot fudge, warmed",
           "2 Tbsp toasted coconut",
@@ -4742,10 +4734,10 @@
         "label": "Topped"
       }
     ],
-    "pitTemp": "No cooking \u2014 assembly",
+    "pitTemp": "No cooking — assembly",
     "proTips": [
       {
-        "text": "Warm the fudge so it pours easy, and make it yours \u2014 more fudge, less coconut, whatever your crowd likes. It\u2019s not set in stone.",
+        "text": "Warm the fudge so it pours easy, and make it yours — more fudge, less coconut, whatever your crowd likes. It’s not set in stone.",
         "voice": "Sweet Shop note"
       }
     ],
@@ -4756,7 +4748,7 @@
     "slug": "brooklyns-brownie-sundae",
     "steps": [
       {
-        "body": "Set one of Brooklyn\u2019s brownies on a plate or in a bowl.",
+        "body": "Set one of Brooklyn’s brownies on a plate or in a bowl.",
         "title": "Start with the brownie"
       },
       {
@@ -4776,14 +4768,14 @@
         "title": "Crown it"
       }
     ],
-    "story": "Brooklyn\u2019s brownies are good straight out of the skillet, but every now and then one deserves the full treatment. Set a brownie down, scoop vanilla bean ice cream on top, pour the hot fudge over, scatter toasted coconut and sliced almonds, crown it with whipped cream and a cherry, and finish with a little more hot fudge. That\u2019s the sundae \u2014 built on a Sweet Shop brownie, dressed up the way Sissy would want it.",
-    "summary": "One of Brooklyn\u2019s smoked skillet brownies under vanilla bean ice cream, hot fudge, toasted coconut and almonds, whipped cream, and a cherry.",
-    "title": "Brooklyn\u2019s Brownie Sundae",
+    "story": "Brooklyn’s brownies are good straight out of the skillet, but every now and then one deserves the full treatment. Set a brownie down, scoop vanilla bean ice cream on top, pour the hot fudge over, scatter toasted coconut and sliced almonds, crown it with whipped cream and a cherry, and finish with a little more hot fudge. That’s the sundae — built on a Sweet Shop brownie, dressed up the way Sissy would want it.",
+    "summary": "One of Brooklyn’s smoked skillet brownies under vanilla bean ice cream, hot fudge, toasted coconut and almonds, whipped cream, and a cherry.",
+    "title": "Brooklyn’s Brownie Sundae",
     "wood": "None"
   },
   {
     "difficulty": "weekend",
-    "finish": "Warm, soft, and sticky \u2014 caramel running down into every swirl.",
+    "finish": "Warm, soft, and sticky — caramel running down into every swirl.",
     "hours": {
       "max": 2.5,
       "min": 2
@@ -4793,7 +4785,7 @@
       {
         "group": "Dough",
         "items": [
-          "1 cup warm whole milk (about 110\u00b0F)",
+          "1 cup warm whole milk (about 110°F)",
           "2 1/4 tsp active dry yeast (1 packet)",
           "1/2 cup granulated sugar",
           "1/3 cup unsalted butter, melted",
@@ -4845,7 +4837,7 @@
         "label": "Caramel on top"
       }
     ],
-    "pitTemp": "350\u00b0F oven",
+    "pitTemp": "350°F oven",
     "proTips": [
       {
         "text": "Dice the apples small so the rolls roll up tight and slice clean. Pour the caramel on while the rolls are warm, not hot, so it soaks in instead of sliding off.",
@@ -4859,7 +4851,7 @@
     "slug": "caramel-apple-cinnamon-rolls",
     "steps": [
       {
-        "body": "Stir warm milk, yeast, and a spoonful of the sugar; let it foam, about 5\u201310 minutes. Mix in the rest of the sugar, melted butter, eggs, and salt, then the flour until a soft dough forms. Knead 6\u20138 minutes until smooth. Cover and let rise until doubled, about 1 hour.",
+        "body": "Stir warm milk, yeast, and a spoonful of the sugar; let it foam, about 5–10 minutes. Mix in the rest of the sugar, melted butter, eggs, and salt, then the flour until a soft dough forms. Knead 6–8 minutes until smooth. Cover and let rise until doubled, about 1 hour.",
         "title": "Dough"
       },
       {
@@ -4867,19 +4859,19 @@
         "title": "Filling"
       },
       {
-        "body": "Roll up tight from the long side. Cut into 12 even rolls. Set in a greased 9x13 pan, cover, and let rise until puffy, about 30\u201345 minutes.",
+        "body": "Roll up tight from the long side. Cut into 12 even rolls. Set in a greased 9x13 pan, cover, and let rise until puffy, about 30–45 minutes.",
         "title": "Roll and cut"
       },
       {
-        "body": "Oven 350\u00b0F. Bake 25\u201330 minutes until golden on top and cooked through in the middle.",
+        "body": "Oven 350°F. Bake 25–30 minutes until golden on top and cooked through in the middle.",
         "title": "Bake"
       },
       {
-        "body": "While the rolls bake, melt butter and brown sugar in a saucepan, stir in the cream, simmer 2\u20133 minutes, then vanilla and salt. Pour warm caramel over the warm rolls so it runs down into the swirls. Serve warm.",
+        "body": "While the rolls bake, melt butter and brown sugar in a saucepan, stir in the cream, simmer 2–3 minutes, then vanilla and salt. Pour warm caramel over the warm rolls so it runs down into the swirls. Serve warm.",
         "title": "Caramel"
       }
     ],
-    "story": "Fall in a pan \u2014 soft yeast rolls, apples cooked down with brown sugar and cinnamon inside, and caramel poured over while they're still warm so it runs down into every swirl. Made for National Caramel Apple Day, good any fall weekend after.",
+    "story": "Fall in a pan — soft yeast rolls, apples cooked down with brown sugar and cinnamon inside, and caramel poured over while they're still warm so it runs down into every swirl. Made for National Caramel Apple Day, good any fall weekend after.",
     "summary": "Soft homemade cinnamon rolls with diced apples and cinnamon in the filling, baked till golden, and warm caramel sauce poured over the top.",
     "title": "Caramel-Apple Cinnamon Rolls",
     "wood": "None"
@@ -4914,7 +4906,7 @@
           "1/2 cup unsalted butter, softened",
           "8 oz semisweet chocolate, melted and cooled slightly",
           "2 cups powdered sugar",
-          "3\u20134 Tbsp milk or cream (as needed)",
+          "3–4 Tbsp milk or cream (as needed)",
           "1 tsp vanilla extract",
           "Pinch of salt",
           "1 cup rainbow candy-coated chocolate chips"
@@ -4943,7 +4935,7 @@
         "label": "Frosted and topped"
       }
     ],
-    "pitTemp": "350\u00b0F oven",
+    "pitTemp": "350°F oven",
     "proTips": [
       {
         "text": "Cool the cookies all the way before frosting or it slides off. Frost one cookie at a time and add the chips right away, or they won't stick.",
@@ -4957,15 +4949,15 @@
     "slug": "olivers-cosmic-brownie-cookies",
     "steps": [
       {
-        "body": "Oven 350\u00b0F. Line baking sheets with parchment.",
+        "body": "Oven 350°F. Line baking sheets with parchment.",
         "title": "Oven + pans"
       },
       {
-        "body": "Melt butter and chopped chocolate together, stir smooth. Whisk in both sugars, then eggs one at a time, then vanilla. Fold in flour, cocoa, baking powder, and salt just until combined \u2014 don't overmix.",
+        "body": "Melt butter and chopped chocolate together, stir smooth. Whisk in both sugars, then eggs one at a time, then vanilla. Fold in flour, cocoa, baking powder, and salt just until combined — don't overmix.",
         "title": "Batter"
       },
       {
-        "body": "Scoop large balls (about 4 Tbsp each) onto the sheets, 2 inches apart. Bake 11\u201313 minutes until the edges are set but the middles are still soft. Do NOT overbake \u2014 they firm up as they cool. Cool fully on the sheets.",
+        "body": "Scoop large balls (about 4 Tbsp each) onto the sheets, 2 inches apart. Bake 11–13 minutes until the edges are set but the middles are still soft. Do NOT overbake — they firm up as they cool. Cool fully on the sheets.",
         "title": "Scoop + bake"
       },
       {
@@ -4977,8 +4969,8 @@
         "title": "Cosmic top"
       }
     ],
-    "story": "Oliver loves cosmic brownies, so these are his in cookie form \u2014 a fudgy brownie baked round, chocolate frosting spread on top once they're cool, and rainbow chips pressed in before the frosting sets. Don't overbake them; the middles stay soft and set up as they cool.",
-    "summary": "Brownie batter baked into cookies, thick chocolate frosting, rainbow chips on top \u2014 the lunchbox favorite, made at home for Oliver.",
+    "story": "Oliver loves cosmic brownies, so these are his in cookie form — a fudgy brownie baked round, chocolate frosting spread on top once they're cool, and rainbow chips pressed in before the frosting sets. Don't overbake them; the middles stay soft and set up as they cool.",
+    "summary": "Brownie batter baked into cookies, thick chocolate frosting, rainbow chips on top — the lunchbox favorite, made at home for Oliver.",
     "title": "Oliver's Cosmic Brownie Cookies",
     "wood": "None"
   },
@@ -5032,10 +5024,10 @@
         "label": "Set and cut"
       }
     ],
-    "pitTemp": "Stovetop, 234\u00b0F",
+    "pitTemp": "Stovetop, 234°F",
     "proTips": [
       {
-        "text": "Have the peanut butter measured and the marshmallow creme jar open before the boil \u2014 once it comes off the heat you have to move fast before it starts to set.",
+        "text": "Have the peanut butter measured and the marshmallow creme jar open before the boil — once it comes off the heat you have to move fast before it starts to set.",
         "voice": "Sweet Shop note"
       }
     ],
@@ -5050,7 +5042,7 @@
         "title": "Line the pan"
       },
       {
-        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil 4 minutes, or until a candy thermometer reads 234\u00b0F. Take it off the heat right away.",
+        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil 4 minutes, or until a candy thermometer reads 234°F. Take it off the heat right away.",
         "title": "Boil"
       },
       {
@@ -5066,14 +5058,14 @@
         "title": "Cool and cut"
       }
     ],
-    "story": "Preston's fudge starts with real peanut butter and marshmallow creme \u2014 no chips, no morsels \u2014 boiled to soft-ball, then broken Nutter Butter cookies folded right in and pressed on top. The peanut-shaped cookies are the whole point: crunchy, peanut-buttery chunks in every square.",
-    "summary": "Peanut butter marshmallow fudge with broken Nutter Butter cookies folded in and pressed on top \u2014 real peanut butter, no chips.",
+    "story": "Preston's fudge starts with real peanut butter and marshmallow creme — no chips, no morsels — boiled to soft-ball, then broken Nutter Butter cookies folded right in and pressed on top. The peanut-shaped cookies are the whole point: crunchy, peanut-buttery chunks in every square.",
+    "summary": "Peanut butter marshmallow fudge with broken Nutter Butter cookies folded in and pressed on top — real peanut butter, no chips.",
     "title": "Preston's Peanut Butter Fudge",
     "wood": "None"
   },
   {
     "difficulty": "weekend",
-    "finish": "155\u00b0F in the thickest part",
+    "finish": "155°F in the thickest part",
     "hours": {
       "max": 8,
       "min": 6
@@ -5083,7 +5075,7 @@
       {
         "group": "The leg",
         "items": [
-          "1 bone-in deer hindquarter (ham), 8\u201312 lb, trimmed"
+          "1 bone-in deer hindquarter (ham), 8–12 lb, trimmed"
         ]
       },
       {
@@ -5091,7 +5083,7 @@
         "items": [
           "1/2 cup kosher salt",
           "1/4 cup brown sugar",
-          "Prague Powder #1 \u2014 1 tsp per 5 lb of meat (8 lb leg: 1 1/2 tsp; 10 lb leg: 2 tsp; 12 lb leg: 2 1/2 tsp)",
+          "Prague Powder #1 — 1 tsp per 5 lb of meat (8 lb leg: 1 1/2 tsp; 10 lb leg: 2 tsp; 12 lb leg: 2 1/2 tsp)",
           "1 Tbsp black pepper"
         ]
       }
@@ -5103,17 +5095,17 @@
         "label": "Cure"
       },
       {
-        "hint": "7\u201310 days in the fridge, flipped daily.",
+        "hint": "7–10 days in the fridge, flipped daily.",
         "id": "wait",
         "label": "The wait"
       },
       {
-        "hint": "200\u2013225\u00b0F over hickory or oak.",
+        "hint": "200–225°F over hickory or oak.",
         "id": "on",
         "label": "On the pit"
       },
       {
-        "hint": "155\u00b0F in the thickest part.",
+        "hint": "155°F in the thickest part.",
         "id": "temp",
         "label": "Finish temp"
       },
@@ -5123,10 +5115,10 @@
         "label": "Rest and slice"
       }
     ],
-    "pitTemp": "200\u2013225\u00b0F",
+    "pitTemp": "200–225°F",
     "proTips": [
       {
-        "text": "Prague Powder #1 is pink curing salt, not table salt. Measure it exactly \u2014 the cure is the one place you never guess.",
+        "text": "Prague Powder #1 is pink curing salt, not table salt. Measure it exactly — the cure is the one place you never guess.",
         "voice": "Butcher's note"
       },
       {
@@ -5141,15 +5133,15 @@
     "protein": "venison",
     "region": "southern",
     "school": null,
-    "servings": "10\u201312",
+    "servings": "10–12",
     "slug": "cured-deer-ham",
     "steps": [
       {
-        "body": "Take off ragged edges and any dried-out spots. There's not much fat on a deer leg to begin with, so don't count on fat to keep it moist \u2014 the cure and a steady, gentle fire do that job.",
+        "body": "Take off ragged edges and any dried-out spots. There's not much fat on a deer leg to begin with, so don't count on fat to keep it moist — the cure and a steady, gentle fire do that job.",
         "title": "Trim the leg"
       },
       {
-        "body": "Mix the salt, brown sugar, Prague Powder #1, and pepper. Take a knife and dig down around the bone as far as you can on both ends, and pack as much salt and curing powder in there as you can. Rub the rest of the cure all over the leg. Into a bag or a covered pan, into the fridge 7\u201310 days, flipping it every day so the cure works even. Brining works too \u2014 either or.",
+        "body": "Mix the salt, brown sugar, Prague Powder #1, and pepper. Take a knife and dig down around the bone as far as you can on both ends, and pack as much salt and curing powder in there as you can. Rub the rest of the cure all over the leg. Into a bag or a covered pan, into the fridge 7–10 days, flipping it every day so the cure works even. Brining works too — either or.",
         "title": "Cure it"
       },
       {
@@ -5157,7 +5149,7 @@
         "title": "Rinse and dry"
       },
       {
-        "body": "On the pit at 200\u2013225\u00b0F over hickory or oak. Lean meat dries out if you push it, so keep the fire steady and don't rush. Smoke to 155\u00b0F in the thickest part, 6\u20138 hours depending on the size of the leg.",
+        "body": "On the pit at 200–225°F over hickory or oak. Lean meat dries out if you push it, so keep the fire steady and don't rush. Smoke to 155°F in the thickest part, 6–8 hours depending on the size of the leg.",
         "title": "Smoke low"
       },
       {
@@ -5165,15 +5157,14 @@
         "title": "Rest and slice thin"
       }
     ],
-    "story": "A deer ham is country ham from the deer woods. You don't rush it \u2014 the cure does the first week's work, the smoke does the rest. What comes off the pit slices thin, eats salty-sweet, and the leftovers go straight into beans or soup.",
-    "summary": "The old way of keeping a hindquarter \u2014 cured like a country ham, then smoked low till it's sliceable. Salt, a little sweet, smoke, and time. Slice it thin across the grain.",
+    "story": "A deer ham is country ham from the deer woods. You don't rush it — the cure does the first week's work, the smoke does the rest. What comes off the pit slices thin, eats salty-sweet, and the leftovers go straight into beans or soup.",
+    "summary": "The old way of keeping a hindquarter — cured like a country ham, then smoked low till it's sliceable. Salt, a little sweet, smoke, and time. Slice it thin across the grain.",
     "title": "Cured Smoked Deer Ham",
     "wood": "Hickory or oak"
-  }
-,
+  },
   {
     "difficulty": "weekend",
-    "finish": "180\u2013200\u00b0F in the thickest part",
+    "finish": "180–200°F in the thickest part",
     "hours": {
       "max": 7,
       "min": 5
@@ -5183,7 +5174,7 @@
       {
         "group": "The leg",
         "items": [
-          "1 bone-in deer hindquarter (ham), 8\u201312 lb, trimmed"
+          "1 bone-in deer hindquarter (ham), 8–12 lb, trimmed"
         ]
       },
       {
@@ -5221,25 +5212,25 @@
         "label": "Season"
       },
       {
-        "hint": "225\u2013250\u00b0F over hickory or oak.",
+        "hint": "225–250°F over hickory or oak.",
         "id": "on",
         "label": "On the pit"
       },
       {
-        "hint": "180\u2013200\u00b0F in the thickest part.",
+        "hint": "180–200°F in the thickest part.",
         "id": "temp",
         "label": "Finish temp"
       },
       {
-        "hint": "Rest 20\u201330 minutes, slice thin across the grain.",
+        "hint": "Rest 20–30 minutes, slice thin across the grain.",
         "id": "rest",
         "label": "Rest and slice"
       }
     ],
-    "pitTemp": "225\u2013250\u00b0F",
+    "pitTemp": "225–250°F",
     "proTips": [
       {
-        "text": "Run it to 180\u2013200 for real tender \u2014 the injection is what keeps a lean deer leg juicy all the way up there.",
+        "text": "Run it to 180–200 for real tender — the injection is what keeps a lean deer leg juicy all the way up there.",
         "voice": "Pitmaster's note"
       },
       {
@@ -5254,15 +5245,15 @@
     "protein": "venison",
     "region": "southern",
     "school": null,
-    "servings": "10\u201312",
+    "servings": "10–12",
     "slug": "smoked-deer-ham",
     "steps": [
       {
-        "body": "Take off ragged edges and any dried-out spots. There's not much fat on a deer leg to begin with, so the moisture has to come from somewhere else \u2014 that's what the injection is for.",
+        "body": "Take off ragged edges and any dried-out spots. There's not much fat on a deer leg to begin with, so the moisture has to come from somewhere else — that's what the injection is for.",
         "title": "Trim the leg"
       },
       {
-        "body": "Warm apple juice and butter, worked through the thickest parts. A deer leg has so little fat that the injection is what keeps it juicy \u2014 don't skip it.",
+        "body": "Warm apple juice and butter, worked through the thickest parts. A deer leg has so little fat that the injection is what keeps it juicy — don't skip it.",
         "title": "Inject it"
       },
       {
@@ -5270,20 +5261,19 @@
         "title": "Season all over"
       },
       {
-        "body": "On the pit at 225\u2013250\u00b0F over hickory or oak. No wrap, steady fire, don't rush it. Smoke to 180\u2013200\u00b0F in the thickest part. That's past sliceable and into real tender \u2014 the injection is what keeps a lean deer leg juicy all the way up there. Pull it on temp, not on looks.",
+        "body": "On the pit at 225–250°F over hickory or oak. No wrap, steady fire, don't rush it. Smoke to 180–200°F in the thickest part. That's past sliceable and into real tender — the injection is what keeps a lean deer leg juicy all the way up there. Pull it on temp, not on looks.",
         "title": "Smoke low and steady"
       },
       {
-        "body": "Rest 20\u201330 minutes, then slice thin across the grain. Thick slices of deer ham chew tough; thin slices eat tender.",
+        "body": "Rest 20–30 minutes, then slice thin across the grain. Thick slices of deer ham chew tough; thin slices eat tender.",
         "title": "Rest and slice thin"
       }
     ],
-    "story": "No cure, no waiting a week \u2014 this is the hindquarter straight to the pit. Venison runs lean, so you don't push the fire and you don't push the temp. What comes off eats like a roast ham from the deer woods, and the leftovers go straight into beans or soup.",
-    "summary": "A deer hindquarter, treated like a ham but never cured \u2014 just seasoned and smoked low till it's sliceable and juicy. Salt, pepper, garlic, fire, and time. Slice it thin across the grain.",
+    "story": "No cure, no waiting a week — this is the hindquarter straight to the pit. Venison runs lean, so you don't push the fire and you don't push the temp. What comes off eats like a roast ham from the deer woods, and the leftovers go straight into beans or soup.",
+    "summary": "A deer hindquarter, treated like a ham but never cured — just seasoned and smoked low till it's sliceable and juicy. Salt, pepper, garlic, fire, and time. Slice it thin across the grain.",
     "title": "Smoked Deer Ham",
     "wood": "Hickory or oak"
-  }
-,
+  },
   {
     "difficulty": "easy",
     "finish": "Tender with a bite left",
@@ -5319,12 +5309,12 @@
         "label": "Prep"
       },
       {
-        "hint": "250\u00b0F over apple or pecan, 45\u201360 minutes.",
+        "hint": "250°F over apple or pecan, 45–60 minutes.",
         "id": "on",
         "label": "On the smoker"
       },
       {
-        "hint": "Butter, honey, cinnamon, and nutmeg, 10\u201315 more minutes.",
+        "hint": "Butter, honey, cinnamon, and nutmeg, 10–15 more minutes.",
         "id": "glaze",
         "label": "Glaze late"
       },
@@ -5334,10 +5324,10 @@
         "label": "Serve"
       }
     ],
-    "pitTemp": "250\u00b0F",
+    "pitTemp": "250°F",
     "proTips": [
       {
-        "text": "Glaze late, always \u2014 sugar burns, shine comes from thin layers at the end, not a puddle from the start.",
+        "text": "Glaze late, always — sugar burns, shine comes from thin layers at the end, not a puddle from the start.",
         "voice": "Pitmaster's note"
       },
       {
@@ -5356,11 +5346,11 @@
         "title": "Keep them whole"
       },
       {
-        "body": "Toss the carrots with half the butter (melted), the salt, and the pepper. On the smoker at 250\u00b0F over apple or pecan, 45\u201360 minutes, till they're tender with a little bite left. Carrots take smoke easy, so a light wood and no more time than they need.",
+        "body": "Toss the carrots with half the butter (melted), the salt, and the pepper. On the smoker at 250°F over apple or pecan, 45–60 minutes, till they're tender with a little bite left. Carrots take smoke easy, so a light wood and no more time than they need.",
         "title": "Butter and smoke"
       },
       {
-        "body": "Warm the rest of the butter with the honey, cinnamon, and nutmeg till it loosens. Pour it over the carrots and give them 10\u201315 more minutes, till the glaze thickens and shines. Honey scorches if it goes on too early \u2014 late is the whole trick.",
+        "body": "Warm the rest of the butter with the honey, cinnamon, and nutmeg till it loosens. Pour it over the carrots and give them 10–15 more minutes, till the glaze thickens and shines. Honey scorches if it goes on too early — late is the whole trick.",
         "title": "Glaze late"
       },
       {
@@ -5369,7 +5359,7 @@
       }
     ],
     "story": "Nothing fancy here. Carrots, butter, honey, fire. The smoke gets in early while they're still firm, and the glaze goes on late so the honey shines instead of scorching. It's the side that disappears first off the holiday table.",
-    "summary": "Carrots are the side everybody walks past. Butter, honey, and a little smoke fix that \u2014 tender with a bite left in them, and a glaze that shines instead of a puddle that runs.",
+    "summary": "Carrots are the side everybody walks past. Butter, honey, and a little smoke fix that — tender with a bite left in them, and a glaze that shines instead of a puddle that runs.",
     "title": "Glazed Honey Butter Carrots",
     "wood": "Apple or pecan"
   },
@@ -5425,7 +5415,7 @@
     "pitTemp": "Stovetop",
     "proTips": [
       {
-        "text": "Have the chocolate chips measured and the marshmallow creme jar open before the boil \u2014 once it comes off the heat you have to move fast before it starts to set.",
+        "text": "Have the chocolate chips measured and the marshmallow creme jar open before the boil — once it comes off the heat you have to move fast before it starts to set.",
         "voice": "Sweet Shop note"
       }
     ],
@@ -5440,7 +5430,7 @@
         "title": "Line the pan"
       },
       {
-        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil exactly 5 minutes. Take it off the heat right away \u2014 no thermometer needed for this one.",
+        "body": "Put the sugar, butter, and evaporated milk in a heavy saucepan over medium heat. Bring to a full rolling boil, stirring constantly, and boil exactly 5 minutes. Take it off the heat right away — no thermometer needed for this one.",
         "title": "Boil"
       },
       {
@@ -5456,8 +5446,8 @@
         "title": "Cool and cut"
       }
     ],
-    "story": "The Christmas fudge everybody looks up every year, named for Finn. It's the old marshmallow creme jar recipe \u2014 sugar, butter, and evaporated milk boiled, then chocolate chips and marshmallow creme stirred smooth \u2014 with Kelly's twist: chopped smoked pecans folded in, so the holiday tray still tastes like the pit.",
-    "summary": "Classic marshmallow creme fantasy fudge with chopped smoked pecans folded in \u2014 the Christmas fudge everybody looks up, named for Finn.",
+    "story": "The Christmas fudge everybody looks up every year, named for Finn. It's the old marshmallow creme jar recipe — sugar, butter, and evaporated milk boiled, then chocolate chips and marshmallow creme stirred smooth — with Kelly's twist: chopped smoked pecans folded in, so the holiday tray still tastes like the pit.",
+    "summary": "Classic marshmallow creme fantasy fudge with chopped smoked pecans folded in — the Christmas fudge everybody looks up, named for Finn.",
     "title": "Finn's Fantasy Fudge",
     "wood": "None"
   },
@@ -5487,7 +5477,7 @@
           "1 Tbsp olive oil",
           "1 yellow onion, diced",
           "4 cloves garlic, minced",
-          "1 jalape\u00f1o, seeded and diced",
+          "1 jalapeño, seeded and diced",
           "2 cans (15 oz each) Great Northern or cannellini beans, drained and rinsed",
           "2 cans (4 oz each) diced Hatch green chiles",
           "4 cups chicken broth",
@@ -5511,12 +5501,12 @@
     ],
     "milestones": [
       {
-        "hint": "Chicken seasoned and on the pit at 250\u00b0F.",
+        "hint": "Chicken seasoned and on the pit at 250°F.",
         "id": "smoke",
         "label": "Smoked"
       },
       {
-        "hint": "Onion, garlic, and jalape\u00f1o softened in the pot.",
+        "hint": "Onion, garlic, and jalapeño softened in the pot.",
         "id": "base",
         "label": "Base built"
       },
@@ -5531,10 +5521,10 @@
         "label": "Finished creamy"
       }
     ],
-    "pitTemp": "250\u00b0F",
+    "pitTemp": "250°F",
     "proTips": [
       {
-        "text": "Poultry takes smoke fast, like cheese \u2014 a light hand on the wood keeps the chili from going bitter.",
+        "text": "Poultry takes smoke fast, like cheese — a light hand on the wood keeps the chili from going bitter.",
         "voice": "Pit note"
       },
       {
@@ -5542,7 +5532,7 @@
         "voice": "Pit note"
       },
       {
-        "text": "In a hurry, rotisserie chicken works \u2014 you lose the smoke, but the pot still comes together.",
+        "text": "In a hurry, rotisserie chicken works — you lose the smoke, but the pot still comes together.",
         "voice": "Shortcut"
       }
     ],
@@ -5557,11 +5547,11 @@
         "title": "Season the chicken"
       },
       {
-        "body": "Pit at 250\u00b0F over apple or cherry. Smoke the thighs until they hit 165\u00b0F inside, about 1\u20131.5 hours. Rest 10 minutes, then shred.",
+        "body": "Pit at 250°F over apple or cherry. Smoke the thighs until they hit 165°F inside, about 1–1.5 hours. Rest 10 minutes, then shred.",
         "title": "Smoke it"
       },
       {
-        "body": "In a Dutch oven or big pot over medium heat, warm the olive oil. Cook the onion until soft, about 5 minutes, then stir in the garlic and jalape\u00f1o and cook 1 minute more.",
+        "body": "In a Dutch oven or big pot over medium heat, warm the olive oil. Cook the onion until soft, about 5 minutes, then stir in the garlic and jalapeño and cook 1 minute more.",
         "title": "Soften the base"
       },
       {
@@ -5569,7 +5559,7 @@
         "title": "Build the pot"
       },
       {
-        "body": "Stir in the shredded smoked chicken. Simmer 20\u201330 minutes so the flavors come together.",
+        "body": "Stir in the shredded smoked chicken. Simmer 20–30 minutes so the flavors come together.",
         "title": "Add the chicken"
       },
       {
@@ -5581,7 +5571,7 @@
         "title": "Serve it"
       }
     ],
-    "story": "A smoker's take on white chili: the chicken goes on the pit first over apple or cherry, then gets shredded into a creamy pot with Hatch green chiles and white beans, finished with cream cheese and a squeeze of lime. Season it your way \u2014 that's the point.",
+    "story": "A smoker's take on white chili: the chicken goes on the pit first over apple or cherry, then gets shredded into a creamy pot with Hatch green chiles and white beans, finished with cream cheese and a squeeze of lime. Season it your way — that's the point.",
     "summary": "Smoked chicken shredded into a creamy white chili with Hatch green chiles, white beans, and a lime finish.",
     "title": "Smoked White Chicken Chili",
     "wood": "Apple or cherry"
@@ -5614,7 +5604,7 @@
           "4 cloves garlic",
           "1 Tbsp olive oil",
           "2 cans (4 oz each) diced Hatch green chiles",
-          "1 jalape\u00f1o, seeded and diced"
+          "1 jalapeño, seeded and diced"
         ]
       },
       {
@@ -5642,7 +5632,7 @@
     ],
     "milestones": [
       {
-        "hint": "Pork cubes seasoned and on the pit at 250\u00b0F.",
+        "hint": "Pork cubes seasoned and on the pit at 250°F.",
         "id": "smoke",
         "label": "Smoked"
       },
@@ -5662,14 +5652,14 @@
         "label": "Finished soupy"
       }
     ],
-    "pitTemp": "250\u00b0F",
+    "pitTemp": "250°F",
     "proTips": [
       {
-        "text": "The pork doesn't need to be tender off the pit \u2014 the pot does that work. Smoke is for flavor here.",
+        "text": "The pork doesn't need to be tender off the pit — the pot does that work. Smoke is for flavor here.",
         "voice": "Pit note"
       },
       {
-        "text": "This one's a soup, not a stew \u2014 if it cooks down thick, splash in more broth until it's soupy again.",
+        "text": "This one's a soup, not a stew — if it cooks down thick, splash in more broth until it's soupy again.",
         "voice": "Pit note"
       }
     ],
@@ -5684,15 +5674,15 @@
         "title": "Season the pork"
       },
       {
-        "body": "Pit at 250\u00b0F over oak or hickory. Smoke the cubes until they pick up good color, about 1.5 hours. They finish in the pot \u2014 they don't need to be tender yet.",
+        "body": "Pit at 250°F over oak or hickory. Smoke the cubes until they pick up good color, about 1.5 hours. They finish in the pot — they don't need to be tender yet.",
         "title": "Smoke it"
       },
       {
-        "body": "Toss the tomatillos, onion, and garlic with the olive oil on a sheet pan. Roast under the broiler 5\u20138 minutes until blistered and soft.",
+        "body": "Toss the tomatillos, onion, and garlic with the olive oil on a sheet pan. Roast under the broiler 5–8 minutes until blistered and soft.",
         "title": "Roast the verde base"
       },
       {
-        "body": "Blend the roasted tomatillos, onion, and garlic with the Hatch green chiles and jalape\u00f1o until mostly smooth, with a little texture left.",
+        "body": "Blend the roasted tomatillos, onion, and garlic with the Hatch green chiles and jalapeño until mostly smooth, with a little texture left.",
         "title": "Blend the sauce"
       },
       {
@@ -5700,11 +5690,11 @@
         "title": "Build the pot"
       },
       {
-        "body": "Simmer covered 1\u20131.5 hours, stirring now and then, until the pork is fork-tender. Keep the lid on so it stays soupy.",
+        "body": "Simmer covered 1–1.5 hours, stirring now and then, until the pork is fork-tender. Keep the lid on so it stays soupy.",
         "title": "Simmer tender"
       },
       {
-        "body": "Stir in the cornstarch slurry and simmer 5 minutes, just until the broth picks up a little body \u2014 still soupy, not thick. Squeeze in the lime juice. Taste and salt as you like.",
+        "body": "Stir in the cornstarch slurry and simmer 5 minutes, just until the broth picks up a little body — still soupy, not thick. Squeeze in the lime juice. Taste and salt as you like.",
         "title": "Finish it"
       },
       {
@@ -5712,7 +5702,7 @@
         "title": "Serve it"
       }
     ],
-    "story": "A pork verde built like the white chicken chili, but as a soup, not a braise: smoked pork cubes go into a brothy pot of roasted tomatillos and Hatch green chiles, with white beans and a lime squeeze at the end. Keep it soupy \u2014 thin and brothy is the point.",
+    "story": "A pork verde built like the white chicken chili, but as a soup, not a braise: smoked pork cubes go into a brothy pot of roasted tomatillos and Hatch green chiles, with white beans and a lime squeeze at the end. Keep it soupy — thin and brothy is the point.",
     "summary": "Smoked pork cubes simmered in a soupy roasted-tomatillo and Hatch green chile broth with white beans and lime.",
     "title": "Smoked Pork Verde Chili Soup",
     "wood": "Oak or hickory"
@@ -5729,7 +5719,7 @@
       {
         "group": "Country-style ribs",
         "items": [
-          "3\u20134 lb country-style ribs (pork butt cut into strips)",
+          "3–4 lb country-style ribs (pork butt cut into strips)",
           "Ember rub, enough to coat each piece generously"
         ]
       },
@@ -5752,7 +5742,7 @@
     ],
     "milestones": [
       {
-        "hint": "Pieces seasoned and on the pit at 275\u00b0F.",
+        "hint": "Pieces seasoned and on the pit at 275°F.",
         "id": "smoke",
         "label": "Smoked"
       },
@@ -5767,14 +5757,14 @@
         "label": "Glaze set"
       }
     ],
-    "pitTemp": "275\u00b0F",
+    "pitTemp": "275°F",
     "proTips": [
       {
-        "text": "Country-style ribs are pork butt, so they carry more fat than spare ribs \u2014 that's what keeps them juicy through a hot, fast cook.",
+        "text": "Country-style ribs are pork butt, so they carry more fat than spare ribs — that's what keeps them juicy through a hot, fast cook.",
         "voice": "Pit note"
       },
       {
-        "text": "Don't crowd the pan \u2014 if the pieces are packed tight they steam instead of braising, and you lose the bark you just built.",
+        "text": "Don't crowd the pan — if the pieces are packed tight they steam instead of braising, and you lose the bark you just built.",
         "voice": "Pit note"
       },
       {
@@ -5789,11 +5779,11 @@
     "slug": "country-style-party-ribs",
     "steps": [
       {
-        "body": "Trim any big loose flaps of fat. Season every country-style rib individually with Ember rub, all sides \u2014 that's the whole point, bark on every piece. Let them sit while the pit comes to 275\u00b0F.",
+        "body": "Trim any big loose flaps of fat. Season every country-style rib individually with Ember rub, all sides — that's the whole point, bark on every piece. Let them sit while the pit comes to 275°F.",
         "title": "Season each one"
       },
       {
-        "body": "Pit at 275\u00b0F over hickory + apple. Lay the pieces out with a little space between them. Smoke about 1.5\u20132 hours, until the color is deep red mahogany and the rub is set.",
+        "body": "Pit at 275°F over hickory + apple. Lay the pieces out with a little space between them. Smoke about 1.5–2 hours, until the color is deep red mahogany and the rub is set.",
         "title": "Smoke them"
       },
       {
@@ -5801,15 +5791,15 @@
         "title": "Pan them"
       },
       {
-        "body": "Uncover, brush the pieces lightly with a little more sauce, and leave them on the pit 15\u201330 minutes so the glaze tacks up and gets sticky.",
+        "body": "Uncover, brush the pieces lightly with a little more sauce, and leave them on the pit 15–30 minutes so the glaze tacks up and gets sticky.",
         "title": "Set the sauce"
       },
       {
-        "body": "Rest 10 minutes, then pile them on a platter. Finger food \u2014 everybody grabs their own.",
+        "body": "Rest 10 minutes, then pile them on a platter. Finger food — everybody grabs their own.",
         "title": "Rest and serve"
       }
     ],
-    "story": "This is the party-rib thing everybody's doing right now, done Kelly's way: country-style ribs \u2014 basically pork butt cut up \u2014 every piece seasoned on its own with Ember rub, smoked, then finished in a pan with butter, brown sugar, honey, sauce, and a splash of cherry Dr Pepper until the glaze shines. Finger food. Everybody grabs their own.",
+    "story": "This is the party-rib thing everybody's doing right now, done Kelly's way: country-style ribs — basically pork butt cut up — every piece seasoned on its own with Ember rub, smoked, then finished in a pan with butter, brown sugar, honey, sauce, and a splash of cherry Dr Pepper until the glaze shines. Finger food. Everybody grabs their own.",
     "summary": "Thick country-style ribs, seasoned piece by piece with Ember rub, smoked and pan-braised until the glaze shines.",
     "title": "Country-Style Party Ribs",
     "wood": "Hickory + apple"
@@ -5845,7 +5835,7 @@
         "group": "Fold in",
         "items": [
           "1 1/2 cups shredded sharp cheddar cheese",
-          "2 jalape\u00f1os, seeded and diced",
+          "2 jalapeños, seeded and diced",
           "4 green onions, sliced",
           "6 slices bacon, cooked crisp and crumbled"
         ]
@@ -5858,7 +5848,7 @@
         "label": "Prep"
       },
       {
-        "hint": "Boiled 12\u201315 minutes, fork-tender but not falling apart.",
+        "hint": "Boiled 12–15 minutes, fork-tender but not falling apart.",
         "id": "boil",
         "label": "Boiled"
       },
@@ -5876,7 +5866,7 @@
     "pitTemp": "Stovetop",
     "proTips": [
       {
-        "text": "Dress the potatoes while they're still warm \u2014 they drink the dressing in better than cold ones do.",
+        "text": "Dress the potatoes while they're still warm — they drink the dressing in better than cold ones do.",
         "voice": "Kitchen note"
       },
       {
@@ -5891,7 +5881,7 @@
     "slug": "cheddar-jalapeno-potato-salad",
     "steps": [
       {
-        "body": "Put the potato chunks in a large pot, cover with salted water, and boil 12\u201315 minutes until fork-tender but not falling apart. Drain and let them cool enough to handle.",
+        "body": "Put the potato chunks in a large pot, cover with salted water, and boil 12–15 minutes until fork-tender but not falling apart. Drain and let them cool enough to handle.",
         "title": "Boil the potatoes"
       },
       {
@@ -5903,7 +5893,7 @@
         "title": "Dress them warm"
       },
       {
-        "body": "Fold in the cheddar, diced jalape\u00f1os, green onions, and bacon.",
+        "body": "Fold in the cheddar, diced jalapeños, green onions, and bacon.",
         "title": "Fold in the good stuff"
       },
       {
@@ -5911,9 +5901,9 @@
         "title": "Chill it"
       }
     ],
-    "story": "Cheddar and jalape\u00f1o turn a plain potato salad into the one folks ask about. Ranch instead of mayonnaise, thickened with sour cream, bacon crumbled in, and just enough jalape\u00f1o heat that everybody at the table can enjoy it \u2014 leave some seeds in if you want it hotter.",
-    "summary": "Cheddar and jalape\u00f1o turn a plain potato salad into the one folks ask about \u2014 creamy, sharp, with just enough heat and bacon crunch.",
-    "title": "Cheddar Jalape\u00f1o Potato Salad",
+    "story": "Cheddar and jalapeño turn a plain potato salad into the one folks ask about. Ranch instead of mayonnaise, thickened with sour cream, bacon crumbled in, and just enough jalapeño heat that everybody at the table can enjoy it — leave some seeds in if you want it hotter.",
+    "summary": "Cheddar and jalapeño turn a plain potato salad into the one folks ask about — creamy, sharp, with just enough heat and bacon crunch.",
+    "title": "Cheddar Jalapeño Potato Salad",
     "wood": "None"
   },
   {
@@ -5972,7 +5962,7 @@
         "label": "Fizz last"
       }
     ],
-    "pitTemp": "\u2014",
+    "pitTemp": "—",
     "proTips": [
       {
         "text": "Ginger ale goes in last. Stir it in early and you've got sweet juice, not punch.",
@@ -6007,9 +5997,9 @@
       }
     ],
     "story": "A punch bowl is the Thanksgiving table's answer to everybody wanting something different. Cider, cranberry, and orange, chilled and mixed, ginger ale poured in last so it stays fizzy, orange slices and cranberries and cinnamon sticks floating on top. Kids drink it as-is; the adults can add whatever they like to their own glass.",
-    "summary": "A Thanksgiving punch bowl \u2014 apple cider, cranberry, and orange under ginger ale fizz, with orange slices, cranberries, and cinnamon sticks floating in it. Family-friendly as poured; adults can add their own.",
+    "summary": "A Thanksgiving punch bowl — apple cider, cranberry, and orange under ginger ale fizz, with orange slices, cranberries, and cinnamon sticks floating in it. Family-friendly as poured; adults can add their own.",
     "title": "Thanksgiving Punch",
-    "wood": "\u2014"
+    "wood": "—"
   },
   {
     "difficulty": "easy",
@@ -6066,7 +6056,7 @@
         "voice": "Kitchen note"
       },
       {
-        "text": "Don't squeeze the bags \u2014 that's where the bitter comes from.",
+        "text": "Don't squeeze the bags — that's where the bitter comes from.",
         "voice": "Kitchen note"
       }
     ],
@@ -6077,7 +6067,7 @@
     "slug": "cranberry-orange-sweet-tea",
     "steps": [
       {
-        "body": "Bring the water to a boil, pull it off the heat, and steep the 6 family-size bags exactly 15 minutes. No longer \u2014 longer makes it bitter.",
+        "body": "Bring the water to a boil, pull it off the heat, and steep the 6 family-size bags exactly 15 minutes. No longer — longer makes it bitter.",
         "title": "Steep it exactly 15"
       },
       {
@@ -6094,503 +6084,503 @@
       }
     ],
     "story": "Sweet tea is already the table's drink at Kelly's house, so the Thanksgiving version starts there and doesn't mess with what works: 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes, then cranberry juice and orange slices for the holiday table. Same tea, dressed for Thanksgiving.",
-    "summary": "Kelly's sweet tea \u2014 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes \u2014 with cranberry juice and orange slices for the Thanksgiving table.",
+    "summary": "Kelly's sweet tea — 6 Luzianne family-size bags to the gallon, steeped exactly 15 minutes — with cranberry juice and orange slices for the Thanksgiving table.",
     "title": "Cranberry Orange Sweet Tea",
     "wood": "None"
   },
-{
-  "difficulty": "easy",
-  "finish": "Creamy, cheesy, and bubbly, straight out of the skillet.",
-  "hours": {
-    "max": 1,
-    "min": 0.75
+  {
+    "difficulty": "easy",
+    "finish": "Creamy, cheesy, and bubbly, straight out of the skillet.",
+    "hours": {
+      "max": 1,
+      "min": 0.75
+    },
+    "image": "/images/smoked-cheesy-corn.jpg",
+    "ingredients": [
+      {
+        "group": "The corn",
+        "items": [
+          "4 cups corn kernels (about 6 ears, cut off the cob, or frozen corn, thawed)",
+          "4 Tbsp butter, cut into pieces"
+        ]
+      },
+      {
+        "group": "The cheese",
+        "items": [
+          "4 oz cream cheese, cubed",
+          "1 cup shredded sharp cheddar cheese, plus a handful more for the top",
+          "1/2 cup heavy cream"
+        ]
+      },
+      {
+        "group": "Seasoning and the top",
+        "items": [
+          "1/2 tsp garlic powder",
+          "1 tsp kosher salt",
+          "1/2 tsp black pepper",
+          "2 green onions, sliced, for the top"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "250°F, apple or cherry, 30-45 minutes",
+        "id": "smoke",
+        "label": "Smoked"
+      },
+      {
+        "hint": "Cream cheese, cream, and cheddar stirred in creamy",
+        "id": "stir",
+        "label": "Stirred cheesy"
+      },
+      {
+        "hint": "Extra cheddar on top, 10-15 minutes till bubbly",
+        "id": "finish",
+        "label": "Finished"
+      },
+      {
+        "hint": "Green onions over the top, straight out of the skillet",
+        "id": "serve",
+        "label": "Served"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Corn takes smoke fast, like poultry — light wood and no more time than it needs, or it turns bitter.",
+        "voice": "Pitmaster's note"
+      },
+      {
+        "text": "Stir once halfway through the smoke so it smokes even and doesn't dry out on top.",
+        "voice": "Kitchen note"
+      }
+    ],
+    "protein": "sides",
+    "region": "southern",
+    "school": null,
+    "servings": "6",
+    "slug": "smoked-cheesy-corn",
+    "steps": [
+      {
+        "body": "Put the corn and butter in a cast-iron skillet. On the smoker at 250°F over apple or cherry, 30-45 minutes, stirring once halfway, till the corn is tender and has some smoke on it.",
+        "title": "Smoke the corn"
+      },
+      {
+        "body": "Stir in the cream cheese, heavy cream, garlic powder, salt, and pepper. Keep stirring till the cream cheese melts in and it turns creamy. Fold in the cup of cheddar.",
+        "title": "Stir in the cheese"
+      },
+      {
+        "body": "Scatter the extra cheddar over the top and give it 10-15 more minutes on the smoker, till the cheese is melted and bubbly.",
+        "title": "Top and finish"
+      },
+      {
+        "body": "Green onions over the top, straight out of the skillet.",
+        "title": "Serve it"
+      }
+    ],
+    "story": "A cast-iron skillet is the whole trick here. The corn smokes first so it picks up flavor without drying out, then the cream cheese and cheddar go in and it turns into the side everybody reaches for. Light wood, short smoke — corn takes smoke fast, so no more time than it needs.",
+    "summary": "Corn off the cob, smoked in a cast-iron skillet, then stirred with cream cheese and cheddar till it's creamy and bubbly — the side that goes with everything on the pit.",
+    "title": "Smoked Cheesy Corn",
+    "wood": "Apple or cherry"
   },
-  "image": "/images/smoked-cheesy-corn.jpg",
-  "ingredients": [
-    {
-      "group": "The corn",
-      "items": [
-        "4 cups corn kernels (about 6 ears, cut off the cob, or frozen corn, thawed)",
-        "4 Tbsp butter, cut into pieces"
-      ]
+  {
+    "difficulty": "easy",
+    "finish": "Hearty, old-country soup — bread dumplings swimming in rich beef broth.",
+    "hours": {
+      "max": 3.5,
+      "min": 3
     },
-    {
-      "group": "The cheese",
-      "items": [
-        "4 oz cream cheese, cubed",
-        "1 cup shredded sharp cheddar cheese, plus a handful more for the top",
-        "1/2 cup heavy cream"
-      ]
-    },
-    {
-      "group": "Seasoning and the top",
-      "items": [
-        "1/2 tsp garlic powder",
-        "1 tsp kosher salt",
-        "1/2 tsp black pepper",
-        "2 green onions, sliced, for the top"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "250\u00b0F, apple or cherry, 30-45 minutes",
-      "id": "smoke",
-      "label": "Smoked"
-    },
-    {
-      "hint": "Cream cheese, cream, and cheddar stirred in creamy",
-      "id": "stir",
-      "label": "Stirred cheesy"
-    },
-    {
-      "hint": "Extra cheddar on top, 10-15 minutes till bubbly",
-      "id": "finish",
-      "label": "Finished"
-    },
-    {
-      "hint": "Green onions over the top, straight out of the skillet",
-      "id": "serve",
-      "label": "Served"
-    }
-  ],
-  "pitTemp": "250\u00b0F",
-  "proTips": [
-    {
-      "text": "Corn takes smoke fast, like poultry \u2014 light wood and no more time than it needs, or it turns bitter.",
-      "voice": "Pitmaster's note"
-    },
-    {
-      "text": "Stir once halfway through the smoke so it smokes even and doesn't dry out on top.",
-      "voice": "Kitchen note"
-    }
-  ],
-  "protein": "sides",
-  "region": "southern",
-  "school": null,
-  "servings": "6",
-  "slug": "smoked-cheesy-corn",
-  "steps": [
-    {
-      "body": "Put the corn and butter in a cast-iron skillet. On the smoker at 250\u00b0F over apple or cherry, 30-45 minutes, stirring once halfway, till the corn is tender and has some smoke on it.",
-      "title": "Smoke the corn"
-    },
-    {
-      "body": "Stir in the cream cheese, heavy cream, garlic powder, salt, and pepper. Keep stirring till the cream cheese melts in and it turns creamy. Fold in the cup of cheddar.",
-      "title": "Stir in the cheese"
-    },
-    {
-      "body": "Scatter the extra cheddar over the top and give it 10-15 more minutes on the smoker, till the cheese is melted and bubbly.",
-      "title": "Top and finish"
-    },
-    {
-      "body": "Green onions over the top, straight out of the skillet.",
-      "title": "Serve it"
-    }
-  ],
-  "story": "A cast-iron skillet is the whole trick here. The corn smokes first so it picks up flavor without drying out, then the cream cheese and cheddar go in and it turns into the side everybody reaches for. Light wood, short smoke \u2014 corn takes smoke fast, so no more time than it needs.",
-  "summary": "Corn off the cob, smoked in a cast-iron skillet, then stirred with cream cheese and cheddar till it's creamy and bubbly \u2014 the side that goes with everything on the pit.",
-  "title": "Smoked Cheesy Corn",
-  "wood": "Apple or cherry"
-},
-{
-  "difficulty": "easy",
-  "finish": "Hearty, old-country soup \u2014 bread dumplings swimming in rich beef broth.",
-  "hours": {
-    "max": 3.5,
-    "min": 3
+    "image": "/images/carlas-knodelsuppe.jpg",
+    "ingredients": [
+      {
+        "group": "The soup",
+        "items": [
+          "Beef bones with meat",
+          "3 quarts water",
+          "2 tsp salt"
+        ]
+      },
+      {
+        "group": "The vegetables",
+        "items": [
+          "4 carrots, sliced",
+          "2 stalks celery, chopped",
+          "1 onion, chopped",
+          "2 Tbsp dried parsley flakes",
+          "1 bay leaf"
+        ]
+      },
+      {
+        "group": "The dumplings",
+        "items": [
+          "3 slices bread (stale if you have it)",
+          "1/4 cup warm milk",
+          "1 Tbsp butter",
+          "1 egg",
+          "1/2 tsp salt",
+          "A dash of nutmeg",
+          "1/2 cup flour"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Beef bones, water, and salt — boil and skim, 2 hours or longer",
+        "id": "simmer",
+        "label": "Simmered"
+      },
+      {
+        "hint": "Carrots, celery, onion, parsley, and bay leaf — 1 hour longer",
+        "id": "vegetables",
+        "label": "Vegetables in"
+      },
+      {
+        "hint": "Bread mashed with milk and butter, egg and flour stirred in",
+        "id": "dumplings",
+        "label": "Dumplings made"
+      },
+      {
+        "hint": "Spoonfuls dropped in, lid on, 20 minutes — don't lift the lid",
+        "id": "cook",
+        "label": "Dumplings cooked"
+      }
+    ],
+    "pitTemp": "Stovetop",
+    "proTips": [
+      {
+        "text": "Stale bread is the best bread for these dumplings — it soaks up the milk without falling apart.",
+        "voice": "Kitchen note"
+      },
+      {
+        "text": "Once the dumplings go in, the lid stays on for the whole 20 minutes. Lifting it lets the steam out and the dumplings fall.",
+        "voice": "Pitmaster's note"
+      }
+    ],
+    "protein": "beef",
+    "region": "backyard",
+    "school": null,
+    "servings": "12-14 dumplings",
+    "slug": "carlas-knodelsuppe",
+    "steps": [
+      {
+        "body": "Put the beef bones with meat, water, and salt in the pot. Bring it to a boil, skim the top, and let it simmer 2 hours or longer, till the meat is ready to give up.",
+        "title": "Simmer the beef"
+      },
+      {
+        "body": "Add the carrots, celery, onion, parsley flakes, and bay leaf, and simmer 1 hour longer.",
+        "title": "Add the vegetables"
+      },
+      {
+        "body": "Lift the meat out and the bay leaf out. The bay leaf goes. Shred the meat off the bone and put it back in the pot.",
+        "title": "Shred the meat back in"
+      },
+      {
+        "body": "Mash the bread with the warm milk and butter. Add the egg, salt, and nutmeg, then stir in the flour till you have a soft dough.",
+        "title": "Make the dumplings"
+      },
+      {
+        "body": "Drop the dough by tablespoon into the simmering soup. Put the lid on and cook 20 minutes — don't lift the lid.",
+        "title": "Drop and cover"
+      },
+      {
+        "body": "Season to taste and serve it up hot.",
+        "title": "Taste and serve"
+      }
+    ],
+    "story": "Named for Carla, whose family is German. This is her family's kind of soup — a rich beef broth with spoon-shaped bread dumplings dropped right in. These are bread dumplings, not flat chicken-and-dumplings, and the lid stays on while they cook, or they fall.",
+    "summary": "A German beef soup with spoon-shaped bread dumplings — Carla's family kind of cooking, named for her.",
+    "title": "Carla's Knödelsuppe (Dumpling Soup)",
+    "wood": "None"
   },
-  "image": "/images/carlas-knodelsuppe.jpg",
-  "ingredients": [
-    {
-      "group": "The soup",
-      "items": [
-        "Beef bones with meat",
-        "3 quarts water",
-        "2 tsp salt"
-      ]
+  {
+    "difficulty": "weekend",
+    "finish": "Beef shred-tender, ~203°F; tortillas crisped",
+    "hours": {
+      "max": 6,
+      "min": 5
     },
-    {
-      "group": "The vegetables",
-      "items": [
-        "4 carrots, sliced",
-        "2 stalks celery, chopped",
-        "1 onion, chopped",
-        "2 Tbsp dried parsley flakes",
-        "1 bay leaf"
-      ]
-    },
-    {
-      "group": "The dumplings",
-      "items": [
-        "3 slices bread (stale if you have it)",
-        "1/4 cup warm milk",
-        "1 Tbsp butter",
-        "1 egg",
-        "1/2 tsp salt",
-        "A dash of nutmeg",
-        "1/2 cup flour"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Beef bones, water, and salt \u2014 boil and skim, 2 hours or longer",
-      "id": "simmer",
-      "label": "Simmered"
-    },
-    {
-      "hint": "Carrots, celery, onion, parsley, and bay leaf \u2014 1 hour longer",
-      "id": "vegetables",
-      "label": "Vegetables in"
-    },
-    {
-      "hint": "Bread mashed with milk and butter, egg and flour stirred in",
-      "id": "dumplings",
-      "label": "Dumplings made"
-    },
-    {
-      "hint": "Spoonfuls dropped in, lid on, 20 minutes \u2014 don't lift the lid",
-      "id": "cook",
-      "label": "Dumplings cooked"
-    }
-  ],
-  "pitTemp": "Stovetop",
-  "proTips": [
-    {
-      "text": "Stale bread is the best bread for these dumplings \u2014 it soaks up the milk without falling apart.",
-      "voice": "Kitchen note"
-    },
-    {
-      "text": "Once the dumplings go in, the lid stays on for the whole 20 minutes. Lifting it lets the steam out and the dumplings fall.",
-      "voice": "Pitmaster's note"
-    }
-  ],
-  "protein": "beef",
-  "region": "backyard",
-  "school": null,
-  "servings": "12-14 dumplings",
-  "slug": "carlas-knodelsuppe",
-  "steps": [
-    {
-      "body": "Put the beef bones with meat, water, and salt in the pot. Bring it to a boil, skim the top, and let it simmer 2 hours or longer, till the meat is ready to give up.",
-      "title": "Simmer the beef"
-    },
-    {
-      "body": "Add the carrots, celery, onion, parsley flakes, and bay leaf, and simmer 1 hour longer.",
-      "title": "Add the vegetables"
-    },
-    {
-      "body": "Lift the meat out and the bay leaf out. The bay leaf goes. Shred the meat off the bone and put it back in the pot.",
-      "title": "Shred the meat back in"
-    },
-    {
-      "body": "Mash the bread with the warm milk and butter. Add the egg, salt, and nutmeg, then stir in the flour till you have a soft dough.",
-      "title": "Make the dumplings"
-    },
-    {
-      "body": "Drop the dough by tablespoon into the simmering soup. Put the lid on and cook 20 minutes \u2014 don't lift the lid.",
-      "title": "Drop and cover"
-    },
-    {
-      "body": "Season to taste and serve it up hot.",
-      "title": "Taste and serve"
-    }
-  ],
-  "story": "Named for Carla, whose family is German. This is her family's kind of soup \u2014 a rich beef broth with spoon-shaped bread dumplings dropped right in. These are bread dumplings, not flat chicken-and-dumplings, and the lid stays on while they cook, or they fall.",
-  "summary": "A German beef soup with spoon-shaped bread dumplings \u2014 Carla's family kind of cooking, named for her.",
-  "title": "Carla's Kn\u00f6delsuppe (Dumpling Soup)",
-  "wood": "None"
-},
-{
-  "difficulty": "weekend",
-  "finish": "Beef shred-tender, ~203\u00b0F; tortillas crisped",
-  "hours": {
-    "max": 6,
-    "min": 5
+    "image": "/images/smoked-birria-tacos.jpg",
+    "ingredients": [
+      {
+        "group": "The beef",
+        "items": [
+          "4 lb beef chuck roast, cut into big chunks",
+          "1 Tbsp kosher salt",
+          "2 tsp coarse black pepper",
+          "1 tsp ground cumin"
+        ]
+      },
+      {
+        "group": "The chile broth (consomé)",
+        "items": [
+          "4 dried guajillo chiles, stems and seeds out",
+          "2 dried ancho chiles, stems and seeds out",
+          "2 dried chiles de árbol (leave out or cut to 1 for milder)",
+          "1 white onion, quartered",
+          "6 cloves garlic",
+          "2 Roma tomatoes, halved",
+          "4 cups beef broth",
+          "1 Tbsp apple cider vinegar",
+          "1 tsp dried Mexican oregano",
+          "1/2 tsp ground cumin",
+          "1/4 tsp ground cloves",
+          "1 small cinnamon stick",
+          "2 bay leaves",
+          "Salt to taste"
+        ]
+      },
+      {
+        "group": "To build the tacos",
+        "items": [
+          "Corn tortillas (not flour — they hold the dip and crisp better)",
+          "2 cups shredded Oaxaca cheese (mozzarella works)",
+          "1 white onion, diced fine",
+          "1 bunch cilantro, chopped",
+          "Lime wedges"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "250–275°F, oak, beef to ~165°F.",
+        "id": "on",
+        "label": "On the pit"
+      },
+      {
+        "hint": "Covered, 2–3 hours, shred-tender.",
+        "id": "braise",
+        "label": "Braise"
+      },
+      {
+        "hint": "Dip in fat, crisp both sides, cheese melted.",
+        "id": "griddle",
+        "label": "Griddle"
+      }
+    ],
+    "pitTemp": "250–275°F",
+    "proTips": [
+      {
+        "text": "That skimmed red fat is the whole trick — it's what crisps the tortilla and carries the color. Don't throw it out.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Corn tortillas only here. Flour ones go soggy in the dip and never crisp the same.",
+        "voice": "Cook's honesty"
+      },
+      {
+        "text": "If the consomé tastes flat, it usually needs salt first, then a squeeze of lime — not more chile.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "beef",
+    "region": "backyard",
+    "school": null,
+    "servings": "About 12 tacos",
+    "slug": "smoked-birria-tacos",
+    "steps": [
+      {
+        "body": "Season the chuck chunks with salt, pepper, and cumin. Smoke at 250–275°F over oak for 2 1/2 to 3 hours, until the outside is dark and the meat reads around 165°F inside. It does not need to be tender yet — the braise finishes that job.",
+        "title": "Season and smoke"
+      },
+      {
+        "body": "Toast the dried chiles in a dry skillet, 30 seconds a side, until they smell fragrant — not burnt, burnt chiles turn the whole pot bitter. Soak them in hot water 20 minutes. Meanwhile soften the onion, garlic, and tomatoes in a little oil. Blend the drained chiles with the onion, garlic, tomatoes, vinegar, oregano, cumin, and cloves until smooth, adding splashes of the soaking water to get it moving.",
+        "title": "Build the chile sauce"
+      },
+      {
+        "body": "Put the smoked beef in a big covered pot or foil pan with the chile sauce, beef broth, cinnamon stick, and bay leaves. Back on the pit (or in a 275°F oven) covered, 2 to 3 hours, until the beef shreds with a fork, around 203°F.",
+        "title": "Braise it down"
+      },
+      {
+        "body": "Lift the beef out and shred it. Strain the broth if you want it smooth. Skim the red fat off the top of the broth into a skillet — that fat is what the tortillas dip in. Taste the consomé for salt before it goes in cups.",
+        "title": "Shred and skim"
+      },
+      {
+        "body": "Heat the skimmed fat in a skillet or on the griddle. Dip a corn tortilla in the fat, lay it flat, pile on shredded beef and a handful of cheese, fold it over, and griddle until both sides are crisp and the cheese is melted. Work in batches, adding fat as needed.",
+        "title": "Dip, fill, and griddle"
+      },
+      {
+        "body": "Serve the tacos hot with a cup of warm consomé per person for dipping, plus diced onion, cilantro, and lime wedges on the side.",
+        "title": "Serve for dunking"
+      }
+    ],
+    "story": "Birria comes out of Jalisco, where the meat braises low and slow in a chile broth until it falls apart. The Ember twist is simple: give the beef a few hours of oak smoke before it ever sees the pot, so the consomé carries smoke in it, not just chile. Dip, griddle, dunk. Eat them hot, over the plate, because the good ones drip.",
+    "summary": "Beef chuck gets a real smoke first, then a slow braise in a dried-chile broth until it shreds. Corn tortillas take a dip in the consomé fat, get loaded with beef and melting cheese, and crisp up on the griddle. The broth goes in a cup on the side for dipping — that's the whole point of the taco.",
+    "title": "Smoked Birria Tacos",
+    "wood": "Oak"
   },
-  "image": "/images/smoked-birria-tacos.jpg",
-  "ingredients": [
-    {
-      "group": "The beef",
-      "items": [
-        "4 lb beef chuck roast, cut into big chunks",
-        "1 Tbsp kosher salt",
-        "2 tsp coarse black pepper",
-        "1 tsp ground cumin"
-      ]
+  {
+    "difficulty": "easy",
+    "finish": "Melted smooth, held warm",
+    "hours": {
+      "max": 3,
+      "min": 2
     },
-    {
-      "group": "The chile broth (consom\u00e9)",
-      "items": [
-        "4 dried guajillo chiles, stems and seeds out",
-        "2 dried ancho chiles, stems and seeds out",
-        "2 dried chiles de \u00e1rbol (leave out or cut to 1 for milder)",
-        "1 white onion, quartered",
-        "6 cloves garlic",
-        "2 Roma tomatoes, halved",
-        "4 cups beef broth",
-        "1 Tbsp apple cider vinegar",
-        "1 tsp dried Mexican oregano",
-        "1/2 tsp ground cumin",
-        "1/4 tsp ground cloves",
-        "1 small cinnamon stick",
-        "2 bay leaves",
-        "Salt to taste"
-      ]
-    },
-    {
-      "group": "To build the tacos",
-      "items": [
-        "Corn tortillas (not flour \u2014 they hold the dip and crisp better)",
-        "2 cups shredded Oaxaca cheese (mozzarella works)",
-        "1 white onion, diced fine",
-        "1 bunch cilantro, chopped",
-        "Lime wedges"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "250\u2013275\u00b0F, oak, beef to ~165\u00b0F.",
-      "id": "on",
-      "label": "On the pit"
-    },
-    {
-      "hint": "Covered, 2\u20133 hours, shred-tender.",
-      "id": "braise",
-      "label": "Braise"
-    },
-    {
-      "hint": "Dip in fat, crisp both sides, cheese melted.",
-      "id": "griddle",
-      "label": "Griddle"
-    }
-  ],
-  "pitTemp": "250\u2013275\u00b0F",
-  "proTips": [
-    {
-      "text": "That skimmed red fat is the whole trick \u2014 it's what crisps the tortilla and carries the color. Don't throw it out.",
-      "voice": "Pit note"
-    },
-    {
-      "text": "Corn tortillas only here. Flour ones go soggy in the dip and never crisp the same.",
-      "voice": "Cook's honesty"
-    },
-    {
-      "text": "If the consom\u00e9 tastes flat, it usually needs salt first, then a squeeze of lime \u2014 not more chile.",
-      "voice": "Pit note"
-    }
-  ],
-  "protein": "beef",
-  "region": "backyard",
-  "school": null,
-  "servings": "About 12 tacos",
-  "slug": "smoked-birria-tacos",
-  "steps": [
-    {
-      "body": "Season the chuck chunks with salt, pepper, and cumin. Smoke at 250\u2013275\u00b0F over oak for 2 1/2 to 3 hours, until the outside is dark and the meat reads around 165\u00b0F inside. It does not need to be tender yet \u2014 the braise finishes that job.",
-      "title": "Season and smoke"
-    },
-    {
-      "body": "Toast the dried chiles in a dry skillet, 30 seconds a side, until they smell fragrant \u2014 not burnt, burnt chiles turn the whole pot bitter. Soak them in hot water 20 minutes. Meanwhile soften the onion, garlic, and tomatoes in a little oil. Blend the drained chiles with the onion, garlic, tomatoes, vinegar, oregano, cumin, and cloves until smooth, adding splashes of the soaking water to get it moving.",
-      "title": "Build the chile sauce"
-    },
-    {
-      "body": "Put the smoked beef in a big covered pot or foil pan with the chile sauce, beef broth, cinnamon stick, and bay leaves. Back on the pit (or in a 275\u00b0F oven) covered, 2 to 3 hours, until the beef shreds with a fork, around 203\u00b0F.",
-      "title": "Braise it down"
-    },
-    {
-      "body": "Lift the beef out and shred it. Strain the broth if you want it smooth. Skim the red fat off the top of the broth into a skillet \u2014 that fat is what the tortillas dip in. Taste the consom\u00e9 for salt before it goes in cups.",
-      "title": "Shred and skim"
-    },
-    {
-      "body": "Heat the skimmed fat in a skillet or on the griddle. Dip a corn tortilla in the fat, lay it flat, pile on shredded beef and a handful of cheese, fold it over, and griddle until both sides are crisp and the cheese is melted. Work in batches, adding fat as needed.",
-      "title": "Dip, fill, and griddle"
-    },
-    {
-      "body": "Serve the tacos hot with a cup of warm consom\u00e9 per person for dipping, plus diced onion, cilantro, and lime wedges on the side.",
-      "title": "Serve for dunking"
-    }
-  ],
-  "story": "Birria comes out of Jalisco, where the meat braises low and slow in a chile broth until it falls apart. The Ember twist is simple: give the beef a few hours of oak smoke before it ever sees the pot, so the consom\u00e9 carries smoke in it, not just chile. Dip, griddle, dunk. Eat them hot, over the plate, because the good ones drip.",
-  "summary": "Beef chuck gets a real smoke first, then a slow braise in a dried-chile broth until it shreds. Corn tortillas take a dip in the consom\u00e9 fat, get loaded with beef and melting cheese, and crisp up on the griddle. The broth goes in a cup on the side for dipping \u2014 that's the whole point of the taco.",
-  "title": "Smoked Birria Tacos",
-  "wood": "Oak"
-},
-{
-  "difficulty": "easy",
-  "finish": "Melted smooth, held warm",
-  "hours": {
-    "max": 3,
-    "min": 2
+    "image": "/images/christmas-hot-chocolate-classic.jpg",
+    "ingredients": [
+      {
+        "group": "The pot",
+        "items": [
+          "6 cups whole milk",
+          "1 1/2 cups heavy cream",
+          "1 can (14 oz) sweetened condensed milk",
+          "2 cups milk chocolate chips",
+          "1 tsp vanilla"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Marshmallows",
+          "Candy canes, to stir with"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Slow cooker, LOW, stir every 30 minutes.",
+        "id": "on",
+        "label": "On low"
+      },
+      {
+        "hint": "Melted smooth, vanilla whisked in.",
+        "id": "smooth",
+        "label": "Smooth"
+      },
+      {
+        "hint": "Held on WARM, stir before every mug.",
+        "id": "warm",
+        "label": "Hold warm"
+      }
+    ],
+    "pitTemp": "Slow cooker, LOW",
+    "proTips": [
+      {
+        "text": "Whole milk matters here — skim milk comes out thin, and this is supposed to drink rich.",
+        "voice": "Cook's honesty"
+      },
+      {
+        "text": "For the adults, a splash of peppermint schnapps or dark rum goes in their own mug, never in the pot — the base stays family-friendly.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "backyard",
+    "school": null,
+    "servings": "About 10–12 mugs",
+    "slug": "christmas-eve-crockpot-hot-chocolate",
+    "steps": [
+      {
+        "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips.",
+        "title": "Load the cooker"
+      },
+      {
+        "body": "Cook on LOW 2–3 hours, stirring every 30 minutes. The chocolate sinks as it melts — whisk it up from the bottom each time you stir.",
+        "title": "Cook low and stir"
+      },
+      {
+        "body": "When it's all melted and smooth, whisk in the vanilla. Taste it — if you want it sweeter, that's the time to say so, not after it's in the mugs.",
+        "title": "Finish with vanilla"
+      },
+      {
+        "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate stays mixed in. Top with marshmallows and hand out a candy cane to stir with.",
+        "title": "Hold and serve"
+      }
+    ],
+    "story": "Some nights the cooker does the work and everybody just gathers around it. This one sits on LOW all evening, chocolate melting down into the milk, and you stir it before every mug so it stays smooth. Put the marshmallows out, put the candy canes in a jar, and let folks fix their own.",
+    "summary": "The slow-cooker hot chocolate for Christmas Eve: whole milk, heavy cream, sweetened condensed milk, and milk chocolate chips, cooked low and held warm so every mug pours rich. Marshmallows and a candy cane to stir with.",
+    "title": "Christmas Eve Crockpot Hot Chocolate",
+    "wood": "None"
   },
-  "image": "/images/christmas-hot-chocolate-classic.jpg",
-  "ingredients": [
-    {
-      "group": "The pot",
-      "items": [
-        "6 cups whole milk",
-        "1 1/2 cups heavy cream",
-        "1 can (14 oz) sweetened condensed milk",
-        "2 cups milk chocolate chips",
-        "1 tsp vanilla"
-      ]
+  {
+    "difficulty": "easy",
+    "finish": "Melted smooth, held warm",
+    "hours": {
+      "max": 3,
+      "min": 2
     },
-    {
-      "group": "To serve",
-      "items": [
-        "Marshmallows",
-        "Candy canes, to stir with"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Slow cooker, LOW, stir every 30 minutes.",
-      "id": "on",
-      "label": "On low"
-    },
-    {
-      "hint": "Melted smooth, vanilla whisked in.",
-      "id": "smooth",
-      "label": "Smooth"
-    },
-    {
-      "hint": "Held on WARM, stir before every mug.",
-      "id": "warm",
-      "label": "Hold warm"
-    }
-  ],
-  "pitTemp": "Slow cooker, LOW",
-  "proTips": [
-    {
-      "text": "Whole milk matters here \u2014 skim milk comes out thin, and this is supposed to drink rich.",
-      "voice": "Cook's honesty"
-    },
-    {
-      "text": "For the adults, a splash of peppermint schnapps or dark rum goes in their own mug, never in the pot \u2014 the base stays family-friendly.",
-      "voice": "Pit note"
-    }
-  ],
-  "protein": "desserts",
-  "region": "backyard",
-  "school": null,
-  "servings": "About 10\u201312 mugs",
-  "slug": "christmas-eve-crockpot-hot-chocolate",
-  "steps": [
-    {
-      "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips.",
-      "title": "Load the cooker"
-    },
-    {
-      "body": "Cook on LOW 2\u20133 hours, stirring every 30 minutes. The chocolate sinks as it melts \u2014 whisk it up from the bottom each time you stir.",
-      "title": "Cook low and stir"
-    },
-    {
-      "body": "When it's all melted and smooth, whisk in the vanilla. Taste it \u2014 if you want it sweeter, that's the time to say so, not after it's in the mugs.",
-      "title": "Finish with vanilla"
-    },
-    {
-      "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate stays mixed in. Top with marshmallows and hand out a candy cane to stir with.",
-      "title": "Hold and serve"
-    }
-  ],
-  "story": "Some nights the cooker does the work and everybody just gathers around it. This one sits on LOW all evening, chocolate melting down into the milk, and you stir it before every mug so it stays smooth. Put the marshmallows out, put the candy canes in a jar, and let folks fix their own.",
-  "summary": "The slow-cooker hot chocolate for Christmas Eve: whole milk, heavy cream, sweetened condensed milk, and milk chocolate chips, cooked low and held warm so every mug pours rich. Marshmallows and a candy cane to stir with.",
-  "title": "Christmas Eve Crockpot Hot Chocolate",
-  "wood": "None"
-},
-{
-  "difficulty": "easy",
-  "finish": "Melted smooth, held warm",
-  "hours": {
-    "max": 3,
-    "min": 2
+    "image": "/images/christmas-hot-chocolate-mexican.jpg",
+    "ingredients": [
+      {
+        "group": "The pot",
+        "items": [
+          "6 cups whole milk",
+          "1 1/2 cups heavy cream",
+          "1 can (14 oz) sweetened condensed milk",
+          "2 cups milk chocolate chips",
+          "1 tsp vanilla",
+          "1 tsp ground cinnamon",
+          "1/2 tsp ground nutmeg",
+          "1/4 tsp chile powder"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Marshmallows",
+          "Ground cinnamon, for sprinkling",
+          "Cinnamon sticks, one per mug"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Slow cooker, LOW, stir every 30 minutes.",
+        "id": "on",
+        "label": "On low"
+      },
+      {
+        "hint": "Melted smooth, vanilla whisked in.",
+        "id": "smooth",
+        "label": "Smooth"
+      },
+      {
+        "hint": "Held on WARM, stir before every mug.",
+        "id": "warm",
+        "label": "Hold warm"
+      }
+    ],
+    "pitTemp": "Slow cooker, LOW",
+    "proTips": [
+      {
+        "text": "Start with the 1/4 tsp chile powder and taste before adding more — cayenne sneaks up on you in a sweet drink.",
+        "voice": "Cook's honesty"
+      },
+      {
+        "text": "Same rule as the classic: the pot stays family-friendly. Adults spice their own mug if they want to.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "desserts",
+    "region": "backyard",
+    "school": null,
+    "servings": "About 10–12 mugs",
+    "slug": "mexican-hot-chocolate",
+    "steps": [
+      {
+        "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips, cinnamon, nutmeg, and chile powder.",
+        "title": "Load the cooker"
+      },
+      {
+        "body": "Cook on LOW 2–3 hours, stirring every 30 minutes. The chocolate sinks as it melts — whisk it up from the bottom each time you stir.",
+        "title": "Cook low and stir"
+      },
+      {
+        "body": "When it's all melted and smooth, whisk in the vanilla. Taste it — the heat should sit warm in the back, not burn. Add another pinch of chile powder only if you want it hotter.",
+        "title": "Finish with vanilla"
+      },
+      {
+        "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate and spice stay mixed in. Top with marshmallows, a sprinkle of cinnamon, and a cinnamon stick in each mug.",
+        "title": "Hold and serve"
+      }
+    ],
+    "story": "Mexican hot chocolate is cinnamon and a little chile heat riding on top of a rich chocolate base. The slow cooker keeps it simple: everything goes in the pot, it melts down low and slow, and the heat stays gentle the way Kelly called it — just a little bit. Cinnamon stick in the mug, marshmallows on top, and let the evening slow down.",
+    "summary": "The classic crockpot base with cinnamon, nutmeg, and just a little bit of chili heat — warmth in the back, not a burn. Marshmallows, a cinnamon sprinkle, and a cinnamon stick in every mug.",
+    "title": "Mexican Hot Chocolate",
+    "wood": "None"
   },
-  "image": "/images/christmas-hot-chocolate-mexican.jpg",
-  "ingredients": [
-    {
-      "group": "The pot",
-      "items": [
-        "6 cups whole milk",
-        "1 1/2 cups heavy cream",
-        "1 can (14 oz) sweetened condensed milk",
-        "2 cups milk chocolate chips",
-        "1 tsp vanilla",
-        "1 tsp ground cinnamon",
-        "1/2 tsp ground nutmeg",
-        "1/4 tsp chile powder"
-      ]
-    },
-    {
-      "group": "To serve",
-      "items": [
-        "Marshmallows",
-        "Ground cinnamon, for sprinkling",
-        "Cinnamon sticks, one per mug"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Slow cooker, LOW, stir every 30 minutes.",
-      "id": "on",
-      "label": "On low"
-    },
-    {
-      "hint": "Melted smooth, vanilla whisked in.",
-      "id": "smooth",
-      "label": "Smooth"
-    },
-    {
-      "hint": "Held on WARM, stir before every mug.",
-      "id": "warm",
-      "label": "Hold warm"
-    }
-  ],
-  "pitTemp": "Slow cooker, LOW",
-  "proTips": [
-    {
-      "text": "Start with the 1/4 tsp chile powder and taste before adding more \u2014 cayenne sneaks up on you in a sweet drink.",
-      "voice": "Cook's honesty"
-    },
-    {
-      "text": "Same rule as the classic: the pot stays family-friendly. Adults spice their own mug if they want to.",
-      "voice": "Pit note"
-    }
-  ],
-  "protein": "desserts",
-  "region": "backyard",
-  "school": null,
-  "servings": "About 10\u201312 mugs",
-  "slug": "mexican-hot-chocolate",
-  "steps": [
-    {
-      "body": "Pour the milk, heavy cream, and sweetened condensed milk into a 4-quart or bigger slow cooker. Stir in the chocolate chips, cinnamon, nutmeg, and chile powder.",
-      "title": "Load the cooker"
-    },
-    {
-      "body": "Cook on LOW 2\u20133 hours, stirring every 30 minutes. The chocolate sinks as it melts \u2014 whisk it up from the bottom each time you stir.",
-      "title": "Cook low and stir"
-    },
-    {
-      "body": "When it's all melted and smooth, whisk in the vanilla. Taste it \u2014 the heat should sit warm in the back, not burn. Add another pinch of chile powder only if you want it hotter.",
-      "title": "Finish with vanilla"
-    },
-    {
-      "body": "Hold on WARM for serving. Stir before every mug you pour, so the chocolate and spice stay mixed in. Top with marshmallows, a sprinkle of cinnamon, and a cinnamon stick in each mug.",
-      "title": "Hold and serve"
-    }
-  ],
-  "story": "Mexican hot chocolate is cinnamon and a little chile heat riding on top of a rich chocolate base. The slow cooker keeps it simple: everything goes in the pot, it melts down low and slow, and the heat stays gentle the way Kelly called it \u2014 just a little bit. Cinnamon stick in the mug, marshmallows on top, and let the evening slow down.",
-  "summary": "The classic crockpot base with cinnamon, nutmeg, and just a little bit of chili heat \u2014 warmth in the back, not a burn. Marshmallows, a cinnamon sprinkle, and a cinnamon stick in every mug.",
-  "title": "Mexican Hot Chocolate",
-  "wood": "None"
-},
   {
     "difficulty": "all-day",
-    "finish": "Probe tender, 200\u2013205\u00b0F",
+    "finish": "Probe tender, 200–205°F",
     "hours": {
       "max": 14,
       "min": 10
@@ -6600,18 +6590,18 @@
       {
         "group": "The ham",
         "items": [
-          "1 bone-in ham or bone-in picnic, 8\u201310 lb, NOT spiral-sliced",
+          "1 bone-in ham or bone-in picnic, 8–10 lb, NOT spiral-sliced",
           "Yellow mustard, as a binder",
-          "\u00bd cup Ember rub (brown sugar, paprika, salt, pepper, garlic, onion, cayenne, dry mustard, celery seed, thyme, plus 2 tsp MSG per batch)"
+          "½ cup Ember rub (brown sugar, paprika, salt, pepper, garlic, onion, cayenne, dry mustard, celery seed, thyme, plus 2 tsp MSG per batch)"
         ]
       },
       {
         "group": "The wrap",
         "items": [
           "4 Tbsp butter, sliced",
-          "\u00bc cup brown sugar",
+          "¼ cup brown sugar",
           "1 can (20 oz) pineapple rings in juice",
-          "\u00bd cup cherry Dr Pepper (or cherry Coke)"
+          "½ cup cherry Dr Pepper (or cherry Coke)"
         ]
       },
       {
@@ -6623,9 +6613,9 @@
       {
         "group": "The glaze",
         "items": [
-          "\u00bd cup pineapple juice",
-          "\u00bc cup brown sugar",
-          "\u00bc cup cherry Dr Pepper (or cherry Coke)"
+          "½ cup pineapple juice",
+          "¼ cup brown sugar",
+          "¼ cup cherry Dr Pepper (or cherry Coke)"
         ]
       },
       {
@@ -6638,35 +6628,35 @@
     ],
     "milestones": [
       {
-        "hint": "250\u00b0F over cherry wood, cut-side down if it has one.",
+        "hint": "250°F over cherry wood, cut-side down if it has one.",
         "id": "on",
         "label": "On the pit"
       },
       {
-        "hint": "Nothing on it for the first 3\u20134 hours; spritz only once the bark sets.",
+        "hint": "Nothing on it for the first 3–4 hours; spritz only once the bark sets.",
         "id": "bark",
         "label": "Bark set"
       },
       {
         "hint": "Foil pan, butter, brown sugar, pineapple rings, juice and cherry Dr Pepper. Seal tight.",
         "id": "wrap",
-        "label": "Wrap at 165\u00b0F"
+        "label": "Wrap at 165°F"
       },
       {
-        "hint": "275\u2013300\u00b0F until a probe slides in with almost no resistance, around 200\u2013205\u00b0F.",
+        "hint": "275–300°F until a probe slides in with almost no resistance, around 200–205°F.",
         "id": "probe",
         "label": "Probe tender"
       },
       {
-        "hint": "Foil, towels, cooler, at least 45\u201360 minutes before pulling.",
+        "hint": "Foil, towels, cooler, at least 45–60 minutes before pulling.",
         "id": "rest",
         "label": "Rest"
       }
     ],
-    "pitTemp": "250\u2013300\u00b0F",
+    "pitTemp": "250–300°F",
     "proTips": [
       {
-        "text": "Not spiral-sliced is the whole ballgame \u2014 spiral ham dries out long before it pulls.",
+        "text": "Not spiral-sliced is the whole ballgame — spiral ham dries out long before it pulls.",
         "voice": "Pit note"
       },
       {
@@ -6674,22 +6664,22 @@
         "voice": "Pit note"
       },
       {
-        "text": "Save every drop of the pan juice \u2014 that's what keeps pulled ham juicy instead of dry.",
+        "text": "Save every drop of the pan juice — that's what keeps pulled ham juicy instead of dry.",
         "voice": "Pit note"
       },
       {
-        "text": "Can't find cherry Dr Pepper? Cherry Coke works in the spritz and the wrap \u2014 Kelly proved it on ribs.",
+        "text": "Can't find cherry Dr Pepper? Cherry Coke works in the spritz and the wrap — Kelly proved it on ribs.",
         "voice": "Pit note"
       }
     ],
     "protein": "pork",
     "region": "southern",
     "school": null,
-    "servings": "10\u201312",
+    "servings": "10–12",
     "slug": "smoked-pulled-ham",
     "steps": [
       {
-        "body": "Pat the ham dry. Score the outside in a diamond pattern, about 1 inch apart and \u00bc inch deep \u2014 opens the meat up so the smoke and rub get in.",
+        "body": "Pat the ham dry. Score the outside in a diamond pattern, about 1 inch apart and ¼ inch deep — opens the meat up so the smoke and rub get in.",
         "title": "Score it"
       },
       {
@@ -6697,19 +6687,19 @@
         "title": "Rub it"
       },
       {
-        "body": "Pit at 250\u00b0F over cherry wood, ham cut-side down if it has one. Cold meat on the pit, no soaking chips. Nothing on it for the first 3\u20134 hours until the bark sets, then a light mist of cherry Dr Pepper + brown sugar spritz every 20\u201330 minutes.",
+        "body": "Pit at 250°F over cherry wood, ham cut-side down if it has one. Cold meat on the pit, no soaking chips. Nothing on it for the first 3–4 hours until the bark sets, then a light mist of cherry Dr Pepper + brown sugar spritz every 20–30 minutes.",
         "title": "Smoke it"
       },
       {
         "body": "Move the ham to a foil pan, lay the butter slices over the top, sprinkle on the brown sugar, lay the pineapple rings over the ham, and pour the pineapple juice from the can plus the cherry Dr Pepper around it. Seal tight with heavy foil.",
-        "title": "Wrap it at 165\u00b0F"
+        "title": "Wrap it at 165°F"
       },
       {
-        "body": "Back on the pit at 275\u2013300\u00b0F until a probe slides in with almost no resistance, around 200\u2013205\u00b0F.",
+        "body": "Back on the pit at 275–300°F until a probe slides in with almost no resistance, around 200–205°F.",
         "title": "Finish it probe-tender"
       },
       {
-        "body": "This is the biggest tip of all \u2014 foil, towels, cooler, at least 45\u201360 minutes. Juice settles back through the meat.",
+        "body": "This is the biggest tip of all — foil, towels, cooler, at least 45–60 minutes. Juice settles back through the meat.",
         "title": "Rest it"
       },
       {
@@ -6717,7 +6707,7 @@
         "title": "Pull it"
       },
       {
-        "body": "While the ham rests, simmer the pineapple juice, brown sugar, and cherry Dr Pepper until it just coats a spoon \u2014 light, not thick. Drizzle over the pulled meat and toss so every strand gets a light shine. Pile it on toasted buns.",
+        "body": "While the ham rests, simmer the pineapple juice, brown sugar, and cherry Dr Pepper until it just coats a spoon — light, not thick. Drizzle over the pulled meat and toss so every strand gets a light shine. Pile it on toasted buns.",
         "title": "Glaze it"
       }
     ],
@@ -6726,234 +6716,234 @@
     "title": "Smoked Pulled Ham",
     "wood": "Cherry"
   },
-    {
-      "difficulty": "weekend",
-      "finish": "145\u00b0F",
-      "hours": {
-        "max": 1.5,
-        "min": 1.0
-      },
-      "image": "/images/smoked-pork-chops-bacon-bread-stuffing.jpg",
-      "ingredients": [
-        {
-          "group": "The chops",
-          "items": [
-            "4 bone-in pork chops, 1\u00bd\u20132 inches thick",
-            "Ember rub, to season all over"
-          ]
-        },
-        {
-          "group": "The bread stuffing",
-          "items": [
-            "\u00bd cup butter",
-            "4 slices bacon, diced",
-            "1 small white onion, diced",
-            "2 ribs celery, diced",
-            "2 cloves garlic, minced",
-            "4 cups toasted bread cubes (sourdough or plain white)",
-            "Warm chicken stock, as needed",
-            "Fresh parsley, chopped, a small handful",
-            "Fresh thyme, chopped, about 1 tablespoon"
-          ]
-        },
-        {
-          "group": "To finish",
-          "items": [
-            "Butter, for the skillet sear"
-          ]
-        }
-      ],
-      "milestones": [
-        {
-          "hint": "Meaty edge opposite the bone, about 3/4 of the way in \u2014 not through.",
-          "id": "pocket",
-          "label": "Cut the pocket"
-        },
-        {
-          "hint": "Bacon, onion, celery, and garlic in butter; bread cubes folded in, stock a little at a time.",
-          "id": "stuffing",
-          "label": "Make the stuffing"
-        },
-        {
-          "hint": "Generous but not packed full; toothpick the opening shut.",
-          "id": "stuff",
-          "label": "Stuff them"
-        },
-        {
-          "hint": "250\u00b0F over apple wood until the meat reads about 130\u00b0F.",
-          "id": "smoke",
-          "label": "On the smoker"
-        },
-        {
-          "hint": "Sear 2\u20133 minutes per side in a buttered skillet or on the hot grill to 145\u00b0F, then rest 5\u201310 minutes.",
-          "id": "sear",
-          "label": "Sear and rest"
-        }
-      ],
-      "pitTemp": "250\u00b0F",
-      "proTips": [
-        {
-          "text": "Don't overstuff \u2014 a pocket packed too full blows open and dumps the stuffing in the fire.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Don't over-saturate the stuffing. Moist, not soggy \u2014 soggy stuffing never recovers.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Chops are lean and take smoke fast, like cheese \u2014 a light hand with the wood. Apple or cherry, not mesquite.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Rest matters here like everywhere else \u2014 juice settles back through the meat.",
-          "voice": "Pit note"
-        }
-      ],
-      "protein": "pork",
-      "region": "southern",
-      "school": null,
-      "servings": "4",
-      "slug": "smoked-pork-chops-bacon-bread-stuffing",
-      "steps": [
-        {
-          "body": "Lay each chop flat. Cut a deep pocket in from the meaty edge opposite the bone, working toward the bone about 3/4 of the way in \u2014 do NOT cut all the way through. The pocket has to hold stuffing and stay shut.",
-          "title": "Cut the pocket"
-        },
-        {
-          "body": "Melt the butter over low heat. Cook the bacon, onion, celery, and garlic until the vegetables are translucent and the bacon has rendered. Fold in the bread cubes so the fat coats them. Add warm chicken stock a little at a time until the stuffing is moist but NOT soggy. Fold in the parsley and thyme. Lid on, let it stand 6\u20138 minutes.",
-          "title": "Make the stuffing"
-        },
-        {
-          "body": "Spoon the stuffing into each pocket \u2014 generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with Ember rub. Pin the opening shut with a toothpick or two.",
-          "title": "Stuff them"
-        },
-        {
-          "body": "Pit at 250\u00b0F over apple wood, chops on the grate. Smoke until the meat reads about 130\u00b0F in the thickest part (not the stuffing).",
-          "title": "Start them on the smoker"
-        },
-        {
-          "body": "Sear 2\u20133 minutes per side until browned and the meat reads 145\u00b0F \u2014 either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
-          "title": "Sear to finish"
-        },
-        {
-          "body": "Rest 5\u201310 minutes before serving. Pull the toothpicks before they go to the table.",
-          "title": "Rest them"
-        }
-      ],
-      "story": "A thick chop with a pocket cut in it on the meaty side, stuffed like Thanksgiving dressing with bacon, onion, celery, herbs, and a little garlic, started on the smoker so the meat picks up smoke before it ever sees a skillet. The stuffing keeps the chop juicy from the inside out, and the sear at the end gives it the crust.",
-      "summary": "Thick bone-in pork chops stuffed with bacon bread stuffing, smoked low and seared to 145\u00b0F.",
-      "title": "Smoked Stuffed Pork Chops with Bacon Bread Stuffing",
-      "wood": "Apple"
+  {
+    "difficulty": "weekend",
+    "finish": "145°F",
+    "hours": {
+      "max": 1.5,
+      "min": 1.0
     },
-    {
-      "difficulty": "weekend",
-      "finish": "145\u00b0F",
-      "hours": {
-        "max": 1.5,
-        "min": 1.0
+    "image": "/images/smoked-pork-chops-bacon-bread-stuffing.jpg",
+    "ingredients": [
+      {
+        "group": "The chops",
+        "items": [
+          "4 bone-in pork chops, 1½–2 inches thick",
+          "Ember rub, to season all over"
+        ]
       },
-      "image": "/images/smoked-pork-chops-spinach-cheese.jpg",
-      "ingredients": [
-        {
-          "group": "The chops",
-          "items": [
-            "4 bone-in pork chops, 1\u00bc\u20131\u00bd inches thick",
-            "Salt, black pepper, and garlic powder, to season all over"
-          ]
-        },
-        {
-          "group": "The spinach and cheese stuffing",
-          "items": [
-            "8 oz cream cheese, softened",
-            "\u00bd cup shredded mozzarella",
-            "\u00bd cup feta cheese, crumbled",
-            "12 oz frozen spinach, thawed and squeezed dry (or fresh spinach, saut\u00e9ed first and drained)",
-            "\u00bd tsp each salt, black pepper, and garlic powder"
-          ]
-        }
-      ],
-      "milestones": [
-        {
-          "hint": "Meaty side up, in from the edge opposite the bone \u2014 stop about \u00bd inch from the far edge.",
-          "id": "pocket",
-          "label": "Cut the pocket"
-        },
-        {
-          "hint": "Cream cheese, mozzarella, feta, and squeezed-dry spinach mixed smooth.",
-          "id": "stuffing",
-          "label": "Mix the stuffing"
-        },
-        {
-          "hint": "Generous but not packed full; toothpick the opening shut.",
-          "id": "stuff",
-          "label": "Stuff them"
-        },
-        {
-          "hint": "250\u00b0F over apple wood until the meat reads about 130\u00b0F.",
-          "id": "smoke",
-          "label": "On the smoker"
-        },
-        {
-          "hint": "Sear 2\u20133 minutes per side in a buttered skillet or on the hot grill to 145\u00b0F, then rest 5\u201310 minutes.",
-          "id": "sear",
-          "label": "Sear and rest"
-        }
-      ],
-      "pitTemp": "250\u00b0F",
-      "proTips": [
-        {
-          "text": "Squeeze the spinach dry. Any extra water makes the filling soggy, and soggy filling never recovers.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Don't overstuff \u2014 a pocket packed too full blows open and dumps the cheese in the fire.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Chops are lean and take smoke fast, like cheese \u2014 a light hand with the wood. Apple or cherry, not mesquite.",
-          "voice": "Pit note"
-        },
-        {
-          "text": "Rest matters here like everywhere else \u2014 juice settles back through the meat.",
-          "voice": "Pit note"
-        }
-      ],
-      "protein": "pork",
-      "region": "southern",
-      "school": null,
-      "servings": "4",
-      "slug": "smoked-pork-chops-spinach-cheese",
-      "steps": [
-        {
-          "body": "Lay each chop flat, meaty side up. Cut a pocket in from the meaty edge opposite the bone, working toward the bone but NOT through it \u2014 stop about \u00bd inch from the far edge. The pocket has to hold stuffing and stay shut.",
-          "title": "Cut the pocket"
-        },
-        {
-          "body": "In a bowl, mix the softened cream cheese, mozzarella, feta, squeezed-dry spinach, and \u00bd teaspoon each of salt, black pepper, and garlic powder until smooth and even.",
-          "title": "Mix the stuffing"
-        },
-        {
-          "body": "Spoon the filling into each pocket \u2014 generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with salt, black pepper, and garlic powder. Pin the opening shut with a toothpick or two.",
-          "title": "Stuff them"
-        },
-        {
-          "body": "Pit at 250\u00b0F over apple wood, chops on the grate. Smoke until the meat reads about 130\u00b0F in the thickest part (not the stuffing).",
-          "title": "Start them on the smoker"
-        },
-        {
-          "body": "Sear 2\u20133 minutes per side until browned and the meat reads 145\u00b0F \u2014 either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
-          "title": "Sear to finish"
-        },
-        {
-          "body": "Rest 5\u201310 minutes before serving. Pull the toothpicks before they go to the table.",
-          "title": "Rest them"
-        }
-      ],
-      "story": "A thick chop with a pocket cut in it on the meaty side, filled with creamy spinach, mozzarella, and stout feta, started on the smoker and seared to finish. The cheese melts into the spinach and keeps the chop juicy from the inside out.",
-      "summary": "Thick bone-in pork chops stuffed with spinach, mozzarella, and feta, smoked low and seared to 145\u00b0F.",
-      "title": "Smoked Stuffed Pork Chops with Spinach and Cheese",
-      "wood": "Apple"
+      {
+        "group": "The bread stuffing",
+        "items": [
+          "½ cup butter",
+          "4 slices bacon, diced",
+          "1 small white onion, diced",
+          "2 ribs celery, diced",
+          "2 cloves garlic, minced",
+          "4 cups toasted bread cubes (sourdough or plain white)",
+          "Warm chicken stock, as needed",
+          "Fresh parsley, chopped, a small handful",
+          "Fresh thyme, chopped, about 1 tablespoon"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "Butter, for the skillet sear"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Meaty edge opposite the bone, about 3/4 of the way in — not through.",
+        "id": "pocket",
+        "label": "Cut the pocket"
+      },
+      {
+        "hint": "Bacon, onion, celery, and garlic in butter; bread cubes folded in, stock a little at a time.",
+        "id": "stuffing",
+        "label": "Make the stuffing"
+      },
+      {
+        "hint": "Generous but not packed full; toothpick the opening shut.",
+        "id": "stuff",
+        "label": "Stuff them"
+      },
+      {
+        "hint": "250°F over apple wood until the meat reads about 130°F.",
+        "id": "smoke",
+        "label": "On the smoker"
+      },
+      {
+        "hint": "Sear 2–3 minutes per side in a buttered skillet or on the hot grill to 145°F, then rest 5–10 minutes.",
+        "id": "sear",
+        "label": "Sear and rest"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Don't overstuff — a pocket packed too full blows open and dumps the stuffing in the fire.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't over-saturate the stuffing. Moist, not soggy — soggy stuffing never recovers.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Chops are lean and take smoke fast, like cheese — a light hand with the wood. Apple or cherry, not mesquite.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Rest matters here like everywhere else — juice settles back through the meat.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "smoked-pork-chops-bacon-bread-stuffing",
+    "steps": [
+      {
+        "body": "Lay each chop flat. Cut a deep pocket in from the meaty edge opposite the bone, working toward the bone about 3/4 of the way in — do NOT cut all the way through. The pocket has to hold stuffing and stay shut.",
+        "title": "Cut the pocket"
+      },
+      {
+        "body": "Melt the butter over low heat. Cook the bacon, onion, celery, and garlic until the vegetables are translucent and the bacon has rendered. Fold in the bread cubes so the fat coats them. Add warm chicken stock a little at a time until the stuffing is moist but NOT soggy. Fold in the parsley and thyme. Lid on, let it stand 6–8 minutes.",
+        "title": "Make the stuffing"
+      },
+      {
+        "body": "Spoon the stuffing into each pocket — generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with Ember rub. Pin the opening shut with a toothpick or two.",
+        "title": "Stuff them"
+      },
+      {
+        "body": "Pit at 250°F over apple wood, chops on the grate. Smoke until the meat reads about 130°F in the thickest part (not the stuffing).",
+        "title": "Start them on the smoker"
+      },
+      {
+        "body": "Sear 2–3 minutes per side until browned and the meat reads 145°F — either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
+        "title": "Sear to finish"
+      },
+      {
+        "body": "Rest 5–10 minutes before serving. Pull the toothpicks before they go to the table.",
+        "title": "Rest them"
+      }
+    ],
+    "story": "A thick chop with a pocket cut in it on the meaty side, stuffed like Thanksgiving dressing with bacon, onion, celery, herbs, and a little garlic, started on the smoker so the meat picks up smoke before it ever sees a skillet. The stuffing keeps the chop juicy from the inside out, and the sear at the end gives it the crust.",
+    "summary": "Thick bone-in pork chops stuffed with bacon bread stuffing, smoked low and seared to 145°F.",
+    "title": "Smoked Stuffed Pork Chops with Bacon Bread Stuffing",
+    "wood": "Apple"
+  },
+  {
+    "difficulty": "weekend",
+    "finish": "145°F",
+    "hours": {
+      "max": 1.5,
+      "min": 1.0
     },
+    "image": "/images/smoked-pork-chops-spinach-cheese.jpg",
+    "ingredients": [
+      {
+        "group": "The chops",
+        "items": [
+          "4 bone-in pork chops, 1¼–1½ inches thick",
+          "Salt, black pepper, and garlic powder, to season all over"
+        ]
+      },
+      {
+        "group": "The spinach and cheese stuffing",
+        "items": [
+          "8 oz cream cheese, softened",
+          "½ cup shredded mozzarella",
+          "½ cup feta cheese, crumbled",
+          "12 oz frozen spinach, thawed and squeezed dry (or fresh spinach, sautéed first and drained)",
+          "½ tsp each salt, black pepper, and garlic powder"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Meaty side up, in from the edge opposite the bone — stop about ½ inch from the far edge.",
+        "id": "pocket",
+        "label": "Cut the pocket"
+      },
+      {
+        "hint": "Cream cheese, mozzarella, feta, and squeezed-dry spinach mixed smooth.",
+        "id": "stuffing",
+        "label": "Mix the stuffing"
+      },
+      {
+        "hint": "Generous but not packed full; toothpick the opening shut.",
+        "id": "stuff",
+        "label": "Stuff them"
+      },
+      {
+        "hint": "250°F over apple wood until the meat reads about 130°F.",
+        "id": "smoke",
+        "label": "On the smoker"
+      },
+      {
+        "hint": "Sear 2–3 minutes per side in a buttered skillet or on the hot grill to 145°F, then rest 5–10 minutes.",
+        "id": "sear",
+        "label": "Sear and rest"
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Squeeze the spinach dry. Any extra water makes the filling soggy, and soggy filling never recovers.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't overstuff — a pocket packed too full blows open and dumps the cheese in the fire.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Chops are lean and take smoke fast, like cheese — a light hand with the wood. Apple or cherry, not mesquite.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Rest matters here like everywhere else — juice settles back through the meat.",
+        "voice": "Pit note"
+      }
+    ],
+    "protein": "pork",
+    "region": "southern",
+    "school": null,
+    "servings": "4",
+    "slug": "smoked-pork-chops-spinach-cheese",
+    "steps": [
+      {
+        "body": "Lay each chop flat, meaty side up. Cut a pocket in from the meaty edge opposite the bone, working toward the bone but NOT through it — stop about ½ inch from the far edge. The pocket has to hold stuffing and stay shut.",
+        "title": "Cut the pocket"
+      },
+      {
+        "body": "In a bowl, mix the softened cream cheese, mozzarella, feta, squeezed-dry spinach, and ½ teaspoon each of salt, black pepper, and garlic powder until smooth and even.",
+        "title": "Mix the stuffing"
+      },
+      {
+        "body": "Spoon the filling into each pocket — generous, but don't overstuff or it blows out in the cook. Season the outside of each chop all over with salt, black pepper, and garlic powder. Pin the opening shut with a toothpick or two.",
+        "title": "Stuff them"
+      },
+      {
+        "body": "Pit at 250°F over apple wood, chops on the grate. Smoke until the meat reads about 130°F in the thickest part (not the stuffing).",
+        "title": "Start them on the smoker"
+      },
+      {
+        "body": "Sear 2–3 minutes per side until browned and the meat reads 145°F — either in a buttered cast iron skillet, hot, or straight on the hot grill. Cook's choice.",
+        "title": "Sear to finish"
+      },
+      {
+        "body": "Rest 5–10 minutes before serving. Pull the toothpicks before they go to the table.",
+        "title": "Rest them"
+      }
+    ],
+    "story": "A thick chop with a pocket cut in it on the meaty side, filled with creamy spinach, mozzarella, and stout feta, started on the smoker and seared to finish. The cheese melts into the spinach and keeps the chop juicy from the inside out.",
+    "summary": "Thick bone-in pork chops stuffed with spinach, mozzarella, and feta, smoked low and seared to 145°F.",
+    "title": "Smoked Stuffed Pork Chops with Spinach and Cheese",
+    "wood": "Apple"
+  },
   {
     "difficulty": "weeknight",
     "finish": "Cheese bubbly and browned, crust golden",
@@ -7697,8 +7687,7 @@
     "summary": "Thick asparagus bundled with bacon and smoked over light fruit wood, served with cold Alabama white sauce for dipping.",
     "title": "Smoked Bacon-Wrapped Asparagus with Alabama White Sauce",
     "wood": "Apple or cherry"
-  }
-,
+  },
   {
     "difficulty": "weekend",
     "finish": "Hot and spiced, served in warm cups.",
@@ -7800,7 +7789,7 @@
     "title": "Hot Apple Toddy",
     "wood": "None"
   },
- {
+  {
     "difficulty": "weeknight",
     "finish": "Chilled and set, cinnamon-dusted top",
     "hours": {
@@ -7904,8 +7893,7 @@
     "summary": "Indiana's official state pie — a rich, custardy sugar-and-cream filling in a flaky crust, cinnamon on top.",
     "title": "Sugar Cream Pie",
     "wood": "Pantry"
-  }
-,
+  },
   {
     "difficulty": "weekend",
     "finish": "165°F in the breast, rested 20–30 minutes",
@@ -10822,7 +10810,7 @@
     "title": "Ember Cathead Biscuits",
     "wood": "Pantry"
   },
- {
+  {
     "difficulty": "weekend",
     "finish": "Pull at 200–205°F, rest 30–45 minutes — the probe slides in like butter",
     "hours": {
@@ -10933,7 +10921,7 @@
     "title": "Smoked Buffalo Chuck Roast",
     "wood": "Oak or mesquite"
   },
- {
+  {
     "difficulty": "weeknight",
     "finish": "Pull at 145°F, rest a few minutes — lean meat dries fast past medium",
     "hours": {
@@ -11024,7 +11012,7 @@
     "title": "Ember Elk Burger",
     "wood": "Oak or mesquite"
   },
- {
+  {
     "difficulty": "weekend",
     "finish": "Pull at 145°F for medium-rare, rest tented 5–10 minutes before slicing",
     "hours": {
@@ -11114,7 +11102,7 @@
     "title": "Ember Prime Rib Roast",
     "wood": "Hickory"
   },
- {
+  {
     "difficulty": "weekend",
     "finish": "Baste to 140°F, about 5 hours — the ham is already cooked, so this is hot through with the glaze set",
     "hours": {
@@ -11214,7 +11202,7 @@
     "title": "Ember Cider-Glazed Spiral Ham",
     "wood": "Apple"
   },
- {
+  {
     "difficulty": "weeknight",
     "finish": "Bake 15 minutes till the cheese is melty and the tops are lightly toasted, then slice and serve warm",
     "hours": {
@@ -11316,7 +11304,7 @@
     "title": "Ember Leftover Holiday Ham Sliders",
     "wood": "Pantry"
   },
- {
+  {
     "difficulty": "weekend",
     "finish": "Smoke the blocks 2 hours at 225°F till golden, then fold with the browned-butter pecan topping and serve with crackers, bread, and veggies",
     "hours": {
@@ -11400,517 +11388,620 @@
     "title": "Ember Smoked Holiday Cream Cheese",
     "wood": "Apple"
   },
-{
-  "difficulty": "weekend",
-  "finish": "Glaze at 132°F, pull at 140°F — the ham is already cooked, so this is hot through with the glaze set",
-  "hours": {
-    "max": 4.5,
-    "min": 4
+  {
+    "difficulty": "weekend",
+    "finish": "Glaze at 132°F, pull at 140°F — the ham is already cooked, so this is hot through with the glaze set",
+    "hours": {
+      "max": 4.5,
+      "min": 4
+    },
+    "image": "/images/ember-cherry-dr-pepper-double-smoked-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "1 bone-in spiral-cut half ham, pre-smoked (7–9 lb)",
+          "Honey mustard, for a thin coat"
+        ]
+      },
+      {
+        "group": "The spritz",
+        "items": [
+          "1 can (12 oz) cherry Dr Pepper"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "1 can (12 oz) cherry Dr Pepper",
+          "1/2 cup brown sugar",
+          "1/4 cup honey",
+          "1/2 cup maraschino cherries, chopped, plus a few whole ones for looks"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Flavor packet and plastic disk out; knife cut deep to meet the spiral.",
+        "id": "prep",
+        "label": "Prep the ham"
+      },
+      {
+        "hint": "Thin coat of honey mustard; thermometer kept off the bone.",
+        "id": "binder",
+        "label": "Binder and temp check"
+      },
+      {
+        "hint": "Pit at 275°F over pecan with a little cherry; spritz every 20 minutes once the bark sets up.",
+        "id": "smoke",
+        "label": "On the smoker"
+      },
+      {
+        "hint": "One can cherry Dr Pepper, 1/2 cup brown sugar, 1/4 cup honey, cooked down till syrupy; cherries stirred in.",
+        "id": "glaze",
+        "label": "Build the glaze"
+      },
+      {
+        "hint": "Glaze brushed into every spiral at 132°F; 30 minutes to tack up, pull at 140°F.",
+        "id": "tack",
+        "label": "Glaze and tack up"
+      },
+      {
+        "hint": "Tent loose and rest 20–30 minutes before slicing.",
+        "id": "rest",
+        "label": "Rest"
+      }
+    ],
+    "pitTemp": "275°F",
+    "proTips": [
+      {
+        "text": "The brown sugar is what sets up the pop — more brown sugar than honey in that glaze.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Keep the thermometer off the bone or it'll lie to you.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Wood's the cook's call — pecan and cherry's my pick, apple if you want it lighter.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "10–12",
+    "slug": "ember-cherry-dr-pepper-double-smoked-ham",
+    "steps": [
+      {
+        "body": "Throw the flavor packet away and pull the plastic piece off the bottom. The spiral cut doesn't go all the way up, so take a knife and cut deep, almost to meet the spiral — it opens up during the cook and takes more flavor.",
+        "title": "Prep the ham"
+      },
+      {
+        "body": "Give the outside a thin coat of honey mustard. Check the temp with whatever thermometer you've got — no fancy leave-in probe needed, most folks don't have one — and keep it out of the bone, or it'll read false.",
+        "title": "Binder and temp check"
+      },
+      {
+        "body": "275°F over pecan with a little cherry — apple if you want it lighter. Spritz with cherry Dr Pepper every 20 minutes once the bark sets up, on all sides. The sugars build the bark and caramelize.",
+        "title": "On the smoker"
+      },
+      {
+        "body": "One can of cherry Dr Pepper, 1/2 cup brown sugar, and 1/4 cup honey in a pot on the stove. Cook it down till it turns syrupy, then stir in about 1/2 cup chopped maraschino cherries.",
+        "title": "Build the glaze"
+      },
+      {
+        "body": "At about 132°F internal, roughly 4 hours in, brush the glaze into every crack, crevice, and spiral, top to bottom, all sides. Tuck a few whole cherries into the spirals for looks. Give it about 30 minutes more to tack up, and pull it at 140°F.",
+        "title": "Glaze and tack up"
+      },
+      {
+        "body": "Tent it loose — don't wrap it tight or the glaze goes soft — and rest 20–30 minutes before you slice.",
+        "title": "Rest"
+      }
+    ],
+    "story": "Kendrick BBQ put up a reel of a double-smoked spiral ham with a Cherry Dr Pepper glaze, and Kelly called it — cherry Dr Pepper on pork is his move, has been for years. Cherry Dr Pepper and brown sugar is how he builds a crackling bark. This is the Ember version, written Kelly's way. Kelly hasn't cooked this one yet.",
+    "summary": "A store-bought spiral ham, smoked a second time over pecan and cherry, spritzed with cherry Dr Pepper while it cooks, and finished with a brown sugar and honey glaze cooked down on the stove. The brown sugar is what sets up the pop.",
+    "title": "Ember Cherry Dr Pepper Double-Smoked Ham",
+    "wood": "Pecan and cherry"
   },
-  "image": "/images/ember-cherry-dr-pepper-double-smoked-ham.jpg",
-  "ingredients": [
-    {
-      "group": "The ham",
-      "items": [
-        "1 bone-in spiral-cut half ham, pre-smoked (7–9 lb)",
-        "Honey mustard, for a thin coat"
-      ]
+  {
+    "difficulty": "weekend",
+    "finish": "Pull at 160°F and tent loose to finish, rest before carving",
+    "hours": {
+      "max": 4.5,
+      "min": 3
     },
-    {
-      "group": "The spritz",
-      "items": [
-        "1 can (12 oz) cherry Dr Pepper"
-      ]
-    },
-    {
-      "group": "The glaze",
-      "items": [
-        "1 can (12 oz) cherry Dr Pepper",
-        "1/2 cup brown sugar",
-        "1/4 cup honey",
-        "1/2 cup maraschino cherries, chopped, plus a few whole ones for looks"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Flavor packet and plastic disk out; knife cut deep to meet the spiral.",
-      "id": "prep",
-      "label": "Prep the ham"
-    },
-    {
-      "hint": "Thin coat of honey mustard; thermometer kept off the bone.",
-      "id": "binder",
-      "label": "Binder and temp check"
-    },
-    {
-      "hint": "Pit at 275°F over pecan with a little cherry; spritz every 20 minutes once the bark sets up.",
-      "id": "smoke",
-      "label": "On the smoker"
-    },
-    {
-      "hint": "One can cherry Dr Pepper, 1/2 cup brown sugar, 1/4 cup honey, cooked down till syrupy; cherries stirred in.",
-      "id": "glaze",
-      "label": "Build the glaze"
-    },
-    {
-      "hint": "Glaze brushed into every spiral at 132°F; 30 minutes to tack up, pull at 140°F.",
-      "id": "tack",
-      "label": "Glaze and tack up"
-    },
-    {
-      "hint": "Tent loose and rest 20–30 minutes before slicing.",
-      "id": "rest",
-      "label": "Rest"
-    }
-  ],
-  "pitTemp": "275°F",
-  "proTips": [
-    {
-      "text": "The brown sugar is what sets up the pop — more brown sugar than honey in that glaze.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "Keep the thermometer off the bone or it'll lie to you.",
-      "voice": "Pit note"
-    },
-    {
-      "text": "Wood's the cook's call — pecan and cherry's my pick, apple if you want it lighter.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "pork",
-  "region": "backyard",
-  "school": null,
-  "servings": "10–12",
-  "slug": "ember-cherry-dr-pepper-double-smoked-ham",
-  "steps": [
-    {
-      "body": "Throw the flavor packet away and pull the plastic piece off the bottom. The spiral cut doesn't go all the way up, so take a knife and cut deep, almost to meet the spiral — it opens up during the cook and takes more flavor.",
-      "title": "Prep the ham"
-    },
-    {
-      "body": "Give the outside a thin coat of honey mustard. Check the temp with whatever thermometer you've got — no fancy leave-in probe needed, most folks don't have one — and keep it out of the bone, or it'll read false.",
-      "title": "Binder and temp check"
-    },
-    {
-      "body": "275°F over pecan with a little cherry — apple if you want it lighter. Spritz with cherry Dr Pepper every 20 minutes once the bark sets up, on all sides. The sugars build the bark and caramelize.",
-      "title": "On the smoker"
-    },
-    {
-      "body": "One can of cherry Dr Pepper, 1/2 cup brown sugar, and 1/4 cup honey in a pot on the stove. Cook it down till it turns syrupy, then stir in about 1/2 cup chopped maraschino cherries.",
-      "title": "Build the glaze"
-    },
-    {
-      "body": "At about 132°F internal, roughly 4 hours in, brush the glaze into every crack, crevice, and spiral, top to bottom, all sides. Tuck a few whole cherries into the spirals for looks. Give it about 30 minutes more to tack up, and pull it at 140°F.",
-      "title": "Glaze and tack up"
-    },
-    {
-      "body": "Tent it loose — don't wrap it tight or the glaze goes soft — and rest 20–30 minutes before you slice.",
-      "title": "Rest"
-    }
-  ],
-  "story": "Kendrick BBQ put up a reel of a double-smoked spiral ham with a Cherry Dr Pepper glaze, and Kelly called it — cherry Dr Pepper on pork is his move, has been for years. Cherry Dr Pepper and brown sugar is how he builds a crackling bark. This is the Ember version, written Kelly's way. Kelly hasn't cooked this one yet.",
-  "summary": "A store-bought spiral ham, smoked a second time over pecan and cherry, spritzed with cherry Dr Pepper while it cooks, and finished with a brown sugar and honey glaze cooked down on the stove. The brown sugar is what sets up the pop.",
-  "title": "Ember Cherry Dr Pepper Double-Smoked Ham",
-  "wood": "Pecan and cherry"
-},
-{
-  "difficulty": "weekend",
-  "finish": "Pull at 160°F and tent loose to finish, rest before carving",
-  "hours": {
-    "max": 4.5,
-    "min": 3
+    "image": "/images/ember-sweet-tea-brined-turkey.jpg",
+    "ingredients": [
+      {
+        "group": "The brine",
+        "items": [
+          "1 gallon Milo's Sweet Tea",
+          "Malcolm's Bird Brine Turkey & Chicken Brine (amount per the label)",
+          "Ice, to top off"
+        ]
+      },
+      {
+        "group": "The bird",
+        "items": [
+          "1 whole turkey, 12–14 lb",
+          "1 onion, celery stalks, and fresh herbs, for the cavity",
+          "Oil, for the skin",
+          "Ember AP Rub, applied generously"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Brining bag in a bucket, turkey in, Bird Brine over it, a full gallon of Milo's sweet tea, ice on top, sealed and refrigerated overnight.",
+        "id": "brine",
+        "label": "Bag and brine"
+      },
+      {
+        "hint": "Out of the brine, patted completely dry inside and out; onion, celery, and herbs in the cavity, legs tied.",
+        "id": "dry",
+        "label": "Dry and stuff"
+      },
+      {
+        "hint": "Skin coated with oil, Ember AP Rub on generous, all over.",
+        "id": "rub",
+        "label": "Oil and rub"
+      },
+      {
+        "hint": "325°F over pecan on a rack over foil, probe in, cook till it reads 160°F.",
+        "id": "smoke",
+        "label": "On the smoker"
+      },
+      {
+        "hint": "Tent loosely with foil to finish, then let it rest before carving.",
+        "id": "rest",
+        "label": "Tent and rest"
+      }
+    ],
+    "pitTemp": "325°F",
+    "proTips": [
+      {
+        "text": "No extra salt in this brine — the Bird Brine is the salt. The tea brings the sweet, the Bird Brine brings the salt and the seasoning.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Malcolm's tip: want the beautiful color of sweet tea without the sweetness? Use unsweetened tea instead.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The bird comes out of the brine orange-brown from the tea — that's the tea doing its work, not a problem.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Pat it completely dry or the skin won't crisp.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "poultry",
+    "region": "southern",
+    "school": null,
+    "servings": "10–12",
+    "slug": "ember-sweet-tea-brined-turkey",
+    "steps": [
+      {
+        "body": "Line a bucket with a brining bag and set the turkey inside. Add the Bird Brine, pour in the full gallon of Milo's sweet tea, and top with ice. Seal the bag, lid on the bucket, and refrigerate overnight.",
+        "title": "Bag and brine"
+      },
+      {
+        "body": "Lift the bird out of the brine and pat it completely dry, inside and out. Stuff the cavity with onion, celery, and herbs, and tie the legs together.",
+        "title": "Dry and stuff"
+      },
+      {
+        "body": "Coat the skin with oil, then apply the rub generously, all over.",
+        "title": "Oil and rub"
+      },
+      {
+        "body": "Set the bird on a rack over foil in the smoker at 325°F, probe in, and cook till it reads 160°F.",
+        "title": "On the smoker"
+      },
+      {
+        "body": "Tent loosely with foil to finish, then let it rest before carving.",
+        "title": "Tent and rest"
+      }
+    ],
+    "story": "Malcolm Reed of HowToBBQRight swears by this one, and it's right up Kelly's alley — he loves sweet tea. A whole bird goes into a brining bag with Malcolm's Bird Brine and a full gallon of Milo's sweet tea, ices down overnight, and comes out orange-brown from the tea before it ever sees the smoker. Kelly hasn't cooked this one yet.",
+    "summary": "Malcolm Reed's sweet tea brine — a whole bird soaked overnight in Milo's sweet tea and his Bird Brine, then smoked at 325°F till the skin goes deep golden and crisp.",
+    "title": "Ember Sweet Tea Brined Turkey",
+    "wood": "Pecan"
   },
-  "image": "/images/ember-sweet-tea-brined-turkey.jpg",
-  "ingredients": [
-    {
-      "group": "The brine",
-      "items": [
-        "1 gallon Milo's Sweet Tea",
-        "Malcolm's Bird Brine Turkey & Chicken Brine (amount per the label)",
-        "Ice, to top off"
-      ]
+  {
+    "difficulty": "weeknight",
+    "finish": "Fork-tender all the way through, about 200°F in the center",
+    "hours": {
+      "max": 2,
+      "min": 1.5
     },
-    {
-      "group": "The bird",
-      "items": [
-        "1 whole turkey, 12–14 lb",
-        "1 onion, celery stalks, and fresh herbs, for the cavity",
-        "Oil, for the skin",
-        "Ember AP Rub, applied generously"
-      ]
-    }
-  ],
-  "milestones": [
-    {
-      "hint": "Brining bag in a bucket, turkey in, Bird Brine over it, a full gallon of Milo's sweet tea, ice on top, sealed and refrigerated overnight.",
-      "id": "brine",
-      "label": "Bag and brine"
-    },
-    {
-      "hint": "Out of the brine, patted completely dry inside and out; onion, celery, and herbs in the cavity, legs tied.",
-      "id": "dry",
-      "label": "Dry and stuff"
-    },
-    {
-      "hint": "Skin coated with oil, Ember AP Rub on generous, all over.",
-      "id": "rub",
-      "label": "Oil and rub"
-    },
-    {
-      "hint": "325°F over pecan on a rack over foil, probe in, cook till it reads 160°F.",
-      "id": "smoke",
-      "label": "On the smoker"
-    },
-    {
-      "hint": "Tent loosely with foil to finish, then let it rest before carving.",
-      "id": "rest",
-      "label": "Tent and rest"
-    }
-  ],
-  "pitTemp": "325°F",
-  "proTips": [
-    {
-      "text": "No extra salt in this brine — the Bird Brine is the salt. The tea brings the sweet, the Bird Brine brings the salt and the seasoning.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "Malcolm's tip: want the beautiful color of sweet tea without the sweetness? Use unsweetened tea instead.",
-      "voice": "Pit note"
-    },
-    {
-      "text": "The bird comes out of the brine orange-brown from the tea — that's the tea doing its work, not a problem.",
-      "voice": "Pit note"
-    },
-    {
-      "text": "Pat it completely dry or the skin won't crisp.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "poultry",
-  "region": "southern",
-  "school": null,
-  "servings": "10–12",
-  "slug": "ember-sweet-tea-brined-turkey",
-  "steps": [
-    {
-      "body": "Line a bucket with a brining bag and set the turkey inside. Add the Bird Brine, pour in the full gallon of Milo's sweet tea, and top with ice. Seal the bag, lid on the bucket, and refrigerate overnight.",
-      "title": "Bag and brine"
-    },
-    {
-      "body": "Lift the bird out of the brine and pat it completely dry, inside and out. Stuff the cavity with onion, celery, and herbs, and tie the legs together.",
-      "title": "Dry and stuff"
-    },
-    {
-      "body": "Coat the skin with oil, then apply the rub generously, all over.",
-      "title": "Oil and rub"
-    },
-    {
-      "body": "Set the bird on a rack over foil in the smoker at 325°F, probe in, and cook till it reads 160°F.",
-      "title": "On the smoker"
-    },
-    {
-      "body": "Tent loosely with foil to finish, then let it rest before carving.",
-      "title": "Tent and rest"
-    }
-  ],
-  "story": "Malcolm Reed of HowToBBQRight swears by this one, and it's right up Kelly's alley — he loves sweet tea. A whole bird goes into a brining bag with Malcolm's Bird Brine and a full gallon of Milo's sweet tea, ices down overnight, and comes out orange-brown from the tea before it ever sees the smoker. Kelly hasn't cooked this one yet.",
-  "summary": "Malcolm Reed's sweet tea brine — a whole bird soaked overnight in Milo's sweet tea and his Bird Brine, then smoked at 325°F till the skin goes deep golden and crisp.",
-  "title": "Ember Sweet Tea Brined Turkey",
-  "wood": "Pecan"
-},
-{
-  "difficulty": "weeknight",
-  "finish": "Fork-tender all the way through, about 200°F in the center",
-  "hours": {
-    "max": 2,
-    "min": 1.5
+    "image": "/images/ember-whole-smoked-cauliflower.jpg",
+    "ingredients": [
+      {
+        "group": "The head",
+        "items": [
+          "1 medium head cauliflower, about 22 oz, leaves cut away"
+        ]
+      },
+      {
+        "group": "Marinade",
+        "items": [
+          "3 tablespoons olive oil",
+          "1 tablespoon maple syrup or honey",
+          "1 tablespoon smoked paprika",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/4 teaspoon ground black pepper",
+          "1/2 teaspoon sea salt",
+          "1 teaspoon yellow mustard",
+          "2 teaspoons tomato paste"
+        ]
+      }
+    ],
+    "pitTemp": "250°F",
+    "proTips": [
+      {
+        "text": "Vegetables take smoke fast — a light hand on the smoke is enough here. Apple or hickory gives it a sweet smoke without overpowering the cauliflower.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "The 5-minute steam first is worth it on a weeknight — it cuts the smoke time nearly in half and the head still comes out tender all the way through.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "6",
+    "slug": "ember-whole-smoked-cauliflower",
+    "steps": [
+      {
+        "body": "Cut the leaves away, keeping the head whole and intact. If you want it done faster, steam, boil, or microwave the whole head for 5 minutes, then cool it in a colander for 10 minutes until the steam is out — this cuts about 45 minutes off the smoke.",
+        "title": "Trim and steam (optional)"
+      },
+      {
+        "body": "Stir all the marinade ingredients together in a bowl until they form a paste. Rub the whole head with it, using a pastry brush or your hands, getting it into every crevice.",
+        "title": "Mix and rub"
+      },
+      {
+        "body": "Preheat the smoker to 250°F for indirect heat. Set the cauliflower on the grate, far from the heat, close the lid, and smoke 60–90 minutes until fork-tender. Don't open the lid often — it drops the temperature.",
+        "title": "On the smoker"
+      },
+      {
+        "body": "Pull it when a fork slides in easy and the center reads about 200°F on whatever thermometer you have. Slice into wedges and serve as a side, with tomato sauce or avocado dressing if you like.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Sweet As Honey's Carine Claudepierre built this one for the smoker — a whole head rubbed with a smoky paprika marinade, slow-smoked till the outside crusts and the inside goes soft, like tandoori off the grill. Kelly hasn't cooked this one yet.",
+    "summary": "A whole cauliflower head rubbed with a smoky paprika marinade and slow-smoked till the outside crusts and the inside goes soft and tender.",
+    "title": "Ember Whole Smoked Cauliflower",
+    "wood": "Apple or hickory"
   },
-  "image": "/images/ember-whole-smoked-cauliflower.jpg",
-  "ingredients": [
-    {
-      "group": "The head",
-      "items": [
-        "1 medium head cauliflower, about 22 oz, leaves cut away"
-      ]
+  {
+    "difficulty": "weeknight",
+    "finish": "Deep golden edges, a parsnip pierces easy with a knife, glaze bubbling and clinging",
+    "hours": {
+      "max": 1,
+      "min": 0.75
     },
-    {
-      "group": "Marinade",
-      "items": [
-        "3 tablespoons olive oil",
-        "1 tablespoon maple syrup or honey",
-        "1 tablespoon smoked paprika",
-        "1 teaspoon cumin",
-        "1/2 teaspoon garlic powder",
-        "1/4 teaspoon ground black pepper",
-        "1/2 teaspoon sea salt",
-        "1 teaspoon yellow mustard",
-        "2 teaspoons tomato paste"
-      ]
-    }
-  ],
-  "pitTemp": "250°F",
-  "proTips": [
-    {
-      "text": "Vegetables take smoke fast — a light hand on the smoke is enough here. Apple or hickory gives it a sweet smoke without overpowering the cauliflower.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "The 5-minute steam first is worth it on a weeknight — it cuts the smoke time nearly in half and the head still comes out tender all the way through.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "sides",
-  "region": "backyard",
-  "school": null,
-  "servings": "6",
-  "slug": "ember-whole-smoked-cauliflower",
-  "steps": [
-    {
-      "body": "Cut the leaves away, keeping the head whole and intact. If you want it done faster, steam, boil, or microwave the whole head for 5 minutes, then cool it in a colander for 10 minutes until the steam is out — this cuts about 45 minutes off the smoke.",
-      "title": "Trim and steam (optional)"
-    },
-    {
-      "body": "Stir all the marinade ingredients together in a bowl until they form a paste. Rub the whole head with it, using a pastry brush or your hands, getting it into every crevice.",
-      "title": "Mix and rub"
-    },
-    {
-      "body": "Preheat the smoker to 250°F for indirect heat. Set the cauliflower on the grate, far from the heat, close the lid, and smoke 60–90 minutes until fork-tender. Don't open the lid often — it drops the temperature.",
-      "title": "On the smoker"
-    },
-    {
-      "body": "Pull it when a fork slides in easy and the center reads about 200°F on whatever thermometer you have. Slice into wedges and serve as a side, with tomato sauce or avocado dressing if you like.",
-      "title": "Serve"
-    }
-  ],
-  "story": "Sweet As Honey's Carine Claudepierre built this one for the smoker — a whole head rubbed with a smoky paprika marinade, slow-smoked till the outside crusts and the inside goes soft, like tandoori off the grill. Kelly hasn't cooked this one yet.",
-  "summary": "A whole cauliflower head rubbed with a smoky paprika marinade and slow-smoked till the outside crusts and the inside goes soft and tender.",
-  "title": "Ember Whole Smoked Cauliflower",
-  "wood": "Apple or hickory"
-},
-{
-  "difficulty": "weeknight",
-  "finish": "Deep golden edges, a parsnip pierces easy with a knife, glaze bubbling and clinging",
-  "hours": {
-    "max": 1,
-    "min": 0.75
+    "image": "/images/ember-roasted-root-vegetables.jpg",
+    "ingredients": [
+      {
+        "group": "Vegetables",
+        "items": [
+          "1 lb sweet potatoes, peeled and cut into 1-inch cubes",
+          "1 lb Brussels sprouts, trimmed and halved lengthwise",
+          "12 oz carrots, peeled and cut into 1-inch chunks",
+          "10 oz parsnips, peeled and cut into 1-inch chunks"
+        ]
+      },
+      {
+        "group": "Seasoning and glaze",
+        "items": [
+          "3 tablespoons unsalted butter, melted",
+          "2 tablespoons pure maple syrup",
+          "2 tablespoons olive oil",
+          "1 1/2 teaspoons kosher salt",
+          "1/2 teaspoon freshly ground black pepper",
+          "1 tablespoon fresh thyme leaves, plus sprigs for garnish",
+          "1/2 cup pecan halves, roughly chopped"
+        ]
+      }
+    ],
+    "pitTemp": "Oven 425°F",
+    "proTips": [
+      {
+        "text": "Cut everything the same size — uneven chunks mean burnt edges and raw centers. Take the extra five minutes to dice to roughly 1 inch.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Don't crowd the pan or the vegetables steam instead of roast. Use two sheet pans if yours is smaller than 18 by 13 inches.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Glaze at the end, not the start — maple syrup burns at high heat, so it goes on for the last 5 minutes only.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "6–8",
+    "slug": "ember-roasted-root-vegetables",
+    "steps": [
+      {
+        "body": "Heat the oven to 425°F with a rack in the upper third and put a rimmed 18-by-13-inch sheet pan inside to preheat for 10 minutes. Cut all the vegetables into even 1-inch pieces and pat them dry with paper towels.",
+        "title": "Preheat and prep"
+      },
+      {
+        "body": "In a large bowl, toss the sweet potatoes, carrots, and parsnips with 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and half the pepper until every piece is coated.",
+        "title": "Season the roots"
+      },
+      {
+        "body": "Pull the hot pan from the oven, spread the root vegetables in a single layer, and roast at 425°F for 15 minutes, until the bottoms are lightly golden and the pieces release easily from the pan.",
+        "title": "Roast the roots"
+      },
+      {
+        "body": "Toss the halved Brussels sprouts with the remaining 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and the rest of the pepper. Push the roots to one side and add the sprouts cut-side down, then return the pan to the oven.",
+        "title": "Add the sprouts"
+      },
+      {
+        "body": "Roast at 425°F for another 18 to 22 minutes, until the sprouts are deep golden brown at the edges and a parsnip pierces easily with a knife. Stir once halfway through for even browning.",
+        "title": "Roast till caramelized"
+      },
+      {
+        "body": "Whisk the maple syrup with the remaining 1 tablespoon melted butter and the thyme leaves. Drizzle over the hot vegetables, toss gently to coat, then roast 5 more minutes at 425°F until the glaze bubbles and clings.",
+        "title": "Glaze"
+      },
+      {
+        "body": "While the vegetables finish, toast the chopped pecans in a dry skillet over medium heat for 3 to 4 minutes, stirring often, until fragrant and one shade darker. Move the vegetables to a warm platter, scatter the pecans and thyme sprigs over the top, and serve right away while the glaze is still glossy.",
+        "title": "Toast the pecans and serve"
+      }
+    ],
+    "story": "A sheet-pan Thanksgiving medley — sturdy roots roasted first, quicker sprouts joining late so nothing turns to mush, finished with a maple-butter glaze and toasted pecans. Kelly hasn't cooked this one yet.",
+    "summary": "Sweet potatoes, carrots, and parsnips roasted first at high heat, Brussels sprouts joining late, finished with a maple-butter glaze and toasted pecans.",
+    "title": "Ember Roasted Root Vegetables",
+    "wood": "Pantry"
   },
-  "image": "/images/ember-roasted-root-vegetables.jpg",
-  "ingredients": [
-    {
-      "group": "Vegetables",
-      "items": [
-        "1 lb sweet potatoes, peeled and cut into 1-inch cubes",
-        "1 lb Brussels sprouts, trimmed and halved lengthwise",
-        "12 oz carrots, peeled and cut into 1-inch chunks",
-        "10 oz parsnips, peeled and cut into 1-inch chunks"
-      ]
+  {
+    "difficulty": "weeknight",
+    "finish": "Cream thickened and clinging, parmesan melted, serve hot",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
     },
-    {
-      "group": "Seasoning and glaze",
-      "items": [
-        "3 tablespoons unsalted butter, melted",
-        "2 tablespoons pure maple syrup",
-        "2 tablespoons olive oil",
-        "1 1/2 teaspoons kosher salt",
-        "1/2 teaspoon freshly ground black pepper",
-        "1 tablespoon fresh thyme leaves, plus sprigs for garnish",
-        "1/2 cup pecan halves, roughly chopped"
-      ]
-    }
-  ],
-  "pitTemp": "Oven 425°F",
-  "proTips": [
-    {
-      "text": "Cut everything the same size — uneven chunks mean burnt edges and raw centers. Take the extra five minutes to dice to roughly 1 inch.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "Don't crowd the pan or the vegetables steam instead of roast. Use two sheet pans if yours is smaller than 18 by 13 inches.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "Glaze at the end, not the start — maple syrup burns at high heat, so it goes on for the last 5 minutes only.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "sides",
-  "region": "backyard",
-  "school": null,
-  "servings": "6–8",
-  "slug": "ember-roasted-root-vegetables",
-  "steps": [
-    {
-      "body": "Heat the oven to 425°F with a rack in the upper third and put a rimmed 18-by-13-inch sheet pan inside to preheat for 10 minutes. Cut all the vegetables into even 1-inch pieces and pat them dry with paper towels.",
-      "title": "Preheat and prep"
-    },
-    {
-      "body": "In a large bowl, toss the sweet potatoes, carrots, and parsnips with 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and half the pepper until every piece is coated.",
-      "title": "Season the roots"
-    },
-    {
-      "body": "Pull the hot pan from the oven, spread the root vegetables in a single layer, and roast at 425°F for 15 minutes, until the bottoms are lightly golden and the pieces release easily from the pan.",
-      "title": "Roast the roots"
-    },
-    {
-      "body": "Toss the halved Brussels sprouts with the remaining 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and the rest of the pepper. Push the roots to one side and add the sprouts cut-side down, then return the pan to the oven.",
-      "title": "Add the sprouts"
-    },
-    {
-      "body": "Roast at 425°F for another 18 to 22 minutes, until the sprouts are deep golden brown at the edges and a parsnip pierces easily with a knife. Stir once halfway through for even browning.",
-      "title": "Roast till caramelized"
-    },
-    {
-      "body": "Whisk the maple syrup with the remaining 1 tablespoon melted butter and the thyme leaves. Drizzle over the hot vegetables, toss gently to coat, then roast 5 more minutes at 425°F until the glaze bubbles and clings.",
-      "title": "Glaze"
-    },
-    {
-      "body": "While the vegetables finish, toast the chopped pecans in a dry skillet over medium heat for 3 to 4 minutes, stirring often, until fragrant and one shade darker. Move the vegetables to a warm platter, scatter the pecans and thyme sprigs over the top, and serve right away while the glaze is still glossy.",
-      "title": "Toast the pecans and serve"
-    }
-  ],
-  "story": "A sheet-pan Thanksgiving medley — sturdy roots roasted first, quicker sprouts joining late so nothing turns to mush, finished with a maple-butter glaze and toasted pecans. Kelly hasn't cooked this one yet.",
-  "summary": "Sweet potatoes, carrots, and parsnips roasted first at high heat, Brussels sprouts joining late, finished with a maple-butter glaze and toasted pecans.",
-  "title": "Ember Roasted Root Vegetables",
-  "wood": "Pantry"
-},
-{
-  "difficulty": "weeknight",
-  "finish": "Cream thickened and clinging, parmesan melted, serve hot",
-  "hours": {
-    "max": 0.5,
-    "min": 0.25
+    "image": "/images/poblano-creamed-corn.jpg",
+    "ingredients": [
+      {
+        "group": "Creamed corn",
+        "items": [
+          "2 tablespoons butter",
+          "1 poblano, roasted, peeled, seeded and diced",
+          "1 small to medium red onion, diced",
+          "1 tablespoon minced garlic",
+          "2 cups corn kernels",
+          "1 cup heavy cream",
+          "Just a sprinkle of Wondra flour (about 1/4 teaspoon regular all-purpose flour to substitute)",
+          "1/4 cup shredded parmesan, plus some to garnish",
+          "Lightly chopped cilantro, for garnish"
+        ]
+      }
+    ],
+    "pitTemp": "Stovetop",
+    "proTips": [
+      {
+        "text": "Wondra flour works best here for thickening without lumps — about 1/4 teaspoon of regular flour does the job if you don't have it.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Frozen corn kernels work fine — that's the point of this one, it's never more than a few minutes from the dinner table. Fresh corn cut off the cob is good too when it's around.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "4",
+    "slug": "poblano-creamed-corn",
+    "steps": [
+      {
+        "body": "Roast the poblano over a gas flame or on a tray in the oven until the skin is blackened, then put it in a paper bag or a resealable dish for 10–15 minutes. Peel the blackened skin off, take the seeds out, and dice it. Roasting over a flame gives it a better flavor and leaves little flecks of char in the dish.",
+        "title": "Roast the poblano"
+      },
+      {
+        "body": "Sauté the onion, poblanos, and garlic in the butter in a skillet over medium to medium-high heat.",
+        "title": "Sauté"
+      },
+      {
+        "body": "Add in the corn and cook until it starts to brown, about 3–4 minutes.",
+        "title": "Add the corn"
+      },
+      {
+        "body": "Add in the cream, stir, and allow it to come to a boil. Sprinkle in the flour while stirring. After it begins to thicken, add in the parmesan and continue to stir and cook until the parmesan is melted.",
+        "title": "Cream and thicken"
+      },
+      {
+        "body": "Put it into a dish, garnish with more parmesan and cilantro, and serve hot beside the barbecue.",
+        "title": "Serve"
+      }
+    ],
+    "story": "Melissa Cookston's signature side from Memphis BBQ Co. — roasted poblanos, sweet corn, and cream, finished with parmesan. She grew up in Mississippi, where creamed corn graced many a dinner table, and poblanos are the mild chile she reaches for most. Kelly hasn't cooked this one yet.",
+    "summary": "Roasted poblanos, sweet corn, and cream, thickened and finished with parmesan — Melissa Cookston's signature Memphis BBQ Co. side.",
+    "title": "Poblano Creamed Corn",
+    "wood": "Pantry"
   },
-  "image": "/images/poblano-creamed-corn.jpg",
-  "ingredients": [
-    {
-      "group": "Creamed corn",
-      "items": [
-        "2 tablespoons butter",
-        "1 poblano, roasted, peeled, seeded and diced",
-        "1 small to medium red onion, diced",
-        "1 tablespoon minced garlic",
-        "2 cups corn kernels",
-        "1 cup heavy cream",
-        "Just a sprinkle of Wondra flour (about 1/4 teaspoon regular all-purpose flour to substitute)",
-        "1/4 cup shredded parmesan, plus some to garnish",
-        "Lightly chopped cilantro, for garnish"
-      ]
-    }
-  ],
-  "pitTemp": "Stovetop",
-  "proTips": [
-    {
-      "text": "Wondra flour works best here for thickening without lumps — about 1/4 teaspoon of regular flour does the job if you don't have it.",
-      "voice": "Kelly"
+  {
+    "difficulty": "weeknight",
+    "finish": "Crisp and golden brown on both sides, serve hot",
+    "hours": {
+      "max": 0.5,
+      "min": 0.25
     },
-    {
-      "text": "Frozen corn kernels work fine — that's the point of this one, it's never more than a few minutes from the dinner table. Fresh corn cut off the cob is good too when it's around.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "sides",
-  "region": "backyard",
-  "school": null,
-  "servings": "4",
-  "slug": "poblano-creamed-corn",
-  "steps": [
-    {
-      "body": "Roast the poblano over a gas flame or on a tray in the oven until the skin is blackened, then put it in a paper bag or a resealable dish for 10–15 minutes. Peel the blackened skin off, take the seeds out, and dice it. Roasting over a flame gives it a better flavor and leaves little flecks of char in the dish.",
-      "title": "Roast the poblano"
-    },
-    {
-      "body": "Sauté the onion, poblanos, and garlic in the butter in a skillet over medium to medium-high heat.",
-      "title": "Sauté"
-    },
-    {
-      "body": "Add in the corn and cook until it starts to brown, about 3–4 minutes.",
-      "title": "Add the corn"
-    },
-    {
-      "body": "Add in the cream, stir, and allow it to come to a boil. Sprinkle in the flour while stirring. After it begins to thicken, add in the parmesan and continue to stir and cook until the parmesan is melted.",
-      "title": "Cream and thicken"
-    },
-    {
-      "body": "Put it into a dish, garnish with more parmesan and cilantro, and serve hot beside the barbecue.",
-      "title": "Serve"
-    }
-  ],
-  "story": "Melissa Cookston's signature side from Memphis BBQ Co. — roasted poblanos, sweet corn, and cream, finished with parmesan. She grew up in Mississippi, where creamed corn graced many a dinner table, and poblanos are the mild chile she reaches for most. Kelly hasn't cooked this one yet.",
-  "summary": "Roasted poblanos, sweet corn, and cream, thickened and finished with parmesan — Melissa Cookston's signature Memphis BBQ Co. side.",
-  "title": "Poblano Creamed Corn",
-  "wood": "Pantry"
-},
-{
-  "difficulty": "weeknight",
-  "finish": "Crisp and golden brown on both sides, serve hot",
-  "hours": {
-    "max": 0.5,
-    "min": 0.25
+    "image": "/images/fried-green-tomatoes.jpg",
+    "ingredients": [
+      {
+        "group": "Tomatoes and breading",
+        "items": [
+          "4 large green tomatoes",
+          "2 large eggs",
+          "1/2 cup milk",
+          "1 cup all-purpose flour",
+          "1/2 cup cornmeal",
+          "1/2 cup bread crumbs",
+          "2 teaspoons coarse kosher salt",
+          "1/4 teaspoon ground black pepper",
+          "1 quart vegetable oil, for frying"
+        ]
+      }
+    ],
+    "pitTemp": "Cast-iron fry",
+    "proTips": [
+      {
+        "text": "Don't crowd the pan — fry in batches or the crust steams instead of crisps.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Drain them on a cooling rack set over paper towels so the bottoms stay crisp instead of going soggy.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Serve them right away while they're hot and crisp — they go soft if they sit.",
+        "voice": "Kelly"
+      }
+    ],
+    "protein": "sides",
+    "region": "backyard",
+    "school": null,
+    "servings": "4",
+    "slug": "fried-green-tomatoes",
+    "steps": [
+      {
+        "body": "Slice the tomatoes 1/2-inch thick. Discard the ends.",
+        "title": "Slice"
+      },
+      {
+        "body": "Whisk the eggs and milk together in a medium bowl. Scoop the flour onto a plate. Mix the cornmeal, bread crumbs, salt, and pepper on another plate.",
+        "title": "Set up the breading"
+      },
+      {
+        "body": "Dip each tomato slice into the flour to coat, then into the milk and egg mixture, then dredge in the bread crumb mixture to completely coat. Keep the flour coating thin — you want to see a hint of skin underneath for the crispiest crust.",
+        "title": "Dredge"
+      },
+      {
+        "body": "Heat the oil in a large deep skillet to 375°F. Place the tomatoes in the hot oil in batches of 4 or 5 so they don't touch, and fry until crisp and golden brown on one side, then flip and fry the other side.",
+        "title": "Fry"
+      },
+      {
+        "body": "Move the fried tomatoes to a paper towel-lined plate to drain. Serve hot and enjoy — plain, or with a remoulade, honey mustard, or sweet chili sauce for dipping.",
+        "title": "Drain and serve"
+      }
+    ],
+    "story": "Allrecipes' most-loved fried green tomatoes — Diana Swenson-Siegel's classic, tested by the Allrecipes Test Kitchen: flour, egg and milk, then cornmeal and bread crumbs, fried crisp in a skillet. Kelly hasn't cooked this one yet.",
+    "summary": "Sliced unripe tomatoes dredged in flour and cornmeal, then skillet-fried to buttery-brown perfection — crisp outside, tender and juicy inside.",
+    "title": "Fried Green Tomatoes",
+    "wood": "Pantry"
   },
-  "image": "/images/fried-green-tomatoes.jpg",
-  "ingredients": [
-    {
-      "group": "Tomatoes and breading",
-      "items": [
-        "4 large green tomatoes",
-        "2 large eggs",
-        "1/2 cup milk",
-        "1 cup all-purpose flour",
-        "1/2 cup cornmeal",
-        "1/2 cup bread crumbs",
-        "2 teaspoons coarse kosher salt",
-        "1/4 teaspoon ground black pepper",
-        "1 quart vegetable oil, for frying"
-      ]
-    }
-  ],
-  "pitTemp": "Cast-iron fry",
-  "proTips": [
-    {
-      "text": "Don't crowd the pan — fry in batches or the crust steams instead of crisps.",
-      "voice": "Kelly"
+  {
+    "difficulty": "weekend",
+    "finish": "Deep amber glaze, peach and apple pie spice on the nose, pull at 140°F.",
+    "hours": {
+      "max": 4.5,
+      "min": 4
     },
-    {
-      "text": "Drain them on a cooling rack set over paper towels so the bottoms stay crisp instead of going soggy.",
-      "voice": "Kelly"
-    },
-    {
-      "text": "Serve them right away while they're hot and crisp — they go soft if they sit.",
-      "voice": "Kelly"
-    }
-  ],
-  "protein": "sides",
-  "region": "backyard",
-  "school": null,
-  "servings": "4",
-  "slug": "fried-green-tomatoes",
-  "steps": [
-    {
-      "body": "Slice the tomatoes 1/2-inch thick. Discard the ends.",
-      "title": "Slice"
-    },
-    {
-      "body": "Whisk the eggs and milk together in a medium bowl. Scoop the flour onto a plate. Mix the cornmeal, bread crumbs, salt, and pepper on another plate.",
-      "title": "Set up the breading"
-    },
-    {
-      "body": "Dip each tomato slice into the flour to coat, then into the milk and egg mixture, then dredge in the bread crumb mixture to completely coat. Keep the flour coating thin — you want to see a hint of skin underneath for the crispiest crust.",
-      "title": "Dredge"
-    },
-    {
-      "body": "Heat the oil in a large deep skillet to 375°F. Place the tomatoes in the hot oil in batches of 4 or 5 so they don't touch, and fry until crisp and golden brown on one side, then flip and fry the other side.",
-      "title": "Fry"
-    },
-    {
-      "body": "Move the fried tomatoes to a paper towel-lined plate to drain. Serve hot and enjoy — plain, or with a remoulade, honey mustard, or sweet chili sauce for dipping.",
-      "title": "Drain and serve"
-    }
-  ],
-  "story": "Allrecipes' most-loved fried green tomatoes — Diana Swenson-Siegel's classic, tested by the Allrecipes Test Kitchen: flour, egg and milk, then cornmeal and bread crumbs, fried crisp in a skillet. Kelly hasn't cooked this one yet.",
-  "summary": "Sliced unripe tomatoes dredged in flour and cornmeal, then skillet-fried to buttery-brown perfection — crisp outside, tender and juicy inside.",
-  "title": "Fried Green Tomatoes",
-  "wood": "Pantry"
-}
+    "image": "/images/ember-apple-pie-peach-ham.jpg",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "7–9 lb bone-in spiral-cut half ham",
+          "2 Tbsp honey",
+          "1 Tbsp yellow mustard"
+        ]
+      },
+      {
+        "group": "Apple pie seasoning",
+        "items": [
+          "2 Tbsp dark brown sugar",
+          "1 Tbsp ground cinnamon",
+          "1 tsp ground nutmeg",
+          "½ tsp ground ginger"
+        ]
+      },
+      {
+        "group": "Peach caramel glaze",
+        "items": [
+          "1 cup peach preserves",
+          "¼ cup butter",
+          "¼ cup dark brown sugar",
+          "Pinch of kosher salt"
+        ]
+      },
+      {
+        "group": "The pan",
+        "items": [
+          "1 cup apple juice",
+          "Leftover apple pie seasoning"
+        ]
+      }
+    ],
+    "milestones": [
+      {
+        "hint": "Coat every spiral cut.",
+        "id": "season",
+        "label": "Seasoned"
+      },
+      {
+        "hint": "Brush it into the spirals.",
+        "id": "glaze",
+        "label": "Glazed at 132°F"
+      },
+      {
+        "hint": "Rest loose-tented 20–30 minutes.",
+        "id": "pull",
+        "label": "Pull 140°F"
+      }
+    ],
+    "pitTemp": "275°F",
+    "proTips": [
+      {
+        "text": "Glaze at 132°F so it sets up instead of burning. If you glaze too early it just slides off.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Rest it loose-tented, not wrapped tight — wrapping softens the glaze.",
+        "voice": "Rest"
+      },
+      {
+        "text": "A spiral ham is already cooked. You're heating it and smoking it, not cooking it raw — cook to temperature, not the clock.",
+        "voice": "Spiral ham"
+      }
+    ],
+    "protein": "pork",
+    "region": "backyard",
+    "school": null,
+    "servings": "10–12",
+    "slug": "ember-apple-pie-peach-ham",
+    "steps": [
+      {
+        "body": "Pat the ham dry. Stir the honey and mustard together and brush it all over the ham, down into the spirals. Mix the brown sugar, cinnamon, nutmeg, and ginger, and coat the ham top to bottom — push seasoning into the cuts. Pour the apple juice into a pan underneath and stir in any seasoning that's left.",
+        "title": "Season it"
+      },
+      {
+        "body": "Pit at 275°F over pecan and a little cherry, pan underneath. Smoke till the ham hits 132°F, about 3–3½ hours. Spritz apple juice every 20 minutes once the bark sets.",
+        "title": "Smoke it"
+      },
+      {
+        "body": "Warm the peach preserves, butter, brown sugar, and salt in a saucepan till it melts together and coats a spoon. Brush it all over the ham and down into the spirals at 132°F.",
+        "title": "Glaze it"
+      },
+      {
+        "body": "Pull at 140°F. Rest loose-tented 20–30 minutes so the glaze sets and the juices settle. Slice along the spirals and serve.",
+        "title": "Pull it and rest it"
+      }
+    ],
+    "story": "Svend Diesel's reel took apple pie ham up a notch — apple pie seasoning and a salted peach caramel glaze on a double-smoked spiral ham. This is the Ember version: our own apple pie seasoning from the pantry and a peach glaze built from preserves, butter, and brown sugar. Kelly hasn't cooked this one yet — it's written from Svend's reel, Ember-style.",
+    "summary": "Double-smoked spiral ham with apple pie seasoning and a salted peach caramel glaze. Sweet apple pie notes, rich peach caramel, and a smoky finish — stupid easy: heat, glaze, smoke, slice.",
+    "title": "Ember Apple Pie Peach Ham",
+    "wood": "Pecan and cherry"
+  }
 ]
