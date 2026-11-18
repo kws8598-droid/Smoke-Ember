@@ -12235,4 +12235,78 @@
   "finish": "165°F",
   "school": null
 }
+,
+{
+  "title": "Ember Scotcheroos",
+  "slug": "ember-scotcheroos",
+  "region": "backyard",
+  "protein": "desserts",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 1.25,
+    "max": 1.5
+  },
+  "servings": "12",
+  "wood": "Pantry",
+  "summary": "Justine's Kitchen's grandma's scotcheroos — peanut butter Rice Krispies cups with a chocolate-butterscotch top, no marshmallows, chilled till set.",
+  "story": "From Justine's Kitchen's July 2026 Short — she learned it from her grandma and calls it a game changer. Ember-style, amounts as shown in the video. Kelly hasn't cooked it yet.",
+  "ingredients": [
+    {
+      "group": "The cups",
+      "items": [
+        "8 oz creamy peanut butter (half a 16 oz jar)",
+        "1/2 cup corn syrup",
+        "1/2 cup cane sugar",
+        "6 cups crispy rice cereal"
+      ]
+    },
+    {
+      "group": "The topping",
+      "items": [
+        "1/2 cup milk chocolate chips",
+        "1/2 cup butterscotch chips"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the peanut butter",
+      "body": "Put half a jar of creamy peanut butter in a saucepan over medium heat. Add 1/2 cup corn syrup and about 1/2 cup cane sugar. Stir until the sugar has dissolved and the mixture is nice and bubbly, then set it aside."
+    },
+    {
+      "title": "Mix the cups",
+      "body": "Put 6 cups of crispy rice cereal in a large bowl and pour the whole peanut butter mixture over it. Mix until combined — the cereal turns light brown."
+    },
+    {
+      "title": "Shape the cups",
+      "body": "Scoop the mixture into each cup of a greased muffin pan. Press a shot glass into each cup to make a small divot."
+    },
+    {
+      "title": "Melt the topping",
+      "body": "Combine 1/2 cup milk chocolate chips and 1/2 cup butterscotch chips in a microwave-safe measuring cup. Microwave in 30-second bursts, stirring between, until fully melted. Fill each divot with the melted mixture."
+    },
+    {
+      "title": "Chill and serve",
+      "body": "Refrigerate at least 1 hour, then serve."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "No marshmallows in this one — unlike the classic pan scotcheroo, the peanut butter and corn syrup are the whole binder.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Grease the muffin pan well or the cups will stick.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Chill the full hour or the chocolate-butterscotch top won't set.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-scotcheroos.jpg",
+  "pitTemp": "Stovetop + microwave",
+  "finish": "Topping set, chilled 1 hour",
+  "school": null
+}
 ]
