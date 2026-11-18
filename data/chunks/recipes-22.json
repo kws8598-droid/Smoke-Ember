@@ -11688,5 +11688,91 @@
   "summary": "A whole cauliflower head rubbed with a smoky paprika marinade and slow-smoked till the outside crusts and the inside goes soft and tender.",
   "title": "Ember Whole Smoked Cauliflower",
   "wood": "Apple or hickory"
+},
+{
+  "difficulty": "weeknight",
+  "finish": "Deep golden edges, a parsnip pierces easy with a knife, glaze bubbling and clinging",
+  "hours": {
+    "max": 1,
+    "min": 0.75
+  },
+  "image": "/images/ember-roasted-root-vegetables.jpg",
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "items": [
+        "1 lb sweet potatoes, peeled and cut into 1-inch cubes",
+        "1 lb Brussels sprouts, trimmed and halved lengthwise",
+        "12 oz carrots, peeled and cut into 1-inch chunks",
+        "10 oz parsnips, peeled and cut into 1-inch chunks"
+      ]
+    },
+    {
+      "group": "Seasoning and glaze",
+      "items": [
+        "3 tablespoons unsalted butter, melted",
+        "2 tablespoons pure maple syrup",
+        "2 tablespoons olive oil",
+        "1 1/2 teaspoons kosher salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 tablespoon fresh thyme leaves, plus sprigs for garnish",
+        "1/2 cup pecan halves, roughly chopped"
+      ]
+    }
+  ],
+  "pitTemp": "Oven 425°F",
+  "proTips": [
+    {
+      "text": "Cut everything the same size — uneven chunks mean burnt edges and raw centers. Take the extra five minutes to dice to roughly 1 inch.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Don't crowd the pan or the vegetables steam instead of roast. Use two sheet pans if yours is smaller than 18 by 13 inches.",
+      "voice": "Kelly"
+    },
+    {
+      "text": "Glaze at the end, not the start — maple syrup burns at high heat, so it goes on for the last 5 minutes only.",
+      "voice": "Kelly"
+    }
+  ],
+  "protein": "sides",
+  "region": "backyard",
+  "school": null,
+  "servings": "6–8",
+  "slug": "ember-roasted-root-vegetables",
+  "steps": [
+    {
+      "body": "Heat the oven to 425°F with a rack in the upper third and put a rimmed 18-by-13-inch sheet pan inside to preheat for 10 minutes. Cut all the vegetables into even 1-inch pieces and pat them dry with paper towels.",
+      "title": "Preheat and prep"
+    },
+    {
+      "body": "In a large bowl, toss the sweet potatoes, carrots, and parsnips with 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and half the pepper until every piece is coated.",
+      "title": "Season the roots"
+    },
+    {
+      "body": "Pull the hot pan from the oven, spread the root vegetables in a single layer, and roast at 425°F for 15 minutes, until the bottoms are lightly golden and the pieces release easily from the pan.",
+      "title": "Roast the roots"
+    },
+    {
+      "body": "Toss the halved Brussels sprouts with the remaining 1 tablespoon olive oil, 1 tablespoon melted butter, 3/4 teaspoon salt, and the rest of the pepper. Push the roots to one side and add the sprouts cut-side down, then return the pan to the oven.",
+      "title": "Add the sprouts"
+    },
+    {
+      "body": "Roast at 425°F for another 18 to 22 minutes, until the sprouts are deep golden brown at the edges and a parsnip pierces easily with a knife. Stir once halfway through for even browning.",
+      "title": "Roast till caramelized"
+    },
+    {
+      "body": "Whisk the maple syrup with the remaining 1 tablespoon melted butter and the thyme leaves. Drizzle over the hot vegetables, toss gently to coat, then roast 5 more minutes at 425°F until the glaze bubbles and clings.",
+      "title": "Glaze"
+    },
+    {
+      "body": "While the vegetables finish, toast the chopped pecans in a dry skillet over medium heat for 3 to 4 minutes, stirring often, until fragrant and one shade darker. Move the vegetables to a warm platter, scatter the pecans and thyme sprigs over the top, and serve right away while the glaze is still glossy.",
+      "title": "Toast the pecans and serve"
+    }
+  ],
+  "story": "A sheet-pan Thanksgiving medley — sturdy roots roasted first, quicker sprouts joining late so nothing turns to mush, finished with a maple-butter glaze and toasted pecans. Kelly hasn't cooked this one yet.",
+  "summary": "Sweet potatoes, carrots, and parsnips roasted first at high heat, Brussels sprouts joining late, finished with a maple-butter glaze and toasted pecans.",
+  "title": "Ember Roasted Root Vegetables",
+  "wood": "Pantry"
 }
 ]
