@@ -12372,4 +12372,71 @@
   "finish": "Golden, baked 30 min",
   "school": null
 }
+,
+{
+  "title": "Ember Leftover Turkey and Ham Stuffing Bake",
+  "slug": "ember-leftover-turkey-ham-stuffing-bake",
+  "region": "backyard",
+  "protein": "poultry",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.25,
+    "max": 0.5
+  },
+  "servings": "8",
+  "wood": "Pantry",
+  "summary": "Thanksgiving leftovers, cordon bleu style — leftover turkey and ham under cream of chicken soup and Swiss, with wet stuffing fluffed up on top, baked uncovered till hot through and the top is toasted.",
+  "story": "From seanyboycooks' September 2026 Short, his chicken cordon bleu stuffing bake. Kelly's version: leftover turkey and ham from Thanksgiving in place of the rotisserie chicken and deli ham, the stuffing wet before it goes on and fluffed up on top, baked uncovered and shorter than the video's 40–45 minutes. Kelly hasn't cooked it yet.",
+  "ingredients": [
+    {
+      "group": "The layers",
+      "items": [
+        "3 cups leftover turkey, shredded or chopped",
+        "8 slices leftover ham",
+        "1 can cream of chicken soup (10.5 oz)",
+        "8 slices Swiss cheese"
+      ]
+    },
+    {
+      "group": "The topping",
+      "items": [
+        "1 box chicken stuffing mix",
+        "1 1/2 cups chicken or turkey broth",
+        "3 Tbsp butter, melted"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Layer the leftovers",
+      "body": "Spread 3 cups leftover turkey in the bottom of a 9x13 baking dish. Lay 8 slices of leftover ham in an even layer over the turkey, then spoon 1 can cream of chicken soup over the ham and spread it as evenly as possible. Layer 8 slices of Swiss cheese evenly over the soup, lining them up with the ham."
+    },
+    {
+      "title": "Wet the stuffing first",
+      "body": "Put the stuffing mix in a bowl and pour 1 1/2 cups broth over it. Stir and fluff it up until all of it is wet — don't leave any of it dry. Spread the wet stuffing evenly over the cheese and drizzle 3 Tbsp melted butter over the top."
+    },
+    {
+      "title": "Bake uncovered",
+      "body": "Bake uncovered at 375°F for 15–30 minutes, until everything underneath is hot through and the top is toasted. No foil — everything in the dish is already cooked, it just needs to get hot and the top to toast."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Wet the stuffing before it goes on — Kelly's rule. None of it dry on top.",
+      "voice": "bruno"
+    },
+    {
+      "text": "No foil on this one — the turkey and ham are already cooked, so it just needs to get hot and the top to toast.",
+      "voice": "bruno"
+    },
+    {
+      "text": "The soup is what keeps the leftovers from drying out in the oven.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-leftover-turkey-ham-stuffing-bake.jpg",
+  "pitTemp": "Oven 375°F",
+  "finish": "Top toasted, hot through",
+  "school": null
+}
 ]
