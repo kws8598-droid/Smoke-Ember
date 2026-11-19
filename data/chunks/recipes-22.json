@@ -12439,4 +12439,78 @@
   "finish": "Top toasted, hot through",
   "school": null
 }
+,
+{
+  "title": "Ember Canned Venison",
+  "slug": "ember-canned-venison",
+  "region": "kentucky",
+  "protein": "venison",
+  "difficulty": "weekend",
+  "hours": {
+    "min": 2,
+    "max": 3.5
+  },
+  "servings": "8 pints",
+  "wood": "Pantry",
+  "summary": "Cubed venison raw-packed in jars with a bouillon cube and a pinch of salt, pressure-canned the old-fashioned way so the hunt lasts all year.",
+  "story": "From Allen Hochstatter's November 2026 post in the Deer Processing group — canned venison, the old-fashioned way of preserving the hunt, before home freezers were common and families put venison up in jars. The times and pressures follow the USDA tables Allen points to. Kelly hasn't canned venison this way yet.",
+  "ingredients": [
+    {
+      "group": "Venison",
+      "items": [
+        "8 lb fresh venison, trimmed and cut into 1-inch cubes"
+      ]
+    },
+    {
+      "group": "Per jar",
+      "items": [
+        "1 beef bouillon cube",
+        "1/2 tsp salt per pint or 1 tsp per quart, optional"
+      ]
+    },
+    {
+      "group": "Canning",
+      "items": [
+        "Canning jars and new lids",
+        "Pressure canner, weighted or dial gauge"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Trim and cube",
+      "body": "Trim the excess fat and silver skin off the venison and cut it into 1-inch cubes."
+    },
+    {
+      "title": "Pack the jars raw",
+      "body": "Pack the raw cubes loosely into clean jars, leaving 1 inch of headspace. Drop in one beef bouillon cube per jar and the salt if you're using it. Add NO liquid — a raw pack makes its own. Wipe the jar rims clean and set new lids on."
+    },
+    {
+      "title": "Vent and process",
+      "body": "Load the canner the way its manual says and vent steam for 10 minutes. Bring it to pressure: weighted gauge 10 lb up to 1,000 ft or 15 lb above that; dial gauge 11 lb up to 2,000 ft. Your time starts once the weight starts rocking or jiggling, not when the canner goes on the heat. Pints 75 minutes, quarts 90 minutes."
+    },
+    {
+      "title": "Cool and check the seals",
+      "body": "Let the pressure drop to zero on its own before you open the canner. Set the jars out and let them cool 12 to 24 hours, then check every seal, wipe the jars down, label them, and put them on the shelf."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Pressure canner only — never water-bath meat. Venison is low-acid, and only a pressure canner gets hot enough to kill botulism spores.",
+      "voice": "bruno"
+    },
+    {
+      "text": "The pressure depends on YOUR elevation, not Allen's. He's at about 906 feet in Minnesota on a weighted gauge at 10 lb — check the USDA table for your own altitude before you run a batch.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Time starts when the weight starts rocking, not when the canner goes on the heat.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-canned-venison.jpg",
+  "pitTemp": "Pressure canner",
+  "finish": "Sealed and shelf-stable",
+  "school": null
+}
 ]
