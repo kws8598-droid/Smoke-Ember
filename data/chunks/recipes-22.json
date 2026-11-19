@@ -12513,4 +12513,96 @@
   "finish": "Sealed and shelf-stable",
   "school": null
 }
+,
+{
+  "title": "Ember Carrot Cake Muffins",
+  "slug": "ember-carrot-cake-muffins",
+  "region": "backyard",
+  "protein": "desserts",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.5,
+    "max": 0.75
+  },
+  "servings": "12",
+  "wood": "Pantry",
+  "pitTemp": "Oven 350°F",
+  "finish": "Toothpick clean, frosted",
+  "summary": "Moist, warmly spiced carrot cake muffins with brown sugar and walnuts, finished with a smooth cream cheese frosting.",
+  "story": "Rime Elb shared these in the Old Fashioned Recipes group, and the full recipe comes from Janet Miller. The graphic cuts the amounts off — the flour reads like eleven cups — so the numbers here are the ones from her page. I haven't baked these yet; they're written up as she wrote them.",
+  "ingredients": [
+    {
+      "group": "The muffins",
+      "items": [
+        "1 1/2 cups all-purpose flour",
+        "3/4 cup packed brown sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 tsp ground cinnamon",
+        "1/2 tsp ground nutmeg",
+        "2 large eggs",
+        "1/2 cup vegetable oil",
+        "1 tsp vanilla extract",
+        "2 cups finely grated carrots",
+        "1/2 cup chopped walnuts"
+      ]
+    },
+    {
+      "group": "The frosting",
+      "items": [
+        "4 oz cream cheese, softened",
+        "2 Tbsp unsalted butter, softened",
+        "1 cup powdered sugar",
+        "1/2 tsp vanilla extract"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "body": "Preheat your oven to 350°F and line a 12-cup muffin pan with paper liners. Get this going first so the oven is fully up to temperature before your batter is ready."
+    },
+    {
+      "title": "Mix the dry",
+      "body": "In a large bowl, whisk together the flour, brown sugar, baking powder, baking soda, salt, cinnamon, and nutmeg. Break up any lumps of brown sugar as you go."
+    },
+    {
+      "title": "Mix the wet",
+      "body": "In a separate bowl, whisk the 2 eggs, 1/2 cup vegetable oil, and 1 tsp vanilla extract until the mixture looks uniform."
+    },
+    {
+      "title": "Bring it together — gently",
+      "body": "Pour the wet ingredients into the dry and stir gently. Stop as soon as the dry flour disappears — the batter will look a little rough and that is fine. Fold in the 2 cups of grated carrots and 1/2 cup chopped walnuts with a spatula, using slow, deliberate strokes. Do not stir."
+    },
+    {
+      "title": "Bake",
+      "body": "Divide the batter evenly among the 12 muffin cups, filling each about 3/4 full. Bake 18-22 minutes. Start checking at 18 minutes — a toothpick in the center should come out clean or with a dry crumb or two. A wet smear means they need more time."
+    },
+    {
+      "title": "Cool, then frost",
+      "body": "Let the muffins cool in the pan for 5 minutes, then move them to a wire rack. They must be completely cool before frosting, or the cream cheese will melt and slide right off. Beat the softened cream cheese and butter together until completely smooth, about 2 minutes. Add the powdered sugar and vanilla and beat again until creamy. Spread or pipe it over the cooled muffins and sprinkle with extra chopped walnuts if you like."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Do not overmix. Once the wet meets the dry, a few stirs are all you need — keep going and you build gluten, which makes the muffins tough and dense instead of tender.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Grate your own carrots on the fine holes of a box grater, right before you mix. Pre-shredded carrots from a bag are too thick and too dry, and they don't break down in the bake.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Use the toothpick test, not the timer. Ovens vary — pull the muffins as soon as the toothpick comes out clean, because even a few extra minutes can push them from moist to dry.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Frosted muffins keep in the fridge in an airtight container up to 4 days. Unfrosted, they keep on the counter 2 days or in the fridge 5 days — frost them as you eat them.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-carrot-cake-muffins.jpg",
+  "school": null
+}
 ]
