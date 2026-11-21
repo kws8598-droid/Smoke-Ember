@@ -12754,5 +12754,76 @@
   ],
   "image": "/images/ember-grandpa-waltons-pumpkin-pecan-pie.jpg",
   "school": null
+},
+{
+  "title": "Ember Southern Fried Potatoes and Onions",
+  "slug": "ember-southern-fried-potatoes-and-onions",
+  "region": "southern",
+  "protein": "sides",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.33,
+    "max": 0.5
+  },
+  "servings": "4",
+  "wood": "Pantry",
+  "pitTemp": "Cast-iron skillet",
+  "finish": "Golden brown and crispy outside, soft inside, onions soft and caramelized",
+  "summary": "Crispy golden Yukon Golds fried in a cast-iron skillet with big pieces of sweet onion — salt and pepper, nothing else. The base every southerner starts from.",
+  "story": "Every southerner needs fried potatoes and onions, and this is the base to start from — Yukon Golds, oil, salt and pepper, big pieces of onion, fried in a cast-iron skillet till crispy. Built from the highest-rated version out there. Garlic powder, paprika, bell pepper, bacon, rosemary — all of that is yours to add after the potatoes are going. Kelly sometimes adds rosemary himself.",
+  "ingredients": [
+    {
+      "group": "The potatoes",
+      "items": [
+        "2 lb Yukon Gold potatoes, cut into 1/2-inch cubes, skin on",
+        "1 medium onion (yellow, white, or sweet), cut into big pieces",
+        "3 Tbsp oil, any neutral high-heat oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep the potatoes",
+      "body": "Dice the Yukon Golds into 1/2-inch cubes, skin on — no need to peel them. Dry them well with a clean towel. Wet potatoes in a hot skillet will splatter."
+    },
+    {
+      "title": "Prep the onion",
+      "body": "Cut the onion into big pieces, not thin slices."
+    },
+    {
+      "title": "Fry the potatoes",
+      "body": "Heat a cast-iron skillet over medium heat and add the oil. When it's shimmering, add the potatoes in a single layer. Let them cook undisturbed about 3 minutes, then stir every 2 minutes for 6–8 minutes until mostly golden brown on all sides."
+    },
+    {
+      "title": "Add the onions",
+      "body": "Stir in the big onion pieces and season with salt and pepper. Lower the heat a little and cook about 5 minutes more until the onions are soft and the potatoes are crispy all over. Sometimes they need a few extra minutes — give them time, don't rush the crisp."
+    },
+    {
+      "title": "Serve",
+      "body": "Serve warm, straight from the skillet."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Don't crowd the pan — spread the potatoes out in a single layer so they crisp instead of steam. Use the biggest skillet you've got.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Let them sit undisturbed — patience is what makes the crust. Stirring too much keeps them pale.",
+      "voice": "bruno"
+    },
+    {
+      "text": "This is the base — garlic powder, paprika, bell pepper, bacon, cheese, rosemary, whatever you like, add it after the potatoes are going. Kelly sometimes adds rosemary himself.",
+      "voice": "bruno"
+    },
+    {
+      "text": "If you've got the time, a 15-minute soak in cold water pulls starch out of the potatoes and gets them even crispier — just dry them well before they hit the skillet.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-southern-fried-potatoes-and-onions.jpg",
+  "school": null
 }
 ]
