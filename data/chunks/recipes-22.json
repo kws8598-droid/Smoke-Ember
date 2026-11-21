@@ -1916,9 +1916,14 @@
         ]
       },
       {
-        "group": "The spritz & glaze",
+        "group": "The spritz",
         "items": [
-          "1 batch Ember Cherry Dr Pepper Spritz",
+          "1 batch Ember Cherry Dr Pepper Spritz"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
           "12 oz cherry Dr Pepper",
           "1/4 cup brown sugar",
           "1 Tbsp butter"
