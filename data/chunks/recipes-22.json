@@ -12682,5 +12682,77 @@
   ],
   "image": "/images/ember-candied-mixed-nuts.jpg",
   "school": null
+},
+{
+  "title": "Ember Grandpa Walton's Pumpkin Pecan Pie",
+  "slug": "ember-grandpa-waltons-pumpkin-pecan-pie",
+  "region": "backyard",
+  "protein": "desserts",
+  "difficulty": "weekend",
+  "hours": {
+    "min": 1,
+    "max": 1.25
+  },
+  "servings": "8",
+  "wood": "Pantry",
+  "pitTemp": "Oven 350°F",
+  "finish": "Set at the edges, knife comes out clean 1 inch from the edge",
+  "summary": "A pecan pie with a cup of pumpkin in it — Will Geer's favorite Thanksgiving pie, pecans on the bottom, whipped cream on top.",
+  "story": "Will Geer, Grandpa Walton himself, called this \"the best Thanksgiving pie I ever had anywhere.\" Born in Frankfort, Indiana, he spent near 50 years performing in tent shows and on riverboats before starting his own repertory company in 1924 — and somewhere along the way, somebody served him a Thanksgiving pie so good he demanded the recipe. Kelly hasn't made this one yet — it's on his Thanksgiving table this year, written up as the old clipping reads.",
+  "ingredients": [
+    {
+      "group": "The pie",
+      "items": [
+        "1 9-inch unbaked piecrust",
+        "3 eggs",
+        "1 cup dark corn syrup",
+        "1/2 cup sugar",
+        "1/4 cup melted margarine",
+        "1 cup canned pumpkin",
+        "1 teaspoon vanilla",
+        "1 cup pecan halves"
+      ]
+    },
+    {
+      "group": "To serve",
+      "items": [
+        "Whipped cream"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get the oven ready",
+      "body": "Preheat the oven to 350°F and prepare the piecrust."
+    },
+    {
+      "title": "Beat the filling",
+      "body": "With a hand beater or wire whisk, beat the eggs well. Beat in the corn syrup, sugar, melted margarine, pumpkin, and vanilla until well blended."
+    },
+    {
+      "title": "Pecans on the bottom",
+      "body": "Arrange the pecan halves in the bottom of the piecrust. Slowly pour the egg mixture over them."
+    },
+    {
+      "title": "Bake",
+      "body": "Bake for 1 hour, or until a knife inserted 1 inch from the edge comes out clean."
+    },
+    {
+      "title": "Cool and serve",
+      "body": "Let it cool, then serve with good old whipped cream."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "The pecans go on the bottom, not stirred in — they float up into the top as it bakes and set into the crust of the pie.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Don't skip the cool — the filling needs to set before you slice it.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-grandpa-waltons-pumpkin-pecan-pie.jpg",
+  "school": null
 }
 ]
