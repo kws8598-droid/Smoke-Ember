@@ -12604,5 +12604,78 @@
   ],
   "image": "/images/ember-carrot-cake-muffins.jpg",
   "school": null
+},
+{
+  "title": "Ember Candied Mixed Nuts",
+  "slug": "ember-candied-mixed-nuts",
+  "region": "backyard",
+  "protein": "desserts",
+  "difficulty": "weeknight",
+  "hours": {
+    "min": 0.75,
+    "max": 1
+  },
+  "servings": "10",
+  "wood": "Cherry, a little",
+  "pitTemp": "Smoker 250°F",
+  "finish": "Crisp, browned, cooled",
+  "summary": "Brown sugar, vanilla, and a pinch of cinnamon on a mix of pecans, cashews, and almonds — smoked low and slow with a little cherry wood till crisp.",
+  "story": "This one starts from the most-reviewed candied pecans recipe anywhere — a pound of nuts, egg white, sugar, and spice, baked low and slow. Kelly's version trades the oven for the smoker with a little cherry wood, and mixes pecans, cashews, and almonds instead of pecans alone. Brown sugar and vanilla carry the flavor, with just a pinch of cinnamon. I have not cooked these yet; they are written up as the recipe reads.",
+  "ingredients": [
+    {
+      "group": "The mix",
+      "items": [
+        "1 lb mixed nuts — pecan halves, cashews, and almonds",
+        "1/2 cup white sugar",
+        "1/2 cup light brown sugar, packed",
+        "1 pinch ground cinnamon",
+        "1/2 tsp salt",
+        "1 large egg white",
+        "1 tsp vanilla extract"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get the smoker going",
+      "body": "Get the smoker running at 250°F with a little cherry wood, and line a rimmed baking sheet with parchment."
+    },
+    {
+      "title": "Mix the sugar and spice",
+      "body": "In a small bowl, stir together the white sugar, brown sugar, pinch of cinnamon, and salt."
+    },
+    {
+      "title": "Whisk the egg white",
+      "body": "In a large bowl, whisk the egg white and vanilla until frothy."
+    },
+    {
+      "title": "Coat the nuts",
+      "body": "Toss the mixed nuts in the egg white mixture to coat, then slowly pour in the sugar mixture and stir until the nuts are evenly coated."
+    },
+    {
+      "title": "Smoke them low and slow",
+      "body": "Spread the nuts in a single layer on the baking sheet and set it in the smoker. Smoke at 250°F, stirring every 15 minutes, until evenly browned and crisp — about an hour."
+    },
+    {
+      "title": "Cool till crisp",
+      "body": "Let them cool completely on the pan. They crisp up as they cool — do not judge them hot."
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Stir every 15 minutes so the coating sets even and nothing sticks to the pan.",
+      "voice": "bruno"
+    },
+    {
+      "text": "Let them cool all the way on the pan — they crisp up as they cool.",
+      "voice": "bruno"
+    },
+    {
+      "text": "An airtight jar at room temperature keeps them a week, the fridge three weeks, the freezer two months.",
+      "voice": "bruno"
+    }
+  ],
+  "image": "/images/ember-candied-mixed-nuts.jpg",
+  "school": null
 }
 ]
