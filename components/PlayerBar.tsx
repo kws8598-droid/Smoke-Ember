@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 
 const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
 const PODCAST_EMBED = "https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504";
+const MOUNTAIN_DEW_EMBED = "https://www.youtube.com/embed/x81du4NMHZ0";
 
 // A single persistent player that lives in the site layout, so it keeps
 // playing while you click between pages (the layout does not remount on
@@ -15,6 +16,7 @@ export default function PlayerBar() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [radioPlaying, setRadioPlaying] = useState(false);
   const [podcastOpen, setPodcastOpen] = useState(false);
+  const [songOpen, setSongOpen] = useState(false);
   const [showChristmas, setShowChristmas] = useState(false);
 
   useEffect(() => {
@@ -53,6 +55,17 @@ export default function PlayerBar() {
           title="HowToBBQRight Podcast"
         />
       </div>
+      <div className={`mx-auto max-w-6xl px-4 ${songOpen ? "" : "h-0 overflow-hidden"}`}>
+        <iframe
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+          frameBorder="0"
+          height="315"
+          src={MOUNTAIN_DEW_EMBED}
+          className="w-full rounded-t-2xl border border-white/10 border-b-0 bg-bark"
+          title="Mountain Dew — The Stanley Brothers"
+        />
+      </div>
       <div className="border-t border-white/10 bg-ink/95 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-2 px-4 py-3">
           {showChristmas && (
@@ -72,6 +85,14 @@ export default function PlayerBar() {
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
             HowToBBQRight Podcast {podcastOpen ? "▲" : "▼"}
+          </button>
+          <button
+            type="button"
+            onClick={() => setSongOpen((o) => !o)}
+            aria-label="Show or hide the Mountain Dew song player"
+            className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
+          >
+            Mountain Dew — Stanley Brothers {songOpen ? "▲" : "▼"}
           </button>
           <span className="text-xs text-subtle">Streams from the stations — costs the site nothing.</span>
         </div>
