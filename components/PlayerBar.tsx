@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 
 const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
+const JAMBOREE_STREAM = "https://the-bluegrass-jamboree.radiocult.fm/stream";
 const PODCAST_EMBED = "https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504";
 const MOUNTAIN_DEW_EMBED = "https://www.youtube.com/embed/x81du4NMHZ0";
 
@@ -18,6 +19,7 @@ export default function PlayerBar() {
   const [podcastOpen, setPodcastOpen] = useState(false);
   const [songOpen, setSongOpen] = useState(false);
   const [showChristmas, setShowChristmas] = useState(false);
+  const [currentStream, setCurrentStream] = useState(CHRISTMAS_STREAM);
 
   useEffect(() => {
     // Christmas Classics is a November/December feature: it arrives with
@@ -35,11 +37,19 @@ export default function PlayerBar() {
     };
   }, []);
 
-  const toggleRadio = () => {
+  // One audio element, two stations: tapping a station plays it, tapping
+  // it again pauses, tapping the other station switches over.
+  const playStream = (url: string) => {
     const a = audioRef.current;
     if (!a) return;
-    if (a.paused) a.play().catch(() => {});
-    else a.pause();
+    if (currentStream === url) {
+      if (a.paused) a.play().catch(() => {});
+      else a.pause();
+      return;
+    }
+    setCurrentStream(url);
+    a.src = url;
+    a.play().catch(() => {});
   };
 
   return (
@@ -71,13 +81,21 @@ export default function PlayerBar() {
           {showChristmas && (
             <button
               type="button"
-              onClick={toggleRadio}
+              onClick={() => playStream(CHRISTMAS_STREAM)}
               aria-label="Play or pause Christmas Classics"
               className="inline-flex items-center rounded-full bg-ember px-4 py-2 text-sm font-semibold text-cream hover:bg-ember-hot"
             >
-              {radioPlaying ? "❚❚ Christmas Classics" : "▶ Christmas Classics"}
+              {radioPlaying && currentStream === CHRISTMAS_STREAM ? "❚❚ Christmas Classics" : "▶ Christmas Classics"}
             </button>
           )}
+          <button
+            type="button"
+            onClick={() => playStream(JAMBOREE_STREAM)}
+            aria-label="Play or pause Bluegrass Jamboree"
+            className="inline-flex items-center rounded-full bg-ember px-4 py-2 text-sm font-semibold text-cream hover:bg-ember-hot"
+          >
+            {radioPlaying && currentStream === JAMBOREE_STREAM ? "❚❚ Bluegrass Jamboree" : "▶ Bluegrass Jamboree"}
+          </button>
           <button
             type="button"
             onClick={() => setPodcastOpen((o) => !o)}
@@ -97,7 +115,7 @@ export default function PlayerBar() {
           <span className="text-xs text-subtle">Streams from the stations — costs the site nothing.</span>
         </div>
       </div>
-      <audio ref={audioRef} preload="none" src={CHRISTMAS_STREAM} onPlay={() => setRadioPlaying(true)} onPause={() => setRadioPlaying(false)} />
+      <audio ref={audioRef} preload="none" src={currentStream} onPlay={() => setRadioPlaying(true)} onPause={() => setRadioPlaying(false)} />
     </div>
   );
 }
