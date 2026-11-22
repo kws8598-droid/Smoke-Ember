@@ -6,7 +6,6 @@ const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
 const JAMBOREE_STREAM = "https://the-bluegrass-jamboree.radiocult.fm/stream";
 const PODCAST_EMBED = "https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504";
 const MOUNTAIN_DEW_EMBED = "https://www.youtube.com/embed/x81du4NMHZ0";
-const STANLEY_HITS_EMBED = "https://www.youtube.com/embed/JesyyR9qTr0";
 
 // A single persistent player that lives in the site layout, so it keeps
 // playing while you click between pages (the layout does not remount on
@@ -19,7 +18,6 @@ export default function PlayerBar() {
   const [radioPlaying, setRadioPlaying] = useState(false);
   const [podcastOpen, setPodcastOpen] = useState(false);
   const [songOpen, setSongOpen] = useState(false);
-  const [hitsOpen, setHitsOpen] = useState(false);
   const [showChristmas, setShowChristmas] = useState(false);
   const [currentStream, setCurrentStream] = useState(CHRISTMAS_STREAM);
 
@@ -78,17 +76,6 @@ export default function PlayerBar() {
           title="Mountain Dew — The Stanley Brothers"
         />
       </div>
-      <div className={`mx-auto max-w-6xl px-4 ${hitsOpen ? "" : "h-0 overflow-hidden"}`}>
-        <iframe
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-          frameBorder="0"
-          height="315"
-          src={STANLEY_HITS_EMBED}
-          className="w-full rounded-t-2xl border border-white/10 border-b-0 bg-bark"
-          title="The Best of the Stanley Brothers (Full Album)"
-        />
-      </div>
       <div className="border-t border-white/10 bg-ink/95 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-2 px-4 py-3">
           {showChristmas && (
@@ -124,14 +111,6 @@ export default function PlayerBar() {
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
             Mountain Dew — Stanley Brothers {songOpen ? "▲" : "▼"}
-          </button>
-          <button
-            type="button"
-            onClick={() => setHitsOpen((o) => !o)}
-            aria-label="Show or hide the Stanley Brothers greatest hits player"
-            className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
-          >
-            Stanley Brothers — Best of {hitsOpen ? "▲" : "▼"}
           </button>
           <span className="text-xs text-subtle">Streams from the stations — costs the site nothing.</span>
         </div>
