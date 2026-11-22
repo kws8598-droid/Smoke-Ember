@@ -12825,5 +12825,86 @@
   ],
   "image": "/images/ember-southern-fried-potatoes-and-onions.jpg",
   "school": null
-}
+},
+  {
+    "title": "Ember Pecan Pie Cobbler",
+    "slug": "ember-pecan-pie-cobbler",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1.25,
+      "max": 1.5
+    },
+    "servings": "12",
+    "wood": "Pantry",
+    "pitTemp": "Oven 425°F, then 350°F",
+    "finish": "Set in the middle, pecan halves toasted on top",
+    "summary": "Pecan pie baked like a cobbler in a 13x9 — a crust in the middle, pecan halves arranged on top, served warm with vanilla ice cream.",
+    "story": "Pillsbury's pecan pie cobbler, written up Ember-style — a pecan pie baked like a cobbler in a 13x9 pan, with a second crust in the middle and pecan halves arranged on top. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The crust",
+        "items": [
+          "1 box (14.1 oz) refrigerated Pillsbury™ Pie Crusts (2 Count)",
+          "Butter-flavor cooking spray"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "2 1/2 cups light corn syrup",
+          "2 1/2 cups packed brown sugar",
+          "1/2 cup butter, melted",
+          "4 1/2 teaspoons vanilla",
+          "6 eggs, slightly beaten",
+          "2 cups coarsely chopped pecans",
+          "2 cups pecan halves",
+          "Vanilla ice cream, if desired"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Heat the oven and grease the dish",
+        "body": "Bring the crusts to room temperature by removing the outer package and setting them on the counter for 15 minutes. Heat the oven to 425°F. Grease a 13x9-inch (3-quart) ceramic or glass baking dish with shortening or cooking spray."
+      },
+      {
+        "title": "Roll out the bottom crust",
+        "body": "Remove 1 pie crust from the pouch; unroll on the work surface. Roll into a 13x9-inch rectangle."
+      },
+      {
+        "title": "Line the dish",
+        "body": "Place the crust in the dish; trim the edges to fit."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "In a large bowl, stir the corn syrup, brown sugar, butter, vanilla, and eggs with a wire whisk. Stir in the chopped pecans. Spoon half of the filling into the crust-lined dish."
+      },
+      {
+        "title": "The middle crust goes on",
+        "body": "Remove the second pie crust from the pouch; unroll on the work surface. Roll into a 13x9-inch rectangle. Place the crust over the filling; trim the edges to fit. Spray the crust with butter-flavor cooking spray."
+      },
+      {
+        "title": "First bake, then top it",
+        "body": "Bake 14 to 16 minutes or until browned. Reduce the oven temperature to 350°F. Carefully spoon the remaining filling over the baked pastry; arrange the pecan halves on top in decorative fashion."
+      },
+      {
+        "title": "Finish and serve",
+        "body": "Bake 30 to 40 minutes longer or until set. Cool 20 minutes on a cooling rack. Serve warm with vanilla ice cream."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Serve it warm with vanilla ice cream — Pillsbury's own tip, and the cobbler earns it.",
+        "voice": "bruno"
+      },
+      {
+        "text": "The trick of this one is the middle crust — it bakes between two layers of filling, so you get pie on the bottom, cobbler on top.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-pecan-pie-cobbler.jpg",
+    "school": null
+  }
 ]
