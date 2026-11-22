@@ -12906,5 +12906,73 @@
     ],
     "image": "/images/ember-pecan-pie-cobbler.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Sweet Tea Brine",
+    "slug": "ember-sweet-tea-brine",
+    "region": "southern",
+    "protein": "sauces",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 8,
+      "max": 12
+    },
+    "servings": "Enough for 1 whole turkey, 12–14 lb",
+    "wood": "Pantry",
+    "pitTemp": "None — brine before the fire",
+    "finish": "Bird brined overnight, ready for the smoker",
+    "summary": "Malcolm Reed's sweet tea brine — a gallon of Milo's sweet tea and his Bird Brine, iced down overnight. The tea brings the sweet, the Bird Brine brings the salt.",
+    "story": "The brine from Malcolm Reed's sweet tea brined turkey — a whole bird goes into a brining bag with his Bird Brine and a full gallon of Milo's sweet tea, ices down overnight, and comes out orange-brown from the tea before it ever sees the smoker. Kelly hasn't cooked this one yet.",
+    "ingredients": [
+      {
+        "group": "The brine",
+        "items": [
+          "1 gallon Milo's Sweet Tea",
+          "Malcolm's Bird Brine Turkey & Chicken Brine (amount per the label)",
+          "Ice, to top off"
+        ]
+      },
+      {
+        "group": "The setup",
+        "items": [
+          "Brining bag",
+          "Bucket with a lid, big enough for the bird"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Bag the bird",
+        "body": "Line a bucket with a brining bag and set the turkey inside."
+      },
+      {
+        "title": "Mix the brine",
+        "body": "Add the Bird Brine, pour in the full gallon of Milo's sweet tea, and top with ice."
+      },
+      {
+        "title": "Soak overnight",
+        "body": "Seal the bag, lid on the bucket, and refrigerate overnight."
+      },
+      {
+        "title": "Out of the brine",
+        "body": "Lift the bird out, pat it completely dry inside and out, and it's ready for the rub and the smoker."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "No extra salt in this brine — the Bird Brine is the salt. The tea brings the sweet, the Bird Brine brings the salt and the seasoning.",
+        "voice": "Kelly"
+      },
+      {
+        "text": "Malcolm's tip: want the beautiful color of sweet tea without the sweetness? Use unsweetened tea instead.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The bird comes out of the brine orange-brown from the tea — that's the tea doing its work, not a problem.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-sweet-tea-brine.jpg",
+    "school": null
   }
 ]
