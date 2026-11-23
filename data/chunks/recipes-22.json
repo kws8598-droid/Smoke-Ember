@@ -12974,5 +12974,99 @@
     ],
     "image": "/images/ember-sweet-tea-brine.jpg",
     "school": null
+  },
+  {
+    "title": "Bienenstich (German Bee Sting Cake)",
+    "slug": "bienenstich",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1.25,
+      "max": 1.5
+    },
+    "servings": "10",
+    "wood": "Pantry",
+    "pitTemp": "Oven 320°F",
+    "finish": "Golden almond topping, filling set and chilled",
+    "summary": "German bee sting cake — a golden honey-almond top over soft sponge, split and filled with vanilla pudding cream. No yeast, so it comes together quicker than the classic.",
+    "story": "Kelly saved this one from My Dinner back on November 10th to hold for Christmas — a quicker take on the German bee sting cake, no yeast, honey-almond top and vanilla pudding cream in the middle. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "Vanilla pudding cream filling",
+        "items": [
+          "2 cups (500 ml) milk",
+          "2 egg yolks, medium",
+          "2/3 cup (80 g) cornstarch — or 2 packets Dr. Oetker vanilla pudding",
+          "2 tsp vanilla extract",
+          "1/2 cup (100 g) granulated sugar",
+          "1 pinch turmeric powder, optional, for colour only",
+          "4 sheets gelatin (or 1 tsp powdered gelatine)",
+          "3/4 cup (200 g) heavy / whipping cream (at least 30% fat)"
+        ]
+      },
+      {
+        "group": "Cake base",
+        "items": [
+          "4 medium eggs, room temperature",
+          "2/3 cup (120 g) granulated sugar",
+          "1 tsp vanilla extract",
+          "1 1/4 cups (150 g) all-purpose flour",
+          "1 tsp baking powder",
+          "1 tsp salt"
+        ]
+      },
+      {
+        "group": "Honey almond topping",
+        "items": [
+          "1 cup (100 g) slivered almonds",
+          "3 1/2 Tbsp (50 g) butter",
+          "1/4 cup (50 g) granulated sugar",
+          "2 Tbsp honey"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the pudding cream",
+        "body": "Heat the milk to just boiling. Whisk the cornstarch and sugar with a little of the milk and the egg yolks to a smooth paste, turmeric in here if you're using it. Stir in the vanilla, pour into the hot milk, and cook, stirring, until thick like pudding. Stir in the dissolved gelatin. Cover the surface with clingfilm and chill in the fridge."
+      },
+      {
+        "title": "Whip the cream in",
+        "body": "Whip the cream stiff. Once the pudding is cold, whisk it briefly and fold the cream in."
+      },
+      {
+        "title": "Mix the sponge",
+        "body": "Heat the oven to 320°F. Beat the eggs, sugar, vanilla, and salt until pale and fluffy. Sift in the flour and baking powder and fold it in. Grease a springform, line the base with parchment, and pour in the batter. Bake 20 minutes."
+      },
+      {
+        "title": "Top it with almonds",
+        "body": "Melt the butter, sugar, and honey, bring to a light boil, and stir in the almonds. At 20 minutes, take the cake out, spread the hot almond mixture over the top — careful, it's very hot — work fast, and put it back in the oven 15–20 more minutes until golden and a skewer comes out clean. Cool completely, then run a knife around the edges."
+      },
+      {
+        "title": "Fill it",
+        "body": "Cut the cooled cake in half horizontally. Set the bottom half in a cake ring and spread the filling over it. Pre-slice the top half into 10, just through the almond layer, BEFORE you set it on — otherwise the cream squashes out when you slice it."
+      },
+      {
+        "title": "Chill before serving",
+        "body": "Chill at least 3–4 hours before serving. It keeps 3–4 days in the fridge and freezes up to 3 months in portions."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Pre-slice the top half into 10 before you set it on the filling — cut through the almond layer only. Slice it after and the cream squashes right out.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Cover the pudding surface with clingfilm while it chills so it doesn't skin over.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The turmeric is colour only and optional — leave it out and the filling is just a paler vanilla.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/bienenstich.jpg",
+    "school": null
   }
 ]
