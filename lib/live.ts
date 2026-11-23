@@ -27,6 +27,8 @@ export function applyOverride(base: Recipe, override: Partial<Recipe> | null | u
     ...base,
     ...override,
     slug: base.slug,
+    protein: typeof override.protein === "string" && override.protein ? override.protein.toLowerCase() : base.protein,
+    region: typeof override.region === "string" && override.region ? override.region.toLowerCase() : base.region,
     hours,
     ingredients: Array.isArray(override.ingredients) ? override.ingredients : base.ingredients,
     steps: Array.isArray(override.steps) ? override.steps : base.steps,
