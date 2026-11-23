@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import TonightPicker from "@/components/TonightPicker";
+import CookCalculator from "@/components/CookCalculator";
 import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
@@ -53,11 +54,13 @@ export default function HomePage() {
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes →</Link>
               <Link href="/wisdom" className="text-sm text-parchment hover:text-cream">Cooking tips</Link>
+              <a href="#calculator" className="inline-flex h-11 items-center rounded-full border border-ember px-5 text-sm font-semibold text-cream hover:bg-ember/20">Cook calculator</a>
             </div>
           </div>
-          <div className="mb-6 flex items-center gap-7 sm:hidden">
+          <div className="mb-6 flex flex-wrap items-center gap-4 sm:hidden">
             <Link href="/recipes" className="inline-flex h-11 items-center rounded-full bg-ember px-5 text-sm text-cream hover:bg-ember-hot">See all recipes →</Link>
             <Link href="/wisdom" className="text-sm text-parchment hover:text-cream">Cooking tips</Link>
+            <a href="#calculator" className="inline-flex h-11 items-center rounded-full border border-ember px-5 text-sm font-semibold text-cream hover:bg-ember/20">Cook calculator</a>
           </div>
           <TonightPicker />
         </div>
@@ -76,8 +79,10 @@ export default function HomePage() {
           <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
           <a href="#desserts" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Desserts</a>
           <a href="#rubs" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Rubs &amp; Sauces</a>
+          <a href="#calculator" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Calculator</a>
         </nav>
       </section>
+      <CookCalculator />
       <InstallBanner />
       {thanksgiving.length > 0 && (
         <section id="thanksgiving" className="relative scroll-mt-40 overflow-hidden">
