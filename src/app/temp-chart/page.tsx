@@ -198,6 +198,11 @@ export default function TempChartPage() {
           <section key={g.group} className="mt-10">
             <h2 className="text-xs uppercase tracking-[0.22em] text-ember">{g.group}</h2>
             <div className="mt-3 overflow-hidden rounded-2xl border border-white/10">
+              <div className="hidden gap-3 bg-bark/80 px-4 py-2 text-xs uppercase tracking-[0.18em] text-subtle sm:grid sm:grid-cols-[1.2fr_1fr_1fr]">
+                <p>Cut</p>
+                <p>Pull temp</p>
+                <p className="text-right">Hold time</p>
+              </div>
               {g.items.map((i, idx) => (
                 <div key={i.cut} className={`grid grid-cols-[1fr_auto] gap-3 px-4 py-3 sm:grid-cols-[1.2fr_1fr_1fr] ${idx % 2 ? "bg-bark/60" : "bg-bark"}`}>
                   <p className="font-semibold text-cream">{i.cut}</p>
