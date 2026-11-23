@@ -13382,4 +13382,86 @@
     "image": "/images/ember-turkey-salad.jpg",
     "school": null
   }
+,
+  {
+    "title": "Ember Turkey Stuffing Meatloaf",
+    "slug": "ember-turkey-stuffing-meatloaf",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.25
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "Oven 375°F",
+    "finish": "Baked to 155°F inside, sliced with gravy",
+    "summary": "Ground turkey and seasoned stuffing mix shaped into a loaf and baked, with a turkey-stock gravy on top — the day-after-Thanksgiving answer for leftover turkey and stuffing.",
+    "story": "From an old newspaper clipping in K.B. Gatlin's turkey recipes post (Nov 23, 2026). Stuffing and turkey, pressed into a loaf and baked — the kind of thing that turns the day-after fridge into dinner. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The meatloaf",
+        "items": [
+          "1 box (6 oz) seasoned stuffing mix",
+          "2 lb ground turkey, 85% lean",
+          "4 Tbsp butter, divided (2 Tbsp for the vegetables, 2 Tbsp for the gravy)",
+          "1 cup celery, finely diced",
+          "1 medium onion, finely diced",
+          "3 cloves garlic, minced",
+          "2 tsp Bell's Seasoning",
+          "2 eggs",
+          "Kosher salt and black pepper, to taste"
+        ]
+      },
+      {
+        "group": "The gravy",
+        "items": [
+          "2 cups reserved turkey stock",
+          "2 Tbsp butter",
+          "2 Tbsp flour",
+          "1 tsp Kitchen Bouquet",
+          "Salt and pepper, to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soften the vegetables",
+        "body": "Melt 2 Tbsp butter in a pan over medium heat. Cook the onion, celery, and garlic until soft, then let them cool."
+      },
+      {
+        "title": "Build the loaf",
+        "body": "Combine the stuffing mix in a large bowl and soften it. Process the remaining stuffing into crumbs. Add the ground turkey and eggs into the soaked stuffing, then fold in the vegetables and crumbs."
+      },
+      {
+        "title": "Shape and bake",
+        "body": "Line a sheet pan with parchment and spray it. Shape the mixture into a loaf with wet hands. Bake at 375°F until the center reads 155°F."
+      },
+      {
+        "title": "Make the gravy",
+        "body": "Melt 2 Tbsp butter, whisk in the flour, and cook 2–3 minutes. Gradually whisk in the reserved turkey stock and Kitchen Bouquet. Season with salt and pepper to taste."
+      },
+      {
+        "title": "Slice and serve",
+        "body": "Rest the loaf, slice, and serve with the gravy."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Wet hands keep the mixture from sticking when you shape the loaf.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The gravy lives or dies on the stock — use the real reserved turkey stock, not water.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "155°F is the clipping's number — pull it there and let it rest.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-turkey-stuffing-meatloaf.jpg",
+    "school": null
+  }
 ]
