@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { track } from "@vercel/analytics";
 
 const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
 const JAMBOREE_STREAM = "https://the-bluegrass-jamboree.radiocult.fm/stream";
@@ -102,7 +103,10 @@ export default function PlayerBar() {
               <button
                 key={pick.id}
                 type="button"
-                onClick={() => setCurrentPick(pick)}
+                onClick={() => {
+                  track("play_pick", { song: pick.title, artist: pick.artist });
+                  setCurrentPick(pick);
+                }}
                 aria-label={`Play ${pick.title} by ${pick.artist}`}
                 className={`inline-flex items-center rounded-full border px-3 py-1.5 text-xs ${
                   currentPick.id === pick.id
@@ -138,7 +142,10 @@ export default function PlayerBar() {
           </button>
           <button
             type="button"
-            onClick={() => setPodcastOpen((o) => !o)}
+            onClick={() => {
+              if (!podcastOpen) track("open_podcast_player", { show: "HowToBBQRight Podcast" });
+              setPodcastOpen((o) => !o);
+            }}
             aria-label="Show or hide the HowToBBQRight podcast player"
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
@@ -146,7 +153,10 @@ export default function PlayerBar() {
           </button>
           <button
             type="button"
-            onClick={() => setSongOpen((o) => !o)}
+            onClick={() => {
+              if (!songOpen) track("open_mountain_dew_player", { song: "Mountain Dew" });
+              setSongOpen((o) => !o);
+            }}
             aria-label="Show or hide the Mountain Dew song player"
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
@@ -154,7 +164,10 @@ export default function PlayerBar() {
           </button>
           <button
             type="button"
-            onClick={() => setPicksOpen((o) => !o)}
+            onClick={() => {
+              if (!picksOpen) track("open_bluegrass_picks", {});
+              setPicksOpen((o) => !o);
+            }}
             aria-label="Show or hide the bluegrass picks playlist"
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
@@ -163,7 +176,16 @@ export default function PlayerBar() {
           <span className="text-xs text-subtle">Streams from the stations — costs the site nothing.</span>
         </div>
       </div>
-      <audio ref={audioRef} preload="none" src={currentStream} onPlay={() => setRadioPlaying(true)} onPause={() => setRadioPlaying(false)} />
+      <audio
+        ref={audioRef}
+        preload="none"
+        src={currentStream}
+        onPlay={() => {
+          setRadioPlaying(true);
+          track("play_station", { station: currentStream === CHRISTMAS_STREAM ? "Christmas Classics" : "Bluegrass Jamboree" });
+        }}
+        onPause={() => setRadioPlaying(false)}
+      />
     </div>
   );
 }
