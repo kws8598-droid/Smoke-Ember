@@ -14,15 +14,3 @@ export function RadioPlayButton() {
     </button>
   );
 }
-
-export function PodcastShowButton() {
-  return (
-    <button
-      type="button"
-      onClick={() => window.dispatchEvent(new Event("smoke-ember:show-podcast"))}
-      className="mt-4 inline-flex items-center rounded-full bg-ember px-5 py-2 text-sm font-semibold text-cream hover:bg-ember-hot"
-    >
-      ▶ Play the podcast
-    </button>
-  );
-}
