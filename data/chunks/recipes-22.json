@@ -13311,5 +13311,75 @@
     ],
     "image": "/images/ember-ham-salad.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Turkey Salad with Cranberries and Pecans",
+    "slug": "ember-turkey-salad",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "6",
+    "wood": "Pantry",
+    "pitTemp": "None — no cook, chill to set",
+    "finish": "Chilled and creamy, cranberries and pecans through it",
+    "summary": "Leftover turkey, toasted pecans, and sweet-tart dried cranberries in the creamiest dressing — the day-after-Thanksgiving bowl. Serve it on crackers, bread, or a croissant.",
+    "story": "Built from Downshiftology's Ultimate Turkey Salad (5 stars from 24 votes). The day-after-Thanksgiving answer for leftover turkey — dice it, fold it in mayo with cranberries and pecans, and let it chill. Kelly's call: cranberries and pecans. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The salad",
+        "items": [
+          "4 cups diced turkey meat",
+          "1/2 cup roughly chopped pecans",
+          "1/2 cup dried cranberries",
+          "3 green onions, sliced",
+          "2 celery ribs, diced",
+          "2 Tbsp finely chopped parsley",
+          "1 Tbsp finely chopped dill"
+        ]
+      },
+      {
+        "group": "The dressing",
+        "items": [
+          "1 cup mayonnaise",
+          "1 Tbsp Dijon mustard",
+          "1 lemon, juiced (about 3 Tbsp)",
+          "Kosher salt and freshly ground black pepper, to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dice the turkey",
+        "body": "Dice 4 cups leftover turkey. Pull the skin off first — it keeps the texture smooth and creamy."
+      },
+      {
+        "title": "Mix it together",
+        "body": "Add the turkey, mayonnaise, Dijon, pecans, cranberries, green onions, celery, parsley, dill, lemon juice, salt, and pepper to a large mixing bowl. Toss everything together until it's well combined."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Let it chill in the fridge until you're ready to serve. Serve on crackers, bread, or croissants."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Pull the skin off before dicing — bits of skin in every bite ruin the smooth texture.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Toast the pecans in a dry skillet for a couple of minutes till they smell nutty — it wakes the flavor up.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Keeps up to 3 days in the fridge.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-turkey-salad.jpg",
+    "school": null
   }
 ]
