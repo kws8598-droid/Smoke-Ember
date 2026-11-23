@@ -13623,4 +13623,75 @@
     "image": "/images/ember-citrus-butter-roasted-turkey.jpg",
     "school": null
   }
+,
+  {
+    "title": "Ember Cranberry Turkey Breast",
+    "slug": "ember-cranberry-turkey-breast",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 6,
+      "max": 7
+    },
+    "servings": "6",
+    "wood": "None",
+    "pitTemp": "Slow cooker — low",
+    "finish": "Tender and juicy, cranberry sauce spooned on top",
+    "summary": "A boneless turkey breast in the crockpot under whole berry cranberry sauce, onion soup mix, brown sugar, and thyme — six to seven hours on low, slice it, and spoon the sauce over the top.",
+    "story": "From a clipping in K.B. Gatlin's turkey recipes post (Nov 23, 2026). The clipping's own words: \"Perfect holiday vibes with zero stress.\" Dump it in, walk away, come back to a tender breast. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The breast",
+        "items": [
+          "1 boneless turkey breast, about 3–4 lb"
+        ]
+      },
+      {
+        "group": "The sauce",
+        "items": [
+          "1 can (14 oz) whole berry cranberry sauce",
+          "1 packet onion soup mix",
+          "1/4 cup chicken broth",
+          "2 Tbsp brown sugar",
+          "1 tsp dried thyme",
+          "Salt and pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Set the breast",
+        "body": "Place the turkey breast into your crockpot."
+      },
+      {
+        "title": "Mix the sauce",
+        "body": "In a bowl, mix the cranberry sauce, onion soup mix, broth, brown sugar, thyme, salt, and pepper. Pour it over the turkey."
+      },
+      {
+        "title": "Cook low and slow",
+        "body": "Cover and cook on LOW for 6–7 hours, until the turkey is tender and juicy."
+      },
+      {
+        "title": "Slice and serve",
+        "body": "Slice the breast and serve it with that cranberry sauce spooned on top."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Whole berry, not jellied — the clipping says whole berry, and the berries are half the point.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't lift the lid to peek — every peek costs heat and time on a long low cook.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Spoon the sauce from the pot over each slice — it dries out fast without it.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-cranberry-turkey-breast.jpg",
+    "school": null
+  }
 ]
