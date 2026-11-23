@@ -13464,4 +13464,80 @@
     "image": "/images/ember-turkey-stuffing-meatloaf.jpg",
     "school": null
   }
+,
+  {
+    "title": "Ember Chipotle Turkey Enchiladas",
+    "slug": "ember-chipotle-turkey-enchiladas",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "6",
+    "wood": "Pantry",
+    "pitTemp": "Oven 350°F",
+    "finish": "Heated through, cheese melted on top",
+    "summary": "Leftover shredded turkey rolled into soft tortillas with chipotles, sour cream, and cheese, baked under sauce — the smoky day-after answer for the turkey that didn't get eaten.",
+    "story": "From an old newspaper clipping in K.B. Gatlin's turkey recipes post (Nov 23, 2026). Chipotles and sour cream turn plain leftover turkey into something worth sitting down for. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The filling",
+        "items": [
+          "3 cups coarsely shredded cooked turkey",
+          "2 chipotle chilies in adobo, minced, plus 1 Tbsp adobo sauce",
+          "1 cup sour cream",
+          "2 cups grated Monterey Jack",
+          "1/4 cup cilantro, chopped",
+          "Salt and pepper, to taste"
+        ]
+      },
+      {
+        "group": "To build",
+        "items": [
+          "12 6-inch tortillas",
+          "2 Tbsp vegetable oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the sauce",
+        "body": "Sauté until tender, add the chipotles, and simmer. Stir in the sour cream and cilantro, and season with salt and pepper."
+      },
+      {
+        "title": "Soften the tortillas",
+        "body": "Warm the tortillas in a medium skillet in vegetable oil over medium heat until pliable, about a few seconds. Drain on paper towels and repeat."
+      },
+      {
+        "title": "Fill and roll",
+        "body": "Spread sauce in the baking dish. Spoon turkey mixture in the center of each tortilla, roll it up, and set it seam side down in the dish."
+      },
+      {
+        "title": "Top and bake",
+        "body": "Top with the remaining sauce and sprinkle with cheese. Bake at 350°F until heated through."
+      },
+      {
+        "title": "Serve",
+        "body": "Rewarm the extra sauce in a saucepan and serve it in a sauceboat alongside."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Don't skip softening the tortillas — dry ones crack when you roll them.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Chipotles bring the heat — start light, you can always add more next time.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Shredded leftover turkey works best here; it soaks up the sauce.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-chipotle-turkey-enchiladas.jpg",
+    "school": null
+  }
 ]
