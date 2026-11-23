@@ -13693,5 +13693,94 @@
     ],
     "image": "/images/ember-cranberry-turkey-breast.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Lemon Delight",
+    "slug": "ember-lemon-delight",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 4,
+      "max": 5
+    },
+    "servings": "12",
+    "wood": "Pantry",
+    "pitTemp": "Oven 350°F",
+    "finish": "Chilled and set, cut into squares",
+    "summary": "Four layers — pecan crust, cream cheese, lemon pudding, homemade whipped topping. Her nana only made it when she was in a good mood.",
+    "story": "Hannah Dasher's grandmother's recipe. Nana called it Lemon Delight not because of the lemons but because she only made it when she was in a good mood. \"Love is a secret ingredient.\" Naomi Judd called the chocolate version possum pie; the church ladies down South called it chocolate delight or lemon delight. Nana was not big on church. One bite and you'll understand why three men proposed and two were never heard from again.",
+    "ingredients": [
+      {
+        "group": "Pecan crust",
+        "items": [
+          "1 cup flour",
+          "1 stick salted butter",
+          "1 cup chopped pecans"
+        ]
+      },
+      {
+        "group": "Cream cheese layer",
+        "items": [
+          "12 oz cream cheese",
+          "1 cup powdered sugar",
+          "1 cup whipped topping, folded in"
+        ]
+      },
+      {
+        "group": "Lemon layer",
+        "items": [
+          "2 small boxes instant lemon pudding mix",
+          "3 cups cold milk"
+        ]
+      },
+      {
+        "group": "Whipped topping",
+        "items": [
+          "1 1/2 cups heavy whipping cream",
+          "1/4 cup powdered sugar",
+          "A splash of vanilla",
+          "Chopped pecans, for the top"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Crust",
+        "body": "Mix the flour, butter, and pecans; press into a 9x13 pan. Bake at 350°F about 20 minutes, until set. Cool completely."
+      },
+      {
+        "title": "Cream cheese layer",
+        "body": "Beat the cream cheese and powdered sugar smooth; fold in the whipped topping. Spread over the cooled crust."
+      },
+      {
+        "title": "Lemon layer",
+        "body": "Whisk the two boxes of instant lemon pudding with the cold milk until thick. Spread over the cream cheese layer."
+      },
+      {
+        "title": "Top it",
+        "body": "Whip the heavy cream with the powdered sugar and vanilla until it holds peaks. Spread over the lemon layer; sprinkle chopped pecans on top."
+      },
+      {
+        "title": "Chill",
+        "body": "Chill at least 4 hours — overnight is better. It slices clean when it's cold all the way through."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Homemade whipped topping, NOT Cool Whip — her words, \"that stuff's gross to me.\"",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Chill overnight for clean slices.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "\"Love is a secret ingredient\" — her nana's words.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-lemon-delight.jpg",
+    "school": null
   }
 ]
