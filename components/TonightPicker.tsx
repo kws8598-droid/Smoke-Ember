@@ -29,7 +29,8 @@ export default function TonightPicker() {
 
   return (
     <div className="order-2 rounded-[30px] border border-white/10 bg-ink/25 p-5 backdrop-blur-md shadow-2xl sm:p-6 md:order-none">
-      <p className="text-sm uppercase tracking-[0.22em] text-subtle">What’s for tonight</p>
+      <h2 className="font-display text-2xl italic text-cream">How much time do you have tonight?</h2>
+      <p className="mt-1 text-sm text-parchment/80">Pick a time and a meat, and here are three cooks that fit.</p>
       <div className="mt-4 grid grid-cols-3 gap-2">
         {times.map((t) => (
           <button
