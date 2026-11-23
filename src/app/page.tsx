@@ -66,17 +66,17 @@ export default function HomePage() {
       <section className="relative mx-auto max-w-6xl px-4 pt-6">
         <form action="/recipes" method="get" role="search" className="flex gap-2">
           <label htmlFor="home-search" className="sr-only">Search recipes</label>
-          <input id="home-search" name="q" type="search" placeholder="Search recipes — try brisket, turkey, or cobbler" className="h-14 min-w-0 flex-1 rounded-full border border-white/10 bg-bark px-5 text-base text-cream outline-none placeholder:text-subtle focus:border-ember" />
+          <input id="home-search" name="q" type="search" placeholder="Search recipes — try brisket, turkey, or cobbler" className="h-14 min-w-0 flex-1 rounded-full border-2 border-ember/50 bg-bark px-5 text-base text-cream outline-none placeholder:text-subtle focus:border-ember" />
           <button type="submit" className="inline-flex h-14 shrink-0 items-center rounded-full bg-ember px-6 text-base font-semibold text-cream hover:bg-ember-hot">Search</button>
         </form>
         <nav aria-label="Jump to a section" className="mt-3 flex flex-wrap items-center gap-2">
           <span className="py-2 text-base font-semibold text-subtle">Jump to:</span>
-          <a href="#thanksgiving" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Thanksgiving</a>
-          <a href="#wild-game" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Wild Game</a>
-          <a href="#sides" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Sides</a>
-          <a href="#breads" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Breads</a>
-          <a href="#desserts" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Desserts</a>
-          <a href="#rubs" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Rubs &amp; Sauces</a>
+          <a href="#thanksgiving" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Thanksgiving</a>
+          <a href="#wild-game" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Wild Game</a>
+          <a href="#sides" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Sides</a>
+          <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
+          <a href="#desserts" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Desserts</a>
+          <a href="#rubs" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Rubs &amp; Sauces</a>
         </nav>
       </section>
       <InstallBanner />
