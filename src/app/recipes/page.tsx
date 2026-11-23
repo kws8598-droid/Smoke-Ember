@@ -13,7 +13,7 @@ function RecipesInner() {
   const params = useSearchParams();
   const [protein, setProtein] = useState(params.get("protein") || "all");
   const [region, setRegion] = useState(params.get("region") || "all");
-  const [q, setQ] = useState("");
+  const [q, setQ] = useState(params.get("q") || "");
   const [time, setTime] = useState("all");
   useEffect(() => {
     if (params.get("protein") === "desserts") {
@@ -22,6 +22,7 @@ function RecipesInner() {
     }
     setProtein(params.get("protein") || "all");
     setRegion(params.get("region") || "all");
+    setQ(params.get("q") || "");
   }, [params, router]);
   useEffect(() => {
     document.body.classList.toggle("theme-venison", protein === "venison");
