@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import VisitCounter from "./VisitCounter";
+import BackToTopButton from "./BackToTopButton";
 
 const nav = [
   {
@@ -86,11 +87,17 @@ export default function Footer() {
           </div>
         </div>
         <div className="mx-auto max-w-6xl px-4 pb-8 text-center">
+          <BackToTopButton />
+        </div>
+        <div className="mx-auto max-w-6xl px-4 pb-8 text-center">
           <VisitCounter />
         </div>
       </footer>
       <div className="mt-16 border-t border-white/5 px-4 pb-32 pt-6 text-center md:hidden">
-        <VisitCounter />
+        <BackToTopButton />
+        <div className="mt-6">
+          <VisitCounter />
+        </div>
         <div className="mt-4 flex justify-center gap-4 text-sm text-subtle">
           <Link href="/about" className="hover:text-cream">About</Link>
           <Link href="/contact" className="hover:text-cream">Contact</Link>
