@@ -12,6 +12,7 @@ const BLUEGRASS_PICKS = [
   { title: "Little Maggie", artist: "The Stanley Brothers", id: "kFECy0CgFLQ" },
   { title: "Train 45", artist: "The Stanley Brothers", id: "_9KEIBHsxEo" },
   { title: "I'm a Man of Constant Sorrow", artist: "The Stanley Brothers", id: "jgyu2c-JBlc" },
+  { title: "You'll Never Leave Harlan Alive", artist: "Patty Loveless", id: "MjFcllICjUc" },
 ];
 
 // A single persistent player that lives in the site layout, so it keeps
