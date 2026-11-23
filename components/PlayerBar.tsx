@@ -24,6 +24,7 @@ export default function PlayerBar() {
   const [radioPlaying, setRadioPlaying] = useState(false);
   const [picksOpen, setPicksOpen] = useState(false);
   const [currentPick, setCurrentPick] = useState(BLUEGRASS_PICKS[0]);
+  const [picksAutoplay, setPicksAutoplay] = useState(false);
   const [showChristmas, setShowChristmas] = useState(false);
   const [currentStream, setCurrentStream] = useState(CHRISTMAS_STREAM);
 
@@ -65,7 +66,7 @@ export default function PlayerBar() {
             allowFullScreen
             frameBorder="0"
             height="315"
-            src={`https://www.youtube.com/embed/${currentPick.id}`}
+            src={`https://www.youtube.com/embed/${currentPick.id}${picksAutoplay ? "?autoplay=1" : ""}`}
             className="w-full bg-bark"
             title={`${currentPick.title} — ${currentPick.artist}`}
           />
@@ -76,6 +77,7 @@ export default function PlayerBar() {
                 type="button"
                 onClick={() => {
                   track("play_pick", { song: pick.title, artist: pick.artist });
+                  setPicksAutoplay(true);
                   setCurrentPick(pick);
                 }}
                 aria-label={`Play ${pick.title} by ${pick.artist}`}
