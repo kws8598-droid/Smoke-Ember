@@ -89,6 +89,12 @@ export function filterRecipes(
     if (opts.protein === "game") {
       const extraGame = ["smoked-duck", "smoked-frog-legs"];
       list = list.filter((r) => r.protein === "venison" || r.protein === "gator" || r.protein === "game" || extraGame.includes(r.slug));
+    } else if (opts.protein === "poultry") {
+      const mentionsBird = (r: Recipe) => {
+        const hay = [r.title, r.summary, r.story, ...(r.ingredients ?? []).flatMap((g) => g.items ?? [])].join(" ").toLowerCase();
+        return /\b(turkey|chicken|duck)\b/.test(hay);
+      };
+      list = list.filter((r) => r.protein === "poultry" || mentionsBird(r));
     } else {
       list = list.filter((r) => r.protein === opts.protein);
     }
