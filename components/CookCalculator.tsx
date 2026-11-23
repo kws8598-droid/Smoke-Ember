@@ -4,13 +4,22 @@ import { useState } from "react";
 
 // Starting estimates — plain pitmaster rules of thumb, not a timer.
 // The stall can add time, and the meat still needs its rest.
-const MEATS = [
-  { id: "brisket", label: "Brisket", temp: "225–250°F", hrsPerLb: [1, 1.5] as const, perPersonLb: 0.75 },
-  { id: "pork-butt", label: "Pork butt", temp: "225–250°F", hrsPerLb: [1, 1.5] as const, perPersonLb: 0.75 },
+type MeatRate = {
+  id: string;
+  label: string;
+  temp: string;
+  hrsPerLb?: readonly [number, number];
+  minPerLb?: number;
+  fixedHrs?: readonly [number, number];
+  perPersonLb: number;
+};
+const MEATS: MeatRate[] = [
+  { id: "brisket", label: "Brisket", temp: "225–250°F", hrsPerLb: [1, 1.5], perPersonLb: 0.75 },
+  { id: "pork-butt", label: "Pork butt", temp: "225–250°F", hrsPerLb: [1, 1.5], perPersonLb: 0.75 },
   { id: "turkey", label: "Whole turkey", temp: "300–325°F", minPerLb: 13, perPersonLb: 1 },
   { id: "chicken", label: "Whole chicken", temp: "300–325°F", minPerLb: 20, perPersonLb: 0.75 },
   { id: "turkey-breast", label: "Turkey breast (boneless)", temp: "250°F", minPerLb: 20, perPersonLb: 0.5 },
-  { id: "spare-ribs", label: "Spare ribs", temp: "225–250°F", fixedHrs: [5, 6] as const, perPersonLb: 1 },
+  { id: "spare-ribs", label: "Spare ribs", temp: "225–250°F", fixedHrs: [5, 6], perPersonLb: 1 },
 ];
 
 function fmtHours(h: number) {
@@ -36,13 +45,15 @@ export default function CookCalculator() {
   const weightNum = Math.max(0, Number(weight) || 0);
   const guestsNum = Math.max(0, Math.floor(Number(guests) || 0));
 
-  let timeResult: string | null = null;
-  if ("fixedHrs" in meat) {
+  let timeResult: string;
+  if (meat.fixedHrs) {
     timeResult = `About ${meat.fixedHrs[0]}–${meat.fixedHrs[1]} hours on the pit — the 2-2-1 way: 2 hours smoke, 2 wrapped, 1 to finish.`;
-  } else if ("hrsPerLb" in meat) {
+  } else if (meat.hrsPerLb) {
     timeResult = `About ${fmtHours(weightNum * meat.hrsPerLb[0])} to ${fmtHours(weightNum * meat.hrsPerLb[1])} on the pit at ${meat.temp}.`;
-  } else {
+  } else if (meat.minPerLb) {
     timeResult = `About ${fmtHours((weightNum * meat.minPerLb) / 60)} on the pit at ${meat.temp}.`;
+  } else {
+    timeResult = "";
   }
   const amountResult = `Buy about ${fmtLb(guestsNum * meat.perPersonLb)} lb.`;
 
