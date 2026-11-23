@@ -13068,5 +13068,85 @@
     ],
     "image": "/images/bienenstich.jpg",
     "school": null
+  },
+  {
+    "title": "Vanillekipferl (German Vanilla Crescent Cookies)",
+    "slug": "vanillekipferl",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "About 60 cookies",
+    "wood": "Pantry",
+    "pitTemp": "Oven 356°F",
+    "finish": "Pale gold, dusted in vanilla sugar",
+    "summary": "German vanilla crescent cookies — crumbly butter dough with ground hazelnuts, shaped into crescents and turned hot in vanilla sugar. They keep for weeks in a tin.",
+    "story": "From My Dinner — Marita Sinden calls these her brother's favorite Christmas cookies, a hit for years. Kelly saved them on November 18th to hold for Christmas. Kelly hasn't made these ones yet.",
+    "ingredients": [
+      {
+        "group": "Cookies",
+        "items": [
+          "2 3/4 cups (300 g) all-purpose flour",
+          "1 cup (100 g) ground hazelnuts",
+          "1/2 cup (100 g) granulated sugar",
+          "1 vanilla bean, pulp scraped (or 1 tsp vanilla extract, or 2 tsp vanilla sugar)",
+          "1 pinch salt",
+          "2 egg yolks",
+          "7 oz (200 g) cold butter"
+        ]
+      },
+      {
+        "group": "Vanilla sugar dust",
+        "items": [
+          "3 Tbsp powdered sugar",
+          "8 tsp vanilla sugar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix the dough",
+        "body": "Knead with cold hands — flour, ground hazelnuts, sugar, vanilla, salt, egg yolks, and cold butter. The dough starts crumbly and dry; add 1 tsp water at a time if it's struggling. Don't over-knead or it gets chewy."
+      },
+      {
+        "title": "Chill it",
+        "body": "Wrap the dough and chill at least 30 minutes. Heat the oven to 356°F."
+      },
+      {
+        "title": "Shape the crescents",
+        "body": "Divide the dough in 2 and roll each into a ~12-inch roll. Slice into 1 cm pieces, roll each into a 3-4 inch roll with tapered ends, and bend into crescents."
+      },
+      {
+        "title": "Bake",
+        "body": "Bake on the middle tray about 12 minutes. Don't overbake — 10-12 minutes is enough, they firm up as they cool."
+      },
+      {
+        "title": "Sugar them hot",
+        "body": "While they bake, mix the vanilla sugar with the powdered sugar. Turn the hot cookies in the sugar mix right out of the oven, then cool on a rack."
+      },
+      {
+        "title": "Store",
+        "body": "Store in a cookie tin and dust again before serving. They keep up to 4 weeks in a tin and freeze well — defrost at room temperature."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Cold butter is essential for the crumbly texture — never margarine.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Turn them in the sugar while they're hot or it falls right off.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Don't overbake — 10-12 minutes is enough, they firm up as they cool.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/vanillekipferl.jpg",
+    "school": null
   }
 ]
