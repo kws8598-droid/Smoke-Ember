@@ -13239,7 +13239,7 @@
     "title": "Ember Ham Salad",
     "slug": "ember-ham-salad",
     "region": "southern",
-    "protein": "sides",
+    "protein": "pork",
     "difficulty": "weeknight",
     "hours": {
       "min": 0.25,
@@ -13316,7 +13316,7 @@
     "title": "Ember Turkey Salad with Cranberries and Pecans",
     "slug": "ember-turkey-salad",
     "region": "southern",
-    "protein": "sides",
+    "protein": "poultry",
     "difficulty": "weeknight",
     "hours": {
       "min": 0.25,
