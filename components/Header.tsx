@@ -32,7 +32,7 @@ export default function Header() {
             <Link
               key={l.href}
               href={l.href}
-              className={`whitespace-nowrap rounded-full px-4 py-2 text-base font-semibold ${path === l.href || path.startsWith(`${l.href}/`) ? "bg-ember text-cream" : "text-parchment hover:text-cream"}`}
+              className={`whitespace-nowrap rounded-full border px-4 py-2 text-base font-semibold ${path === l.href || path.startsWith(`${l.href}/`) ? "border-ember bg-ember text-cream" : "border-white/15 bg-white/5 text-parchment hover:text-cream"}`}
             >
               {l.label}
             </Link>
