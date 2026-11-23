@@ -116,7 +116,7 @@ export default function HomePage() {
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Thanksgiving at the Pit</h2>
             <p className="mt-2 max-w-xl text-parchment/85">Turkey, turducken, and every side the table needs — all with a little smoke on it.</p>
             <div className="mt-4 grid gap-0 md:grid-cols-2">{thanksgiving.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
-            <p className="mt-4"><Link href="/recipes" className="text-sm font-semibold text-ember hover:text-ember-hot">See all {recipes.length} recipes →</Link></p>
+            <p className="mt-4"><Link href="/recipes" className="text-sm font-semibold text-ember hover:text-ember-hot">See all recipes →</Link></p>
           </div>
         </section>
       )}
