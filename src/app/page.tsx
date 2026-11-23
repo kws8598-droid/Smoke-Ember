@@ -22,11 +22,11 @@ export default function HomePage() {
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
-  const thanksgiving = thanksgivingSlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const thanksgiving = thanksgivingSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
-  const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean);
+  const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   return (
-    <main className="relative">
+    <main id="top" className="relative">
       {/* Weathered store-wood backdrop, like the country store wall in the header picture */}
       <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
         <Image src="/images/homepage-wood-bg.jpg" alt="" fill sizes="100vw" className="object-cover contrast-[1.12]" />
@@ -82,6 +82,29 @@ export default function HomePage() {
           <a href="#calculator" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Calculator</a>
         </nav>
       </section>
+      <section className="relative mx-auto max-w-6xl px-4 pt-8">
+        <p className="text-xs uppercase tracking-[0.22em] text-subtle">What this is</p>
+        <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Pull up a chair.</h2>
+        <p className="mt-3 max-w-3xl text-lg leading-8 text-parchment">Been smoking meat for 20 years now, and even I need a gentle reminder from time to time — a reminder of times, and how to do certain things. That&apos;s what this app is for. Regional barbecue, pitmaster sides, and the tricks the fire actually teaches — {recipes.length} free barbecue recipes, a cook calculator that tells you how long it&apos;ll take and how much meat to buy, a picker that hands you a cook to fit tonight, cooking tips from the pit, a notebook for your own cooks, and the competition calendar. It&apos;s a written-down memory for cooks with bad memories like mine — not set in stone, it&apos;s a beginning. Free, no account needed to look around, and a little bluegrass and Christmas music playing down at the bottom while you look.</p>
+      </section>
+      <section className="relative mx-auto max-w-6xl px-4 pt-6" aria-label="What&apos;s in here">
+        <p className="text-xs uppercase tracking-[0.22em] text-subtle">What&apos;s in here</p>
+        <nav aria-label="Table of contents" className="mt-3 flex flex-wrap gap-2">
+          <Link href="/recipes" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">All recipes</Link>
+          <a href="#thanksgiving" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Thanksgiving</a>
+          <a href="#wild-game" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Wild Game</a>
+          <a href="#sides" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Sides</a>
+          <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
+          <a href="#desserts" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Desserts</a>
+          <a href="#rubs" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Rubs &amp; Sauces</a>
+          <a href="#calculator" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Cook calculator</a>
+          <a href="#top" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Tonight picker</a>
+          <Link href="/wisdom" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Cooking tips</Link>
+          <Link href="/cooks" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">My Cooks</Link>
+          <Link href="/competitions" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Competitions</Link>
+          <Link href="/temp-chart" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Temperature chart</Link>
+        </nav>
+      </section>
       <CookCalculator />
       <InstallBanner />
       {thanksgiving.length > 0 && (
@@ -93,6 +116,7 @@ export default function HomePage() {
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Thanksgiving at the Pit</h2>
             <p className="mt-2 max-w-xl text-parchment/85">Turkey, turducken, and every side the table needs — all with a little smoke on it.</p>
             <div className="mt-4 grid gap-0 md:grid-cols-2">{thanksgiving.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+            <p className="mt-4"><Link href="/recipes" className="text-sm font-semibold text-ember hover:text-ember-hot">See all {recipes.length} recipes →</Link></p>
           </div>
         </section>
       )}
