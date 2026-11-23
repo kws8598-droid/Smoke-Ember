@@ -13148,5 +13148,98 @@
     ],
     "image": "/images/vanillekipferl.jpg",
     "school": null
+  },
+  {
+    "title": "Black Forest Cheesecake",
+    "slug": "black-forest-cheesecake",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "None — no bake, chill to set",
+    "finish": "Set and chilled, cherries and chocolate curls on top",
+    "summary": "No-bake Black Forest cheesecake — chocolate and vanilla cream cheese layers in a pre-made Oreo crust, topped with cherry pie filling and chocolate curls.",
+    "story": "From Spaceships and Laser Beams — the second of the two no-bake Christmas pies Kelly picked for the Christmas section. Chocolate and vanilla layers, cherry pie filling on top, no oven at all. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "Cheesecake",
+        "items": [
+          "1 (6-ounce) pre-made Oreo pie crust",
+          "12 ounces cream cheese, room temperature",
+          "1/2 cup granulated sugar",
+          "3/4 cup full-fat sour cream",
+          "1 1/2 teaspoons vanilla extract",
+          "3 ounces semi-sweet baking bar, chopped",
+          "1 (8-ounce) tub whipped topping, thawed",
+          "1 cup canned cherry pie filling"
+        ]
+      },
+      {
+        "group": "Chocolate curls (optional garnish)",
+        "items": [
+          "4 ounces semi-sweet chocolate baking bar, broken into small pieces",
+          "1 tablespoon vegetable shortening"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Beat the base",
+        "body": "Take the plastic cover off the pre-made Oreo crust and set it aside. In a large bowl with an electric mixer on medium, beat the cream cheese and sugar for 1 minute, until light and fluffy."
+      },
+      {
+        "title": "Add the sour cream",
+        "body": "Add the sour cream and vanilla extract and beat 30 seconds more, until everything is fully mixed in."
+      },
+      {
+        "title": "Split the batter",
+        "body": "Transfer half of the cheesecake batter to another large bowl and set both bowls aside."
+      },
+      {
+        "title": "Melt the chocolate",
+        "body": "Put the chopped semi-sweet baking bar in a small microwave-safe bowl and heat 1 minute at 60% power. Stir, then heat another 30 seconds to 1 minute at 60% power. Stir until smooth."
+      },
+      {
+        "title": "Make the two layers",
+        "body": "Fold the melted chocolate into one of the bowls until fully mixed in. Divide the thawed whipped topping equally between the two bowls and fold it gently into each — these are the black and white layers."
+      },
+      {
+        "title": "Layer it in the crust",
+        "body": "Spread the chocolate cream cheese mixture into an even layer on the bottom of the Oreo crust, then top with the plain cream cheese mixture and spread it even too."
+      },
+      {
+        "title": "Chill it",
+        "body": "Cover the pie with the plastic piece that came with the crust — flip it over and it makes a lid — and refrigerate 8 hours to overnight, until fully firm."
+      },
+      {
+        "title": "Top it with cherries",
+        "body": "Once the pie has chilled and firmed up, top it with the canned cherry pie filling — a heaping cup, mostly cherries and not the sauce, mounded in the center, leaving 1 to 2 inches around the edge for the chocolate curls."
+      },
+      {
+        "title": "Make the chocolate curls",
+        "body": "Melt the chocolate pieces and shortening in a small microwave-safe bowl, 45 seconds to 1 minute, until melted; stir until smooth. Pour onto a rimmed baking tray flipped upside down and spread into a very thin, even layer with an offset spatula. Freeze 3 to 5 minutes — you should be able to leave a fingerprint in the chocolate but not a dent. Push up from the bottom with a sharp, straight-edged spatula in small sections to make the curls, then keep them on a freezer-safe plate in the freezer until you're ready to garnish."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "The plastic cover that came with the crust is perfect for storage — flip it over and use it as a lid before the pie goes in the fridge.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Use a heaping cup of cherry pie filling, mostly cherries and not the sauce, mounded in the center.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Give it the full 8 hours to overnight in the fridge — it has to be fully firm before the cherries go on.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/black-forest-cheesecake.jpg",
+    "school": null
   }
 ]
