@@ -13540,4 +13540,87 @@
     "image": "/images/ember-chipotle-turkey-enchiladas.jpg",
     "school": null
   }
+,
+  {
+    "title": "Ember Citrus Butter Roasted Turkey",
+    "slug": "ember-citrus-butter-roasted-turkey",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "all-day",
+    "hours": {
+      "min": 3,
+      "max": 3
+    },
+    "servings": "12",
+    "wood": "Pantry",
+    "pitTemp": "Oven 325°F",
+    "finish": "Golden, rested before carving",
+    "summary": "A whole turkey rubbed with citrus butter — softened butter, rosemary, thyme, orange, and garlic — and roasted low and slow at 325°F. The clipping calls it a masterclass; the butter and the rest do the work.",
+    "story": "From a clipping titled \"Masterclass Oven-Roasted Whole Turkey with Citrus Butter\" in K.B. Gatlin's turkey recipes post (Nov 23, 2026). Butter, citrus, and herbs rubbed over the bird, then a slow roast and a real rest before carving. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The bird",
+        "items": [
+          "1 whole turkey (14 lb), giblets removed",
+          "1 tsp kosher salt",
+          "Black pepper, to taste"
+        ]
+      },
+      {
+        "group": "The citrus butter",
+        "items": [
+          "1/2 cup unsalted butter, softened",
+          "2 Tbsp extra virgin olive oil",
+          "2 Tbsp fresh rosemary, chopped",
+          "2 Tbsp fresh thyme, chopped",
+          "1 orange, halved",
+          "1 head garlic, halved horizontally"
+        ]
+      },
+      {
+        "group": "The pan",
+        "items": [
+          "1 cup chicken stock"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep the bird",
+        "body": "Preheat the oven to 325°F. Pat the turkey thoroughly dry with towels and position it in the roasting pan."
+      },
+      {
+        "title": "Make the citrus butter",
+        "body": "Combine the softened butter with the rosemary, thyme, orange, and garlic. Rub it all over the bird."
+      },
+      {
+        "title": "Roast",
+        "body": "Roast at 325°F until an instant-read thermometer in the thigh reads 175°F."
+      },
+      {
+        "title": "Rest",
+        "body": "Let the bird rest so the muscle fibers can relax before you carve it."
+      },
+      {
+        "title": "Carve",
+        "body": "Remove the dark meat at the joints, then slice the breast across the grain."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Dry skin is everything — pat the bird thoroughly dry before the butter goes on.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Rest it before you carve — the clipping says so, and the juices need the time.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "45 minutes of prep is the clipping's number — the butter work takes a while, don't rush it.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-citrus-butter-roasted-turkey.jpg",
+    "school": null
+  }
 ]
