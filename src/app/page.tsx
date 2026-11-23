@@ -40,6 +40,7 @@ export default function HomePage() {
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
             <p className="mt-1 text-[16px] leading-6 text-parchment/90">Smoke and Ember hands you a cook that actually fits tonight.</p>
+            <p className="mt-2 text-lg font-semibold leading-6 text-parchment">{recipes.length} free barbecue recipes — pick one and cook it.</p>
           </div>
         </div>
         {/* Desktop: full-bleed Halloween hero for October */}
@@ -62,9 +63,25 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
+      <section className="relative mx-auto max-w-6xl px-4 pt-6">
+        <form action="/recipes" method="get" role="search" className="flex gap-2">
+          <label htmlFor="home-search" className="sr-only">Search recipes</label>
+          <input id="home-search" name="q" type="search" placeholder="Search recipes — try brisket, turkey, or cobbler" className="h-14 min-w-0 flex-1 rounded-full border border-white/10 bg-bark px-5 text-base text-cream outline-none placeholder:text-subtle focus:border-ember" />
+          <button type="submit" className="inline-flex h-14 shrink-0 items-center rounded-full bg-ember px-6 text-base font-semibold text-cream hover:bg-ember-hot">Search</button>
+        </form>
+        <nav aria-label="Jump to a section" className="mt-3 flex flex-wrap items-center gap-2">
+          <span className="py-2 text-base font-semibold text-subtle">Jump to:</span>
+          <a href="#thanksgiving" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Thanksgiving</a>
+          <a href="#wild-game" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Wild Game</a>
+          <a href="#sides" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Sides</a>
+          <a href="#breads" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Breads</a>
+          <a href="#desserts" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Desserts</a>
+          <a href="#rubs" className="rounded-full bg-ash px-4 py-2 text-base font-semibold text-parchment hover:text-cream">Rubs &amp; Sauces</a>
+        </nav>
+      </section>
       <InstallBanner />
       {thanksgiving.length > 0 && (
-        <section className="relative overflow-hidden">
+        <section id="thanksgiving" className="relative scroll-mt-32 overflow-hidden">
           <Image src="/images/thanksgiving-banner.jpg" alt="Thanksgiving barbecue spread with a smoked turkey" fill sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/25 to-transparent" />
           <div className="relative mx-auto max-w-6xl px-4 py-14">
@@ -112,23 +129,23 @@ export default function HomePage() {
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Featured pits</h2>
         <div className="mt-3 grid gap-0 md:grid-cols-2">{cards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-2">
+      <section id="wild-game" className="mx-auto max-w-6xl scroll-mt-32 px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Wild game</p><h2 className="mt-2 font-display text-4xl italic glow-ember">From the woods to the pit</h2></div><Link href="/wild-game" className="text-sm text-ember hover:text-ember-hot">All game</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{gameCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-2">
+      <section id="sides" className="mx-auto max-w-6xl scroll-mt-32 px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Pitmaster sides</p><h2 className="mt-2 font-display text-4xl italic glow-ember">The plate around the meat</h2></div><Link href="/recipes?protein=sides" className="text-sm text-ember hover:text-ember-hot">All sides</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSides.length ? extraSides : sides().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-2">
+      <section id="breads" className="mx-auto max-w-6xl scroll-mt-32 px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Breads &amp; biscuits</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Bread for the table</h2></div><Link href="/breads" className="text-sm text-ember hover:text-ember-hot">All breads</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{breadCards.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-2">
+      <section id="desserts" className="mx-auto max-w-6xl scroll-mt-32 px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">Southern desserts</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Close the plate</h2></div><Link href="/desserts" className="text-sm text-ember hover:text-ember-hot">All desserts</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraSweet.length ? extraSweet : desserts().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
-      <section className="mx-auto max-w-6xl px-4 pb-2">
+      <section id="rubs" className="mx-auto max-w-6xl scroll-mt-32 px-4 pb-2">
         <div className="flex items-end justify-between gap-4"><div><p className="text-xs uppercase tracking-[0.22em] text-subtle">House bottles</p><h2 className="mt-2 font-display text-4xl italic glow-ember">Rubs and sauces</h2></div><Link href="/recipes?protein=sauces" className="text-sm text-ember hover:text-ember-hot">All pantry</Link></div>
         <div className="mt-3 grid gap-0 sm:grid-cols-2 lg:grid-cols-3">{(extraBottles.length ? extraBottles : pantry().slice(0,6)).map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
       </section>
