@@ -12071,761 +12071,754 @@
     ],
     "image": "/images/ember-mango-habanero-sauce.jpg",
     "school": null
-  }
-,
-{
-  "title": "Ember Smoked Pig Shots",
-  "slug": "ember-smoked-pig-shots",
-  "region": "backyard",
-  "protein": "sausage",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.75,
-    "max": 1
   },
-  "servings": "12–16 shots",
-  "wood": "Apple or pecan",
-  "summary": "Bacon-wrapped smoked sausage cups filled with cheddar cream cheese and diced jalapeño, finished with a hot honey drizzle.",
-  "story": "Smoked BBQ Source's top-rated pig shots, done Ember-style with Kelly's picks — smoked sausage, cheddar, jalapeño diced right into the filling, hot honey over the top. Kelly hasn't cooked these yet.",
-  "ingredients": [
-    {
-      "group": "The cups",
-      "items": [
-        "12 oz smoked sausage",
-        "1 lb thick-cut bacon",
-        "2 Tbsp Ember House Rub, divided"
-      ]
+  {
+    "title": "Ember Smoked Pig Shots",
+    "slug": "ember-smoked-pig-shots",
+    "region": "backyard",
+    "protein": "sausage",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.75,
+      "max": 1
     },
-    {
-      "group": "The filling",
-      "items": [
-        "12 oz cream cheese, softened",
-        "1/4 cup shredded cheddar",
-        "1 jalapeño, finely diced"
-      ]
-    },
-    {
-      "group": "To finish",
-      "items": [
-        "Hot honey, for drizzling"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Build the cups",
-      "body": "Slice the smoked sausage into pieces about 3/4 to 1 inch thick. Cut each bacon strip in half lengthwise. Wrap one half-strip around each sausage slice to form a cup, and push a toothpick through the bottom seam into the sausage to hold it. Set the cups on a wire rack over a sheet pan and dust them with Ember House Rub."
-    },
-    {
-      "title": "Smoke the cups",
-      "body": "Smoke at 250°F for 30 to 45 minutes, until the bacon is fully rendered and crisp."
-    },
-    {
-      "title": "Make the filling",
-      "body": "While the cups smoke, mix the softened cream cheese, shredded cheddar, diced jalapeño, and the rest of the rub. Spoon it into a piping bag or a zip-top bag with the corner snipped off."
-    },
-    {
-      "title": "Fill and finish",
-      "body": "Pull the cups off and let them cool a little, then pull the toothpicks out — the bacon holds its shape now. Pipe the filling into each cup, just below the top of the bacon so it doesn't bubble over. Put them back on at 300°F for 10 to 15 minutes, just until the filling is warmed through."
-    },
-    {
-      "title": "Drizzle and serve",
-      "body": "Drizzle hot honey over the top, let them rest a few minutes so they set, and serve warm."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Thick-cut bacon is the whole trick — thin bacon falls apart and the cups won't hold.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Pipe the filling just below the top of the bacon. Fill it to the brim and it bubbles over on the finish.",
-      "voice": "bruno"
-    },
-    {
-      "text": "You can build the cups the day before and keep them in the fridge, then smoke them when folks show up.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-smoked-pig-shots.jpg",
-  "pitTemp": "250°F then 300°F",
-  "school": null
-}
-,
-{
-  "title": "Ember Smoked Turkey Breast",
-  "slug": "ember-smoked-turkey-breast",
-  "region": "louisiana",
-  "protein": "poultry",
-  "difficulty": "weekend",
-  "hours": {
-    "min": 3,
-    "max": 4.5
+    "servings": "12–16 shots",
+    "wood": "Apple or pecan",
+    "summary": "Bacon-wrapped smoked sausage cups filled with cheddar cream cheese and diced jalapeño, finished with a hot honey drizzle.",
+    "story": "Smoked BBQ Source's top-rated pig shots, done Ember-style with Kelly's picks — smoked sausage, cheddar, jalapeño diced right into the filling, hot honey over the top. Kelly hasn't cooked these yet.",
+    "ingredients": [
+      {
+        "group": "The cups",
+        "items": [
+          "12 oz smoked sausage",
+          "1 lb thick-cut bacon",
+          "2 Tbsp Ember House Rub, divided"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "12 oz cream cheese, softened",
+          "1/4 cup shredded cheddar",
+          "1 jalapeño, finely diced"
+        ]
+      },
+      {
+        "group": "To finish",
+        "items": [
+          "Hot honey, for drizzling"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Build the cups",
+        "body": "Slice the smoked sausage into pieces about 3/4 to 1 inch thick. Cut each bacon strip in half lengthwise. Wrap one half-strip around each sausage slice to form a cup, and push a toothpick through the bottom seam into the sausage to hold it. Set the cups on a wire rack over a sheet pan and dust them with Ember House Rub."
+      },
+      {
+        "title": "Smoke the cups",
+        "body": "Smoke at 250°F for 30 to 45 minutes, until the bacon is fully rendered and crisp."
+      },
+      {
+        "title": "Make the filling",
+        "body": "While the cups smoke, mix the softened cream cheese, shredded cheddar, diced jalapeño, and the rest of the rub. Spoon it into a piping bag or a zip-top bag with the corner snipped off."
+      },
+      {
+        "title": "Fill and finish",
+        "body": "Pull the cups off and let them cool a little, then pull the toothpicks out — the bacon holds its shape now. Pipe the filling into each cup, just below the top of the bacon so it doesn't bubble over. Put them back on at 300°F for 10 to 15 minutes, just until the filling is warmed through."
+      },
+      {
+        "title": "Drizzle and serve",
+        "body": "Drizzle hot honey over the top, let them rest a few minutes so they set, and serve warm."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Thick-cut bacon is the whole trick — thin bacon falls apart and the cups won't hold.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Pipe the filling just below the top of the bacon. Fill it to the brim and it bubbles over on the finish.",
+        "voice": "bruno"
+      },
+      {
+        "text": "You can build the cups the day before and keep them in the fridge, then smoke them when folks show up.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-smoked-pig-shots.jpg",
+    "pitTemp": "250°F then 300°F",
+    "school": null
   },
-  "servings": "6–8",
-  "wood": "Apple",
-  "summary": "Grillnation's Creole butter-injected turkey breast, Ember-style with the skin left on — Tony's marinade with honey butter in the injection, mustard binder, Tony's seasoning, smoked over applewood and finished in a honey-butter wrap.",
-  "story": "Grillnation's smoked turkey breast from his November 2026 reel — injected with Tony Chachere's Creole butter marinade, mustard binder, Tony's seasoning, finished in a honey-butter wrap. One change from the reel, Kelly's call: the skin stays on. Kelly hasn't cooked it yet.",
-  "ingredients": [
-    {
-      "group": "The breast",
-      "items": [
-        "1 boneless turkey breast, 5–6 lb, fully thawed"
-      ]
+  {
+    "title": "Ember Smoked Turkey Breast",
+    "slug": "ember-smoked-turkey-breast",
+    "region": "louisiana",
+    "protein": "poultry",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 3,
+      "max": 4.5
     },
-    {
-      "group": "The injection",
-      "items": [
-        "3/4 cup Tony Chachere's Creole Style Butter Injectable Marinade",
-        "2 Tbsp honey",
-        "2 Tbsp unsalted butter, melted"
-      ]
-    },
-    {
-      "group": "The rub",
-      "items": [
-        "2 Tbsp yellow mustard",
-        "2 tsp Tony Chachere's Original Creole Seasoning",
-        "2 tsp sweet paprika",
-        "2 tsp garlic powder",
-        "1 tsp onion powder"
-      ]
-    },
-    {
-      "group": "The wrap",
-      "items": [
-        "1/2 cup unsalted butter, sliced",
-        "1/4 cup honey"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Inject and chill",
-      "body": "Stir the honey and melted butter into the Tony's marinade. Pat the breast dry. Inject small amounts of the mixture throughout the breast. Set it on a rack over a tray and refrigerate 12–16 hours."
-    },
-    {
-      "title": "Season",
-      "body": "Leave the skin ON — Kelly's call, the reel takes it off. Pat dry, coat with mustard, mix the seasonings and season all sides."
-    },
-    {
-      "title": "Smoke",
-      "body": "Smoke at 250°F over applewood, breast-side up, until the breast hits 140°F, about 2–3 hours."
-    },
-    {
-      "title": "Butter wrap",
-      "body": "Lay the breast on heavy-duty foil with the butter and honey, wrap it tight, and put it back on at 250°F until the thickest part hits 160°F, about 45–90 minutes."
-    },
-    {
-      "title": "Rest and slice",
-      "body": "Rest loose-tented 20–30 minutes — Kelly's way, so the skin doesn't steam soft. Verify the thickest part reaches 165°F. Slice across the grain and spoon the honey-butter juices over the slices."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Inject small amounts in several spots and pull the needle out slow as you go — one big pocket is the mistake.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Skin stays on in Kelly's version — that's the whole argument in the reel's comments.",
-      "voice": "bruno"
-    },
-    {
-      "text": "The wrap is where the honey-butter juices come from — save every drop for the slices.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-smoked-turkey-breast.jpg",
-  "pitTemp": "250°F",
-  "finish": "165°F",
-  "school": null
-}
-,
-{
-  "title": "Ember Scotcheroos",
-  "slug": "ember-scotcheroos",
-  "region": "backyard",
-  "protein": "desserts",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 1.25,
-    "max": 1.5
+    "servings": "6–8",
+    "wood": "Apple",
+    "summary": "Grillnation's Creole butter-injected turkey breast, Ember-style with the skin left on — Tony's marinade with honey butter in the injection, mustard binder, Tony's seasoning, smoked over applewood and finished in a honey-butter wrap.",
+    "story": "Grillnation's smoked turkey breast from his November 2026 reel — injected with Tony Chachere's Creole butter marinade, mustard binder, Tony's seasoning, finished in a honey-butter wrap. One change from the reel, Kelly's call: the skin stays on. Kelly hasn't cooked it yet.",
+    "ingredients": [
+      {
+        "group": "The breast",
+        "items": [
+          "1 boneless turkey breast, 5–6 lb, fully thawed"
+        ]
+      },
+      {
+        "group": "The injection",
+        "items": [
+          "3/4 cup Tony Chachere's Creole Style Butter Injectable Marinade",
+          "2 Tbsp honey",
+          "2 Tbsp unsalted butter, melted"
+        ]
+      },
+      {
+        "group": "The rub",
+        "items": [
+          "2 Tbsp yellow mustard",
+          "2 tsp Tony Chachere's Original Creole Seasoning",
+          "2 tsp sweet paprika",
+          "2 tsp garlic powder",
+          "1 tsp onion powder"
+        ]
+      },
+      {
+        "group": "The wrap",
+        "items": [
+          "1/2 cup unsalted butter, sliced",
+          "1/4 cup honey"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Inject and chill",
+        "body": "Stir the honey and melted butter into the Tony's marinade. Pat the breast dry. Inject small amounts of the mixture throughout the breast. Set it on a rack over a tray and refrigerate 12–16 hours."
+      },
+      {
+        "title": "Season",
+        "body": "Leave the skin ON — Kelly's call, the reel takes it off. Pat dry, coat with mustard, mix the seasonings and season all sides."
+      },
+      {
+        "title": "Smoke",
+        "body": "Smoke at 250°F over applewood, breast-side up, until the breast hits 140°F, about 2–3 hours."
+      },
+      {
+        "title": "Butter wrap",
+        "body": "Lay the breast on heavy-duty foil with the butter and honey, wrap it tight, and put it back on at 250°F until the thickest part hits 160°F, about 45–90 minutes."
+      },
+      {
+        "title": "Rest and slice",
+        "body": "Rest loose-tented 20–30 minutes — Kelly's way, so the skin doesn't steam soft. Verify the thickest part reaches 165°F. Slice across the grain and spoon the honey-butter juices over the slices."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Inject small amounts in several spots and pull the needle out slow as you go — one big pocket is the mistake.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Skin stays on in Kelly's version — that's the whole argument in the reel's comments.",
+        "voice": "bruno"
+      },
+      {
+        "text": "The wrap is where the honey-butter juices come from — save every drop for the slices.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-smoked-turkey-breast.jpg",
+    "pitTemp": "250°F",
+    "finish": "165°F",
+    "school": null
   },
-  "servings": "12",
-  "wood": "Pantry",
-  "summary": "Justine's Kitchen's grandma's scotcheroos — peanut butter Rice Krispies cups with a chocolate-butterscotch top, no marshmallows, chilled till set.",
-  "story": "From Justine's Kitchen's July 2026 Short — she learned it from her grandma and calls it a game changer. Ember-style, amounts as shown in the video. Kelly hasn't cooked it yet.",
-  "ingredients": [
-    {
-      "group": "The cups",
-      "items": [
-        "8 oz creamy peanut butter (half a 16 oz jar)",
-        "1/2 cup corn syrup",
-        "1/2 cup cane sugar",
-        "6 cups crispy rice cereal"
-      ]
+  {
+    "title": "Ember Scotcheroos",
+    "slug": "ember-scotcheroos",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 1.25,
+      "max": 1.5
     },
-    {
-      "group": "The topping",
-      "items": [
-        "1/2 cup milk chocolate chips",
-        "1/2 cup butterscotch chips"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Warm the peanut butter",
-      "body": "Put half a jar of creamy peanut butter in a saucepan over medium heat. Add 1/2 cup corn syrup and about 1/2 cup cane sugar. Stir until the sugar has dissolved and the mixture is nice and bubbly, then set it aside."
-    },
-    {
-      "title": "Mix the cups",
-      "body": "Put 6 cups of crispy rice cereal in a large bowl and pour the whole peanut butter mixture over it. Mix until combined — the cereal turns light brown."
-    },
-    {
-      "title": "Shape the cups",
-      "body": "Scoop the mixture into each cup of a greased muffin pan. Press a shot glass into each cup to make a small divot."
-    },
-    {
-      "title": "Melt the topping",
-      "body": "Combine 1/2 cup milk chocolate chips and 1/2 cup butterscotch chips in a microwave-safe measuring cup. Microwave in 30-second bursts, stirring between, until fully melted. Fill each divot with the melted mixture."
-    },
-    {
-      "title": "Chill and serve",
-      "body": "Refrigerate at least 1 hour, then serve."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "No marshmallows in this one — unlike the classic pan scotcheroo, the peanut butter and corn syrup are the whole binder.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Grease the muffin pan well or the cups will stick.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Chill the full hour or the chocolate-butterscotch top won't set.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-scotcheroos.jpg",
-  "pitTemp": "Stovetop + microwave",
-  "finish": "Topping set, chilled 1 hour",
-  "school": null
-}
-,
-{
-  "title": "Ember Apple Cake",
-  "slug": "ember-apple-cake",
-  "region": "backyard",
-  "protein": "desserts",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.5,
-    "max": 0.75
+    "servings": "12",
+    "wood": "Pantry",
+    "summary": "Justine's Kitchen's grandma's scotcheroos — peanut butter Rice Krispies cups with a chocolate-butterscotch top, no marshmallows, chilled till set.",
+    "story": "From Justine's Kitchen's July 2026 Short — she learned it from her grandma and calls it a game changer. Ember-style, amounts as shown in the video. Kelly hasn't cooked it yet.",
+    "ingredients": [
+      {
+        "group": "The cups",
+        "items": [
+          "8 oz creamy peanut butter (half a 16 oz jar)",
+          "1/2 cup corn syrup",
+          "1/2 cup cane sugar",
+          "6 cups crispy rice cereal"
+        ]
+      },
+      {
+        "group": "The topping",
+        "items": [
+          "1/2 cup milk chocolate chips",
+          "1/2 cup butterscotch chips"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Warm the peanut butter",
+        "body": "Put half a jar of creamy peanut butter in a saucepan over medium heat. Add 1/2 cup corn syrup and about 1/2 cup cane sugar. Stir until the sugar has dissolved and the mixture is nice and bubbly, then set it aside."
+      },
+      {
+        "title": "Mix the cups",
+        "body": "Put 6 cups of crispy rice cereal in a large bowl and pour the whole peanut butter mixture over it. Mix until combined — the cereal turns light brown."
+      },
+      {
+        "title": "Shape the cups",
+        "body": "Scoop the mixture into each cup of a greased muffin pan. Press a shot glass into each cup to make a small divot."
+      },
+      {
+        "title": "Melt the topping",
+        "body": "Combine 1/2 cup milk chocolate chips and 1/2 cup butterscotch chips in a microwave-safe measuring cup. Microwave in 30-second bursts, stirring between, until fully melted. Fill each divot with the melted mixture."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Refrigerate at least 1 hour, then serve."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "No marshmallows in this one — unlike the classic pan scotcheroo, the peanut butter and corn syrup are the whole binder.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Grease the muffin pan well or the cups will stick.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Chill the full hour or the chocolate-butterscotch top won't set.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-scotcheroos.jpg",
+    "pitTemp": "Stovetop + microwave",
+    "finish": "Topping set, chilled 1 hour",
+    "school": null
   },
-  "servings": "8",
-  "wood": "Pantry",
-  "summary": "Food Wonder Hub's 'best apple pie in the world' — really a quick apple cake: sliced apples under a batter with a tablespoon of baking powder, baked golden in 30 minutes. No crust, no cinnamon.",
-  "story": "From Food Wonder Hub's July 2026 Short, where the narrator calls it the best apple pie in the world and says the baking powder is the secret she learned from a famous bakery owner. Fair warning from the comments: with no crust and no cinnamon, it's really an apple cake — written up here as one. Kelly hasn't cooked it yet.",
-  "ingredients": [
-    {
-      "group": "The apples",
-      "items": [
-        "2 apples, sliced",
-        "Butter and flour, to grease the pan"
-      ]
+  {
+    "title": "Ember Apple Cake",
+    "slug": "ember-apple-cake",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
     },
-    {
-      "group": "The batter",
-      "items": [
-        "2 eggs",
-        "1/2 cup sugar",
-        "1/2 cup milk",
-        "2 cups flour, sifted",
-        "1 Tbsp baking powder"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Pan and apples",
-      "body": "Grease a baking pan with butter and flour. Slice the apples and lay them in the pan."
-    },
-    {
-      "title": "Whisk the batter",
-      "body": "Whisk 2 eggs with 1/2 cup sugar, then mix in 1/2 cup milk. Add 2 cups sifted flour and mix really well, then stir in 1 Tbsp baking powder."
-    },
-    {
-      "title": "Bake",
-      "body": "Pour the batter over the apples and bake at 350°F for 30 minutes, until golden."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "No cinnamon or nutmeg in the video — add some if you want it to taste like pie.",
-      "voice": "bruno"
-    },
-    {
-      "text": "The baking powder is the whole trick here, per the narrator — don't skip it.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-apple-cake.jpg",
-  "pitTemp": "Oven 350°F",
-  "finish": "Golden, baked 30 min",
-  "school": null
-}
-,
-{
-  "title": "Ember Leftover Turkey and Ham Stuffing Bake",
-  "slug": "ember-leftover-turkey-ham-stuffing-bake",
-  "region": "backyard",
-  "protein": "poultry",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.25,
-    "max": 0.5
+    "servings": "8",
+    "wood": "Pantry",
+    "summary": "Food Wonder Hub's 'best apple pie in the world' — really a quick apple cake: sliced apples under a batter with a tablespoon of baking powder, baked golden in 30 minutes. No crust, no cinnamon.",
+    "story": "From Food Wonder Hub's July 2026 Short, where the narrator calls it the best apple pie in the world and says the baking powder is the secret she learned from a famous bakery owner. Fair warning from the comments: with no crust and no cinnamon, it's really an apple cake — written up here as one. Kelly hasn't cooked it yet.",
+    "ingredients": [
+      {
+        "group": "The apples",
+        "items": [
+          "2 apples, sliced",
+          "Butter and flour, to grease the pan"
+        ]
+      },
+      {
+        "group": "The batter",
+        "items": [
+          "2 eggs",
+          "1/2 cup sugar",
+          "1/2 cup milk",
+          "2 cups flour, sifted",
+          "1 Tbsp baking powder"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pan and apples",
+        "body": "Grease a baking pan with butter and flour. Slice the apples and lay them in the pan."
+      },
+      {
+        "title": "Whisk the batter",
+        "body": "Whisk 2 eggs with 1/2 cup sugar, then mix in 1/2 cup milk. Add 2 cups sifted flour and mix really well, then stir in 1 Tbsp baking powder."
+      },
+      {
+        "title": "Bake",
+        "body": "Pour the batter over the apples and bake at 350°F for 30 minutes, until golden."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "No cinnamon or nutmeg in the video — add some if you want it to taste like pie.",
+        "voice": "bruno"
+      },
+      {
+        "text": "The baking powder is the whole trick here, per the narrator — don't skip it.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-apple-cake.jpg",
+    "pitTemp": "Oven 350°F",
+    "finish": "Golden, baked 30 min",
+    "school": null
   },
-  "servings": "8",
-  "wood": "Pantry",
-  "summary": "Thanksgiving leftovers, cordon bleu style — leftover turkey and ham under cream of chicken soup and Swiss, with wet stuffing fluffed up on top, baked uncovered till hot through and the top is toasted.",
-  "story": "From seanyboycooks' September 2026 Short, his chicken cordon bleu stuffing bake. Kelly's version: leftover turkey and ham from Thanksgiving in place of the rotisserie chicken and deli ham, the stuffing wet before it goes on and fluffed up on top, baked uncovered and shorter than the video's 40–45 minutes. Kelly hasn't cooked it yet.",
-  "ingredients": [
-    {
-      "group": "The layers",
-      "items": [
-        "3 cups leftover turkey, shredded or chopped",
-        "8 slices leftover ham",
-        "1 can cream of chicken soup (10.5 oz)",
-        "8 slices Swiss cheese"
-      ]
+  {
+    "title": "Ember Leftover Turkey and Ham Stuffing Bake",
+    "slug": "ember-leftover-turkey-ham-stuffing-bake",
+    "region": "backyard",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
     },
-    {
-      "group": "The topping",
-      "items": [
-        "1 box chicken stuffing mix",
-        "1 1/2 cups chicken or turkey broth",
-        "3 Tbsp butter, melted"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Layer the leftovers",
-      "body": "Spread 3 cups leftover turkey in the bottom of a 9x13 baking dish. Lay 8 slices of leftover ham in an even layer over the turkey, then spoon 1 can cream of chicken soup over the ham and spread it as evenly as possible. Layer 8 slices of Swiss cheese evenly over the soup, lining them up with the ham."
-    },
-    {
-      "title": "Wet the stuffing first",
-      "body": "Put the stuffing mix in a bowl and pour 1 1/2 cups broth over it. Stir and fluff it up until all of it is wet — don't leave any of it dry. Spread the wet stuffing evenly over the cheese and drizzle 3 Tbsp melted butter over the top."
-    },
-    {
-      "title": "Bake uncovered",
-      "body": "Bake uncovered at 375°F for 15–30 minutes, until everything underneath is hot through and the top is toasted. No foil — everything in the dish is already cooked, it just needs to get hot and the top to toast."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Wet the stuffing before it goes on — Kelly's rule. None of it dry on top.",
-      "voice": "bruno"
-    },
-    {
-      "text": "No foil on this one — the turkey and ham are already cooked, so it just needs to get hot and the top to toast.",
-      "voice": "bruno"
-    },
-    {
-      "text": "The soup is what keeps the leftovers from drying out in the oven.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-leftover-turkey-ham-stuffing-bake.jpg",
-  "pitTemp": "Oven 375°F",
-  "finish": "Top toasted, hot through",
-  "school": null
-}
-,
-{
-  "title": "Ember Canned Venison",
-  "slug": "ember-canned-venison",
-  "region": "kentucky",
-  "protein": "venison",
-  "difficulty": "weekend",
-  "hours": {
-    "min": 2,
-    "max": 3.5
+    "servings": "8",
+    "wood": "Pantry",
+    "summary": "Thanksgiving leftovers, cordon bleu style — leftover turkey and ham under cream of chicken soup and Swiss, with wet stuffing fluffed up on top, baked uncovered till hot through and the top is toasted.",
+    "story": "From seanyboycooks' September 2026 Short, his chicken cordon bleu stuffing bake. Kelly's version: leftover turkey and ham from Thanksgiving in place of the rotisserie chicken and deli ham, the stuffing wet before it goes on and fluffed up on top, baked uncovered and shorter than the video's 40–45 minutes. Kelly hasn't cooked it yet.",
+    "ingredients": [
+      {
+        "group": "The layers",
+        "items": [
+          "3 cups leftover turkey, shredded or chopped",
+          "8 slices leftover ham",
+          "1 can cream of chicken soup (10.5 oz)",
+          "8 slices Swiss cheese"
+        ]
+      },
+      {
+        "group": "The topping",
+        "items": [
+          "1 box chicken stuffing mix",
+          "1 1/2 cups chicken or turkey broth",
+          "3 Tbsp butter, melted"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Layer the leftovers",
+        "body": "Spread 3 cups leftover turkey in the bottom of a 9x13 baking dish. Lay 8 slices of leftover ham in an even layer over the turkey, then spoon 1 can cream of chicken soup over the ham and spread it as evenly as possible. Layer 8 slices of Swiss cheese evenly over the soup, lining them up with the ham."
+      },
+      {
+        "title": "Wet the stuffing first",
+        "body": "Put the stuffing mix in a bowl and pour 1 1/2 cups broth over it. Stir and fluff it up until all of it is wet — don't leave any of it dry. Spread the wet stuffing evenly over the cheese and drizzle 3 Tbsp melted butter over the top."
+      },
+      {
+        "title": "Bake uncovered",
+        "body": "Bake uncovered at 375°F for 15–30 minutes, until everything underneath is hot through and the top is toasted. No foil — everything in the dish is already cooked, it just needs to get hot and the top to toast."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Wet the stuffing before it goes on — Kelly's rule. None of it dry on top.",
+        "voice": "bruno"
+      },
+      {
+        "text": "No foil on this one — the turkey and ham are already cooked, so it just needs to get hot and the top to toast.",
+        "voice": "bruno"
+      },
+      {
+        "text": "The soup is what keeps the leftovers from drying out in the oven.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-leftover-turkey-ham-stuffing-bake.jpg",
+    "pitTemp": "Oven 375°F",
+    "finish": "Top toasted, hot through",
+    "school": null
   },
-  "servings": "8 pints",
-  "wood": "Pantry",
-  "summary": "Cubed venison raw-packed in jars with a bouillon cube and a pinch of salt, pressure-canned the old-fashioned way so the hunt lasts all year.",
-  "story": "From Allen Hochstatter's November 2026 post in the Deer Processing group — canned venison, the old-fashioned way of preserving the hunt, before home freezers were common and families put venison up in jars. The times and pressures follow the USDA tables Allen points to. Kelly hasn't canned venison this way yet.",
-  "ingredients": [
-    {
-      "group": "Venison",
-      "items": [
-        "8 lb fresh venison, trimmed and cut into 1-inch cubes"
-      ]
+  {
+    "title": "Ember Canned Venison",
+    "slug": "ember-canned-venison",
+    "region": "kentucky",
+    "protein": "venison",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2,
+      "max": 3.5
     },
-    {
-      "group": "Per jar",
-      "items": [
-        "1 beef bouillon cube",
-        "1/2 tsp salt per pint or 1 tsp per quart, optional"
-      ]
-    },
-    {
-      "group": "Canning",
-      "items": [
-        "Canning jars and new lids",
-        "Pressure canner, weighted or dial gauge"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Trim and cube",
-      "body": "Trim the excess fat and silver skin off the venison and cut it into 1-inch cubes."
-    },
-    {
-      "title": "Pack the jars raw",
-      "body": "Pack the raw cubes loosely into clean jars, leaving 1 inch of headspace. Drop in one beef bouillon cube per jar and the salt if you're using it. Add NO liquid — a raw pack makes its own. Wipe the jar rims clean and set new lids on."
-    },
-    {
-      "title": "Vent and process",
-      "body": "Load the canner the way its manual says and vent steam for 10 minutes. Bring it to pressure: weighted gauge 10 lb up to 1,000 ft or 15 lb above that; dial gauge 11 lb up to 2,000 ft. Your time starts once the weight starts rocking or jiggling, not when the canner goes on the heat. Pints 75 minutes, quarts 90 minutes."
-    },
-    {
-      "title": "Cool and check the seals",
-      "body": "Let the pressure drop to zero on its own before you open the canner. Set the jars out and let them cool 12 to 24 hours, then check every seal, wipe the jars down, label them, and put them on the shelf."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Pressure canner only — never water-bath meat. Venison is low-acid, and only a pressure canner gets hot enough to kill botulism spores.",
-      "voice": "bruno"
-    },
-    {
-      "text": "The pressure depends on YOUR elevation, not Allen's. He's at about 906 feet in Minnesota on a weighted gauge at 10 lb — check the USDA table for your own altitude before you run a batch.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Time starts when the weight starts rocking, not when the canner goes on the heat.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-canned-venison.jpg",
-  "pitTemp": "Pressure canner",
-  "finish": "Sealed and shelf-stable",
-  "school": null
-}
-,
-{
-  "title": "Ember Carrot Cake Muffins",
-  "slug": "ember-carrot-cake-muffins",
-  "region": "backyard",
-  "protein": "desserts",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.5,
-    "max": 0.75
+    "servings": "8 pints",
+    "wood": "Pantry",
+    "summary": "Cubed venison raw-packed in jars with a bouillon cube and a pinch of salt, pressure-canned the old-fashioned way so the hunt lasts all year.",
+    "story": "From Allen Hochstatter's November 2026 post in the Deer Processing group — canned venison, the old-fashioned way of preserving the hunt, before home freezers were common and families put venison up in jars. The times and pressures follow the USDA tables Allen points to. Kelly hasn't canned venison this way yet.",
+    "ingredients": [
+      {
+        "group": "Venison",
+        "items": [
+          "8 lb fresh venison, trimmed and cut into 1-inch cubes"
+        ]
+      },
+      {
+        "group": "Per jar",
+        "items": [
+          "1 beef bouillon cube",
+          "1/2 tsp salt per pint or 1 tsp per quart, optional"
+        ]
+      },
+      {
+        "group": "Canning",
+        "items": [
+          "Canning jars and new lids",
+          "Pressure canner, weighted or dial gauge"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Trim and cube",
+        "body": "Trim the excess fat and silver skin off the venison and cut it into 1-inch cubes."
+      },
+      {
+        "title": "Pack the jars raw",
+        "body": "Pack the raw cubes loosely into clean jars, leaving 1 inch of headspace. Drop in one beef bouillon cube per jar and the salt if you're using it. Add NO liquid — a raw pack makes its own. Wipe the jar rims clean and set new lids on."
+      },
+      {
+        "title": "Vent and process",
+        "body": "Load the canner the way its manual says and vent steam for 10 minutes. Bring it to pressure: weighted gauge 10 lb up to 1,000 ft or 15 lb above that; dial gauge 11 lb up to 2,000 ft. Your time starts once the weight starts rocking or jiggling, not when the canner goes on the heat. Pints 75 minutes, quarts 90 minutes."
+      },
+      {
+        "title": "Cool and check the seals",
+        "body": "Let the pressure drop to zero on its own before you open the canner. Set the jars out and let them cool 12 to 24 hours, then check every seal, wipe the jars down, label them, and put them on the shelf."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Pressure canner only — never water-bath meat. Venison is low-acid, and only a pressure canner gets hot enough to kill botulism spores.",
+        "voice": "bruno"
+      },
+      {
+        "text": "The pressure depends on YOUR elevation, not Allen's. He's at about 906 feet in Minnesota on a weighted gauge at 10 lb — check the USDA table for your own altitude before you run a batch.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Time starts when the weight starts rocking, not when the canner goes on the heat.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-canned-venison.jpg",
+    "pitTemp": "Pressure canner",
+    "finish": "Sealed and shelf-stable",
+    "school": null
   },
-  "servings": "12",
-  "wood": "Pantry",
-  "pitTemp": "Oven 350°F",
-  "finish": "Toothpick clean, frosted",
-  "summary": "Moist, warmly spiced carrot cake muffins with brown sugar and walnuts, finished with a smooth cream cheese frosting.",
-  "story": "Rime Elb shared these in the Old Fashioned Recipes group, and the full recipe comes from Janet Miller. The graphic cuts the amounts off — the flour reads like eleven cups — so the numbers here are the ones from her page. I haven't baked these yet; they're written up as she wrote them.",
-  "ingredients": [
-    {
-      "group": "The muffins",
-      "items": [
-        "1 1/2 cups all-purpose flour",
-        "3/4 cup packed brown sugar",
-        "1 tsp baking powder",
-        "1/2 tsp baking soda",
-        "1/2 tsp salt",
-        "1 tsp ground cinnamon",
-        "1/2 tsp ground nutmeg",
-        "2 large eggs",
-        "1/2 cup vegetable oil",
-        "1 tsp vanilla extract",
-        "2 cups finely grated carrots",
-        "1/2 cup chopped walnuts"
-      ]
+  {
+    "title": "Ember Carrot Cake Muffins",
+    "slug": "ember-carrot-cake-muffins",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
     },
-    {
-      "group": "The frosting",
-      "items": [
-        "4 oz cream cheese, softened",
-        "2 Tbsp unsalted butter, softened",
-        "1 cup powdered sugar",
-        "1/2 tsp vanilla extract"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Heat the oven",
-      "body": "Preheat your oven to 350°F and line a 12-cup muffin pan with paper liners. Get this going first so the oven is fully up to temperature before your batter is ready."
-    },
-    {
-      "title": "Mix the dry",
-      "body": "In a large bowl, whisk together the flour, brown sugar, baking powder, baking soda, salt, cinnamon, and nutmeg. Break up any lumps of brown sugar as you go."
-    },
-    {
-      "title": "Mix the wet",
-      "body": "In a separate bowl, whisk the 2 eggs, 1/2 cup vegetable oil, and 1 tsp vanilla extract until the mixture looks uniform."
-    },
-    {
-      "title": "Bring it together — gently",
-      "body": "Pour the wet ingredients into the dry and stir gently. Stop as soon as the dry flour disappears — the batter will look a little rough and that is fine. Fold in the 2 cups of grated carrots and 1/2 cup chopped walnuts with a spatula, using slow, deliberate strokes. Do not stir."
-    },
-    {
-      "title": "Bake",
-      "body": "Divide the batter evenly among the 12 muffin cups, filling each about 3/4 full. Bake 18-22 minutes. Start checking at 18 minutes — a toothpick in the center should come out clean or with a dry crumb or two. A wet smear means they need more time."
-    },
-    {
-      "title": "Cool, then frost",
-      "body": "Let the muffins cool in the pan for 5 minutes, then move them to a wire rack. They must be completely cool before frosting, or the cream cheese will melt and slide right off. Beat the softened cream cheese and butter together until completely smooth, about 2 minutes. Add the powdered sugar and vanilla and beat again until creamy. Spread or pipe it over the cooled muffins and sprinkle with extra chopped walnuts if you like."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Do not overmix. Once the wet meets the dry, a few stirs are all you need — keep going and you build gluten, which makes the muffins tough and dense instead of tender.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Grate your own carrots on the fine holes of a box grater, right before you mix. Pre-shredded carrots from a bag are too thick and too dry, and they don't break down in the bake.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Use the toothpick test, not the timer. Ovens vary — pull the muffins as soon as the toothpick comes out clean, because even a few extra minutes can push them from moist to dry.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Frosted muffins keep in the fridge in an airtight container up to 4 days. Unfrosted, they keep on the counter 2 days or in the fridge 5 days — frost them as you eat them.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-carrot-cake-muffins.jpg",
-  "school": null
-},
-{
-  "title": "Ember Candied Mixed Nuts",
-  "slug": "ember-candied-mixed-nuts",
-  "region": "backyard",
-  "protein": "desserts",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.75,
-    "max": 1
+    "servings": "12",
+    "wood": "Pantry",
+    "pitTemp": "Oven 350°F",
+    "finish": "Toothpick clean, frosted",
+    "summary": "Moist, warmly spiced carrot cake muffins with brown sugar and walnuts, finished with a smooth cream cheese frosting.",
+    "story": "Rime Elb shared these in the Old Fashioned Recipes group, and the full recipe comes from Janet Miller. The graphic cuts the amounts off — the flour reads like eleven cups — so the numbers here are the ones from her page. I haven't baked these yet; they're written up as she wrote them.",
+    "ingredients": [
+      {
+        "group": "The muffins",
+        "items": [
+          "1 1/2 cups all-purpose flour",
+          "3/4 cup packed brown sugar",
+          "1 tsp baking powder",
+          "1/2 tsp baking soda",
+          "1/2 tsp salt",
+          "1 tsp ground cinnamon",
+          "1/2 tsp ground nutmeg",
+          "2 large eggs",
+          "1/2 cup vegetable oil",
+          "1 tsp vanilla extract",
+          "2 cups finely grated carrots",
+          "1/2 cup chopped walnuts"
+        ]
+      },
+      {
+        "group": "The frosting",
+        "items": [
+          "4 oz cream cheese, softened",
+          "2 Tbsp unsalted butter, softened",
+          "1 cup powdered sugar",
+          "1/2 tsp vanilla extract"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Heat the oven",
+        "body": "Preheat your oven to 350°F and line a 12-cup muffin pan with paper liners. Get this going first so the oven is fully up to temperature before your batter is ready."
+      },
+      {
+        "title": "Mix the dry",
+        "body": "In a large bowl, whisk together the flour, brown sugar, baking powder, baking soda, salt, cinnamon, and nutmeg. Break up any lumps of brown sugar as you go."
+      },
+      {
+        "title": "Mix the wet",
+        "body": "In a separate bowl, whisk the 2 eggs, 1/2 cup vegetable oil, and 1 tsp vanilla extract until the mixture looks uniform."
+      },
+      {
+        "title": "Bring it together — gently",
+        "body": "Pour the wet ingredients into the dry and stir gently. Stop as soon as the dry flour disappears — the batter will look a little rough and that is fine. Fold in the 2 cups of grated carrots and 1/2 cup chopped walnuts with a spatula, using slow, deliberate strokes. Do not stir."
+      },
+      {
+        "title": "Bake",
+        "body": "Divide the batter evenly among the 12 muffin cups, filling each about 3/4 full. Bake 18-22 minutes. Start checking at 18 minutes — a toothpick in the center should come out clean or with a dry crumb or two. A wet smear means they need more time."
+      },
+      {
+        "title": "Cool, then frost",
+        "body": "Let the muffins cool in the pan for 5 minutes, then move them to a wire rack. They must be completely cool before frosting, or the cream cheese will melt and slide right off. Beat the softened cream cheese and butter together until completely smooth, about 2 minutes. Add the powdered sugar and vanilla and beat again until creamy. Spread or pipe it over the cooled muffins and sprinkle with extra chopped walnuts if you like."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Do not overmix. Once the wet meets the dry, a few stirs are all you need — keep going and you build gluten, which makes the muffins tough and dense instead of tender.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Grate your own carrots on the fine holes of a box grater, right before you mix. Pre-shredded carrots from a bag are too thick and too dry, and they don't break down in the bake.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Use the toothpick test, not the timer. Ovens vary — pull the muffins as soon as the toothpick comes out clean, because even a few extra minutes can push them from moist to dry.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Frosted muffins keep in the fridge in an airtight container up to 4 days. Unfrosted, they keep on the counter 2 days or in the fridge 5 days — frost them as you eat them.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-carrot-cake-muffins.jpg",
+    "school": null
   },
-  "servings": "10",
-  "wood": "Cherry, a little",
-  "pitTemp": "Smoker 250°F",
-  "finish": "Crisp, browned, cooled",
-  "summary": "Brown sugar, vanilla, and a pinch of cinnamon on a mix of pecans, cashews, and almonds — smoked low and slow with a little cherry wood till crisp.",
-  "story": "This one starts from the most-reviewed candied pecans recipe anywhere — a pound of nuts, egg white, sugar, and spice, baked low and slow. Kelly's version trades the oven for the smoker with a little cherry wood, and mixes pecans, cashews, and almonds instead of pecans alone. Brown sugar and vanilla carry the flavor, with just a pinch of cinnamon. I have not cooked these yet; they are written up as the recipe reads.",
-  "ingredients": [
-    {
-      "group": "The mix",
-      "items": [
-        "1 lb mixed nuts — pecan halves, cashews, and almonds",
-        "1/2 cup white sugar",
-        "1/2 cup light brown sugar, packed",
-        "1 pinch ground cinnamon",
-        "1/2 tsp salt",
-        "1 large egg white",
-        "1 tsp vanilla extract"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Get the smoker going",
-      "body": "Get the smoker running at 250°F with a little cherry wood, and line a rimmed baking sheet with parchment."
+  {
+    "title": "Ember Candied Mixed Nuts",
+    "slug": "ember-candied-mixed-nuts",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.75,
+      "max": 1
     },
-    {
-      "title": "Mix the sugar and spice",
-      "body": "In a small bowl, stir together the white sugar, brown sugar, pinch of cinnamon, and salt."
-    },
-    {
-      "title": "Whisk the egg white",
-      "body": "In a large bowl, whisk the egg white and vanilla until frothy."
-    },
-    {
-      "title": "Coat the nuts",
-      "body": "Toss the mixed nuts in the egg white mixture to coat, then slowly pour in the sugar mixture and stir until the nuts are evenly coated."
-    },
-    {
-      "title": "Smoke them low and slow",
-      "body": "Spread the nuts in a single layer on the baking sheet and set it in the smoker. Smoke at 250°F, stirring every 15 minutes, until evenly browned and crisp — about an hour."
-    },
-    {
-      "title": "Cool till crisp",
-      "body": "Let them cool completely on the pan. They crisp up as they cool — do not judge them hot."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Stir every 15 minutes so the coating sets even and nothing sticks to the pan.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Let them cool all the way on the pan — they crisp up as they cool.",
-      "voice": "bruno"
-    },
-    {
-      "text": "An airtight jar at room temperature keeps them a week, the fridge three weeks, the freezer two months.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-candied-mixed-nuts.jpg",
-  "school": null
-},
-{
-  "title": "Ember Grandpa Walton's Pumpkin Pecan Pie",
-  "slug": "ember-grandpa-waltons-pumpkin-pecan-pie",
-  "region": "backyard",
-  "protein": "desserts",
-  "difficulty": "weekend",
-  "hours": {
-    "min": 1,
-    "max": 1.25
+    "servings": "10",
+    "wood": "Cherry, a little",
+    "pitTemp": "Smoker 250°F",
+    "finish": "Crisp, browned, cooled",
+    "summary": "Brown sugar, vanilla, and a pinch of cinnamon on a mix of pecans, cashews, and almonds — smoked low and slow with a little cherry wood till crisp.",
+    "story": "This one starts from the most-reviewed candied pecans recipe anywhere — a pound of nuts, egg white, sugar, and spice, baked low and slow. Kelly's version trades the oven for the smoker with a little cherry wood, and mixes pecans, cashews, and almonds instead of pecans alone. Brown sugar and vanilla carry the flavor, with just a pinch of cinnamon. I have not cooked these yet; they are written up as the recipe reads.",
+    "ingredients": [
+      {
+        "group": "The mix",
+        "items": [
+          "1 lb mixed nuts — pecan halves, cashews, and almonds",
+          "1/2 cup white sugar",
+          "1/2 cup light brown sugar, packed",
+          "1 pinch ground cinnamon",
+          "1/2 tsp salt",
+          "1 large egg white",
+          "1 tsp vanilla extract"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Get the smoker going",
+        "body": "Get the smoker running at 250°F with a little cherry wood, and line a rimmed baking sheet with parchment."
+      },
+      {
+        "title": "Mix the sugar and spice",
+        "body": "In a small bowl, stir together the white sugar, brown sugar, pinch of cinnamon, and salt."
+      },
+      {
+        "title": "Whisk the egg white",
+        "body": "In a large bowl, whisk the egg white and vanilla until frothy."
+      },
+      {
+        "title": "Coat the nuts",
+        "body": "Toss the mixed nuts in the egg white mixture to coat, then slowly pour in the sugar mixture and stir until the nuts are evenly coated."
+      },
+      {
+        "title": "Smoke them low and slow",
+        "body": "Spread the nuts in a single layer on the baking sheet and set it in the smoker. Smoke at 250°F, stirring every 15 minutes, until evenly browned and crisp — about an hour."
+      },
+      {
+        "title": "Cool till crisp",
+        "body": "Let them cool completely on the pan. They crisp up as they cool — do not judge them hot."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Stir every 15 minutes so the coating sets even and nothing sticks to the pan.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Let them cool all the way on the pan — they crisp up as they cool.",
+        "voice": "bruno"
+      },
+      {
+        "text": "An airtight jar at room temperature keeps them a week, the fridge three weeks, the freezer two months.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-candied-mixed-nuts.jpg",
+    "school": null
   },
-  "servings": "8",
-  "wood": "Pantry",
-  "pitTemp": "Oven 350°F",
-  "finish": "Set at the edges, knife comes out clean 1 inch from the edge",
-  "summary": "A pecan pie with a cup of pumpkin in it — Will Geer's favorite Thanksgiving pie, pecans on the bottom, whipped cream on top.",
-  "story": "Will Geer, Grandpa Walton himself, called this \"the best Thanksgiving pie I ever had anywhere.\" Born in Frankfort, Indiana, he spent near 50 years performing in tent shows and on riverboats before starting his own repertory company in 1924 — and somewhere along the way, somebody served him a Thanksgiving pie so good he demanded the recipe. Kelly hasn't made this one yet — it's on his Thanksgiving table this year, written up as the old clipping reads.",
-  "ingredients": [
-    {
-      "group": "The pie",
-      "items": [
-        "1 9-inch unbaked piecrust",
-        "3 eggs",
-        "1 cup dark corn syrup",
-        "1/2 cup sugar",
-        "1/4 cup melted margarine",
-        "1 cup canned pumpkin",
-        "1 teaspoon vanilla",
-        "1 cup pecan halves"
-      ]
+  {
+    "title": "Ember Grandpa Walton's Pumpkin Pecan Pie",
+    "slug": "ember-grandpa-waltons-pumpkin-pecan-pie",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 1,
+      "max": 1.25
     },
-    {
-      "group": "To serve",
-      "items": [
-        "Whipped cream"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Get the oven ready",
-      "body": "Preheat the oven to 350°F and prepare the piecrust."
-    },
-    {
-      "title": "Beat the filling",
-      "body": "With a hand beater or wire whisk, beat the eggs well. Beat in the corn syrup, sugar, melted margarine, pumpkin, and vanilla until well blended."
-    },
-    {
-      "title": "Pecans on the bottom",
-      "body": "Arrange the pecan halves in the bottom of the piecrust. Slowly pour the egg mixture over them."
-    },
-    {
-      "title": "Bake",
-      "body": "Bake for 1 hour, or until a knife inserted 1 inch from the edge comes out clean."
-    },
-    {
-      "title": "Cool and serve",
-      "body": "Let it cool, then serve with good old whipped cream."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "The pecans go on the bottom, not stirred in — they float up into the top as it bakes and set into the crust of the pie.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Don't skip the cool — the filling needs to set before you slice it.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-grandpa-waltons-pumpkin-pecan-pie.jpg",
-  "school": null
-},
-{
-  "title": "Ember Southern Fried Potatoes and Onions",
-  "slug": "ember-southern-fried-potatoes-and-onions",
-  "region": "southern",
-  "protein": "sides",
-  "difficulty": "weeknight",
-  "hours": {
-    "min": 0.33,
-    "max": 0.5
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "Oven 350°F",
+    "finish": "Set at the edges, knife comes out clean 1 inch from the edge",
+    "summary": "A pecan pie with a cup of pumpkin in it — Will Geer's favorite Thanksgiving pie, pecans on the bottom, whipped cream on top.",
+    "story": "Will Geer, Grandpa Walton himself, called this \"the best Thanksgiving pie I ever had anywhere.\" Born in Frankfort, Indiana, he spent near 50 years performing in tent shows and on riverboats before starting his own repertory company in 1924 — and somewhere along the way, somebody served him a Thanksgiving pie so good he demanded the recipe. Kelly hasn't made this one yet — it's on his Thanksgiving table this year, written up as the old clipping reads.",
+    "ingredients": [
+      {
+        "group": "The pie",
+        "items": [
+          "1 9-inch unbaked piecrust",
+          "3 eggs",
+          "1 cup dark corn syrup",
+          "1/2 cup sugar",
+          "1/4 cup melted margarine",
+          "1 cup canned pumpkin",
+          "1 teaspoon vanilla",
+          "1 cup pecan halves"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Whipped cream"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Get the oven ready",
+        "body": "Preheat the oven to 350°F and prepare the piecrust."
+      },
+      {
+        "title": "Beat the filling",
+        "body": "With a hand beater or wire whisk, beat the eggs well. Beat in the corn syrup, sugar, melted margarine, pumpkin, and vanilla until well blended."
+      },
+      {
+        "title": "Pecans on the bottom",
+        "body": "Arrange the pecan halves in the bottom of the piecrust. Slowly pour the egg mixture over them."
+      },
+      {
+        "title": "Bake",
+        "body": "Bake for 1 hour, or until a knife inserted 1 inch from the edge comes out clean."
+      },
+      {
+        "title": "Cool and serve",
+        "body": "Let it cool, then serve with good old whipped cream."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "The pecans go on the bottom, not stirred in — they float up into the top as it bakes and set into the crust of the pie.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Don't skip the cool — the filling needs to set before you slice it.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-grandpa-waltons-pumpkin-pecan-pie.jpg",
+    "school": null
   },
-  "servings": "4",
-  "wood": "Pantry",
-  "pitTemp": "Cast-iron skillet",
-  "finish": "Golden brown and crispy outside, soft inside, onions soft and caramelized",
-  "summary": "Crispy golden Yukon Golds fried in a cast-iron skillet with big pieces of sweet onion — salt and pepper, nothing else. The base every southerner starts from.",
-  "story": "Every southerner needs fried potatoes and onions, and this is the base to start from — Yukon Golds, oil, salt and pepper, big pieces of onion, fried in a cast-iron skillet till crispy. Built from the highest-rated version out there. Garlic powder, paprika, bell pepper, bacon, rosemary — all of that is yours to add after the potatoes are going. Kelly sometimes adds rosemary himself.",
-  "ingredients": [
-    {
-      "group": "The potatoes",
-      "items": [
-        "2 lb Yukon Gold potatoes, cut into 1/2-inch cubes, skin on",
-        "1 medium onion (yellow, white, or sweet), cut into big pieces",
-        "3 Tbsp oil, any neutral high-heat oil",
-        "1 tsp salt",
-        "1/2 tsp black pepper"
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "title": "Prep the potatoes",
-      "body": "Dice the Yukon Golds into 1/2-inch cubes, skin on — no need to peel them. Dry them well with a clean towel. Wet potatoes in a hot skillet will splatter."
+  {
+    "title": "Ember Southern Fried Potatoes and Onions",
+    "slug": "ember-southern-fried-potatoes-and-onions",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.33,
+      "max": 0.5
     },
-    {
-      "title": "Prep the onion",
-      "body": "Cut the onion into big pieces, not thin slices."
-    },
-    {
-      "title": "Fry the potatoes",
-      "body": "Heat a cast-iron skillet over medium heat and add the oil. When it's shimmering, add the potatoes in a single layer. Let them cook undisturbed about 3 minutes, then stir every 2 minutes for 6–8 minutes until mostly golden brown on all sides."
-    },
-    {
-      "title": "Add the onions",
-      "body": "Stir in the big onion pieces and season with salt and pepper. Lower the heat a little and cook about 5 minutes more until the onions are soft and the potatoes are crispy all over. Sometimes they need a few extra minutes — give them time, don't rush the crisp."
-    },
-    {
-      "title": "Serve",
-      "body": "Serve warm, straight from the skillet."
-    }
-  ],
-  "proTips": [
-    {
-      "text": "Don't crowd the pan — spread the potatoes out in a single layer so they crisp instead of steam. Use the biggest skillet you've got.",
-      "voice": "bruno"
-    },
-    {
-      "text": "Let them sit undisturbed — patience is what makes the crust. Stirring too much keeps them pale.",
-      "voice": "bruno"
-    },
-    {
-      "text": "This is the base — garlic powder, paprika, bell pepper, bacon, cheese, rosemary, whatever you like, add it after the potatoes are going. Kelly sometimes adds rosemary himself.",
-      "voice": "bruno"
-    },
-    {
-      "text": "If you've got the time, a 15-minute soak in cold water pulls starch out of the potatoes and gets them even crispier — just dry them well before they hit the skillet.",
-      "voice": "bruno"
-    }
-  ],
-  "image": "/images/ember-southern-fried-potatoes-and-onions.jpg",
-  "school": null
-},
+    "servings": "4",
+    "wood": "Pantry",
+    "pitTemp": "Cast-iron skillet",
+    "finish": "Golden brown and crispy outside, soft inside, onions soft and caramelized",
+    "summary": "Crispy golden Yukon Golds fried in a cast-iron skillet with big pieces of sweet onion — salt and pepper, nothing else. The base every southerner starts from.",
+    "story": "Every southerner needs fried potatoes and onions, and this is the base to start from — Yukon Golds, oil, salt and pepper, big pieces of onion, fried in a cast-iron skillet till crispy. Built from the highest-rated version out there. Garlic powder, paprika, bell pepper, bacon, rosemary — all of that is yours to add after the potatoes are going. Kelly sometimes adds rosemary himself.",
+    "ingredients": [
+      {
+        "group": "The potatoes",
+        "items": [
+          "2 lb Yukon Gold potatoes, cut into 1/2-inch cubes, skin on",
+          "1 medium onion (yellow, white, or sweet), cut into big pieces",
+          "3 Tbsp oil, any neutral high-heat oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prep the potatoes",
+        "body": "Dice the Yukon Golds into 1/2-inch cubes, skin on — no need to peel them. Dry them well with a clean towel. Wet potatoes in a hot skillet will splatter."
+      },
+      {
+        "title": "Prep the onion",
+        "body": "Cut the onion into big pieces, not thin slices."
+      },
+      {
+        "title": "Fry the potatoes",
+        "body": "Heat a cast-iron skillet over medium heat and add the oil. When it's shimmering, add the potatoes in a single layer. Let them cook undisturbed about 3 minutes, then stir every 2 minutes for 6–8 minutes until mostly golden brown on all sides."
+      },
+      {
+        "title": "Add the onions",
+        "body": "Stir in the big onion pieces and season with salt and pepper. Lower the heat a little and cook about 5 minutes more until the onions are soft and the potatoes are crispy all over. Sometimes they need a few extra minutes — give them time, don't rush the crisp."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve warm, straight from the skillet."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Don't crowd the pan — spread the potatoes out in a single layer so they crisp instead of steam. Use the biggest skillet you've got.",
+        "voice": "bruno"
+      },
+      {
+        "text": "Let them sit undisturbed — patience is what makes the crust. Stirring too much keeps them pale.",
+        "voice": "bruno"
+      },
+      {
+        "text": "This is the base — garlic powder, paprika, bell pepper, bacon, cheese, rosemary, whatever you like, add it after the potatoes are going. Kelly sometimes adds rosemary himself.",
+        "voice": "bruno"
+      },
+      {
+        "text": "If you've got the time, a 15-minute soak in cold water pulls starch out of the potatoes and gets them even crispier — just dry them well before they hit the skillet.",
+        "voice": "bruno"
+      }
+    ],
+    "image": "/images/ember-southern-fried-potatoes-and-onions.jpg",
+    "school": null
+  },
   {
     "title": "Ember Pecan Pie Cobbler",
     "slug": "ember-pecan-pie-cobbler",
@@ -13240,6 +13233,83 @@
       }
     ],
     "image": "/images/black-forest-cheesecake.jpg",
+    "school": null
+  },
+  {
+    "title": "Ember Ham Salad",
+    "slug": "ember-ham-salad",
+    "region": "southern",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "None — no cook, chill to set",
+    "finish": "Chilled and creamy, ready to spread",
+    "summary": "Leftover ham, hard-boiled eggs, and minced vegetables in a lightly seasoned creamy mayonnaise base — the day-after-Christmas bowl. Serve it on crackers or as a sandwich.",
+    "story": "Built from Savory Experiments' Best Ham Salad (4.47 stars from 28 votes). The day-after-Christmas answer for leftover ham — dice it fine, fold it in mayo with egg and onion, and let it chill. Kelly's call: no carrot in this one. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "The salad",
+        "items": [
+          "2 cups cooked ham, finely diced",
+          "2 hard-boiled eggs, chopped",
+          "1 Tbsp red onion, minced",
+          "1 Tbsp celery, minced"
+        ]
+      },
+      {
+        "group": "The dressing",
+        "items": [
+          "3/4 cup mayonnaise",
+          "1 Tbsp Dijon mustard",
+          "1 Tbsp sweet relish",
+          "1/2 tsp hot sauce, optional",
+          "1 tsp coarse kosher salt",
+          "1/2 tsp ground white pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dice the ham",
+        "body": "Finely dice 2 cups cooked ham and chop 2 hard-boiled eggs."
+      },
+      {
+        "title": "Mix the dressing",
+        "body": "Stir the mayonnaise, Dijon, sweet relish, and hot sauce together in a large bowl."
+      },
+      {
+        "title": "Fold it together",
+        "body": "Add the ham, eggs, red onion, and celery. Toss to combine — do not overmix or the eggs get gummy and weird."
+      },
+      {
+        "title": "Season",
+        "body": "Taste the mixture, then season with salt and white pepper. This varies depending on how salty the ham is."
+      },
+      {
+        "title": "Chill and serve",
+        "body": "Cover and chill 1 hour before serving. Serve as a spread on crackers or as a sandwich."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Don't overmix — the eggs go gummy if you work it too hard.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Taste before you salt — the ham brings plenty of its own salt.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "It gets better as it chills — give it the full hour if you can.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-ham-salad.jpg",
     "school": null
   }
 ]
