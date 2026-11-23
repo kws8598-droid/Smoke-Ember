@@ -51,6 +51,18 @@ export const regionCopy: Record<string, { label: string; line: string; image: st
   backyard: { label: "Backyard", line: "Home pit classics. No passport required.", image: "/images/hero-bbq-pitrow-v2.jpg" },
   california: { label: "California", line: "Baja fish tacos, tri-tip, and coastal smoke.", image: "/images/smoked-baja-fish-tacos.jpg" },
   amish: { label: "Amish Country", line: "Simple, hearty cooking from the Amish settlements.", image: "/images/ember-shoofly-pie.jpg" },
+  southern: { label: "Southern", line: "Down-home cooks from across the South.", image: "/images/ember-ham-salad.jpg" },
+  carolina: { label: "Carolina", line: "Vinegar, mustard, and whole hog.", image: "/images/pork-injection.jpg" },
+  louisiana: { label: "Louisiana", line: "Cajun and Creole smoke from the bayou.", image: "/images/ember-smoked-turkey-breast.jpg" },
+  memphis: { label: "Memphis", line: "Dry rub, sweet sauce, and ribs done right.", image: "/images/bbq-spaghetti.jpg" },
+  alabama: { label: "Alabama", line: "White sauce, smoked chicken, and Gulf flavor.", image: "/images/white-sauce.jpg" },
+  appalachia: { label: "Appalachia", line: "Mountain cooking, smoke, and cast iron.", image: "/images/ember-soup-beans-cornbread.jpg" },
+  pacific: { label: "Pacific", line: "Island smoke and coastal flavor.", image: "/images/pnw-salmon-rub.jpg" },
+  southwest: { label: "Southwest", line: "Chile, smoke, and desert heat.", image: "/images/hatch-rub.jpg" },
+  maryland: { label: "Maryland", line: "Chesapeake smoke and old-school flavor.", image: "/images/pulled-venison.jpg" },
+  chicago: { label: "Chicago", line: "City smoke with a Southern heart.", image: "/images/chicago-sauce.jpg" },
+  hawaii: { label: "Hawaii", line: "Island smoke, sweet and slow.", image: "/images/hawaiian-shish-kebabs.jpg" },
+  pittsburgh: { label: "Pittsburgh", line: "Steel-town smoke and hearty plates.", image: "/images/pitt-style-amber-ham.jpg" },
 };
 
 export function getRecipe(slug: string) { return recipes.find((r) => r.slug === slug); }
@@ -61,8 +73,8 @@ export function pantry() { return recipes.filter((r) => r.protein === "rubs" || 
 
 export function formatHours(h: { min: number; max: number }) {
   const fmt = (n: number) => (n < 1 ? `${Math.round(n * 60)} min` : String(n).replace(/\.0$/, ""));
-  if (h.max < 1) return `${Math.round(h.min * 60)}–${Math.round(h.max * 60)} min`;
   if (h.min === h.max) return h.min < 1 ? fmt(h.min) : `${fmt(h.min)} hrs`;
+  if (h.max < 1) return `${Math.round(h.min * 60)}–${Math.round(h.max * 60)} min`;
   return `${fmt(h.min)}–${fmt(h.max)} hrs`;
 }
 
@@ -90,10 +102,7 @@ export function filterRecipes(
       const extraGame = ["smoked-duck", "smoked-frog-legs"];
       list = list.filter((r) => r.protein === "venison" || r.protein === "gator" || r.protein === "game" || extraGame.includes(r.slug));
     } else if (opts.protein === "poultry") {
-      const mentionsBird = (r: Recipe) => {
-        const hay = [r.title, r.summary, r.story, ...(r.ingredients ?? []).flatMap((g) => g.items ?? [])].join(" ").toLowerCase();
-        return /\b(turkey|chicken|duck)\b/.test(hay);
-      };
+      const mentionsBird = (r: Recipe) => /\b(turkey|chicken|duck)\b/i.test(r.title ?? "");
       list = list.filter((r) => r.protein === "poultry" || mentionsBird(r));
     } else {
       list = list.filter((r) => r.protein === opts.protein);
