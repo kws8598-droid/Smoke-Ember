@@ -6,6 +6,13 @@ const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
 const JAMBOREE_STREAM = "https://the-bluegrass-jamboree.radiocult.fm/stream";
 const PODCAST_EMBED = "https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504";
 const MOUNTAIN_DEW_EMBED = "https://www.youtube.com/embed/x81du4NMHZ0";
+const BLUEGRASS_PICKS = [
+  { title: "Blue Moon of Kentucky", artist: "Bill Monroe", id: "xtpiqdN2lJk" },
+  { title: "How Mountain Girls Can Love", artist: "The Stanley Brothers", id: "dZVqClIwVOM" },
+  { title: "Little Maggie", artist: "The Stanley Brothers", id: "kFECy0CgFLQ" },
+  { title: "Train 45", artist: "The Stanley Brothers", id: "_9KEIBHsxEo" },
+  { title: "I'm a Man of Constant Sorrow", artist: "The Stanley Brothers", id: "jgyu2c-JBlc" },
+];
 
 // A single persistent player that lives in the site layout, so it keeps
 // playing while you click between pages (the layout does not remount on
@@ -18,6 +25,8 @@ export default function PlayerBar() {
   const [radioPlaying, setRadioPlaying] = useState(false);
   const [podcastOpen, setPodcastOpen] = useState(false);
   const [songOpen, setSongOpen] = useState(false);
+  const [picksOpen, setPicksOpen] = useState(false);
+  const [currentPick, setCurrentPick] = useState(BLUEGRASS_PICKS[0]);
   const [showChristmas, setShowChristmas] = useState(false);
   const [currentStream, setCurrentStream] = useState(CHRISTMAS_STREAM);
 
@@ -76,6 +85,36 @@ export default function PlayerBar() {
           title="Mountain Dew — The Stanley Brothers"
         />
       </div>
+      <div className={`mx-auto max-w-6xl px-4 ${picksOpen ? "" : "h-0 overflow-hidden"}`}>
+        <div className="rounded-t-2xl border border-white/10 border-b-0 bg-bark">
+          <iframe
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            frameBorder="0"
+            height="315"
+            src={`https://www.youtube.com/embed/${currentPick.id}`}
+            className="w-full bg-bark"
+            title={`${currentPick.title} — ${currentPick.artist}`}
+          />
+          <div className="flex flex-wrap gap-2 px-3 pb-3">
+            {BLUEGRASS_PICKS.map((pick) => (
+              <button
+                key={pick.id}
+                type="button"
+                onClick={() => setCurrentPick(pick)}
+                aria-label={`Play ${pick.title} by ${pick.artist}`}
+                className={`inline-flex items-center rounded-full border px-3 py-1.5 text-xs ${
+                  currentPick.id === pick.id
+                    ? "border-ember bg-ember font-semibold text-cream"
+                    : "border-white/15 text-parchment hover:text-cream"
+                }`}
+              >
+                {pick.title} — {pick.artist}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
       <div className="border-t border-white/10 bg-ink/95 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-2 px-4 py-3">
           {showChristmas && (
@@ -111,6 +150,14 @@ export default function PlayerBar() {
             className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
           >
             Mountain Dew — Stanley Brothers {songOpen ? "▲" : "▼"}
+          </button>
+          <button
+            type="button"
+            onClick={() => setPicksOpen((o) => !o)}
+            aria-label="Show or hide the bluegrass picks playlist"
+            className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
+          >
+            Bluegrass Picks {picksOpen ? "▲" : "▼"}
           </button>
           <span className="text-xs text-subtle">Streams from the stations — costs the site nothing.</span>
         </div>
