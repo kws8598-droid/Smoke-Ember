@@ -4,29 +4,24 @@ import { useEffect, useRef, useState } from "react";
 import { track } from "@vercel/analytics";
 
 const CHRISTMAS_STREAM = "https://bigrradio.cdnstream1.com/5190_128";
-const JAMBOREE_STREAM = "https://the-bluegrass-jamboree.radiocult.fm/stream";
-const PODCAST_EMBED = "https://embed.podcasts.apple.com/us/podcast/howtobbqright/id1372347504";
-const MOUNTAIN_DEW_EMBED = "https://www.youtube.com/embed/x81du4NMHZ0";
 const BLUEGRASS_PICKS = [
   { title: "Blue Moon of Kentucky", artist: "Bill Monroe", id: "xtpiqdN2lJk" },
   { title: "How Mountain Girls Can Love", artist: "The Stanley Brothers", id: "dZVqClIwVOM" },
   { title: "Little Maggie", artist: "The Stanley Brothers", id: "kFECy0CgFLQ" },
   { title: "Train 45", artist: "The Stanley Brothers", id: "_9KEIBHsxEo" },
   { title: "I'm a Man of Constant Sorrow", artist: "The Stanley Brothers", id: "jgyu2c-JBlc" },
+  { title: "Mountain Dew", artist: "The Stanley Brothers", id: "x81du4NMHZ0" },
   { title: "You'll Never Leave Harlan Alive", artist: "Patty Loveless", id: "MjFcllICjUc" },
 ];
 
 // A single persistent player that lives in the site layout, so it keeps
 // playing while you click between pages (the layout does not remount on
-// in-app navigation). The homepage cards start this same player — there is
-// only ever one radio and one podcast playing.
-// The podcast panel is collapsed with height 0, never unmounted, so hiding
-// it does not stop playback. A full page refresh still restarts playback.
+// in-app navigation). The picks panel is collapsed with height 0, never
+// unmounted, so hiding it does not stop playback. A full page refresh
+// still restarts playback.
 export default function PlayerBar() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [radioPlaying, setRadioPlaying] = useState(false);
-  const [podcastOpen, setPodcastOpen] = useState(false);
-  const [songOpen, setSongOpen] = useState(false);
   const [picksOpen, setPicksOpen] = useState(false);
   const [currentPick, setCurrentPick] = useState(BLUEGRASS_PICKS[0]);
   const [showChristmas, setShowChristmas] = useState(false);
@@ -39,17 +34,13 @@ export default function PlayerBar() {
     const playRadio = () => {
       audioRef.current?.play().catch(() => {});
     };
-    const showPodcast = () => setPodcastOpen(true);
     window.addEventListener("smoke-ember:play-radio", playRadio);
-    window.addEventListener("smoke-ember:show-podcast", showPodcast);
     return () => {
       window.removeEventListener("smoke-ember:play-radio", playRadio);
-      window.removeEventListener("smoke-ember:show-podcast", showPodcast);
     };
   }, []);
 
-  // One audio element, two stations: tapping a station plays it, tapping
-  // it again pauses, tapping the other station switches over.
+  // One audio element: tapping the station plays it, tapping it again pauses.
   const playStream = (url: string) => {
     const a = audioRef.current;
     if (!a) return;
@@ -65,28 +56,8 @@ export default function PlayerBar() {
 
   return (
     <div className="fixed inset-x-0 bottom-0 z-50 print:hidden">
-      <div className={`mx-auto max-w-6xl px-4 ${podcastOpen ? "" : "h-0 overflow-hidden"}`}>
-        <iframe
-          allow="autoplay *; encrypted-media *; fullscreen *"
-          frameBorder="0"
-          height="450"
-          sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-          src={PODCAST_EMBED}
-          className="w-full rounded-t-2xl border border-white/10 border-b-0 bg-bark"
-          title="HowToBBQRight Podcast"
-        />
-      </div>
-      <div className={`mx-auto max-w-6xl px-4 ${songOpen ? "" : "h-0 overflow-hidden"}`}>
-        <iframe
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-          frameBorder="0"
-          height="315"
-          src={MOUNTAIN_DEW_EMBED}
-          className="w-full rounded-t-2xl border border-white/10 border-b-0 bg-bark"
-          title="Mountain Dew — The Stanley Brothers"
-        />
-      </div>
+      
+      
       <div className={`mx-auto max-w-6xl px-4 ${picksOpen ? "" : "h-0 overflow-hidden"}`}>
         <div className="rounded-t-2xl border border-white/10 border-b-0 bg-bark">
           <iframe
@@ -132,36 +103,9 @@ export default function PlayerBar() {
               {radioPlaying && currentStream === CHRISTMAS_STREAM ? "❚❚ Christmas Classics" : "▶ Christmas Classics"}
             </button>
           )}
-          <button
-            type="button"
-            onClick={() => playStream(JAMBOREE_STREAM)}
-            aria-label="Play or pause Bluegrass Jamboree"
-            className="inline-flex items-center rounded-full bg-ember px-4 py-2 text-sm font-semibold text-cream hover:bg-ember-hot"
-          >
-            {radioPlaying && currentStream === JAMBOREE_STREAM ? "❚❚ Bluegrass Jamboree" : "▶ Bluegrass Jamboree"}
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              if (!podcastOpen) track("open_podcast_player", { show: "HowToBBQRight Podcast" });
-              setPodcastOpen((o) => !o);
-            }}
-            aria-label="Show or hide the HowToBBQRight podcast player"
-            className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
-          >
-            HowToBBQRight Podcast {podcastOpen ? "▲" : "▼"}
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              if (!songOpen) track("open_mountain_dew_player", { song: "Mountain Dew" });
-              setSongOpen((o) => !o);
-            }}
-            aria-label="Show or hide the Mountain Dew song player"
-            className="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-sm text-parchment hover:text-cream"
-          >
-            Mountain Dew — Stanley Brothers {songOpen ? "▲" : "▼"}
-          </button>
+          
+          
+          
           <button
             type="button"
             onClick={() => {
@@ -182,7 +126,7 @@ export default function PlayerBar() {
         src={currentStream}
         onPlay={() => {
           setRadioPlaying(true);
-          track("play_station", { station: currentStream === CHRISTMAS_STREAM ? "Christmas Classics" : "Bluegrass Jamboree" });
+          track("play_station", { station: "Christmas Classics" });
         }}
         onPause={() => setRadioPlaying(false)}
       />
