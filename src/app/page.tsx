@@ -85,7 +85,7 @@ export default function HomePage() {
       <section className="relative mx-auto max-w-6xl px-4 pt-8">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">What this is</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Pull up a chair.</h2>
-        <p className="mt-3 max-w-3xl text-lg leading-8 text-parchment">I&apos;ve been smoking meat for 20 years, and as I get older I can&apos;t remember things like I used to — times, and how to do certain things. Even I need a gentle reminder from time to time. That&apos;s what this app is for. It&apos;s my notes, written down so I don&apos;t have to hold it all in my head. 434 free barbecue recipes, a cook calculator, cooking tips, and a little bluegrass while you cook — all in one place, for anybody who needs a reminder like I do.</p>
+        <p className="mt-3 max-w-3xl text-lg leading-8 text-parchment">I&apos;ve been smoking meat for 20 years, and as I get older I can&apos;t remember things like I used to — times, and how to do certain things. Even I need a gentle reminder from time to time. That&apos;s what this app is for. It&apos;s my notes, written down so I don&apos;t have to hold it all in my head. 439 free barbecue recipes, a cook calculator, cooking tips, and a little bluegrass while you cook — all in one place, for anybody who needs a reminder like I do.</p>
       </section>
       <section className="relative mx-auto max-w-6xl px-4 pt-6" aria-label="What&apos;s in here">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">What&apos;s in here</p>
