@@ -13845,5 +13845,65 @@
     ],
     "image": "/images/ember-chocolate-chip-pecan-pie.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Pecan Chicken Salad",
+    "slug": "ember-pecan-chicken-salad",
+    "region": "southern",
+    "protein": "poultry",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "6",
+    "wood": "Pantry",
+    "pitTemp": "None — no cook, chill to set",
+    "finish": "Chilled, creamy, grapes and pecans all through it",
+    "summary": "Shredded chicken breast in creamy Miracle Whip dressing, with diced celery, halved purple and red seedless grapes, and chopped pecans all through it. Kristy's salad.",
+    "story": "Kristy's pecan chicken salad — her recipe, shredded chicken in creamy Miracle Whip, with celery, grapes, and pecans all through it.",
+    "ingredients": [
+      {
+        "group": "Salad",
+        "items": [
+          "3 cups shredded cooked chicken breast",
+          "1/2 cup Miracle Whip",
+          "1/2 cup diced celery",
+          "1 cup purple and red seedless grapes, halved",
+          "1/2 cup chopped pecans",
+          "Salt and pepper to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Shred the chicken",
+        "body": "Shred the cooked chicken breast into bite-size pieces."
+      },
+      {
+        "title": "Dress it",
+        "body": "Stir in the Miracle Whip until the chicken is coated all through."
+      },
+      {
+        "title": "Fold in the rest",
+        "body": "Fold in the diced celery, halved grapes, and chopped pecans."
+      },
+      {
+        "title": "Chill",
+        "body": "Cover and chill before serving so the flavors come together."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Halve the grapes so they sit in the salad instead of rolling off the fork.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Fold the pecans in last so they stay crunchy.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-pecan-chicken-salad.jpg",
+    "school": null
   }
 ]
