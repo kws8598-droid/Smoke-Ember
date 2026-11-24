@@ -13782,5 +13782,68 @@
     ],
     "image": "/images/ember-lemon-delight.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Chocolate Chip Pecan Pie",
+    "slug": "ember-chocolate-chip-pecan-pie",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 0.75,
+      "max": 1
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "Oven 350°F",
+    "finish": "Set and glossy, cooled before slicing",
+    "summary": "Southern Thanksgiving pecan pie with chocolate chips folded in — whipped eggs make the texture.",
+    "story": "John Lindsey's Southern Thanksgiving Pecan Pie from his AllQuedUpSteaks reel — his grandma's trick is whipping the eggs a full 4 minutes. Kelly made it the night of Nov 23, 2026 and added a cup of chocolate chips.",
+    "ingredients": [
+      {
+        "group": "Filling",
+        "items": [
+          "3 large eggs",
+          "1 cup light corn syrup",
+          "1 cup light brown sugar, packed",
+          "1/2 teaspoon salt",
+          "1 tablespoon vanilla",
+          "1 cup chocolate chips, tossed in 1 tablespoon flour or cornstarch, excess shaken off (optional — mini chips spread best; Kelly used cornstarch)"
+        ]
+      },
+      {
+        "group": "Crust",
+        "items": [
+          "1 1/2 cups pecan halves",
+          "1 store-bought 9-inch deep dish pie crust"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Whip the eggs",
+        "body": "Whip the 3 eggs for about 4 minutes, until rich and light. That is the step that makes the texture."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "Mix in the corn syrup, brown sugar, salt, and vanilla on low until combined. Fold in the chocolate chips right at the end. Do not stir once it is poured."
+      },
+      {
+        "title": "Pecans in the shell",
+        "body": "Arrange the pecan halves in the bottom of the pie shell."
+      },
+      {
+        "title": "Pour and bake",
+        "body": "Pour the filling right over the pecans. Bake at 350°F for 45 to 55 minutes. Keep a check on it as it goes."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "The trick: whipping the eggs a full 4 minutes is what makes this pie different. His grandma taught him that one a long time ago.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-chocolate-chip-pecan-pie.jpg",
+    "school": null
   }
 ]
