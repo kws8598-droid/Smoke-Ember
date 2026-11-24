@@ -84,6 +84,7 @@ export default function Footer() {
             <Link href="/contact" className="hover:text-cream">Contact</Link>
             <Link href="/privacy" className="hover:text-cream">Privacy</Link>
             <Link href="/terms" className="hover:text-cream">Terms</Link>
+            <a href="https://www.facebook.com/profile.php?id=61596493118758" target="_blank" rel="noopener noreferrer" className="hover:text-cream">Facebook</a>
           </div>
         </div>
         <div className="mx-auto max-w-6xl px-4 pb-8 text-center">
@@ -103,6 +104,7 @@ export default function Footer() {
           <Link href="/contact" className="hover:text-cream">Contact</Link>
           <Link href="/privacy" className="hover:text-cream">Privacy</Link>
           <Link href="/terms" className="hover:text-cream">Terms</Link>
+          <a href="https://www.facebook.com/profile.php?id=61596493118758" target="_blank" rel="noopener noreferrer" className="hover:text-cream">Facebook</a>
         </div>
       </div>
       <nav aria-label="Main navigation" className="fixed inset-x-0 bottom-0 z-50 grid grid-cols-6 border-t border-white/10 bg-ink/95 pb-[max(.35rem,env(safe-area-inset-bottom))] pt-2 backdrop-blur-md md:hidden">
