@@ -13905,5 +13905,65 @@
     ],
     "image": "/images/ember-pecan-chicken-salad.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Turkey Rub",
+    "slug": "ember-turkey-rub",
+    "region": "backyard",
+    "protein": "rubs",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.08,
+      "max": 0.08
+    },
+    "servings": "About 1 cup",
+    "wood": "Pantry",
+    "pitTemp": "None",
+    "finish": "Mixed and even, ready to rub on",
+    "summary": "Smoked paprika, brown sugar, flake salt, black pepper, thyme, rosemary, mustard, garlic, and onion — a full turkey rub from an old clipping, every amount as written.",
+    "story": "From an old newspaper clipping in K.B. Gatlin's turkey recipes post (Nov 23, 2026). No guessing on this one — the clipping lists every amount plain. Kelly hasn't made this one yet. (He added dried lemon zest for a bright flavoring.)",
+    "ingredients": [
+      {
+        "group": "The rub",
+        "items": [
+          "4 Tbsp smoked paprika",
+          "3 Tbsp brown sugar",
+          "3 Tbsp salt flakes",
+          "2 Tbsp black pepper",
+          "1 Tbsp dried thyme",
+          "1 Tbsp dried rosemary",
+          "1 Tbsp mustard powder",
+          "1 Tbsp garlic powder",
+          "1 Tbsp onion powder",
+          "1 tsp dried lemon zest"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mix it",
+        "body": "Combine all ten ingredients in a bowl and stir until even."
+      },
+      {
+        "title": "Rub it on",
+        "body": "Apply to the bird before it goes on the pit or in the oven."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Flake salt, not fine salt — the clipping says flakes, and it matters for how it sits on the skin.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "The brown sugar is the second-biggest ingredient — this rub runs sweet-smoky, not hot.",
+        "voice": "Pit note"
+      },
+      {
+        "text": "Mix a double batch and keep the extra in a jar — it keeps.",
+        "voice": "Pit note"
+      }
+    ],
+    "image": "/images/ember-turkey-rub.jpg",
+    "school": null
   }
 ]
