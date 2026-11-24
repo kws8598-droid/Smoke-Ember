@@ -13965,5 +13965,78 @@
     ],
     "image": "/images/ember-turkey-rub.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Blackberry Dr Pepper Pork Loin",
+    "slug": "ember-blackberry-dr-pepper-pork-loin",
+    "region": "kentucky",
+    "protein": "pork",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "6",
+    "wood": "cherry",
+    "pitTemp": "275°F",
+    "finish": "Pull at 151°F, rest loose-tented 20–30 minutes, then slice.",
+    "summary": "A 3-pound pork loin smoked at 275, rubbed sweet, and finished with a blackberry Dr Pepper glaze reduced down till it coats a spoon — deep smoke ring, a little char, blackberries on top.",
+    "story": "I cooked this one first as a cherry Dr Pepper loin, and the glaze looked beautiful — deep red, glossy, cherries on top — but eating it, the cherry fell flat. It was just sweet. So I swapped the cherry for blackberry. Blackberry Dr Pepper is real, and blackberries bring their own tart-sweetness. The trick is the reduction: low and slow, keep it moving, stay with it. Don't pull it early because you're afraid of burning it — that's how you end up thin. Let it go till it coats a spoon and you smell the caramel.",
+    "ingredients": [
+      {
+        "group": "The loin",
+        "items": [
+          "1 pork loin, about 3 lb",
+          "Sweet Rib Rub, enough to coat"
+        ]
+      },
+      {
+        "group": "The glaze",
+        "items": [
+          "12 oz Blackberry Dr Pepper",
+          "1/4 cup brown sugar",
+          "1 Tbsp butter",
+          "1/2 cup frozen blackberries, plus more for the top"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Rub",
+        "body": "Coat the loin all over with Sweet Rib Rub."
+      },
+      {
+        "title": "Smoke",
+        "body": "275°F, straight on the grates. Spritz once with Blackberry Dr Pepper after the first hour."
+      },
+      {
+        "title": "Glaze",
+        "body": "While the loin smokes, simmer the Blackberry Dr Pepper, brown sugar, butter, and blackberries low and slow, stirring, till it coats the back of a spoon and you smell the caramel. Don't pull it early."
+      },
+      {
+        "title": "Brush on",
+        "body": "At about 140–145°F, brush the glaze on and scatter blackberries over the top."
+      },
+      {
+        "title": "Pull and rest",
+        "body": "Pull at 151°F, rest loose-tented 20–30 minutes, then slice."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Sugar helps the glaze set, but it doesn't fix thin — the reduction does. Low and slow, keep it moving.",
+        "voice": "Reduction"
+      },
+      {
+        "text": "151 is right in the window, 150 to 155. Don't let it climb past that or the loin dries out.",
+        "voice": "Pull"
+      },
+      {
+        "text": "A little char on the glaze is the good stuff — that's what makes it look like real barbecue.",
+        "voice": "Char"
+      }
+    ],
+    "image": "/images/ember-blackberry-dr-pepper-pork-loin.jpg",
+    "school": null
   }
 ]
