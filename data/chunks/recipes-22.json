@@ -14042,5 +14042,92 @@
     ],
     "image": "/images/ember-blackberry-dr-pepper-pork-loin.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Butterscotch Pie",
+    "slug": "ember-butterscotch-pie",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 4,
+      "max": 5
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "pitTemp": "Oven 425°F, then 350°F",
+    "finish": "Meringue golden, filling set — chill 3 hours before slicing",
+    "summary": "The real old-fashioned butterscotch pie — a brown sugar custard cooked on the stovetop, poured into a baked crust, and crowned with golden meringue. Rich, buttery, and not too sweet.",
+    "story": "Butterscotch pie started at a creamery in Connersville, Indiana, where Sarah Wheeler made it in 1904. No boxed pudding, no shortcuts — brown sugar, butter, milk, and egg yolks cooked down into a thick amber custard, with a meringue on top like grandma used to make. Chill it good before you cut it so the slices hold.",
+    "ingredients": [
+      {
+        "group": "The crust",
+        "items": [
+          "Dough for a single-crust pie, store-bought or homemade"
+        ]
+      },
+      {
+        "group": "The filling",
+        "items": [
+          "6 tablespoons butter",
+          "6 tablespoons all-purpose flour",
+          "1-1/2 cups packed brown sugar",
+          "2 cups whole milk",
+          "1/4 teaspoon salt",
+          "3 large egg yolks, room temperature, beaten",
+          "1 teaspoon vanilla extract"
+        ]
+      },
+      {
+        "group": "The meringue",
+        "items": [
+          "3 large egg whites, room temperature",
+          "1/4 teaspoon cream of tartar",
+          "1/2 cup sugar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Bake the crust",
+        "body": "Roll the dough to a 1/8-inch-thick circle and fit it into a 9-inch pie plate. Trim to 1/2 inch beyond the rim and flute the edge. Refrigerate 30 minutes. Heat the oven to 425°F. Line the unpricked crust with a double thickness of foil and fill with pie weights, dried beans, or uncooked rice. Bake on a lower rack until the edge is light golden brown, 15–20 minutes. Remove the foil and weights and bake until the bottom is golden brown, 3–6 minutes longer. Cool on a wire rack. Turn the oven down to 350°F."
+      },
+      {
+        "title": "Start the filling",
+        "body": "In a saucepan, melt the butter. Remove from the heat, add the flour, and stir until smooth. Stir in the brown sugar. Return to the heat and stir in the milk and salt until blended."
+      },
+      {
+        "title": "Thicken it",
+        "body": "Cook and stir over medium-high heat until thickened and bubbly. Reduce the heat and cook and stir 2 minutes longer. Remove from the heat."
+      },
+      {
+        "title": "Temper the yolks",
+        "body": "Stir about 1 cup of the hot filling into the beaten egg yolks, then return it all to the pan, stirring constantly. Cook and stir 2 minutes longer. Remove from the heat and stir in the vanilla. Pour into the baked crust."
+      },
+      {
+        "title": "Meringue on top",
+        "body": "Beat the egg whites and cream of tartar on medium speed until soft peaks form. Gradually beat in the sugar, about 1 tablespoon at a time, on high until stiff glossy peaks form and the sugar is dissolved. Spread evenly over the hot filling, sealing the edge to the crust."
+      },
+      {
+        "title": "Bake and chill",
+        "body": "Bake until the meringue is golden brown, 12–15 minutes. Cool on a wire rack for 1 hour. Refrigerate at least 3 hours before serving."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Temper the yolks slow — pour the hot filling in a little at a time, or you'll get sweet scrambled eggs.",
+        "voice": "Custard"
+      },
+      {
+        "text": "Seal the meringue right to the crust all the way around, or it'll shrink and weep.",
+        "voice": "Meringue"
+      },
+      {
+        "text": "Don't rush the chill — 3 hours is what makes it slice clean instead of running.",
+        "voice": "Patience"
+      }
+    ],
+    "image": "/images/ember-butterscotch-pie.jpg",
+    "school": null
   }
 ]
