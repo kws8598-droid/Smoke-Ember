@@ -14129,5 +14129,167 @@
     ],
     "image": "/images/ember-butterscotch-pie.jpg",
     "school": null
+  },
+  {
+    "title": "Ember Costela no Bafo",
+    "slug": "ember-costela-no-bafo",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 4,
+      "max": 4.5
+    },
+    "servings": "Serves 6",
+    "wood": "Oak",
+    "summary": "Brazilian beef ribs sealed tight in foil and cooked low and slow in their own steam — no bafo means 'in the breath' — until the bone pulls out clean, then blasted hot for a dark crust.",
+    "story": "No bafo means 'in the breath' — the ribs cook in their own trapped steam, not in liquid, sealed under two layers of foil until the collagen gives up and the bone pulls out clean. It's the dish Paulo Carvalho, the Brazilian cook who's been grilling since he was six, makes at home: beef ribs, onions, garlic, lime, cumin and paprika, wrapped tight and left alone for hours. In Brazil it cooks over quebracho or eucalyptus charcoal; here in Kentucky, oak is the closest thing to that steady hardwood heat. The pan juices don't go to waste — they get toasted with cassava flour into farofa, the sandy, nutty side that belongs on the plate next to the ribs.",
+    "ingredients": [
+      {
+        "group": "The ribs",
+        "items": [
+          "2 kg (about 4 1/2 lb) beef short ribs, bone-in, cut into single ribs",
+          "3 large onions, sliced thick",
+          "8 cloves garlic, crushed",
+          "4 Tbsp lime juice",
+          "2 Tbsp canola oil",
+          "1 Tbsp ground cumin",
+          "1 Tbsp paprika",
+          "1 Tbsp coarse salt"
+        ]
+      },
+      {
+        "group": "The farofa",
+        "items": [
+          "150 g cassava flour (about 1 1/4 cups)"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "300 g white rice, cooked (about 1 1/2 cups uncooked)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season the ribs",
+        "body": "Mix the crushed garlic, lime juice, canola oil, cumin, paprika, and coarse salt together and rub it into the ribs on every side."
+      },
+      {
+        "title": "Wrap it tight",
+        "body": "Lay the thick onion slices across the bottom of a deep roasting tray and sit the ribs on them in one layer. Cover with two layers of heavy foil and crimp them hard all the way around the rim of the tray. No liquid goes in — none. The ribs release enough on their own, and added water just dilutes what comes out."
+      },
+      {
+        "title": "On the pit, low and slow",
+        "body": "Get the pit running at 250°F indirect with oak on. Set the sealed tray on the grate and cook 4 hours without opening it. Don't peek — every look loses twenty minutes of steam. At 3 1/2 hours, press the foil — the meat should feel soft under it."
+      },
+      {
+        "title": "Unwrap and blast it",
+        "body": "Take the foil off and turn the pit up hot, 325-350°F. Cook 20 minutes more until the tops are dark. This is the only browning the dish gets, and it matters — skip it and the ribs come out pale and flabby."
+      },
+      {
+        "title": "Farofa from the juices",
+        "body": "Lift the ribs out and rest them. Pour the pan juices into a frying pan and toast the cassava flour in them for 4 minutes, stirring, until it turns sandy gold and smells nutty. That's farofa."
+      },
+      {
+        "title": "Rest and serve",
+        "body": "Rest the ribs 15 minutes, then cut between the bones and serve with the white rice and the farofa."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "No liquid goes in. None. The ribs release enough on their own — added water just dilutes what comes out.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Two layers of foil, crimped hard around the rim. Steam that escapes is the difference between four hours and eight.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Don't open it early — every look loses twenty minutes of steam. Press the foil at 3 1/2 hours; the meat should feel soft under it.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "In Brazil this cooks over quebracho or eucalyptus charcoal. Here in Kentucky, oak is the closest thing — dense, clean-burning hardwood, same steady heat.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Cook to tenderness, not time — the bone should pull out clean. If it's still tight, seal it back up and give it another 30 minutes.",
+        "voice": "Bruno"
+      }
+    ],
+    "image": "/images/ember-costela-no-bafo.jpg",
+    "finish": "Tender enough for the bone to pull out clean, dark and browned on top",
+    "pitTemp": "250°F indirect",
+    "school": "Backyard"
+  },
+  {
+    "title": "Ember Fraldinha",
+    "slug": "ember-fraldinha",
+    "region": "backyard",
+    "protein": "beef",
+    "difficulty": "easy",
+    "hours": {
+      "min": 0.4,
+      "max": 0.5
+    },
+    "servings": "Serves 4",
+    "wood": "Oak lump charcoal",
+    "summary": "Brazilian flank steak, churrasco style — nothing on it but coarse salt, grilled fast over a hot fire and sliced thin against the grain.",
+    "story": "Fraldinha is one of the pillars of churrasco, right next to the picanha — a long, flat cut with coarse fibres and a loose grain, cooked over open flame and shared among friends and family. The Brazilian way is the simple way: coarse salt and nothing else, because the cut carries enough fat and flavor to season itself. In Brazil it goes over quebracho or eucalyptus charcoal; here in Kentucky, oak lump charcoal is the closest thing — hot, clean, and easy to find. Find the grain before it goes on, slice across it when it comes off, and don't overcook it — medium-rare is where this cut lives.",
+    "ingredients": [
+      {
+        "group": "The steak",
+        "items": [
+          "1 flank steak, about 2 lb, fat cap left on if you can get it",
+          "Coarse salt (sal grosso), generously"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Salt it heavy",
+        "body": "Apply a generous amount of coarse salt to the flank steak. Don't rub it in — the salt must sit loose on the meat, or it'll come out too salty."
+      },
+      {
+        "title": "Hot fire",
+        "body": "Get the grill running hot, about 450°F, direct heat with the flames close to the meat. Oak lump charcoal is the closest thing here to the quebracho charcoal they burn in Brazil."
+      },
+      {
+        "title": "Grill it fast",
+        "body": "Lay the steak on the hot grate and cook about 5 minutes a side for medium-rare, turning once. Pull it 5 to 7 degrees below where you want it — it climbs as it rests."
+      },
+      {
+        "title": "Knock the salt off and rest",
+        "body": "Grab the steak with tongs and knock the extra salt off with the side of a big knife. Rest it 10 minutes so the juices settle."
+      },
+      {
+        "title": "Slice against the grain",
+        "body": "Slice thin against the grain. The grain runs the length of the cut, so cut across it — slice with the grain and every bite is chewy."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Fraldinha has long coarse fibres. Find the grain before it goes on and nick one end so you still know which way to slice after it rests.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Don't overcook it — medium-rare is where this cut lives. Anything past medium turns tough.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "In Brazil this goes over quebracho or eucalyptus charcoal. In Kentucky, oak lump charcoal is the closest thing — hot, clean, and easy to find.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "The classic is salt only. If you want the garlic-lemon version, rub the steak with 3 Tbsp olive oil, 4 minced garlic cloves, 1 Tbsp kosher salt, 1 tsp black pepper, and 2 Tbsp lemon juice before it goes on.",
+        "voice": "Bruno"
+      }
+    ],
+    "image": "/images/ember-fraldinha.jpg",
+    "finish": "Medium-rare, sliced thin against the grain",
+    "pitTemp": "Hot grill, about 450°F",
+    "school": "Backyard"
   }
 ]
