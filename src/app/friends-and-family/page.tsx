@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import BackButton from "@/components/BackButton";
 import RecipeCard from "@/components/RecipeCard";
 import { useLiveCatalog } from "@/components/LiveCatalog";
@@ -12,6 +13,11 @@ export default function FriendsAndFamilyPage() {
   const list = friendSlugs.map((s) => recipes.find((r) => r.slug === s)).filter(Boolean);
   return (
     <main className="relative">
+      {/* Weathered store-wood backdrop, like the homepage */}
+      <div aria-hidden className="pointer-events-none fixed inset-0">
+        <Image src="/images/homepage-wood-bg.jpg" alt="" fill sizes="100vw" className="object-cover" />
+        <div className="absolute inset-0 bg-ink/50" />
+      </div>
       <div className="relative mx-auto max-w-6xl px-4 py-12">
         <BackButton fallback="/" />
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">Our user submitted recipes</p>
