@@ -8,15 +8,12 @@ const COLORS = ["#ff4d4d", "#34d399", "#fbbf24", "#38bdf8", "#f472b6", "#fef3c7"
 
 // Twinkle bulbs placed on the tree's tiers (left/top as % of the tree box).
 const BULBS: Array<[number, number]> = [
-  [50, 22],
-  [44, 30], [56, 30],
-  [38, 38], [50, 38], [62, 38],
-  [34, 46], [46, 46], [58, 46], [68, 46],
-  [32, 54], [44, 54], [56, 54], [68, 54],
-  [30, 62], [42, 62], [54, 62], [66, 62],
-  [28, 70], [40, 70], [52, 70], [64, 70], [74, 70],
-  [26, 78], [38, 78], [50, 78], [62, 78], [74, 78],
-  [30, 86], [44, 86], [58, 86], [70, 86],
+  [52, 8], [46, 14], [57, 19], [43, 24], [55, 27],
+  [48, 33], [61, 36], [39, 40], [52, 43], [66, 47],
+  [35, 50], [47, 53], [60, 56], [71, 59], [31, 62],
+  [44, 65], [57, 63], [68, 67], [38, 70], [51, 72],
+  [63, 74], [74, 71], [28, 77], [42, 80], [55, 82],
+  [67, 79], [33, 85], [48, 88], [61, 86], [72, 84],
 ];
 
 // Snowflakes falling on the tree (left % / size px / duration s / delay s).
@@ -50,7 +47,7 @@ export default function ChristmasTree() {
         <img
           src="/images/christmas-tree.jpg"
           alt=""
-          className="absolute inset-0 h-full w-full object-contain mix-blend-screen"
+          className="absolute inset-0 h-full w-full object-contain mix-blend-screen blur-[3px]"
         />
         {BULBS.map(([left, top], i) => {
           const color = COLORS[i % COLORS.length];
