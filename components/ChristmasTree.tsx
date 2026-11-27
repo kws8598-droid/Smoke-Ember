@@ -1,8 +1,8 @@
-// Kelly's Christmas tree GIF standing in the snowy backdrop behind the
-// homepage content — a real snowy tree whose lights twinkle in the picture
-// itself, with our falling snow over it. Pure CSS snow — no video, no data
-// cost. The GIF is a plain <img>, not the optimizer, so it costs no image
-// transformations either.
+// Kelly's Christmas tree video standing in the snowy backdrop behind the
+// homepage content — a real snowy tree on a hillside out in the country,
+// lights twinkling, with our falling snow over it. Muted autoplay loop,
+// about 1 MB. The GIF it replaced is still in public/images if we ever
+// want it back.
 const FLAKES: Array<[number, number, number, number]> = [
   [6, 4, 13, 0], [12, 3, 11, 2.5], [18, 5, 15, 1], [24, 3, 10, 4],
   [30, 4, 14, 0.5], [36, 6, 16, 3], [42, 3, 11, 1.5], [48, 4, 12, 5],
@@ -26,9 +26,12 @@ export default function ChristmasTree() {
         }
       `}</style>
       <div className="relative h-[700px] w-[min(115vw,680px)] shrink-0">
-        <img
-          src="/images/christmas-tree.gif"
-          alt=""
+        <video
+          src="/images/christmas-tree.mp4"
+          autoPlay
+          muted
+          loop
+          playsInline
           className="absolute inset-0 h-full w-full object-cover mix-blend-screen blur-[3px]"
         />
         {FLAKES.map(([left, size, duration, delay], i) => (
