@@ -14291,5 +14291,418 @@
     "finish": "Medium-rare, sliced thin against the grain",
     "pitTemp": "Hot grill, about 450°F",
     "school": "Backyard"
+  },
+  {
+    "title": "Lebkuchen (German Christmas Honey Cakes)",
+    "slug": "lebkuchen",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "24 squares",
+    "wood": "Pantry",
+    "summary": "Carla's family German Christmas honey cakes — honey and molasses, warm spice, citron and nuts, baked in a sheet pan and brushed with a thin sugar glaze. Chill the dough overnight, then they mellow in the tin.",
+    "story": "From a page of Carla's family German cookbook — “the famous old-time German Christmas honey cakes,” credited to Theresa Kratzwald Van Bakel. Kelly saved it to hold for Christmas. Kelly hasn't made these ones yet.",
+    "ingredients": [
+      {
+        "group": "Cake",
+        "items": [
+          "1/2 cup honey",
+          "1/2 cup molasses",
+          "3/4 cup brown sugar",
+          "1 egg",
+          "1 Tbs lemon juice",
+          "1 tsp grated lemon rind",
+          "2 3/4 cups sifted flour",
+          "1/2 tsp baking soda",
+          "1 tsp cinnamon",
+          "1 tsp cloves",
+          "1 tsp allspice",
+          "1 tsp nutmeg",
+          "1/3 cup cut-up citron",
+          "1/3 cup chopped nuts"
+        ]
+      },
+      {
+        "group": "Glazing icing",
+        "items": [
+          "1 cup sugar",
+          "1/2 cup water",
+          "1/4 cup powdered sugar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Boil the honey and molasses",
+        "body": "Mix the honey and molasses together, bring to a boil, and cool it thoroughly."
+      },
+      {
+        "title": "Stir in the rest",
+        "body": "Stir in the egg, brown sugar, lemon juice, and lemon rind."
+      },
+      {
+        "title": "Mix the dough",
+        "body": "Sift together the flour, baking soda, cinnamon, cloves, allspice, and nutmeg, and stir it in. Mix in the citron and nuts. Chill overnight."
+      },
+      {
+        "title": "Bake it",
+        "body": "Spread the dough in a 10 x 15 inch jelly roll pan and bake at 400°F for 15 minutes, or until when you touch it lightly no imprint remains."
+      },
+      {
+        "title": "Glaze it hot",
+        "body": "Boil the sugar and water together until the first sign of a thread shows, about 230°F. Take it off the heat, stir in the powdered sugar, and brush the hot icing thinly over the cake the minute it comes out of the oven."
+      },
+      {
+        "title": "Cut and mellow",
+        "body": "Cut the cake into squares. Store to mellow."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "If the icing gets sugary, reheat it slightly, adding a little water until it's clear again.",
+        "voice": "Glaze"
+      },
+      {
+        "text": "Brush the glaze on the minute the cake is out of the oven — it sets thin and shiny on the hot cake.",
+        "voice": "Glaze"
+      },
+      {
+        "text": "They mellow in the tin — better a day or two after baking than straight out of the pan.",
+        "voice": "Patience"
+      }
+    ],
+    "image": "/images/lebkuchen.jpg",
+    "finish": "Set, glazed, cut into squares",
+    "pitTemp": "Oven 400°F",
+    "school": null
+  },
+  {
+    "title": "Eggnog Pie",
+    "slug": "eggnog-pie",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "summary": "No-bake eggnog pie — instant vanilla pudding and eggnog whisked thick, folded with whipped cream, poured into a baked crust and chilled. Tastes like a cup of eggnog in pie form.",
+    "story": "From Spaceships and Laser Beams (adapted from Meatloaf and Melodrama) — a no-bake Christmas pie Kelly picked for the Christmas section. Five ingredients, no oven, just a chill. Kelly hasn't made this one yet.",
+    "ingredients": [
+      {
+        "group": "Pie",
+        "items": [
+          "1 (3.4-ounce) package instant vanilla pudding mix",
+          "1 1/2 cups eggnog",
+          "1/2 teaspoon freshly ground nutmeg",
+          "1 cup heavy whipping cream",
+          "1 prepared (pre-baked) 9-inch pie crust"
+        ]
+      },
+      {
+        "group": "To serve",
+        "items": [
+          "Additional whipped cream",
+          "Freshly grated nutmeg, for dusting"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Whisk the pudding",
+        "body": "In a medium bowl, whisk together the instant pudding mix, eggnog, and nutmeg until it begins to thicken, about 5 minutes."
+      },
+      {
+        "title": "Whip the cream",
+        "body": "In a separate bowl (or a stand mixer), whisk the heavy cream on high speed until stiff peaks form."
+      },
+      {
+        "title": "Fold it together",
+        "body": "Gently fold the whipped cream into the eggnog pudding mixture."
+      },
+      {
+        "title": "Fill the crust",
+        "body": "Transfer the filling into the prepared baked pie crust."
+      },
+      {
+        "title": "Chill it",
+        "body": "Chill for at least 3 hours to let the pie firm up."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve with additional whipped cream and a sprinkle of fresh nutmeg on top."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Make sure you're using instant pudding, not the stovetop cook-and-serve kind.",
+        "voice": "Pudding"
+      },
+      {
+        "text": "Use a pie crust that's already baked — store-bought pre-baked, or bake it yourself ahead of time.",
+        "voice": "Crust"
+      },
+      {
+        "text": "Give it the full 3 hours to chill — as hard as it is to be patient, it needs the time to firm up.",
+        "voice": "Patience"
+      },
+      {
+        "text": "Go easy on ultra-pasteurized eggnog — the milk enzymes can interfere with the thickening when mixed with the pudding.",
+        "voice": "Eggnog"
+      }
+    ],
+    "image": "/images/eggnog-pie.jpg",
+    "finish": "Set and chilled, whipped cream and nutmeg on top",
+    "pitTemp": "None — no bake, chill to set",
+    "school": null
+  },
+  {
+    "title": "Christmas Snack Mix",
+    "slug": "christmas-snack-mix",
+    "region": "southern",
+    "protein": "desserts",
+    "difficulty": "easy",
+    "hours": {
+      "min": 1,
+      "max": 1
+    },
+    "servings": "About 10 cups",
+    "wood": "No heat — no-bake",
+    "summary": "Sweet, salty, and gone by Christmas Eve: Rice Chex, pretzels, Bugles, and mixed nuts in a light white-chocolate coat with red-and-green M&M's, crushed peppermint, and holiday sprinkles.",
+    "story": "Every Christmas needs a bowl nobody can walk past without taking a handful. This is that bowl — a little bit of everything in it, sweet and salty at once, with peppermint crunch on top. Written up the Ember way: coat it light, get the peppermint on while it's wet, and make enough, because the first batch never survives the weekend.",
+    "ingredients": [
+      {
+        "group": "Snack mix",
+        "items": [
+          "4 cups Rice Chex cereal",
+          "2 cups mini pretzels",
+          "2 cups Bugles corn chips",
+          "1 cup mixed nuts",
+          "1 cup red and green M&M's, plus extra for decorating",
+          "12 oz white chocolate chips or vanilla almond bark",
+          "1 tablespoon red and green holiday sprinkles",
+          "1/2 cup crushed peppermint candies (or crushed candy canes)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Line the pan",
+        "body": "Line a large baking sheet with parchment paper or wax paper and set it where it can sit undisturbed until the chocolate sets."
+      },
+      {
+        "title": "Toss the base",
+        "body": "In your biggest bowl, gently toss the Rice Chex, mini pretzels, Bugles, mixed nuts, and M&M's together. Gentle — you're coating these, not crushing them."
+      },
+      {
+        "title": "Melt the chocolate",
+        "body": "Place the white chocolate chips or almond bark in a microwave-safe bowl. Microwave in 30-second intervals, stirring between each, until completely melted and smooth."
+      },
+      {
+        "title": "Coat it light",
+        "body": "Pour the melted chocolate over the mix and fold with a big spatula until everything is just lightly coated. A thin coat keeps the crunch."
+      },
+      {
+        "title": "Spread and sprinkle",
+        "body": "Spread the mix in an even layer on the prepared sheet. While the coating is still melted, sprinkle the extra M&M's, the holiday sprinkles, and the crushed peppermint over the top so they stick."
+      },
+      {
+        "title": "Set and break",
+        "body": "Let it cool completely until the chocolate is firm. Break into bite-size pieces and fill the bowl."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Almond bark or white chocolate melting wafers coat the easiest.",
+        "voice": "Chocolate"
+      },
+      {
+        "text": "Stir gently so the cereal and Bugles don't crush.",
+        "voice": "Gentle"
+      },
+      {
+        "text": "Make sure the mixture is completely set before breaking it into pieces.",
+        "voice": "Patience"
+      },
+      {
+        "text": "Keeps up to 1 week in an airtight container at room temperature — keep it cool and dry.",
+        "voice": "Storage"
+      }
+    ],
+    "image": "/images/christmas-snack-mix.jpg",
+    "finish": "Set and broken into pieces",
+    "pitTemp": "No cook",
+    "school": "Backyard"
+  },
+  {
+    "title": "Ember Christmas Jelly Nougat",
+    "slug": "ember-christmas-jelly-nougat",
+    "region": "backyard",
+    "protein": "desserts",
+    "difficulty": "easy",
+    "hours": {
+      "min": 2,
+      "max": 12
+    },
+    "servings": "60 pieces",
+    "wood": "Pantry",
+    "summary": "Old-fashioned Christmas nougat like the Brach's candy-store kind — soft, chewy white nougat studded with red and green gumdrops in every slice. Four ingredients, no candy thermometer, no baking.",
+    "story": "The chewy white squares from the Christmas candy tin — creamy, sweet, and full of colorful gumdrops. This is the easy no-bake way to make them at home: white chocolate and marshmallows melted together, gumdrops folded in, chilled overnight and cut into squares. Fair warning, straight from Kelly: we can't do the stripes or the little green tree like the store-bought Brach's ones — but we can make it taste like it. He made them one year and says they're just like it.",
+    "ingredients": [
+      {
+        "group": "Nougat",
+        "items": [
+          "16 ounces white chocolate chips",
+          "2 tablespoons butter",
+          "16 ounces mini marshmallows",
+          "2 cups red and green fruit gumdrops (Dots work great)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Line the pan",
+        "body": "Line a 9x13 pan with parchment paper, leaving some overhang on the sides. (An 8x8 pan makes thicker pieces.)"
+      },
+      {
+        "title": "Melt the chocolate",
+        "body": "Melt the white chocolate and butter in a large microwave-safe bowl — 1 minute, then stir, then 20-30 second bursts, stirring between each, until smooth. Or melt in a heat-safe bowl over a saucepan of gently simmering water."
+      },
+      {
+        "title": "Melt the marshmallows",
+        "body": "Add the mini marshmallows and keep heating in 30-second bursts, stirring after each, until melted and smooth."
+      },
+      {
+        "title": "Fold in the gumdrops",
+        "body": "Let the mixture cool 2-3 minutes, then fold in the gumdrops until evenly spread through."
+      },
+      {
+        "title": "Press it in",
+        "body": "Press into the prepared pan — a lightly greased spatula or a sheet of parchment on top helps, it's sticky stuff."
+      },
+      {
+        "title": "Chill it",
+        "body": "Chill at least 2 hours, overnight is best, until firm."
+      },
+      {
+        "title": "Cut it",
+        "body": "Lift out by the parchment overhang and cut into small squares with a sharp knife."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "Peppermint option: add 1 teaspoon peppermint extract to the melt for the old Brach's peppermint kind.",
+        "voice": "Peppermint"
+      },
+      {
+        "text": "Skip spice drops — cinnamon, clove, and licorice drops clash with the sweet white chocolate.",
+        "voice": "Gumdrops"
+      },
+      {
+        "text": "Grease your knife or kitchen shears before cutting the gumdrops, and cut the nougat while it's cold for the cleanest squares.",
+        "voice": "Cutting"
+      },
+      {
+        "text": "Keeps 2 weeks in a sealed container at room temperature (parchment between layers), 3 weeks in the fridge.",
+        "voice": "Storage"
+      }
+    ],
+    "image": "/images/ember-christmas-jelly-nougat.jpg",
+    "finish": "Chill at least 2 hours, overnight is best, then lift out and slice into squares.",
+    "pitTemp": "None — no cook, chill to set",
+    "school": null
+  },
+  {
+    "title": "Ember 4 Cheese Skillet Mac",
+    "slug": "ember-4-cheese-skillet-mac",
+    "region": "backyard",
+    "protein": "sides",
+    "difficulty": "weeknight",
+    "hours": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "servings": "8",
+    "wood": "Pantry",
+    "summary": "A real cheese sauce built in a cast-iron skillet — cheddar, mozzarella, Gouda, and Parmesan in the sauce — folded with elbow macaroni and baked till golden-brown and bubbling.",
+    "story": "Built from Rondrigo Tattz's cast-iron reel — the one that asks how much cheese is too much. Melt the butter in the skillet, whisk in the flour, cook the roux till you smell popcorn, then milk and cheese till it pulls. Kelly's call: the Parmesan goes in the sauce. Kelly hasn't cooked this one yet.",
+    "ingredients": [
+      {
+        "group": "The sauce",
+        "items": [
+          "1/2 cup butter",
+          "1/2 cup all-purpose flour",
+          "2 cups milk",
+          "2 cups sharp cheddar, shredded",
+          "1 cup mozzarella, shredded",
+          "1 cup Gouda, shredded",
+          "1/2 cup Parmesan, grated",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "pinch of dry mustard"
+        ]
+      },
+      {
+        "group": "The macaroni",
+        "items": [
+          "1 lb elbow macaroni, cooked and drained",
+          "1 cup sharp cheddar, shredded, for the top"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Melt the butter",
+        "body": "Melt the butter in a 12-inch cast-iron skillet over medium heat."
+      },
+      {
+        "title": "Make the roux",
+        "body": "Whisk in the flour and cook till you smell popcorn. That's the cue — don't rush it, and don't let it brown past golden."
+      },
+      {
+        "title": "Add the milk",
+        "body": "Pour in the milk and whisk smooth till it starts to thicken."
+      },
+      {
+        "title": "Melt in the cheese",
+        "body": "Stir in the cheddar, mozzarella, Gouda, and Parmesan till melted into a smooth, stretchy sauce. Season with salt, pepper, and the dry mustard."
+      },
+      {
+        "title": "Fold in the macaroni",
+        "body": "Fold in the cooked elbow macaroni till every piece is coated."
+      },
+      {
+        "title": "Top and bake",
+        "body": "Top with the remaining cheddar. Bake at 400°F for 20 minutes till golden-brown and bubbling on top."
+      },
+      {
+        "title": "Serve",
+        "body": "Serve straight from the skillet, while the cheese still pulls."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "The popcorn smell is the roux telling you it's ready — raw flour tastes pasty, burnt flour tastes bitter, popcorn is the sweet spot.",
+        "voice": "Roux"
+      },
+      {
+        "text": "Shred your own cheese if you can — the bagged stuff has anti-caking powder on it and doesn't melt as smooth.",
+        "voice": "Cheese"
+      },
+      {
+        "text": "Don't overcook the macaroni before it goes in — it keeps cooking in the sauce and the oven, so pull it a minute shy of done.",
+        "voice": "Pasta"
+      }
+    ],
+    "image": "/images/ember-cast-iron-mac-and-cheese.jpg",
+    "finish": "Golden-brown and bubbling on top",
+    "pitTemp": "Oven 400°F",
+    "school": null
   }
 ]
