@@ -81,6 +81,7 @@ export default function HomePage() {
         <nav aria-label="Jump to a section" className="mt-3 flex flex-wrap items-center gap-2">
           <span className="py-2 text-base font-semibold text-subtle">Jump to:</span>
           <a href="#christmas" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Christmas</a>
+          <Link href="/friends-and-family" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Friends &amp; Family</Link>
           <a href="#wild-game" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Wild Game</a>
           <a href="#sides" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Sides</a>
           <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
