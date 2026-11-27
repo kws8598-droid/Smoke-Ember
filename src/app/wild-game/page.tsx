@@ -58,6 +58,18 @@ export default function GamePage() {
           The cooks that start with a hunt — deer, duck, gator, and frog legs, smoked the
           Smoke &amp; Ember way. Kelly has eaten buffalo, elk, rabbit, deer, and squirrel.
         </p>
+        <p className="mt-3 max-w-xl text-sm text-parchment/80">
+          Before you hunt, check{" "}
+          <a
+            href="https://fw.ky.gov/"
+            target="_blank"
+            rel="noreferrer"
+            className="text-ember underline"
+          >
+            Kentucky Fish and Wildlife
+          </a>{" "}
+          for seasons, limits, and regulations.
+        </p>
       <div className="relative mt-8 h-48 overflow-hidden rounded-2xl border border-white/10 sm:h-64">
         <Image src="/images/game-banner.jpg" alt="Deer, rabbit, squirrel, and a flying mallard duck in a misty forest clearing at dawn" fill sizes="100vw" className="object-cover" loading="lazy" />
       </div>
