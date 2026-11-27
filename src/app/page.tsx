@@ -5,6 +5,7 @@ import CookCalculator from "@/components/CookCalculator";
 import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
 import ChristmasCountdown from "@/components/ChristmasCountdown";
+import ChristmasLights from "@/components/ChristmasLights";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
 
 const featured = ["memphis-dry-ribs", "santa-maria-tri-tip", "alabama-white-chicken", "central-texas-brisket"];
@@ -115,6 +116,7 @@ export default function HomePage() {
       {christmas.length > 0 && (
         <section id="christmas" className="relative scroll-mt-40">
           <div className="relative mx-auto max-w-6xl px-4 py-14">
+            <ChristmasLights />
             <p className="text-xs uppercase tracking-[0.22em] text-ember">December at the pit</p>
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">A Smoke-Ember Christmas</h2>
             <p className="mt-2 max-w-xl text-parchment/85">Holiday cooks for the table — prime rib, Christmas sweets, and everything in between, all with a little smoke on it.</p>
