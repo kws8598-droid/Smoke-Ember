@@ -24,7 +24,7 @@ export default function HomePage() {
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
-  const christmas = christmasSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 8);
+  const christmas = christmasSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 12);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
   const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   return (
