@@ -66,6 +66,10 @@ export default function HomePage() {
           <TonightPicker />
         </div>
       </section>
+      {/* Snowy Christmas backdrop: runs from the bottom of the hero through the Christmas section */}
+      <div className="relative overflow-hidden">
+        <Image src="/images/christmas-banner.jpg" alt="" fill sizes="100vw" className="object-cover object-top" />
+        <div aria-hidden className="absolute inset-0 bg-gradient-to-b from-ink/60 via-ink/35 to-ink/80" />
       <section className="relative mx-auto max-w-6xl px-4 pt-6">
         <form action="/recipes" method="get" role="search" className="flex gap-2">
           <label htmlFor="home-search" className="sr-only">Search recipes</label>
@@ -109,9 +113,7 @@ export default function HomePage() {
       <CookCalculator />
       <InstallBanner />
       {christmas.length > 0 && (
-        <section id="christmas" className="relative scroll-mt-40 overflow-hidden">
-          <Image src="/images/christmas-banner.jpg" alt="Christmas table with golden ham, glowing tree, and snow outside the window" fill sizes="100vw" className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/25 to-transparent" />
+        <section id="christmas" className="relative scroll-mt-40">
           <div className="relative mx-auto max-w-6xl px-4 py-14">
             <p className="text-xs uppercase tracking-[0.22em] text-ember">December at the pit</p>
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">A Smoke-Ember Christmas</h2>
@@ -122,6 +124,7 @@ export default function HomePage() {
           </div>
         </section>
       )}
+      </div>
       
       <section className="relative bg-bark/85 py-4">
         <div className="mx-auto max-w-6xl px-4">
