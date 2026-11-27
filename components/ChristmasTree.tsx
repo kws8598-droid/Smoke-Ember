@@ -1,22 +1,8 @@
-// A real Christmas tree standing in the snowy backdrop behind the homepage
-// content — a photograph of a snow-covered tree with colored lights, blended
-// over the dark background so the black night sky disappears into it.
-// Colored lights twinkle on it and snow falls on it. Pure CSS motion —
-// no video, no data cost. The photo itself is a plain <img>, not the
-// optimizer, so it costs no image transformations either.
-const COLORS = ["#ff4d4d", "#34d399", "#fbbf24", "#38bdf8", "#f472b6", "#fef3c7"];
-
-// Twinkle bulbs placed on the tree's tiers (left/top as % of the tree box).
-const BULBS: Array<[number, number]> = [
-  [52, 8], [46, 14], [57, 19], [43, 24], [55, 27],
-  [48, 33], [61, 36], [39, 40], [52, 43], [66, 47],
-  [35, 50], [47, 53], [60, 56], [71, 59], [31, 62],
-  [44, 65], [57, 63], [68, 67], [38, 70], [51, 72],
-  [63, 74], [74, 71], [28, 77], [42, 80], [55, 82],
-  [67, 79], [33, 85], [48, 88], [61, 86], [72, 84],
-];
-
-// Snowflakes falling on the tree (left % / size px / duration s / delay s).
+// Kelly's Christmas tree GIF standing in the snowy backdrop behind the
+// homepage content — a real snowy tree whose lights twinkle in the picture
+// itself, with our falling snow over it. Pure CSS snow — no video, no data
+// cost. The GIF is a plain <img>, not the optimizer, so it costs no image
+// transformations either.
 const FLAKES: Array<[number, number, number, number]> = [
   [6, 4, 13, 0], [12, 3, 11, 2.5], [18, 5, 15, 1], [24, 3, 10, 4],
   [30, 4, 14, 0.5], [36, 6, 16, 3], [42, 3, 11, 1.5], [48, 4, 12, 5],
@@ -29,10 +15,6 @@ export default function ChristmasTree() {
   return (
     <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 z-0 flex justify-center overflow-hidden">
       <style>{`
-        @keyframes ember-twinkle {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0.2; }
-        }
         @keyframes ember-snow {
           0% { top: -2%; opacity: 0; }
           8% { opacity: 0.9; }
@@ -40,34 +22,15 @@ export default function ChristmasTree() {
           100% { top: 102%; opacity: 0; }
         }
         @media (prefers-reduced-motion: reduce) {
-          .ember-bulb, .ember-flake { animation: none !important; opacity: 1 !important; }
+          .ember-flake { animation: none !important; opacity: 1 !important; }
         }
       `}</style>
-      <div className="relative h-[1000px] w-[min(115vw,680px)] shrink-0">
+      <div className="relative h-[700px] w-[min(115vw,680px)] shrink-0">
         <img
-          src="/images/christmas-tree.jpg"
+          src="/images/christmas-tree.gif"
           alt=""
-          className="absolute inset-0 h-full w-full object-contain mix-blend-screen blur-[3px]"
+          className="absolute inset-0 h-full w-full object-cover mix-blend-screen blur-[3px]"
         />
-        {BULBS.map(([left, top], i) => {
-          const color = COLORS[i % COLORS.length];
-          const delay = (i % 7) * 0.23;
-          const duration = 1.6 + ((i * 37) % 10) / 10;
-          return (
-            <span
-              key={i}
-              className="ember-bulb absolute block h-3 w-3 rounded-full"
-              style={{
-                left: `${left}%`,
-                top: `${top}%`,
-                background: color,
-                boxShadow: `0 0 10px 2px ${color}`,
-                transform: "translate(-50%, -50%)",
-                animation: `ember-twinkle ${duration}s ease-in-out ${delay}s infinite`,
-              }}
-            />
-          );
-        })}
         {FLAKES.map(([left, size, duration, delay], i) => (
           <span
             key={`f${i}`}
