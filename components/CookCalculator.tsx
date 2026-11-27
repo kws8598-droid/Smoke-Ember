@@ -58,7 +58,7 @@ export default function CookCalculator() {
   const amountResult = `Buy about ${fmtLb(guestsNum * meat.perPersonLb)} lb.`;
 
   return (
-    <section id="calculator" className="mx-auto max-w-6xl scroll-mt-40 px-4 py-2" aria-label="Cook calculator">
+    <section id="calculator" className="relative mx-auto max-w-6xl scroll-mt-40 px-4 py-2" aria-label="Cook calculator">
       <p className="text-xs uppercase tracking-[0.22em] text-subtle">Do the math</p>
       <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Cook calculator</h2>
       <p className="mt-2 max-w-xl text-parchment/85">How long will it take — or how much do you need for the table?</p>
