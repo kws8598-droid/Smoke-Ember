@@ -30,14 +30,16 @@ export default function ChristmasCountdown() {
     [t.s, "secs"],
   ];
   return (
-    <div className="mt-4 flex flex-wrap items-center gap-2">
+    <div className="mt-4">
       <span className="text-xs font-semibold uppercase tracking-[0.22em] text-cream/80">Christmas in</span>
-      {cells.map(([v, label]) => (
-        <span key={label} className="rounded-lg border border-ember/40 bg-black/30 px-3 py-1 text-center">
-          <span className="block font-display text-2xl leading-none text-cream">{v}</span>
-          <span className="block text-[10px] uppercase tracking-widest text-parchment/70">{label}</span>
-        </span>
-      ))}
+      <div className="mt-2 flex gap-2">
+        {cells.map(([v, label]) => (
+          <span key={label} className="flex-1 rounded-lg border border-ember/40 bg-black/30 px-2 py-1 text-center">
+            <span className="block font-display text-2xl leading-none text-cream">{v}</span>
+            <span className="block text-[10px] uppercase tracking-widest text-parchment/70">{label}</span>
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
