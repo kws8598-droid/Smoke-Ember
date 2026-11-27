@@ -6,7 +6,7 @@ import RecipeCard from "@/components/RecipeCard";
 import { useLiveCatalog } from "@/components/LiveCatalog";
 
 // Recipes folks have sent in — added here as they come in, with their names on them.
-const friendSlugs: string[] = [];
+const friendSlugs: string[] = ["twanas-biscoff-salted-caramel-cheesecake"];
 
 export default function FriendsAndFamilyPage() {
   const { recipes } = useLiveCatalog();
