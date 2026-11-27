@@ -13,7 +13,7 @@ const quotes = [
   { text: "Bark is a crust you earn.", slug: "building-bark" },
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
-const thanksgivingSlugs = ["smoked-turducken", "holiday-smoked-ham", "brunos-double-smoked-ham", "smoked-turkey", "smoked-stuffed-thanksgiving-turkey", "honey-glazed-smoked-turkey", "cherry-dr-pepper-turkey", "smoked-cornbread-dressing", "kellys-broccoli-casserole", "smoked-sweet-potato-casserole", "smoked-baked-sweet-potatoes", "smoked-candied-sweet-potatoes", "cast-iron-green-beans", "smoked-mac", "skillet-cornbread", "smoked-deviled-eggs", "smoked-turkey-gravy", "fresh-cranberry-orange-relish", "ember-cranberry-bbq-sauce", "turkey-brine", "sweet-potato-pie", "kentucky-chocolate-pecan-pie", "smoked-pumpkin-pie", "ember-pumpkin-pecan-cobbler", "thanksgiving-punch", "cranberry-orange-sweet-tea"];
+const christmasSlugs = ["ember-prime-rib-roast", "lebkuchen", "eggnog-pie", "christmas-snack-mix", "ember-christmas-jelly-nougat", "bienenstich", "vanillekipferl", "black-forest-cheesecake", "ember-christmas-stollen", "ember-sugar-cookie-pull-apart-bread", "smoked-prime-rib", "ember-4-cheese-skillet-mac"];
 const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
 const breadSlugs = ["ember-parker-house-rolls", "ember-sweet-potato-rolls", "ember-classic-yeast-dinner-rolls", "ember-potato-rolls", "ember-honey-butter-rolls", "ember-buttermilk-biscuits", "ember-cathead-biscuits", "skillet-cornbread", "hush-puppies"];
 
@@ -22,7 +22,7 @@ export default function HomePage() {
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
-  const thanksgiving = thanksgivingSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
+  const christmas = christmasSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
   const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   return (
@@ -35,7 +35,7 @@ export default function HomePage() {
       <section className="relative overflow-hidden sm:min-h-[88vh]">
         {/* Mobile: Halloween still at the top for October, picker card sits below it */}
         <div className="relative aspect-[4/3] w-full sm:hidden">
-          <Image src="/images/thanksgiving-hero.jpg" alt="Family praying over a Thanksgiving table with turkey and sides" fill priority sizes="100vw" className="object-cover" />
+          <Image src="/images/christmas-hero.jpg" alt="Downtown street at Christmas, old cars, lights strung across the street, folks shopping in the snow" fill priority sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-transparent" />
           <div className="absolute inset-x-0 bottom-0 px-5 pb-5">
             <p className="text-[27px] font-extrabold leading-[1.1] text-cream">Pick how long you have.</p>
@@ -44,7 +44,7 @@ export default function HomePage() {
           </div>
         </div>
         {/* Desktop: full-bleed Halloween hero for October */}
-        <Image src="/images/thanksgiving-hero.jpg" alt="Family praying over a Thanksgiving table with turkey and sides" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
+        <Image src="/images/christmas-hero.jpg" alt="Downtown street at Christmas, old cars, lights strung across the street, folks shopping in the snow" fill priority sizes="100vw" className="hero-still hidden object-cover sm:block" />
         <div className="absolute inset-0 hidden bg-gradient-to-t from-ink via-ink/55 to-ink/20 sm:block" />
         <div className="relative mx-auto max-w-6xl px-4 py-8 sm:grid sm:min-h-[88vh] sm:items-end sm:gap-10 sm:pb-28 sm:pt-24 md:grid-cols-2">
           <div className="hidden sm:block">
@@ -73,7 +73,7 @@ export default function HomePage() {
         </form>
         <nav aria-label="Jump to a section" className="mt-3 flex flex-wrap items-center gap-2">
           <span className="py-2 text-base font-semibold text-subtle">Jump to:</span>
-          <a href="#thanksgiving" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Thanksgiving</a>
+          <a href="#christmas" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Christmas</a>
           <a href="#wild-game" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Wild Game</a>
           <a href="#sides" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Sides</a>
           <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
@@ -85,13 +85,13 @@ export default function HomePage() {
       <section className="relative mx-auto max-w-6xl px-4 pt-8">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">What this is</p>
         <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Pull up a chair.</h2>
-        <p className="mt-3 max-w-3xl text-lg leading-8 text-parchment">I&apos;ve been smoking meat for 20 years, and as I get older I can&apos;t remember things like I used to — times, and how to do certain things. Even I need a gentle reminder from time to time. That&apos;s what this app is for. It&apos;s my notes, written down so I don&apos;t have to hold it all in my head. 451 free barbecue recipes, a cook calculator, cooking tips, and a little bluegrass while you cook — all in one place, for anybody who needs a reminder like I do.</p>
+        <p className="mt-3 max-w-3xl text-lg leading-8 text-parchment">I&apos;ve been smoking meat for 20 years, and as I get older I can&apos;t remember things like I used to — times, and how to do certain things. Even I need a gentle reminder from time to time. That&apos;s what this app is for. It&apos;s my notes, written down so I don&apos;t have to hold it all in my head. 456 free barbecue recipes, a cook calculator, cooking tips, and a little bluegrass while you cook — all in one place, for anybody who needs a reminder like I do.</p>
       </section>
       <section className="relative mx-auto max-w-6xl px-4 pt-6" aria-label="What&apos;s in here">
         <p className="text-xs uppercase tracking-[0.22em] text-subtle">What&apos;s in here</p>
         <nav aria-label="Table of contents" className="mt-3 flex flex-wrap gap-2">
           <Link href="/recipes" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">All recipes</Link>
-          <a href="#thanksgiving" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Thanksgiving</a>
+          <a href="#christmas" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Christmas</a>
           <a href="#wild-game" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Wild Game</a>
           <a href="#sides" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Sides</a>
           <a href="#breads" className="rounded-full border border-ember/40 bg-ember/20 px-4 py-2 text-base font-semibold text-cream hover:bg-ember/30">Breads</a>
@@ -107,15 +107,15 @@ export default function HomePage() {
       </section>
       <CookCalculator />
       <InstallBanner />
-      {thanksgiving.length > 0 && (
-        <section id="thanksgiving" className="relative scroll-mt-40 overflow-hidden">
-          <Image src="/images/thanksgiving-banner.jpg" alt="Thanksgiving barbecue spread with a smoked turkey" fill sizes="100vw" className="object-cover" />
+      {christmas.length > 0 && (
+        <section id="christmas" className="relative scroll-mt-40 overflow-hidden">
+          <Image src="/images/christmas-banner.jpg" alt="Christmas table with golden ham, glowing tree, and snow outside the window" fill sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-ink/25 to-transparent" />
           <div className="relative mx-auto max-w-6xl px-4 py-14">
-            <p className="text-xs uppercase tracking-[0.22em] text-ember">November at the pit</p>
-            <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">Thanksgiving at the Pit</h2>
-            <p className="mt-2 max-w-xl text-parchment/85">Turkey, turducken, and every side the table needs — all with a little smoke on it.</p>
-            <div className="mt-4 grid gap-0 md:grid-cols-2">{thanksgiving.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
+            <p className="text-xs uppercase tracking-[0.22em] text-ember">December at the pit</p>
+            <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">A Smoke-Ember Christmas</h2>
+            <p className="mt-2 max-w-xl text-parchment/85">Holiday cooks for the table — prime rib, Christmas sweets, and everything in between, all with a little smoke on it.</p>
+            <div className="mt-4 grid gap-0 md:grid-cols-2">{christmas.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
             <p className="mt-4"><Link href="/recipes" className="text-sm font-semibold text-ember hover:text-ember-hot">See all recipes →</Link></p>
           </div>
         </section>
