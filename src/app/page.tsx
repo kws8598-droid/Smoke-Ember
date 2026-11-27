@@ -4,6 +4,7 @@ import TonightPicker from "@/components/TonightPicker";
 import CookCalculator from "@/components/CookCalculator";
 import InstallBanner from "@/components/InstallBanner";
 import RecipeCard from "@/components/RecipeCard";
+import ChristmasCountdown from "@/components/ChristmasCountdown";
 import { desserts, getRecipe, pantry, regionCopy, recipes, sides, wisdom } from "@/lib/data";
 
 const featured = ["memphis-dry-ribs", "santa-maria-tri-tip", "alabama-white-chicken", "central-texas-brisket"];
@@ -115,6 +116,7 @@ export default function HomePage() {
             <p className="text-xs uppercase tracking-[0.22em] text-ember">December at the pit</p>
             <h2 className="mt-2 font-display text-4xl italic text-cream glow-ember">A Smoke-Ember Christmas</h2>
             <p className="mt-2 max-w-xl text-parchment/85">Holiday cooks for the table — prime rib, Christmas sweets, and everything in between, all with a little smoke on it.</p>
+            <ChristmasCountdown />
             <div className="mt-4 grid gap-0 md:grid-cols-2">{christmas.map((r) => r && <RecipeCard key={r.slug} recipe={r} />)}</div>
             <p className="mt-4"><Link href="/recipes" className="text-sm font-semibold text-ember hover:text-ember-hot">See all recipes →</Link></p>
           </div>
