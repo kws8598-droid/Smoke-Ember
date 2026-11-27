@@ -14704,5 +14704,88 @@
     "finish": "Golden-brown and bubbling on top",
     "pitTemp": "Oven 400°F",
     "school": null
+  },
+  {
+    "title": "Twana's Biscoff Salted Caramel Cheesecake",
+    "slug": "twanas-biscoff-salted-caramel-cheesecake",
+    "region": "kentucky",
+    "protein": "desserts",
+    "difficulty": "medium",
+    "hours": {
+      "min": 6,
+      "max": 7
+    },
+    "servings": "12",
+    "wood": "Pantry",
+    "summary": "Twana's Biscoff cheesecake with her own salted caramel twist \u2014 the best cheesecake recipe she's ever used.",
+    "story": "Twana Chelle, Kelly's schoolmate, sent this in as the very first Friends & Family recipe. She found the base on Pinterest and made it her own with the salted caramel. Kelly's take: that's what he does too \u2014 find a recipe, tweak it, and make it his.",
+    "ingredients": [
+      {
+        "group": "Crust",
+        "items": [
+          "1 package Biscoff cookies, crushed into fine crumbs",
+          "1/4 cup butter, melted"
+        ]
+      },
+      {
+        "group": "Filling",
+        "items": [
+          "24 oz cream cheese, softened",
+          "1 cup granulated sugar",
+          "3 large eggs",
+          "1 cup heavy cream",
+          "1 tsp vanilla extract",
+          "1/4 cup Biscoff spread (optional, for an extra flavor boost)"
+        ]
+      },
+      {
+        "group": "Topping",
+        "items": [
+          "1 package Biscoff cookies, crushed, for topping",
+          "1 jar store-bought salted caramel sauce (or homemade if you're feeling ambitious)",
+          "Sea salt, to sprinkle"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make the crust",
+        "body": "Crush one package of Biscoff cookies into fine crumbs. Mix with 1/4 cup melted butter and press into the bottom of a 9-inch springform pan. Bake at 350\u00b0F for 10 minutes, then cool."
+      },
+      {
+        "title": "Mix the filling",
+        "body": "Beat cream cheese and sugar until smooth. Add eggs one at a time, mixing well after each addition. Stir in heavy cream, vanilla, and Biscoff spread (if using)."
+      },
+      {
+        "title": "Bake the cheesecake",
+        "body": "Pour the filling over the cooled crust. Place the pan in a water bath and bake at 325\u00b0F for about 1 hour or until the center is almost set."
+      },
+      {
+        "title": "Cool and chill",
+        "body": "Turn off the oven and leave the door slightly ajar for 1 hour. Remove from the oven and cool completely at room temperature. Refrigerate for at least 4 hours or overnight."
+      },
+      {
+        "title": "Finish it",
+        "body": "Warm the salted caramel sauce and pour over the chilled cheesecake. Sprinkle sea salt over the caramel sauce. Crush the remaining Biscoff cookies and sprinkle over the top."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "The water bath is what keeps it from cracking \u2014 don't skip it.",
+        "voice": "Water bath"
+      },
+      {
+        "text": "Chill it overnight if you can \u2014 it slices cleaner cold.",
+        "voice": "Chill"
+      },
+      {
+        "text": "Warm the caramel sauce so it pours smooth over the top.",
+        "voice": "Caramel"
+      }
+    ],
+    "image": "/images/twanas-biscoff-salted-caramel-cheesecake.jpg",
+    "finish": "Chilled and set, caramel poured over, Biscoff crumbs on top \u2014 slice it cold",
+    "pitTemp": "None \u2014 oven-baked at 325\u00b0F",
+    "school": null
   }
 ]
