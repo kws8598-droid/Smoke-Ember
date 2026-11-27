@@ -1,6 +1,9 @@
-// A big Christmas tree standing in the snowy backdrop behind the homepage
-// content, with colored lights that twinkle and snow falling on it.
-// Pure CSS motion — no images, no video, no data cost.
+// A real Christmas tree standing in the snowy backdrop behind the homepage
+// content — a photograph of a snow-covered tree with colored lights, blended
+// over the dark background so the black night sky disappears into it.
+// Colored lights twinkle on it and snow falls on it. Pure CSS motion —
+// no video, no data cost. The photo itself is a plain <img>, not the
+// optimizer, so it costs no image transformations either.
 const COLORS = ["#ff4d4d", "#34d399", "#fbbf24", "#38bdf8", "#f472b6", "#fef3c7"];
 
 // Twinkle bulbs placed on the tree's tiers (left/top as % of the tree box).
@@ -44,20 +47,11 @@ export default function ChristmasTree() {
         }
       `}</style>
       <div className="relative h-[1000px] w-[min(115vw,680px)] shrink-0">
-        <svg viewBox="0 0 400 620" className="absolute inset-0 h-full w-full">
-          <rect x="185" y="560" width="30" height="55" fill="#5b3a1e" />
-          <polygon points="200,60 155,180 245,180" fill="#166534" />
-          <polyline points="158,178 175,186 190,178 205,187 220,178 238,186 244,178" fill="none" stroke="#ffffff" strokeWidth="4" strokeLinecap="round" opacity="0.9" />
-          <polygon points="200,130 130,280 270,280" fill="#15803d" />
-          <polyline points="134,278 150,286 168,278 185,287 202,278 220,286 238,278 254,286 268,278" fill="none" stroke="#ffffff" strokeWidth="4" strokeLinecap="round" opacity="0.9" />
-          <polygon points="200,210 105,380 295,380" fill="#14532d" />
-          <polyline points="110,378 128,386 146,378 165,387 184,378 202,386 221,378 240,387 258,378 276,386 292,378" fill="none" stroke="#ffffff" strokeWidth="4" strokeLinecap="round" opacity="0.9" />
-          <polygon points="200,300 75,480 325,480" fill="#166534" />
-          <polyline points="80,478 100,486 120,478 140,487 160,478 180,486 200,478 220,487 240,478 260,486 280,478 300,486 320,478" fill="none" stroke="#ffffff" strokeWidth="4" strokeLinecap="round" opacity="0.9" />
-          <polygon points="200,390 50,570 350,570" fill="#15803d" />
-          <polyline points="56,568 76,576 96,568 116,577 136,568 156,576 176,568 196,577 216,568 236,576 256,568 276,577 296,568 316,576 336,568" fill="none" stroke="#ffffff" strokeWidth="4" strokeLinecap="round" opacity="0.9" />
-          <polygon points="200,8 207,24 224,24 210,35 215,52 200,42 185,52 190,35 176,24 193,24" fill="#fbbf24" />
-        </svg>
+        <img
+          src="/images/christmas-tree.jpg"
+          alt=""
+          className="absolute inset-0 h-full w-full object-contain mix-blend-screen"
+        />
         {BULBS.map(([left, top], i) => {
           const color = COLORS[i % COLORS.length];
           const delay = (i % 7) * 0.23;
