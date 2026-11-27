@@ -14,7 +14,7 @@ const quotes = [
   { text: "Bark is a crust you earn.", slug: "building-bark" },
 ];
 const house = ["ember-house-rub", "ember-molasses-sauce", "ember-finishing-glaze", "honey-mustard-onion-sauce", "memphis-wet-sauce", "raspberry-chipotle-sauce"];
-const christmasSlugs = ["ember-prime-rib-roast", "ember-cherry-dr-pepper-double-smoked-ham", "cherry-dr-pepper-turkey", "southern-oyster-dressing", "lebkuchen", "eggnog-pie", "christmas-snack-mix", "ember-christmas-jelly-nougat", "bienenstich", "vanillekipferl", "black-forest-cheesecake", "ember-christmas-stollen", "ember-sugar-cookie-pull-apart-bread", "smoked-prime-rib", "ember-4-cheese-skillet-mac"];
+const christmasSlugs = ["ember-prime-rib-roast", "ember-cherry-dr-pepper-double-smoked-ham", "cherry-dr-pepper-turkey", "southern-oyster-dressing", "smoked-oyster-casserole", "lebkuchen", "eggnog-pie", "christmas-snack-mix", "ember-christmas-jelly-nougat", "bienenstich", "vanillekipferl", "black-forest-cheesecake", "ember-christmas-stollen", "ember-sugar-cookie-pull-apart-bread", "smoked-prime-rib", "ember-4-cheese-skillet-mac"];
 const gameSlugs = ["smoked-venison-backstrap", "bacon-wrapped-venison-bites", "smoked-alligator-tail", "smoked-duck", "smoked-venison-jerky", "deer-camp-sweet-heat-chili"];
 const breadSlugs = ["ember-parker-house-rolls", "ember-sweet-potato-rolls", "ember-classic-yeast-dinner-rolls", "ember-potato-rolls", "ember-honey-butter-rolls", "ember-buttermilk-biscuits", "ember-cathead-biscuits", "skillet-cornbread", "hush-puppies"];
 
@@ -23,7 +23,7 @@ export default function HomePage() {
   const extraSides = ["cast-iron-green-beans", "mustard-potato-salad", "potlikker-collards", "memphis-bbq-spaghetti", "hush-puppies", "alabama-cheese-grits"].map((s) => getRecipe(s)).filter(Boolean);
   const extraSweet = ["banana-pudding", "texas-sheet-cake", "red-velvet-cake", "southern-pound-cake", "fried-peach-pies", "pecan-pralines"].map((s) => getRecipe(s)).filter(Boolean);
   const extraBottles = house.map((s) => getRecipe(s)).filter(Boolean);
-  const christmas = christmasSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
+  const christmas = christmasSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 8);
   const gameCards = gameSlugs.map((s) => getRecipe(s)).filter(Boolean);
   const breadCards = breadSlugs.map((s) => getRecipe(s)).filter(Boolean).slice(0, 6);
   return (
