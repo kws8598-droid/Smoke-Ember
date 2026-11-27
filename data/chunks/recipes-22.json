@@ -13381,8 +13381,7 @@
     ],
     "image": "/images/ember-turkey-salad.jpg",
     "school": null
-  }
-,
+  },
   {
     "title": "Ember Turkey Stuffing Meatloaf",
     "slug": "ember-turkey-stuffing-meatloaf",
@@ -13463,8 +13462,7 @@
     ],
     "image": "/images/ember-turkey-stuffing-meatloaf.jpg",
     "school": null
-  }
-,
+  },
   {
     "title": "Ember Chipotle Turkey Enchiladas",
     "slug": "ember-chipotle-turkey-enchiladas",
@@ -13539,8 +13537,7 @@
     ],
     "image": "/images/ember-chipotle-turkey-enchiladas.jpg",
     "school": null
-  }
-,
+  },
   {
     "title": "Ember Citrus Butter Roasted Turkey",
     "slug": "ember-citrus-butter-roasted-turkey",
@@ -13622,8 +13619,7 @@
     ],
     "image": "/images/ember-citrus-butter-roasted-turkey.jpg",
     "school": null
-  }
-,
+  },
   {
     "title": "Ember Cranberry Turkey Breast",
     "slug": "ember-cranberry-turkey-breast",
@@ -14717,8 +14713,8 @@
     },
     "servings": "12",
     "wood": "Pantry",
-    "summary": "Twana's Biscoff cheesecake with her own salted caramel twist \u2014 the best cheesecake recipe she's ever used.",
-    "story": "Twana Chelle, Kelly's schoolmate, sent this in as the very first Friends & Family recipe. She found the base on Pinterest and made it her own with the salted caramel. Kelly's take: that's what he does too \u2014 find a recipe, tweak it, and make it his.",
+    "summary": "Twana's Biscoff cheesecake with her own salted caramel twist — the best cheesecake recipe she's ever used.",
+    "story": "Twana Chelle, Kelly's schoolmate, sent this in as the very first Friends & Family recipe. She found the base on Pinterest and made it her own with the salted caramel. Kelly's take: that's what he does too — find a recipe, tweak it, and make it his.",
     "ingredients": [
       {
         "group": "Crust",
@@ -14750,7 +14746,7 @@
     "steps": [
       {
         "title": "Make the crust",
-        "body": "Crush one package of Biscoff cookies into fine crumbs. Mix with 1/4 cup melted butter and press into the bottom of a 9-inch springform pan. Bake at 350\u00b0F for 10 minutes, then cool."
+        "body": "Crush one package of Biscoff cookies into fine crumbs. Mix with 1/4 cup melted butter and press into the bottom of a 9-inch springform pan. Bake at 350°F for 10 minutes, then cool."
       },
       {
         "title": "Mix the filling",
@@ -14758,7 +14754,7 @@
       },
       {
         "title": "Bake the cheesecake",
-        "body": "Pour the filling over the cooled crust. Place the pan in a water bath and bake at 325\u00b0F for about 1 hour or until the center is almost set."
+        "body": "Pour the filling over the cooled crust. Place the pan in a water bath and bake at 325°F for about 1 hour or until the center is almost set."
       },
       {
         "title": "Cool and chill",
@@ -14771,11 +14767,11 @@
     ],
     "proTips": [
       {
-        "text": "The water bath is what keeps it from cracking \u2014 don't skip it.",
+        "text": "The water bath is what keeps it from cracking — don't skip it.",
         "voice": "Water bath"
       },
       {
-        "text": "Chill it overnight if you can \u2014 it slices cleaner cold.",
+        "text": "Chill it overnight if you can — it slices cleaner cold.",
         "voice": "Chill"
       },
       {
@@ -14784,8 +14780,112 @@
       }
     ],
     "image": "/images/twanas-biscoff-salted-caramel-cheesecake.jpg",
-    "finish": "Chilled and set, caramel poured over, Biscoff crumbs on top \u2014 slice it cold",
-    "pitTemp": "None \u2014 oven-baked at 325\u00b0F",
+    "finish": "Chilled and set, caramel poured over, Biscoff crumbs on top — slice it cold",
+    "pitTemp": "None — oven-baked at 325°F",
     "school": null
+  },
+  {
+    "title": "Ember Buttered Rum Glazed Ham",
+    "slug": "ember-buttered-rum-glazed-ham",
+    "region": "southern",
+    "protein": "pork",
+    "difficulty": "weekend",
+    "hours": {
+      "min": 2,
+      "max": 2.5
+    },
+    "servings": "10–12",
+    "wood": "Cherry",
+    "summary": "A fully cooked spiral ham warmed through on the pit and finished with a buttered rum glaze that tastes like Butter Rum Lifesavers — simmered to 225°F so it sets on the ham like the Cherry Dr Pepper glaze does.",
+    "story": "This one started with a candy — Butter Rum Lifesavers — and a question: could a glaze taste like that and still set up on a ham the way the Cherry Dr Pepper glaze does? Same build as that glaze, simmered to 225–230°F so it firms as it cools, but the flavor is all butter and rum: white sugar so it sets hard and clean, dark rum, butter, and vanilla. Brush it on at 120°F, finish it hot, and it sets into a glossy coat that tastes like the candy.",
+    "ingredients": [
+      {
+        "group": "The ham",
+        "items": [
+          "1 fully cooked bone-in spiral ham, 8–10 lb"
+        ]
+      },
+      {
+        "group": "The buttered rum glaze",
+        "items": [
+          "1/2 cup white sugar",
+          "1/2 cup dark rum, or 2 tsp imitation rum",
+          "8 Tbsp unsalted butter (1 full stick)",
+          "1 tsp vanilla extract",
+          "Pinch kosher salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cold ham straight on the pit",
+        "body": "Get the pit running at 250°F indirect, with one or two chunks of cherry wood on at the start. Take the ham out of the fridge, take off the packaging, and put it straight on the grate cut-side down — no room-temp wait, cold meat takes the smoke better. Push the thermometer probe into the thickest part of the ham."
+      },
+      {
+        "title": "Simmer the glaze to 225°F",
+        "body": "While the ham warms, stir the white sugar, dark rum (or imitation rum), butter, vanilla, and salt together in a small saucepan over medium heat. Bring it to a simmer and let it bubble, stirring every couple of minutes, until it hits 225–230°F on the thermometer — same as the Cherry Dr Pepper glaze. It will thicken and set as it cools, so pull it off the heat and keep it warm."
+      },
+      {
+        "title": "Warm it through, then brush the glaze",
+        "body": "Let the ham ride at 250°F, about 15 minutes per pound (roughly 2 to 2.5 hours for an 8–10 lb ham), until it's warmed through to about 120°F inside. Brush the buttered rum glaze all over the ham, working it down between the spiral slices. Don't spritz right before glazing — wet skin keeps the glaze from setting."
+      },
+      {
+        "title": "Hot finish to set it",
+        "body": "Turn the pit up to 325–350°F and let the glaze set into a glossy coat — watch it close, sugar goes from perfect to burnt in seconds. Give it a second coat if you want it thicker."
+      },
+      {
+        "title": "Rest and serve",
+        "body": "Pull the ham at 140°F — it's already cooked, you're just warming it through and setting the glaze. Rest it 15–20 minutes, then slice and serve."
+      }
+    ],
+    "proTips": [
+      {
+        "text": "White sugar sets a harder crust than brown — that's why it's in this glaze instead of brown sugar.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "The ham is already cooked — you're just warming it through. Overcook it and it dries out fast, so trust the thermometer, not the clock.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "Don't spritz right before glazing — wet skin keeps the glaze from setting.",
+        "voice": "Bruno"
+      },
+      {
+        "text": "No-alcohol version: use 2 tsp imitation rum instead of the 1/2 cup dark rum. Rum extract works too, 1–2 tsp in place of the rum.",
+        "voice": "Bruno"
+      }
+    ],
+    "image": "/images/ember-buttered-rum-glazed-ham.jpg",
+    "finish": "Glossy buttered rum coat, set firm, ham pulled at 140°F",
+    "pitTemp": "250°F indirect",
+    "school": null,
+    "milestones": [
+      {
+        "hint": "Pit at 250°F indirect, cherry wood on.",
+        "id": "pit",
+        "label": "Pit ready"
+      },
+      {
+        "hint": "Glaze simmered to 225–230°F.",
+        "id": "glaze",
+        "label": "Glaze made"
+      },
+      {
+        "hint": "Ham warmed through to about 120°F, glaze brushed on.",
+        "id": "glazed",
+        "label": "Glazed at 120°F"
+      },
+      {
+        "hint": "Glaze set in the hot finish, ham pulled at 140°F.",
+        "id": "pull",
+        "label": "Pulled at 140°F"
+      },
+      {
+        "hint": "Rested 15 to 20 minutes, then sliced.",
+        "id": "rest",
+        "label": "Rested and sliced"
+      }
+    ]
   }
 ]
